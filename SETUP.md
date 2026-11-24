@@ -31,8 +31,8 @@ Open the **Terminal** app and paste these lines one at a time:
 # 1. Homebrew (skip if you already have it)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# 2. Get the code (use the repo link you were invited to)
-git clone https://github.com/<owner>/<repo>.git ~/ad-machine
+# 2. Get the code (accept the GitHub invite email first)
+git clone https://github.com/Ysf-999/ad-machine.git ~/ad-machine
 cd ~/ad-machine
 
 # 3. Install everything
