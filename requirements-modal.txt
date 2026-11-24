@@ -1,0 +1,2 @@
+# Cloud side: installed by ./install.sh into .modal-env (used to run cloud/ctl.py and deploy to Modal)
+modal==1.6.4

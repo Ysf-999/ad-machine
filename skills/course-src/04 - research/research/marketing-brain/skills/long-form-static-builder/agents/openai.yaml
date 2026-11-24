@@ -1,0 +1,4 @@
+interface:
+  display_name: "Long Form Static Builder"
+  short_description: "Build native static ad briefs"
+  default_prompt: "Use $long-form-static-builder to create long-form static ad briefs from these winning angles."

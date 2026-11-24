@@ -1,0 +1,22 @@
+{
+  "name": "product-claims",
+  "description": "Validates copy against product constraints, forbidden claims, prices found in the product packet, and mode labels.",
+  "require_product_mention": true,
+  "price_mismatch_severity": "warning",
+  "banned_patterns": [
+    "guaranteed cure",
+    "guaranteed results",
+    "clinically proven to cure",
+    "works for everyone",
+    "no side effects",
+    "invented testimonial",
+    "before and after proof"
+  ],
+  "extreme": {
+    "require_mode_label": true,
+    "required_phrases": [
+      "Mode: --extreme",
+      "User confirmed final review responsibility"
+    ]
+  }
+}

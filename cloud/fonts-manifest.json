@@ -1,0 +1,385 @@
+{
+  "version": 1,
+  "bundled": [
+    {
+      "file": "library/fonts/Caveat-VF.ttf",
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988",
+      "size": 403648,
+      "embedded_names": [
+        {
+          "1": [
+            "Caveat"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Caveat Regular"
+          ],
+          "6": [
+            "Caveat-Regular"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+          ],
+          "14": [
+            "http://scripts.sil.org/OFL"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    },
+    {
+      "file": "library/fonts/Fraunces-VF.ttf",
+      "sha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb",
+      "size": 360440,
+      "embedded_names": [
+        {
+          "1": [
+            "Fraunces"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Fraunces 9pt Black"
+          ],
+          "6": [
+            "Fraunces-9ptBlack"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+          ],
+          "14": [
+            "https://scripts.sil.org/OFL"
+          ],
+          "16": [
+            "Fraunces"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    },
+    {
+      "file": "library/fonts/Montserrat-Black.ttf",
+      "sha256": "ea67b37f8776eebea135cd1fe9adeaf6f9427683e8dc11ab8398b6be5f102c60",
+      "size": 462844,
+      "embedded_names": [
+        {
+          "1": [
+            "Montserrat Black"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Montserrat Black"
+          ],
+          "6": [
+            "Montserrat-Black"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+          ],
+          "14": [
+            "https://openfontlicense.org"
+          ],
+          "16": [
+            "Montserrat"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    },
+    {
+      "file": "library/fonts/Montserrat-Bold.ttf",
+      "sha256": "bc6e854971cea46b463be6f9eef4d9cd52f51cfc1fc0dd90c9d3e6483dc0ec61",
+      "size": 454864,
+      "embedded_names": [
+        {
+          "1": [
+            "Montserrat"
+          ],
+          "2": [
+            "Bold"
+          ],
+          "4": [
+            "Montserrat Bold"
+          ],
+          "6": [
+            "Montserrat-Bold"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+          ],
+          "14": [
+            "https://openfontlicense.org"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan",
+        "tools/rawedit.py:1297:        return ImageFont.truetype(str(FONTS / \"Montserrat-Bold.ttf\"), size)"
+      ],
+      "explicit_reference": true
+    },
+    {
+      "file": "library/fonts/Montserrat-ExtraBold.ttf",
+      "sha256": "d3ac6a843d3ba6d5cafd44cf39e437055c8aed7e261010f595f57d3c7b3e2c1b",
+      "size": 455468,
+      "embedded_names": [
+        {
+          "1": [
+            "Montserrat ExtraBold"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Montserrat ExtraBold"
+          ],
+          "6": [
+            "Montserrat-ExtraBold"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+          ],
+          "14": [
+            "https://openfontlicense.org"
+          ],
+          "16": [
+            "Montserrat"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    },
+    {
+      "file": "library/fonts/Poppins-Bold.ttf",
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c",
+      "size": 155996,
+      "embedded_names": [
+        {
+          "1": [
+            "Poppins"
+          ],
+          "2": [
+            "Bold"
+          ],
+          "4": [
+            "Poppins Bold"
+          ],
+          "6": [
+            "Poppins-Bold"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+          ],
+          "14": [
+            "https://scripts.sil.org/OFL"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan",
+        "tools/rawedit.py:635:    fb = ImageFont.truetype(str(FONTS / \"Poppins-SemiBold.ttf\"), px); fa = ImageFont.truetype(str(FONTS / \"Poppins-Bold.ttf\"), px)"
+      ],
+      "explicit_reference": true
+    },
+    {
+      "file": "library/fonts/Poppins-Medium.ttf",
+      "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05",
+      "size": 158576,
+      "embedded_names": [
+        {
+          "1": [
+            "Poppins Medium"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Poppins Medium"
+          ],
+          "6": [
+            "Poppins-Medium"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+          ],
+          "14": [
+            "https://scripts.sil.org/OFL"
+          ],
+          "16": [
+            "Poppins"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    },
+    {
+      "file": "library/fonts/Poppins-SemiBold.ttf",
+      "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+      "size": 157312,
+      "embedded_names": [
+        {
+          "1": [
+            "Poppins SemiBold"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "Poppins SemiBold"
+          ],
+          "6": [
+            "Poppins-SemiBold"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+          ],
+          "14": [
+            "https://scripts.sil.org/OFL"
+          ],
+          "16": [
+            "Poppins"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan",
+        "tools/rawedit.py:635:    fb = ImageFont.truetype(str(FONTS / \"Poppins-SemiBold.ttf\"), px); fa = ImageFont.truetype(str(FONTS / \"Poppins-Bold.ttf\"), px)"
+      ],
+      "explicit_reference": true
+    },
+    {
+      "file": "library/fonts/TikTokSans-VF.ttf",
+      "sha256": "0e7f0a3e924c9a86478fc6fc2946de2e4ab8fc704ed72ee40434ade94bb9b0c6",
+      "size": 761964,
+      "embedded_names": [
+        {
+          "1": [
+            "TikTok Sans Light"
+          ],
+          "2": [
+            "Regular"
+          ],
+          "4": [
+            "TikTok Sans Light"
+          ],
+          "6": [
+            "TikTokSans-Light"
+          ],
+          "13": [
+            "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+          ],
+          "14": [
+            "https://openfontlicense.org"
+          ],
+          "16": [
+            "TikTok Sans"
+          ]
+        }
+      ],
+      "license_note": "Embedded SIL Open Font License reference; owner must preserve exact license/attribution before packaging",
+      "stages": [
+        "rawedit captions/render or ad stitch when explicitly selected by plan"
+      ],
+      "explicit_reference": false
+    }
+  ],
+  "system_owner_decisions": [
+    {
+      "file": "/System/Library/Fonts/Supplemental/Arial Black.ttf",
+      "sha256": "7d7db3ad96a31373c1437c6ab14266f6605495544c8e663558b047521174c42e",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    },
+    {
+      "file": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "sha256": "525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    },
+    {
+      "file": "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+      "sha256": "d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    },
+    {
+      "file": "/System/Library/Fonts/HelveticaNeue.ttc",
+      "sha256": "a43317500f5c8086ebbe479b32e86f53ce7c075c14283aa9894cc23be5bfd8e2",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    },
+    {
+      "file": "/System/Library/Fonts/Helvetica.ttc",
+      "sha256": "25eceb458d4baf628ee0b6a135a9f8ac5ec7b2826646720834bd2bf00dfc825a",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    },
+    {
+      "file": "/System/Library/Fonts/SFNS.ttf",
+      "sha256": "2bfd40dc72e6759e248f82a52a40d551338979fffc9b5c070e685b4b7ad19e66",
+      "license_note": "OWNER DECISION: proprietary/system font; cloud distribution rights not established; never silently substitute",
+      "stages": [
+        "rawedit render: default captions/cards/comment/review tiles",
+        "ad stitch / burn_captions: Arial Black default",
+        "HyperFrames: Helvetica Neue/Arial/system fallbacks"
+      ],
+      "copied": false
+    }
+  ],
+  "ass_styles": [],
+  "reference_scope": "all tools/**/*.py excluding vendor node_modules/backups; HyperFrames owned html/css/js excluding node_modules; projects/*/EDIT_KIT/*.ass",
+  "not_claimed": "No font license fetched or legal clearance assumed; generic browser/system fallback is not deterministic"
+}

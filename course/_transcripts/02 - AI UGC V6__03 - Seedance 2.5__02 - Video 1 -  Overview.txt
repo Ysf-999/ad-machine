@@ -1,0 +1,119 @@
+[00:00] Hey guys, so in this video we're going to be talking about the Drama Ads walkthrough.
+[00:12] And what I'm going to do is I'm going to walk you through a Drama ad that I created that
+[00:17] looks just like this.
+[00:18] We just did this one.
+[00:19] I lost my place.
+[00:21] Then look at it again.
+[00:25] You haven't even tried.
+[00:26] I've been trying the whole time.
+[00:28] I bought that to help.
+[00:35] I know.
+[00:36] She started it, then walked away.
+[00:38] She'd already had a hard afternoon.
+[00:40] I can't tell anymore.
+[00:41] Tell what?
+[00:42] When she needs help.
+[00:43] When she's quit.
+[00:44] She has ADHD.
+[00:45] I know she struggles.
+[00:46] But tonight, I just got angry.
+[00:48] Remember hiding your homework?
+[00:50] I thought you'd be disappointed.
+[00:52] I think she's scared of that too.
+[00:55] I saw all your erased answers.
+[00:58] I kept getting them wrong.
+[00:59] You were trying.
+[01:00] I'm sorry.
+[01:01] Are you still mad?
+[01:04] Hey.
+[01:05] You want to try something?
+[01:07] What is it?
+[01:09] Uzzel.
+[01:10] Pick a card.
+[01:11] Build that picture.
+[01:12] First finished wins.
+[01:14] Mine doesn't match.
+[01:15] Wait.
+[01:16] Let me try.
+[01:18] Got it.
+[01:19] You figured it out.
+[01:21] You're going to need a zero-ex-ROAS agent.
+[01:22] Matching patterns.
+[01:23] Turning blocks.
+[01:24] Looking again.
+[01:25] Practice that feels like play.
+[01:27] One grandmother reported her second grader with ADHD became more patient, more analytical,
+[01:31] and less frustrated after a few weeks.
+[01:33] Can we try a harder one?
+[01:35] Let's do it.
+[01:36] Try Uzzel for 30 days.
+[01:38] If your kids don't love it, get your money back.
+[01:41] Okay.
+[01:42] So let me kind of show you what's needed to go ahead and do the drama ads.
+[01:48] You're going to need zero-ex-ROAS agent.
+[01:50] You don't necessarily need it, but it will help you to have.
+[01:53] So if you don't have it, we'll put a link here.
+[01:55] You can download it.
+[01:56] The other thing that you're going to need is this file here.
+[01:59] This helps with writing the script.
+[02:01] And then this is as of today's recording.
+[02:04] This is the at drama machine 2.0.
+[02:07] That's the skill that you want to have.
+[02:09] The next thing you want to do is make sure you have a .env file with all your API keys.
+[02:14] If you're not sure how to do a .env file, it's super simple.
+[02:17] You can even chat, ask ChatTQT how to do it.
+[02:20] But it's a Word document that has your API key.
+[02:25] So you're going to need your key or whatever you use to generate, whether it's key, Higgs field,
+[02:30] you know, plugged into your chat or anything like that.
+[02:34] I like using the key.
+[02:36] And you also want to make sure that you have your 11 labs API on that .env file as well for the voices.
+[02:43] Okay.
+[02:44] And so the recommended models as of today that we're using is going to be quad code or codex as like your LLM.
+[02:53] You could, of course, use whatever you want.
+[02:55] And then you want to make sure that you generate the images with ChatGPT, excuse me, ChatGPT2.
+[03:01] And then for the videos, we're using CDANCE 2.5.
+[03:05] I will let you know that I have tried cheaper models and it just doesn't work.
+[03:15] It doesn't work as good as CDANCE 2.5.
+[03:21] And so one of the things before we actually get started, that's going to be that's going to be really helpful.
+[03:26] It's for you to just know like the workflow.
+[03:28] And anytime you're not sure what the workflow looks like on like a skill that you have, you can easily upload the skill and you can ask it.
+[03:37] Can you walk me through what this process looks like?
+[03:39] Okay.
+[03:40] So that way, if you ever get stuck without having a walkthrough video, you can just ask the skill itself and it'll let you know.
+[03:45] That's usually how I learn how to use new skills.
+[03:47] But either way, the workflow that you want to do is you want to do your market research.
+[03:52] You want to make sure you already have that research done.
+[03:54] What I like to do is I like to look for like on TikTok with somebody venting about something or like confessing something or of course, like Reddit comments.
+[04:05] The next step that you need to do is you want to write your script.
+[04:09] You know what I need to tell here is, yeah, you want to write your script.
+[04:12] So instead of if you don't have research, you want to make sure you have a winning script or ad copy.
+[04:17] I like to still use both.
+[04:19] Some sometimes depending on what you're doing.
+[04:22] So research, then script writing, then visualization.
+[04:25] You do this right in the chat as well.
+[04:27] So what it's going to do is after you give it the script, it's going to create the front faces of your characters.
+[04:33] Then it's going to create full character sheets where it's going to show the full body and wardrobe.
+[04:38] Then it's going to generate all the different scenes that are required for your video.
+[04:43] And then it's going to connect to 11 labs and it'll give you your recommended voices to choose from, which is super helpful.
+[04:51] So you're not spending a ton of time scrolling through trying to find the voices.
+[04:55] Next is going to be the generation phase.
+[04:57] And what it's going to do is it's going to generate the pilot video first.
+[05:01] So it's going to generate one video first so you can like double check the audio sound good.
+[05:06] There's the cameras switching, you know, then you can make any changes that you like.
+[05:09] And then you just generate the rest of the videos.
+[05:12] Once you feel confident, you know, sometimes you can batch create them if you don't want to do them all.
+[05:16] Maybe you can do three videos at a time, three or five videos at a time.
+[05:20] Totally up to you.
+[05:21] And then you want to pull it into your editor.
+[05:25] And sometimes you should be doing very, very minimal editing on these.
+[05:30] I hardly do any editing at all.
+[05:31] I'm usually just plopping them together.
+[05:34] And then you want to adjust, you know, take out the dead spaces and then speed ramp.
+[05:38] Sometimes you want to speed ramp it.
+[05:41] And I'll show you how I ended up editing mine.
+[05:43] But that's the overview of the process.
+[05:46] And so what I'm going to do on the next video is I'm going to go ahead and actually go through the process with you.
+[05:52] Like I'm going to go behind the scenes and show you some of the chats that I used myself.
+[05:56] So I will see you on the next video.
+[05:58] Oh, don't tell me it didn't record.
+[06:07] Oh, thank God.

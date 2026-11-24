@@ -1,0 +1,353 @@
+# B08 Video Editing Breakdowns / 8 video editing breakdown part 4 organic ad.mp4
+
+[00:00] Hey guys, so we are back at a breakdown. It's going to be an organic ad for dog friendly core
+[00:05] But the difference this time is it's going to be a text-only version
+[00:08] So without wasting your time let me just play it for you
+[00:30] So
+[00:32] So
+[00:34] So
+[00:58] Yeah, so let's get straight into it
+[01:00] So this brief is actually based on an older ad that had some potential
+[01:04] But unfortunately didn't get that big of a spend at that time when we did our learnings
+[01:09] We saw that a UGC ad which was doing quite well
+[01:12] So we decided to combine the UGC ad and the older ad since both of these had similar concepts
+[01:18] So based on that we came up with this. So now if you have a look at the brief, we have three hooks and two holes
+[01:26] so the thing about hook one and hold one is
+[01:29] This is a text-only version which means there is no voiceovers
+[01:35] So hook two hook three connects to hold two and that's the usual where you have like a voiceover
+[01:41] And it's pretty much a simple organic ad
+[01:44] So keep in mind that we are going to focus on the text version
+[01:47] The reason being the approach for making the text version is a little different from what we've done before
+[01:52] So without wasting any time, let's get into the breakdown
+[01:56] By now you'll be familiar with the editing layers approach
+[01:58] But since this is a text-only version, we'll be shifting up the priorities a little bit
+[02:03] So usually we start with the a-roll or voiceover
+[02:06] But when it's on text-only version what we do is
+[02:10] We start with the music
+[02:12] So why are we putting music first?
+[02:14] Like I told in the previous videos
+[02:16] Music is what gives soul to your ad
+[02:18] It's what makes your audience feel something
+[02:21] And this is even more important in text-only version
+[02:24] And this is even more important in text-only versions
+[02:27] Because when you think about it, no one's talking here
+[02:30] The viewer is reading the words in their own head
+[02:34] It's their internal monologue that's narrating the ad
+[02:37] With the right music, you'll be able to guide that internal monologue
+[02:41] Like you can emphasize certain words
+[02:44] And you'll be able to make your audience like get emotionally invested in your ad
+[02:49] When they are like reading your script with the right music
+[02:52] It's like they're self-validating like what you are saying
+[02:56] And that is why music is vital for text-only ads
+[03:00] So when you are looking for music, make sure to think like what you want your audience to feel
+[03:06] So that is why it's important to find the right music in text-only versions
+[03:11] With that being said, let's get into Premiere
+[03:13] Okay, so once you find a perfect track, you can import it into the project
+[03:18] So here we have the save zone setup and everything's ready
+[03:21] So let me bring in the audio into the timeline
+[03:23] So when you're setting up the A-Roll, in this case the text of the script, make sure to cut on the beat
+[03:33] When you cut to the beat, it makes the transition from one text to the other feel natural and seamless
+[03:40] And keeping it seamless especially on the text elements is important
+[03:44] Like you don't want to pull your audience off of the video just because of that
+[03:48] Another important thing is to keep enough time for your audience to read the text
+[03:54] Like for example older people need more time to read
+[03:57] Like what you read in like two seconds older people might need around three, four or maybe five
+[04:02] Also try to keep the text in almost the same area
+[04:06] For example, if you're having your text somewhere on the top half
+[04:09] Like make sure to have it in the same area
+[04:13] And if you keep moving it here and there from clip to clip
+[04:16] Like that's going to confuse your audience and that's not a good thing
+[04:20] Okay, with that said, let me show you how I do it
+[04:24] So here I have my text set up in Figma
+[04:27] So the reason I use Figma is I don't have Apple emojis, I use Windows
+[04:33] And Windows emojis suck
+[04:36] So that's the reason I've resorted to using Figma
+[04:39] Also, it makes it easier when I have like all my text in one place
+[04:44] I mean, this is like a personal preference. You don't have to follow it or anything
+[04:48] So I have it all here and what I would do is I would simply export them as PNGs
+[04:53] And then once I do that for all of the images here
+[04:58] So my naming system is a little silly
+[05:00] So I have H1, H2, things like that
+[05:03] And what it means is like hold 1 and hold 2
+[05:09] So here I have H1-1 which means hold 1 and hold 2-2
+[05:17] So this is H2, H3-1, H3-2, H3-3 and so on
+[05:24] I mean, I just came up with it and I stuck to it
+[05:28] I mean most of this is completely personal preference
+[05:30] And if you want you could use the Adobe Text tool and that is completely fine
+[05:36] All right, I want my hold to start at the beat drop
+[05:40] So the beat drop should be somewhere around here
+[05:43] I bet it's this one
+[05:45] Let me decrease the volume
+[05:49] Yeah, that'll be okay
+[05:51] So let's see
+[05:52] Let's see
+[05:57] Yep
+[05:59] Okay, so let me make a cut here
+[06:00] Give like 5 seconds
+[06:07] Okay, so if we have a look at the script here
+[06:16] It has like 2 parts
+[06:18] Like this is choking our dog
+[06:20] And this gets your dog to stop pulling
+[06:24] So since there are 2 parts
+[06:25] You might have to keep some time for the hook itself
+[06:28] So we shouldn't rush that
+[06:29] We have to keep in mind that they should at least have around 3 seconds
+[06:34] Like roughly 3 seconds
+[06:36] So let's keep like 5 seconds here
+[06:39] And let's start setting things up
+[06:42] Let's bring this here
+[06:43] I usually keep the scale at around 50
+[06:48] I mean
+[06:49] All of that is based on the size I have here
+[06:53] So it should look something like this
+[06:58] So I've decided to
+[06:59] And I've decided to keep the text on the top half
+[07:01] Because I want it to be easily readable
+[07:04] So what I would do is I would hold
+[07:06] So I want
+[07:07] So I want to put in the next part of the text
+[07:09] And what I would do is I would hold alt
+[07:11] And drag it across the timeline
+[07:15] So when you leave
+[07:17] So when you do that
+[07:18] You'll have a duplicate of this one
+[07:21] So let me set it up like this
+[07:23] And as usual
+[07:25] Let me replace that
+[07:33] Okay
+[07:34] So since this is just two words
+[07:36] It doesn't have to be around 3 minutes
+[07:38] I'm sorry 3 seconds
+[07:40] So it doesn't have to be around 3 seconds
+[07:42] What you can do is you can just shorten it
+[07:46] And if you want to check
+[07:48] Like how long each one is
+[07:50] You can simply select the text segment
+[07:54] And you see your question mark button right?
+[07:56] When you click on that
+[07:58] And you'll get this part
+[08:00] And you'll get this part selected
+[08:00] As your source in and source out
+[08:03] So when that's done
+[08:05] You'll have the length of the text here
+[08:07] So which is going to be 1 second and 25 frames
+[08:11] Okay that's quite short
+[08:13] But for two words I think that'll pass
+[08:15] So keeping those things in mind
+[08:21] You could go ahead and make the cuts
+[08:23] Okay so I won't bore you with all the cutting and chopping
+[08:26] So I'll fast forward and see you there
+[08:29] Alright so
+[08:31] Alright so I went ahead and made the cuts
+[08:33] And it should look something like this
+[08:35] Alright so once you make the cuts
+[08:48] Your foundation is set
+[08:49] So based on this let's go ahead to the next part
+[08:53] Alright so the third layer is b-roll
+[08:55] In this ad I had to source some content online
+[08:59] Specifically I needed some clips where the dog is pulling on the leash
+[09:03] So I went on to TikTok and I just searched for things like
+[09:08] Dog leash pull something like that
+[09:11] So you could search for the keyword and find something that would suit your ad
+[09:16] So I went ahead and found a clip
+[09:18] And I went to this site called snap any
+[09:22] So this is the site I use to download content online
+[09:25] It's pretty easy you could download images videos whatever
+[09:28] And it works for pretty much every site except Facebook
+[09:32] So it works for pretty much every web
+[09:34] So it works for pretty much every site except Facebook
+[09:38] One thing that you should keep in your mind
+[09:40] When you are looking for these clips in social media
+[09:42] Is try to avoid using clips from like super famous
+[09:46] Or like well-established creators
+[09:48] Like this will help you stay away from like potential copyright claims
+[09:53] So best to avoid them like there are some workarounds on it
+[09:56] But I won't recommend any because if you get caught it can be a pain in the ass
+[10:01] Alright so let's say you like find a perfect clip
+[10:04] But it has captions on it
+[10:07] So in that case what you could do is you could go to this site called vmake
+[10:11] So this site has this tool called watermark and text remover
+[10:18] So you could go there
+[10:20] So this tool is a lifesaver
+[10:22] And I can't stress that enough
+[10:23] So this one has a free version which is good by itself
+[10:26] But the only problem is you are like limited to five seconds per clip
+[10:30] Also it does have some other features too like noise reducer video and image enhancers
+[10:36] So things like that
+[10:37] I use this tool pretty much all the time where I have to source clips online
+[10:42] I mean I'd recommend getting the pro version here
+[10:45] It's just $70 per year
+[10:47] I mean the value you get for that price is pretty insane in my opinion
+[10:51] Alright so enough glazing here
+[10:53] Let's get into the breakdown
+[10:54] Alright so let's break this ad down clip by clip
+[10:58] Over here it says traditional harnesses and collars
+[11:01] Give dogs exactly what they want
+[11:03] So for this line I wanted to show the pain point right off the bat
+[11:08] So over here we have a clip of a dog which is wearing a collar
+[11:11] And it's pulling on the leash
+[11:13] Also the owner is kind of like struggling
+[11:16] And that's kind of what I wanted to show here
+[11:18] And it's coherent to what's being said on the text
+[11:22] Next up we have this
+[11:25] So this is the second part of that sentence
+[11:27] Which is forward momentum
+[11:29] So over here it's just a goofy clip of this lady being pulled
+[11:33] Yeah nothing much to it it's just about shock factor
+[11:37] So the main point of it was to grab attention and kind of show like
+[11:41] The woman is being overpowered by the dog
+[11:43] And I believe it demonstrates the word momentum here
+[11:46] In the next one it says
+[11:48] But watch what happens with this front clip attachment
+[11:51] So here is where we introduced the solution
+[11:54] So it's a b-roll of the front d-ring attachment
+[11:57] So the person is attaching it onto the harness
+[12:01] And this directly shows like the viewer the feature that we are talking about
+[12:05] This one is pretty straightforward
+[12:07] So here we say dog pulls and we show a clip of
+[12:10] A dog that's pulling her owner in first person point of view
+[12:14] And then we show the finger pointing down emoji
+[12:17] And here it says gets redirected back toward you
+[12:21] So the before clip had a small dog that's pulling the owner
+[12:25] And over here on the after one we are showing that
+[12:27] The owner is pretty unaffected by a big dog that's pulling
+[12:30] Also this is another good example of show don't tell
+[12:33] Like the dog getting redirected pretty much speaks for itself
+[12:38] So here it says it's not about fighting your dog's friend
+[12:41] So what I did here was show a dog that's pulling on the leash
+[12:45] And then the next part of it is it's about redirecting it
+[12:48] So here we see the owner who's walking his dog
+[12:51] And he's pretty chill about it
+[12:53] On the next one it says no pain no discomfort
+[12:57] So over here I went ahead and used a happy dog
+[12:59] And look at that fellow
+[13:01] Yeah so I used a dog that's smiling
+[13:03] And a clip where he's like pretty chill and happy
+[13:06] So over here I wanted to show like the dog is happy with the harness
+[13:09] And there's like no negative emotions only positive vibes
+[13:13] On the next one it says
+[13:15] Dogs simply discover pulling doesn't work anymore
+[13:18] And for the b-roll what I decided was to show the owner's dogs pulling here
+[13:23] We have like two dogs that are pulling the owner
+[13:25] And then we just cut to the other where she's casually walking two dogs with the front clip
+[13:30] So it further emphasizes the benefit of the harness
+[13:33] And on top of that it like says a story about the learning process
+[13:37] Like these two clips seem like it's taken on the same park on the same day
+[13:41] It's like they just swapped the harness and they're seeing changes immediately
+[13:45] So that is something I had in mind when using the b-roll here
+[13:48] Next up it says within minutes most dogs learn to walk beside you
+[13:53] So this is a important claim like a really important claim
+[13:57] So I wanted to make it stand out
+[13:59] So I wanted the b-roll to stand out
+[14:02] So what I did for this was I used an effect called fake dolly effect
+[14:07] And let me tell you what a dolly is
+[14:09] So over here we have an example of what a dolly is
+[14:12] So what's happening is the physical camera is moving towards the subject
+[14:17] And while that's happening they are decreasing the focal length
+[14:19] I know that's a lot of words
+[14:21] But basically what's happening is the camera is moving towards the subject and it's zooming out
+[14:26] That's it
+[14:27] So doing that will give you this effect
+[14:29] And I would say this is a little exaggerated and it's relevant to the film here
+[14:34] So this is how it looks like in the clip that I used
+[14:46] Yeah, so as you can see compared to the example that I showed this is much less intense
+[14:52] So let me walk you through how I made this
+[14:55] The owner walking her dog
+[14:57] I mean they are moving away from the camera in this case
+[14:59] So I just bring it in and what I'm going to do is I'm going to go to the effects control here
+[15:06] So since the subject is moving away from the camera
+[15:10] I will start at a higher scale
+[15:13] So basically I would zoom in more
+[15:15] So let's go with something like 80
+[15:18] And I added a keyframe on the position as well
+[15:21] So I can like keep them in the center
+[15:23] And what I'm going to do is I'm going to go to the end of the frame and then I'm going to put it back to 50
+[15:30] So that's like the default one
+[15:32] So once I set it to 50 I'm going to click on this button to reset the position so that it fits in the middle
+[15:39] How it's supposed to
+[15:40] Okay, now let's play and see how it looks
+[15:45] So it's hardly enough that it's not distracting but it's something better than just having them walk away
+[15:51] So when you're editing and if you have time feel free to experiment on these type of things
+[15:56] Like try out new things and you'll learn a lot more in doing than going through a bunch of tutorials online
+[16:01] So the next few clips are pretty straightforward
+[16:04] Here we say
+[16:05] Dog friendly core harness with front plus back clips
+[16:09] So the clip here shows the back clip over here
+[16:12] And then the front clip
+[16:14] I mean
+[16:15] It's pretty clear and simple
+[16:17] On the next one it says
+[16:18] Perfect fit guaranteed
+[16:20] And we have a clip of a nice shot where the harness is fitting perfectly on this dog
+[16:25] Here it's a nice and neat clip
+[16:28] The next one is premium materials last years not months
+[16:33] So I decided to go with clips that highlight the quality of the product
+[16:37] So so here are some close-up shots of it. Yeah, they're looking pretty nice and some aesthetic clips
+[16:44] Yeah, and next we have stop fighting physics and start using it
+[16:49] So for this I decided to show the ideal outcome
+[16:53] So here we have
+[16:54] The owner and the dog having a peaceful walk like no one is struggling
+[16:59] The dog is not pulling and the owner is pretty chill
+[17:01] Yeah, so it's a win-win for both the dog and the owner
+[17:04] So for the call to action, I wanted to give a positive happy vibe
+[17:09] So what I did was I went with this clip here. We show the dog the owner
+[17:14] All of them in like a happy and beautiful environment
+[17:17] And everyone is having a good time
+[17:19] And like come on who wouldn't want that?
+[17:22] So I wanted to end on a positive note so that ideally when people buy our product
+[17:26] This is where it'll lead to
+[17:27] Okay, so with that let's have a look at the hooks real quick
+[17:33] So for the hook it says this is choking your dog
+[17:36] So here I chose a clip of a dog that's pulling her owner
+[17:39] I mean she's wearing all white and she's on the mud
+[17:43] So the main purpose of this clip is to grab attention and show the pain point at the same time
+[17:49] And yeah, luckily I found this clip
+[17:51] And here it says and this gets a dog to stop pulling
+[17:55] So over here we have a b-roll of the owner attaching the front d-ring attachment
+[18:00] The reason we decided to go ahead with this clip was we wanted to show the attachment
+[18:04] Like the mechanism but not how it works
+[18:07] So people will be thinking
+[18:09] Okay, how can this stop my dog from pulling?
+[18:12] Like how does it work?
+[18:14] So that's the reasoning behind this
+[18:16] For the voiceover versions the b-roll stays typically the same
+[18:20] The only thing that changed is this one has voiceover
+[18:23] And it's more of a conversational tone
+[18:26] That's the only difference other than that
+[18:28] The idea of the ad is pretty much the same
+[18:32] In terms of b-roll for hook 2 this is what we had
+[18:35] The owner is attaching the front d-ring
+[18:37] And then she shows the bungee leash
+[18:40] And then we show the product in action like how it works
+[18:43] The reason we used this clip was because the UGC ad that was performing really well
+[18:48] It had this hook and it kind of ripped
+[18:50] So we just took it and applied it here
+[18:53] So that's the reasoning behind hook 2 and on hook 3
+[18:58] It's pretty much the same idea
+[19:00] And on top of that it says if you have a big dog
+[19:03] I need to show you this
+[19:05] Over here we have a clip of the owner putting the harness to the dog
+[19:09] And then it goes back to attaching
+[19:12] Showing the bungee leash and showing the product in action
+[19:15] So that sums up the b-rolls and let's move on to the next layer
+[19:19] So for the next two layers I didn't do anything much
+[19:22] All I did for animations and transition was this
+[19:26] Like the dolly effect which we discussed earlier
+[19:29] So I kept it simple and digestible for our audience
+[19:32] Because I didn't want any other elements coming in and distracting the audience from reading
+[19:38] For that reason I kept things simple and captions and text is pretty much none existent because the a-roll
+[19:45] Is a text like that's it
+[19:48] And next up we have sound effects
+[19:50] So for the sound effects I decided to keep it simple again
+[19:54] The only place I used sound effects was on the hook clip
+[19:58] So since I wanted to grab the attention and I wanted to like emphasize the action
+[20:02] I went ahead and used this sound effect. So the thing here is
+[20:08] The original clip came with the sound effect. Yeah, so basically I just dragged the audio and I used it
+[20:14] So I just used that and I wanted to keep it simple
+[20:18] All right, so once you're done with all of that
+[20:20] You can go ahead make your variations and export them
+[20:23] Make sure to double check and turn off your save zones
+[20:26] All right, and that concludes the breakdown of this organic ad
+[20:30] So if you have any questions, feel free to reach out to me. You can either dm me or drop a text in ecomtalent
+[20:36] I'll try to respond as soon as I can
+[20:39] Okay, so I hope this helps and thanks for watching. Bye. Bye

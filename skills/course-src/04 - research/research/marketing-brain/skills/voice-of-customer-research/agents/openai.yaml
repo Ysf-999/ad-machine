@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice of Customer Research"
+  short_description: "Extract market language and beliefs"
+  default_prompt: "Use $voice-of-customer-research to extract pains, desires, beliefs, objections, and language from these sources."

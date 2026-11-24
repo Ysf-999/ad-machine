@@ -1,0 +1,1576 @@
+# B06 Video Editing Breakdowns / 6 video editing breakdown part 2 ugc ad.mp4
+
+[00:00] Hi guys, I'm Mufarez and I'm one of the editors at Carlos Agency.
+[00:04] So today we'll be breaking down a UGC ad and let's start by having a look at it.
+[00:11] Can we stop with the getting my body back narrative for a second?
+[00:15] Because that's not what this is about.
+[00:16] I'm 18 months postpartum with my second baby
+[00:18] and everybody keeps on asking me when I'm gonna get my body back.
+[00:22] This is my body.
+[00:23] It grew two sets of humans.
+[00:24] It's not broken.
+[00:25] It's just operating on a different set of rules now.
+[00:27] But that doesn't mean I have to accept feeling uncomfortable in it forever.
+[00:31] Here's what I wish somebody would have told me.
+[00:33] After pregnancy and breastfeeding, your metabolism doesn't just bounce back.
+[00:36] Your prolactin levels stay elevated for 6 to 12 months after nursing,
+[00:40] programming your body to hold on to fat stores.
+[00:42] So when you try the same old calories in, calories out approach that worked before kids,
+[00:46] your body just laughs at you.
+[00:48] I spent a year fighting my body with restrictions and overexercise.
+[00:51] Wonder why nothing worked.
+[00:53] Then I found Mediglo.
+[00:54] It's specifically formulated for hormonal weight management.
+[00:56] So instead of fighting my post-baby body, I started supporting it.
+[00:59] Four months later, and I don't want my old body.
+[01:01] I want this body to feel strong, energetic, and comfortable.
+[01:05] And for the first time since having kids, it does.
+[01:07] If you're tired about the bounce back pressure
+[01:09] and ready to feel good about the body you have now,
+[01:11] Mediglo is exactly what you're looking for.
+[01:13] Okay, so this is the ad.
+[01:15] And before we get into the breakdown,
+[01:17] let's talk about the brand and the product we are gonna sell.
+[01:20] So the product is Mediglo collagen and it's from Zend Wellness.
+[01:25] So Zend Wellness is a supplement brand
+[01:27] and it's all about quality ingredients and overall wellness.
+[01:32] So some of the benefits of our product is it can naturally boost GLP-1.
+[01:37] So GLP-1 is a hormone which can help you control cravings.
+[01:41] And also it has ingredients to decrease stress,
+[01:44] reduce wrinkles, and even promote joint health.
+[01:48] So this gives you a gist of the product.
+[01:51] And something about the brand is
+[01:54] most of our ad spend goes to women,
+[01:57] especially women who are in their early 30s to early 50s.
+[02:01] So keeping all of those in mind, let's get into the breakdown.
+[02:05] All right, so let's start by breaking down the brief.
+[02:08] Every brand, every agency, they do briefs differently.
+[02:12] But at the agency, we use Milanote.
+[02:15] And this is how we structure it.
+[02:16] As an editor, your main goal is to go through the brief
+[02:20] as thoroughly as you can.
+[02:22] And make sure to understand the concept
+[02:25] and what needs to be done in the ad.
+[02:28] That'll help you make creative decisions while you edit.
+[02:30] And it's gonna make your life so much easier.
+[02:33] Like, take your time, go through the brief,
+[02:36] and make sure you don't have any doubts
+[02:38] and you are like crystal clear about what needs to be done.
+[02:41] But if you feel like you have some questions
+[02:44] or if you find anything confusing,
+[02:46] please reach out to your strategist
+[02:48] or the person who made the brief.
+[02:50] Like, doing that will save a lot of time and energy.
+[02:55] It's like one of the best advice that I can give you
+[02:58] while going through a brief.
+[02:59] Like, take your time and understand what needs to be done.
+[03:02] So over here, we have some technical requirements
+[03:06] like the video resolution and the respect ratio.
+[03:10] So more about that later.
+[03:12] So as you can see, since it's a...
+[03:14] As you can see, the brief is pretty simple
+[03:17] since it's a UGC ad.
+[03:20] As you can see, the brief is quite simple.
+[03:23] So once you understand the concept
+[03:25] and what needs to be done in the ad,
+[03:27] you can have a look at the ad structure.
+[03:30] Since it's a UGC ad, the brief is quite simple.
+[03:34] So we've got three hooks and a hold.
+[03:38] And one thing that you'll notice is the hook has copy only.
+[03:42] There's no like script or voiceover
+[03:44] that's included in the hook.
+[03:46] So what I'll have to do is I'll have to use
+[03:48] the hook copy at the start of the hold.
+[03:51] More on that later when we are doing the breakdown.
+[03:54] And over here, we have the content linked.
+[03:58] And this is what it'll look like.
+[04:01] These are the content for this specific batch.
+[04:04] And a quick tip that I can give you is,
+[04:06] let's say you have a couple of batches
+[04:09] from one specific creator.
+[04:11] I would recommend you to download
+[04:13] all the content that they have.
+[04:15] And the reason I'm saying that is
+[04:16] you're not limited to the b-rows of this batch only.
+[04:20] You can reuse the b-rows of your previous batches.
+[04:24] And that'll give you like more real estate in b-roll.
+[04:26] That'll like make much more sense when you're like editing.
+[04:29] Like running out of b-roll is like your worst nightmare.
+[04:32] If you can, and if you have,
+[04:34] definitely make sure to include
+[04:35] the previous batches b-rows.
+[04:38] So you can download that.
+[04:40] And yeah, that sums up the brief.
+[04:43] And let's get into the next part.
+[04:45] Before we get into the edits,
+[04:46] let's see how I set up my files and folders.
+[04:49] I have this template that I use
+[04:50] and it helps me a ton.
+[04:52] And let's start with the export folder.
+[04:56] So this is where all of my final, final videos go into.
+[05:00] Like the ones that I'm about to submit goes in here.
+[05:03] Next up, we have the project files.
+[05:06] So over here,
+[05:07] I would keep all the project files
+[05:10] that's related to this batch.
+[05:11] Like my premium files,
+[05:13] after effect files,
+[05:14] photoshop files.
+[05:15] And even if I have to use MS Paint,
+[05:17] this is where I'll store it.
+[05:19] And next up, we have footages.
+[05:21] So this folder is basically,
+[05:23] whatever your clients give you goes in here.
+[05:26] Like, let me give you an example.
+[05:28] So here, it's the same client, Zen Wellness.
+[05:31] So here I have all of their studio shots,
+[05:34] their influencer shots, blah, blah, blah.
+[05:37] Like whatever the client gives goes in the footage folder.
+[05:40] Next up, we have the assets folder.
+[05:42] And you've got a few subfolders here.
+[05:45] So basically, the asset folders
+[05:47] is where all the assets that I download from the internet,
+[05:49] I put it in here.
+[05:50] So I kind of categorize them into different parts,
+[05:53] like the client.
+[05:54] So what I put in here
+[05:55] is all the brand assets of the client.
+[05:58] For example, like their logos and end cards,
+[06:01] those type of things go in here.
+[06:03] Next up, we have audio.
+[06:05] So the music and the SFX, like the sound effects,
+[06:09] all of those things go in here.
+[06:11] And in images, like I already have this safe zone template
+[06:16] in my template folder
+[06:17] so that whenever I copy it to any batch,
+[06:20] it's always there
+[06:21] and I don't have to be looking for it.
+[06:22] And on top of that,
+[06:23] if I have to download certain images for the ad
+[06:26] and those type of things go in here.
+[06:29] Next up, oops, it's easy.
+[06:32] Sorry about that.
+[06:32] Next up is the video folder
+[06:36] and all the video stuff,
+[06:38] including the b-rolls that I found online,
+[06:41] like the stock footages,
+[06:42] TikTok videos, YouTube shots,
+[06:44] or YouTube videos,
+[06:45] all of those things that I download online
+[06:47] go in here.
+[06:49] Next up, we have the other folder
+[06:50] and this folder is something that I use
+[06:54] only to keep like certain templates
+[06:57] that you find online,
+[06:58] like motion graphics
+[07:00] or some graphs, blah, blah, blah.
+[07:02] Like, let me show you.
+[07:04] For example, if I have to get some video templates,
+[07:12] if I have to get some video templates
+[07:14] and certain things like this,
+[07:16] I would put those things in the other folder.
+[07:20] I mean, that's pretty rare,
+[07:22] but it helps.
+[07:24] It helps to be organized.
+[07:26] And you might be thinking like,
+[07:27] why?
+[07:28] Like, why do I even have to go through this hassle?
+[07:31] Why do we have to organize things?
+[07:35] Well, from experience,
+[07:36] I can say it helps save a lot of time.
+[07:39] Yeah, I can't stress this enough.
+[07:42] Like there might come a time
+[07:44] where you will be looking for something
+[07:46] that you made earlier.
+[07:48] And if you can't find it,
+[07:50] you'll be searching your files here and there.
+[07:53] And when you can't find it,
+[07:54] you might go crazy.
+[07:55] Yeah, so keeping things organized,
+[07:57] it'll help you save time.
+[07:59] You can like find whatever the assets
+[08:01] or files that you need.
+[08:02] And yeah, it'll make your life so easy
+[08:04] when you want to make some changes,
+[08:07] like client changes and stuff.
+[08:08] Like all of these are like good habits to have
+[08:11] and like, especially when you're like starting out.
+[08:13] So when you build these good habits,
+[08:15] you might have a little bit of edge
+[08:16] compared to the other editors.
+[08:18] And there might be certain situations
+[08:21] where if you have to hand over this project
+[08:23] or this batch to another editor,
+[08:26] they'll be able to go through it
+[08:27] and it's pretty easy to read to anyone.
+[08:30] Yeah, so enough of me yapping.
+[08:32] Let's get into Premiere.
+[08:34] Premiere Pro is what I use to make ads
+[08:36] and for the most part,
+[08:37] you should be able to take the learnings from here
+[08:39] and apply them to any other editing software
+[08:42] of your choice,
+[08:43] like DaVinci, CapCut, you name it.
+[08:46] So one thing that you notice
+[08:48] is the folder structure here
+[08:50] is exactly the same as the one I have
+[08:52] in the Explorer.
+[08:55] And if this is your first time loading into Premiere,
+[08:59] it can feel a little intimidating.
+[09:01] Like there are so many things going on.
+[09:03] So I'll try to make this
+[09:04] as beginner friendly as I can.
+[09:06] For those of you who are comfortable
+[09:08] with Premiere Pro
+[09:09] or the editing software of your choice,
+[09:11] feel free to skip ahead to the timestamp given above.
+[09:14] Okay, so let's start by setting up our sequence.
+[09:19] So here I have two sequences
+[09:21] and I'll get to that.
+[09:22] The main sequence that I have is this one.
+[09:25] This is where I do my edits.
+[09:27] So if I had to go to the sequence settings,
+[09:29] like when I create a new one,
+[09:31] these are the settings that I have.
+[09:32] So the FPS that I keep
+[09:34] is 30 frames per second
+[09:36] and the frame size.
+[09:38] So this is something that we spoke about earlier in the brief.
+[09:42] 1080 by 1920,
+[09:43] which is the 9 by 16 aspect ratio.
+[09:46] So that's what we put here.
+[09:49] And as you can see,
+[09:50] it's the 9 by 16.
+[09:52] So this is what it would look like.
+[09:56] But this is what it'll look like.
+[09:58] It's the vertical video.
+[09:59] So when you're starting out,
+[10:00] it's better to find a layout and stick to it.
+[10:03] So I believe,
+[10:05] I'm not very sure.
+[10:07] When you start Premiere Pro for the first time,
+[10:10] you'll have something like this.
+[10:11] Like personally,
+[10:13] I prefer having it in vertical
+[10:16] because most of the ads that I work on are 9 by 16.
+[10:21] And this is the layout that I have
+[10:23] and I'm comfortable with.
+[10:25] If you're comfortable with summer layout,
+[10:27] feel free to go by it.
+[10:28] So one more thing that I would recommend for starters
+[10:30] to get the hang of as early as they can
+[10:33] is getting used to shortcuts.
+[10:36] I have a PDF where you can learn the basics.
+[10:38] You can go through those and use them in your next edit.
+[10:41] It's like at first,
+[10:42] it'll be a little hard,
+[10:43] but with time,
+[10:44] you'll definitely get better.
+[10:45] So in the timeline over here,
+[10:46] I have like 10 video tracks
+[10:50] and six audio tracks.
+[10:52] I have this because I'll be using a lot
+[10:54] and I like to have it this way,
+[10:56] especially when you go into like VSS and stuff,
+[10:59] there'll be like a lot of tracks
+[11:01] and I feel like 10 is enough for what I do.
+[11:04] So let's start by setting up the safe zone.
+[11:07] Over here,
+[11:08] we have on the assets and image,
+[11:12] I always have my safe zone.
+[11:14] So I drag and drop it in the same folder structure over here.
+[11:17] So once it's in the project,
+[11:19] I would drag it to the timeline.
+[11:21] Usually I keep it at the topmost layer
+[11:24] so that anything that I use for my edits is below that.
+[11:28] So once I put it on top,
+[11:30] I would go to the FX control.
+[11:31] And if you can't find the FX control
+[11:33] or any other windows that I'm talking about,
+[11:35] like for example,
+[11:36] FX properties or whatever,
+[11:39] you will find it in this tab here,
+[11:42] like the window tab.
+[11:44] So here you can go ahead and select,
+[11:49] make sure that there's a tick mark.
+[11:51] So then you'll be able to find it somewhere in the layout.
+[11:55] So I have it over here
+[11:56] and I would set the opacity to like 20
+[11:58] and I'll lock it.
+[12:00] That's it.
+[12:01] So this stays here all the time
+[12:02] and I don't have to worry about
+[12:04] accidentally clicking it,
+[12:06] moving it or changing anything.
+[12:08] So until I'm like completely done with my edit,
+[12:10] this stays on.
+[12:11] Some of the FX that I use quite frequently is this one.
+[12:17] Like I created a new custom bin
+[12:22] and then I went ahead and searched for these FX
+[12:27] and I just drag and drop it into this
+[12:30] so that I have my own folder of FX.
+[12:33] So why do I need that?
+[12:36] Because I don't have to go through
+[12:38] opening all of these folders and stuff
+[12:40] to find the effect that I need.
+[12:42] Like it's so easy.
+[12:43] Like when you have it inside your own bin,
+[12:46] you can just use it anytime you want
+[12:49] and it speeds up your workflow.
+[12:51] So this is pretty much the basics of my Premiere setup.
+[12:56] And let's get started with the UGC breakdown.
+[13:00] This is the finalized version for the UGC ad
+[13:02] that we're going to break down.
+[13:04] As you can see, UGC ads are one of the simplest ones to edit.
+[13:08] It should take you just a couple of minutes to work through.
+[13:10] I'll be taking you through how I made this edit
+[13:12] from start to finish.
+[13:14] But before we get into the editing part,
+[13:16] I think it's very important for editors
+[13:18] to adopt the editing mindset.
+[13:21] So before you edit,
+[13:22] you need to understand who you're making the ad for.
+[13:26] It's like your audience is everything.
+[13:28] I mean, you should have the avatar and their desire
+[13:31] on the back of your head to make these type of ads.
+[13:34] So if you start adopting those good habits early,
+[13:38] that's going to like take you way ahead in the market.
+[13:42] I wish I learned this earlier.
+[13:44] Trust me.
+[13:44] Like that's one of the biggest learning
+[13:47] that I've had in a couple of years,
+[13:49] last couple of years.
+[13:50] Like that changed my life.
+[13:52] Okay, so enough yapping.
+[13:54] Let's get to it.
+[13:55] When I'm editing, I like to edit in layers.
+[13:58] The reason being, I like to focus on one thing
+[14:01] and one thing only.
+[14:02] So what I mean by that is,
+[14:05] like when I'm not editing in layers,
+[14:07] I find myself jumping from one task to another.
+[14:10] For example, like if I'm working on the A role,
+[14:12] like I might jump on and gather some B roles
+[14:17] and then go find some music
+[14:19] and then get back to B role again,
+[14:22] find some cool animations and work on it.
+[14:24] Like when I'm doing those things,
+[14:26] I find myself like losing focus very easily
+[14:29] and it's very distracting.
+[14:31] So when you're editing in layers,
+[14:32] you can focus on one thing
+[14:34] and it's so easy to get into the flow state.
+[14:36] We usually start with the A role,
+[14:39] which is like the voiceover part.
+[14:41] So voiceover is usually shortened as VO
+[14:44] for those of you who don't know.
+[14:46] So for example,
+[14:48] an A role would look something like this.
+[14:51] Here we have our creator just talking to the screen.
+[14:54] She's just reading the script
+[14:55] and the thing that you should do
+[14:58] when editing A roles
+[14:59] is making sure that there are no silences.
+[15:02] Like you see these gaps here in the waveform?
+[15:06] These ones?
+[15:08] Yeah, you need to get rid of them.
+[15:11] Like they're not helping anyone.
+[15:12] Let me just play it for you.
+[15:14] You'll have a better understanding that way.
+[15:15] Can we stop with the
+[15:16] getting my body back narrative for a second?
+[15:19] Because that's not what this is about.
+[15:21] I'm 18 months postpartum with my second baby
+[15:23] and everybody keeps on asking me when.
+[15:25] Yeah.
+[15:26] So get rid of them.
+[15:27] Like anyone who's scrolling through the phone,
+[15:31] they don't have time for that.
+[15:32] Not at all.
+[15:33] Just get rid of them.
+[15:34] And one more thing that you should look out for is
+[15:37] some creators might have different takes.
+[15:41] Like for example,
+[15:43] they might try the hook once or twice
+[15:46] so you can like pick which one sounds the best.
+[15:49] So when you're doing that,
+[15:53] there is like,
+[15:55] I mean,
+[15:55] since this is just a one minute clip,
+[15:57] it won't matter as much.
+[15:59] But when you're working on larger videos,
+[16:01] it's best to cut your arrows from the back.
+[16:07] Like you start from the end,
+[16:09] you keep cutting
+[16:10] and you get rid of the silences that way.
+[16:14] And one more thing,
+[16:15] it's not only about getting rid of the silences,
+[16:18] you might have to take away like the filler words and stuff.
+[16:21] Like the uh,
+[16:22] ums,
+[16:23] like if you notice any of those,
+[16:25] it's better to take them away
+[16:27] because they don't add any value.
+[16:29] So two things,
+[16:30] take off the silences and filler words.
+[16:33] Like those two should be like your main task.
+[16:36] So how I usually make the cuts here is
+[16:39] I have my shortcuts.
+[16:41] This thing here that I'm moving,
+[16:43] it's called the playhead.
+[16:45] Playhead in Premiere,
+[16:46] when you press Q,
+[16:48] it cuts everything that's behind,
+[16:51] like on the left of the playhead.
+[16:54] So when you press Q here,
+[16:56] everything behind that is gone.
+[16:58] And when you press Shift-T,
+[17:01] it makes a cut on where the playhead is.
+[17:06] So what I usually do is like,
+[17:08] for example,
+[17:09] can we stop with the
+[17:09] can we stop with the
+[17:12] getting my body back narrative for a second?
+[17:14] Yeah.
+[17:15] So for that part,
+[17:16] what I would do is
+[17:16] I would get rid of the silence at the start.
+[17:20] So what I would do is
+[17:21] I would set up a cut here by pressing Shift-C
+[17:23] and then I would go to the start of the other part of the waveform
+[17:27] and press Q again.
+[17:30] And that way,
+[17:30] it should sound like this.
+[17:32] Can we stop with the
+[17:33] getting my body back narrative for a second?
+[17:35] Okay,
+[17:35] I think that's a bit too much.
+[17:37] Something like this.
+[17:38] Can we stop with the
+[17:38] getting my body back narrative for a second?
+[17:41] Yeah.
+[17:42] Let me do it here as well.
+[17:44] Narrative for a second?
+[17:45] Because that's not what this is about.
+[17:47] Yeah.
+[17:48] A lot better.
+[17:49] So you keep doing that
+[17:50] and you look out for silences,
+[17:52] like the breathing parts,
+[17:54] for example,
+[17:55] I think it's this.
+[17:58] Yeah,
+[17:58] you hear that.
+[17:59] I'm not bored with cutting this up.
+[18:02] I'll get it done
+[18:02] and come back.
+[18:04] Once you're done chopping up the A-roll,
+[18:06] it should look something like this.
+[18:09] So all of the silences
+[18:10] and pillar words are taken away.
+[18:14] Let's give it a play.
+[18:15] Can we stop with the
+[18:16] getting my body back narrative for a second?
+[18:18] Because that's not what this is about.
+[18:19] I'm 18 months postpartum with my second baby
+[18:22] and everybody keeps on asking me
+[18:23] when I'm going to get my body back.
+[18:25] Once we are done with the A-roll,
+[18:26] the final step would be
+[18:27] to make sure that the voiceover
+[18:29] is as clear as possible.
+[18:31] For us to work on it,
+[18:32] we would use the audio track mixer.
+[18:35] If you can't find it,
+[18:36] you will be able to enable it
+[18:39] from the Windows tab
+[18:40] and you'll find audio track mixer here.
+[18:44] Not audio clip mixer.
+[18:46] It's audio track mixer.
+[18:47] Those two are different things.
+[18:51] Okay.
+[18:51] So when you start out,
+[18:52] it won't look like this.
+[18:53] It'll look something like this.
+[18:55] So when you click on this little arrow,
+[18:57] it will give you this effect.
+[18:59] It might seem a little complicated,
+[19:01] but I'll try to make it
+[19:03] as simple as possible.
+[19:05] So in your timeline,
+[19:07] you have different audio tracks
+[19:09] like output one, output two.
+[19:11] So all of them are different tracks.
+[19:14] So those tracks is what you find here.
+[19:17] So output one and A1
+[19:19] is the first track,
+[19:21] the first column.
+[19:23] The second one is output two and A2.
+[19:26] So what we do here is
+[19:29] when we add an audio effect
+[19:32] to one layer,
+[19:34] it applies to the entire track.
+[19:37] So you don't have to go apply
+[19:39] and edit your audio effects
+[19:41] clip by clip.
+[19:42] So when you add it to the audio track,
+[19:44] it's available for all the clips
+[19:47] that's inside that specific track.
+[19:50] So for example,
+[19:52] let's give a play
+[19:54] on how this audio sounds as it is.
+[19:57] Can we stop with the
+[19:58] getting my body back narrative for a second?
+[20:00] Because that's not what this is about.
+[20:01] I'm 18 months postpartum
+[20:03] with my second baby
+[20:04] and everybody keeps on asking me
+[20:05] when I'm going to get my body back.
+[20:08] Okay.
+[20:09] So one rule of thumb
+[20:10] is for the voiceovers,
+[20:12] we have to make sure
+[20:13] that it sits between
+[20:14] minus six decibels
+[20:17] to minus 12.
+[20:18] So that's like the sweet spot
+[20:20] for voiceovers.
+[20:21] So at this point,
+[20:23] I think it's going around
+[20:24] minus 18.
+[20:25] Can we stop with the
+[20:26] getting my body back narrative
+[20:28] for a second?
+[20:28] Because that's not what this is about.
+[20:30] I'm 18.
+[20:31] Yeah.
+[20:32] So it's all over the place
+[20:33] and what we can do
+[20:35] to fix that
+[20:36] is we have this effect
+[20:37] called multiband compressor.
+[20:40] So where you can find it is
+[20:41] when you click on this little arrow here
+[20:42] and you go to amplitude and compression,
+[20:46] you go to multiband compressor.
+[20:49] So once you add that,
+[20:51] you can double click on it
+[20:53] and this panel would pop up.
+[20:55] So as default,
+[21:00] it won't do anything.
+[21:01] But what we can do is
+[21:03] we can go to the preset section
+[21:05] and go to this preset
+[21:07] called broadcast.
+[21:08] Like there are so many other
+[21:10] presets here,
+[21:11] but the one we'll use mostly
+[21:13] is broadcast.
+[21:15] So this would give you
+[21:16] like a podcast type of
+[21:18] audio quality.
+[21:20] It like makes it crisp.
+[21:21] So let's give it to a play
+[21:24] with the effect.
+[21:27] Can we stop with the
+[21:28] getting my body back narrative
+[21:29] for a second?
+[21:30] Because that's not what
+[21:31] this is about.
+[21:31] I'm 18 months postpartum
+[21:33] with my second baby
+[21:34] and everybody keeps on asking me
+[21:35] when I'm going to get my body back.
+[21:38] Yeah, that's with
+[21:39] and this is without.
+[21:41] Can we stop with the
+[21:42] getting my body back narrative
+[21:43] for a second?
+[21:44] Because that's not what
+[21:45] this is about.
+[21:45] I'm 18 months postpartum
+[21:46] with my second baby
+[21:48] and everybody keeps on asking me
+[21:49] when I'm going to get my body back.
+[21:50] This is my body. It grew two sets of humans.
+[21:53] So if you want, you could just play around with the gain to make sure that it's not peaking above 6.
+[21:59] I mean, it's not peaking above negative 6.
+[22:02] So what we can do is we can add another effect called hard limiter.
+[22:06] You would find it in amplitude and compression, and it'll be there as hard limiter.
+[22:12] So when you double click on that, I simply just add a preset called limit to negative 6.
+[22:17] So what happens is anytime your audio peaks above negative 6, let's say it goes to negative 3, negative 2,
+[22:25] what it does is it would stop it at 6.
+[22:28] Like anything above that will get cut off.
+[22:33] So now let's give it a play.
+[22:35] Can we stop with the getting my body back narrative for a second?
+[22:38] Because that's not what this is about.
+[22:39] I'm 18 months postpartum with my second baby, and everybody keeps on asking.
+[22:43] Yeah, so for the times it went above negative 6, it got cut off and it stayed at negative 6 itself.
+[22:51] So sometimes this can cause some problems, like the audio can sound a bit harsh.
+[22:55] So what you could do is go to multiband compressor, and you could decrease the gain, which means the volume of the audio.
+[23:04] And it should be something like this.
+[23:07] Can we stop with the getting my body back narrative for a second?
+[23:11] Because that's not what this is about.
+[23:12] I'm 18 months postpartum with my second baby, and everybody keeps on asking me when I'm going to get my body back.
+[23:17] Yeah, right now it's not like sticking onto negative 6 all the time.
+[23:22] It's just moving around naturally.
+[23:24] I would highly recommend you to use this stack.
+[23:26] You will have multiband compressor and the hard limiter.
+[23:29] So if you want, you could take a screenshot of it and use it in your edits.
+[23:35] And the settings would vary, of course, depending on the audio that has been recorded.
+[23:40] So make sure to play around and find what fits that specific audio.
+[23:45] Yep, so once it's done, we can move on to the next layer, which is music.
+[23:51] So music is kind of like the soul of your video.
+[23:58] It's like it can make or break your ad.
+[24:03] So your audience feelings, like if you want your audience to feel happy, you play happy music.
+[24:08] If you want your audience to feel sad, you play sad and dull music.
+[24:14] When you're adding music, so keep in mind about the audience and what you want them to feel in the ad.
+[24:20] But in this case, I chose not to add music.
+[24:26] Why, you may ask?
+[24:28] The reason being, I wanted this to be like a person talking to the screen, like talking to our audience directly.
+[24:36] I wanted it to be as authentic and raw as possible since this is a sensitive topic.
+[24:42] I didn't want to like make it any fancy by adding any music and I didn't want to distract them from the message.
+[24:48] So that's my reasoning behind not adding music for this ad.
+[24:53] But that doesn't mean I'm right.
+[24:55] Like you can add music, like the world is your playground.
+[24:59] So my reasoning is that and if you're making this like recreating this ad, you might have a different approach.
+[25:06] And that's up to you.
+[25:08] Next in line, we have b-rolls.
+[25:10] So b-rolls are used to emphasize a-rolls.
+[25:13] It might sound complicated, but it's pretty simpler than you think.
+[25:18] So when you have a look at the video here, let me give you a simple example first.
+[25:24] So let's say the person in the A-roll is talking about birds.
+[25:30] So the b-roll would usually show a bird.
+[25:34] Another example, let's say like the person in the A-roll is talking about shoulder pain.
+[25:40] So the b-roll would show a person suffering with shoulder pain or maybe even like a shoulder joint animation to show like what's causing the pain.
+[25:50] It can be whatever you imagine.
+[25:52] But the main thing is it should get the point across.
+[25:56] And another reason people use b-roll is nobody wants to see a talking head throughout the video of like especially of like a random person.
+[26:05] So that's not interesting at all.
+[26:07] And adding b-rolls can make your videos more engaging.
+[26:11] It's like it breaks the monotone.
+[26:13] So in this example, let me play it for you.
+[26:16] This is my body.
+[26:17] It grew two sets of humans.
+[26:19] It's not broken.
+[26:20] It's just operating on a different set of rules now.
+[26:23] Yeah.
+[26:23] So when she's talking about her body and how it changed after giving birth,
+[26:28] it's like I show the pain points that I want our audience to relate to.
+[26:33] It's like a person who is suffering with the same problem.
+[26:36] I want them to see this and relate to this.
+[26:40] So that's the reason I chose this clip.
+[26:42] And usually when you're working with UGC ads,
+[26:46] like you are kind of limited to what,
+[26:51] like what they have.
+[26:54] For example,
+[26:56] like if this person is talking,
+[27:00] it would be ideal for you to stick with the same person,
+[27:03] like stick to their own b-rolls,
+[27:05] instead of like using like another random lady or something.
+[27:09] Yeah, that would make it much more authentic.
+[27:11] It's like this person is showing her experience and her personal journey.
+[27:16] So when you're making UGC ads or even organic ads,
+[27:19] try to keep it as like one person is doing it.
+[27:23] And I know it's hard,
+[27:24] but if you got to pull it off,
+[27:26] like it would be better.
+[27:28] And we have seen much more success when we do that in our agency.
+[27:32] Using the same idea,
+[27:33] like I used to think about the audience and what they are talking about,
+[27:37] like here,
+[27:39] let me show you.
+[27:39] So when you try the same old calories in,
+[27:42] calories out approach that worked before kids,
+[27:44] your body just laughs at you.
+[27:46] Yeah, you see there.
+[27:47] When they're talking about calories and stuff,
+[27:50] like I show her eating,
+[27:52] like we have b-rolls of that.
+[27:53] And I did the same thing when they're like talking about a product and all.
+[27:58] I go to the b-roll that's provided.
+[28:00] And especially since it's a creator and she have other stuffs,
+[28:04] I can use the b-rolls from other content as well.
+[28:07] Yeah.
+[28:08] And that really came in clutch when working on this ad
+[28:11] because the b-rolls that they gave here was quite limited.
+[28:16] Like when she's talking about calories and stuff,
+[28:18] there is nothing that I can use.
+[28:20] So I had to resort to like using an old video.
+[28:24] I don't know which one.
+[28:26] I think it's the gummies one.
+[28:30] Yeah.
+[28:31] So I had to use this clip.
+[28:33] It's the same person,
+[28:35] but it's a different batch of ad.
+[28:38] And I could use the b-roll here and it came in clutch.
+[28:41] So I went ahead and added b-rolls to throughout the clips.
+[28:45] And one thing that I like to highlight is this one.
+[28:50] Like,
+[28:51] let me play it for you.
+[28:52] Four months later.
+[28:52] And I don't want my old body.
+[28:54] I want this body to feel strong,
+[28:55] energetic,
+[28:56] and comfortable.
+[28:57] And for the first time since having kids,
+[28:58] it does.
+[28:59] If you're tired.
+[29:00] Yeah.
+[29:01] Yeah.
+[29:01] So remember earlier,
+[29:03] we showed like this woman suffering from this postpartum issue.
+[29:09] And we showed it before here.
+[29:11] And then we go ahead and show it after.
+[29:14] Four months later.
+[29:15] And I don't want my old body.
+[29:16] I want this body to feel strong,
+[29:18] energetic,
+[29:19] and comfortable.
+[29:20] Yeah.
+[29:20] So when you showed a transformation,
+[29:22] like she started here and because of our product,
+[29:25] she was able to go and lose her postpartum puffiness.
+[29:32] So one thing to keep in mind when adding b-rolls is try to think of your
+[29:37] audience and try to think what they think throughout the video.
+[29:42] And I think that'll like help you make certain decisions on what type of clips
+[29:46] that you can add.
+[29:47] And if you want,
+[29:47] you could go ahead and add a few stock clips,
+[29:49] but try not to like overdo anything here.
+[29:52] Try to keep it as raw and authentic as you can.
+[29:56] Next in line is animations and transitions.
+[29:59] So this one is quite interesting.
+[30:01] When you go through the A-roll,
+[30:03] you notice that some clips,
+[30:05] like when you're moving from one clip to the other,
+[30:07] you might notice the cut is a bit abrupt.
+[30:10] So this is like bound to happen since you are taking out the silences
+[30:14] and the filler words.
+[30:16] You can't avoid that,
+[30:17] but you can work around it.
+[30:20] One simple trick that we use is we just scale like one clip from the other.
+[30:26] If the scale of the first clip is 100,
+[30:29] the second clip,
+[30:30] you would scale it up a bit.
+[30:32] Let's say,
+[30:33] let's go to 110 here.
+[30:37] So let's see how it plays now.
+[30:41] Can we stop with the getting my body back narrative for a second?
+[30:44] Because that's not what this is about.
+[30:46] Yeah.
+[30:47] So here you can see like when you're going from one clip to the other,
+[30:50] it's not as abrupt.
+[30:51] So let's try it on another one.
+[30:54] Like this one,
+[30:55] for example,
+[30:55] this one is like very bad.
+[30:58] It's quite abrupt.
+[30:59] So what I'll do here is I'll go with 112.
+[31:04] Like you can go with any number,
+[31:06] but ideally I think the minimum that you can go is 106 or 102,
+[31:13] 103.
+[31:14] It won't make that big of a difference.
+[31:17] So let's give it a play.
+[31:20] With my second baby.
+[31:21] And everybody keeps on asking me when I'm going to get my body back.
+[31:24] Okay.
+[31:24] So let's try it once without.
+[31:27] Second baby.
+[31:28] And everybody keeps on asking.
+[31:30] Second baby.
+[31:31] And everybody keeps on asking.
+[31:32] Yeah.
+[31:33] You can find the difference.
+[31:35] It's like over here.
+[31:36] It's much more clean and natural.
+[31:40] But one thing I'd say is like,
+[31:42] don't overdo it.
+[31:43] Like it's easy to overdo this part.
+[31:47] So let's say we don't have to be roles here.
+[31:52] And I go ahead and make this 106.
+[31:56] And a clip after that,
+[31:58] I'll make it 112.
+[32:00] Like when I play.
+[32:03] This is my body.
+[32:04] It grew two sets of humans.
+[32:05] It's not broken.
+[32:06] It's just operating on a different set of rules now.
+[32:09] But that's.
+[32:09] Yeah.
+[32:10] It can get like kind of funny.
+[32:12] When you're like zooming in and out.
+[32:14] So the way you can get over those things is to use B-rolls.
+[32:18] B-rolls to the rescue.
+[32:20] Another thing that I like to do in like UGC ads or any talking heads.
+[32:25] Like if there's some important sentence.
+[32:27] I like to give in a subtle zoom.
+[32:31] But that doesn't mean I have to accept feeling uncomfortable in it forever.
+[32:34] Here's what I wish someone.
+[32:35] Yeah.
+[32:36] So here we are showing the pain points.
+[32:37] And then she says.
+[32:39] But that doesn't mean she wants to feel uncomfortable forever.
+[32:42] So I want to like highlight that sentence.
+[32:44] And the way I do it is I give in a subtle zoom.
+[32:47] So let's make it 112.
+[32:52] Yeah.
+[32:54] But that doesn't mean I have to accept feeling uncomfortable in it forever.
+[32:59] Yep.
+[32:59] But that doesn't mean I have to accept feeling uncomfortable in it forever.
+[33:03] So the zoom's pretty nice.
+[33:06] And along with that I got rid of the cut between these two clips.
+[33:13] That feeling uncomfortable in it forever.
+[33:15] Here's what I wish.
+[33:16] So if you can find tricks like that.
+[33:19] Like places that you can use it.
+[33:21] Like definitely use it.
+[33:22] But please don't overdo it.
+[33:24] It can get funny.
+[33:25] You don't have to rely only on b-rolls when making ads.
+[33:29] So I used a graph over here for this specific reason.
+[33:32] Prolactin levels stay elevated for 6 to 12 months after nursing.
+[33:35] Programming your body to hold on to fat stores.
+[33:37] So when she's making a claim like that.
+[33:41] I want to make sure to give her the authority.
+[33:44] So this person over here.
+[33:46] She is making a claim where the prolactin level stays high during your nursing months.
+[33:51] And that makes you store a lot of belly fat.
+[33:54] So to give her the authority what I did was.
+[33:56] I googled a graph related to this.
+[33:58] And I just put it in and cropped it a bit.
+[34:01] So this gives the audience an idea that.
+[34:03] Okay this person did her research and she knows her shit.
+[34:07] So you could do those type of things too.
+[34:09] You can find images or even memes and stuff that you can put into the video.
+[34:13] And everything depends on the context and your audience.
+[34:17] So next up we have captions and text.
+[34:19] So this one is quite simple in UGC ads.
+[34:22] So at least in Premiere Pro you have this text tab.
+[34:25] If you don't find it you can go ahead and enable it in the windows panel.
+[34:31] So once you go there you can go into the captions tab and click on create captions.
+[34:37] Boom you would get this.
+[34:39] But since we are working with a UGC video I don't think you have to go into details.
+[34:44] So you could just click on create captions.
+[34:47] And you will end up with this.
+[34:51] So one thing is the captions are not in the safe zones.
+[34:54] So what we could do is let's go to properties and change that.
+[34:58] So this is the default text that's in Premiere Pro.
+[35:05] I think this is the new one.
+[35:06] So what we'll go with is the Proxima Nova.
+[35:10] So make sure to download this font.
+[35:12] This font is used in TikTok and all of those organic text.
+[35:17] Like this is one of the most used ones.
+[35:19] At least this is what I use.
+[35:21] So let's go with the semi-bold version.
+[35:24] And for this one let's have the classic stroke type of thing.
+[35:29] So I disabled the shadows.
+[35:31] I enabled stroke.
+[35:33] And I gave it a black color.
+[35:36] So the text would look something like this.
+[35:38] I bet you might have seen it somewhere.
+[35:40] So since you want your things inside the safe zone.
+[35:45] You can use this thing.
+[35:47] Like in align and transform you have this thing.
+[35:50] So this grid basically means you can like move it to any part of the screen.
+[35:57] I usually keep it at the bottom.
+[35:58] And I use this one to move.
+[36:01] So the first value is the x-axis that moves left and right.
+[36:07] Like it moves horizontally.
+[36:09] And the other one is the y-axis.
+[36:12] It moves up and down.
+[36:15] So I feel like the text is quite big.
+[36:18] Like let's decrease it a bit.
+[36:20] Like that.
+[36:23] And yeah.
+[36:25] With that we have the text inside.
+[36:28] And also one thing that I like you all to keep in mind is when you are working with the safe zone.
+[36:35] Try to make sure to keep like a little bit of breathing space between like the element that you're using and the edge of the safe zone.
+[36:45] Just to double down on the things that they don't get cropped out or something.
+[36:51] So over here what I usually do is I go to the text panel and I go ahead and see what's over here.
+[37:00] So here.
+[37:02] The first sentence is.
+[37:04] Can we stop with the getting my body back narrative for a second?
+[37:07] Because.
+[37:08] Yeah.
+[37:09] So when she's saying that and since the captions are formatted it's looking like this.
+[37:15] So you could go inside that.
+[37:18] And you can like set it up in a way where it's neat.
+[37:25] Yeah.
+[37:28] It's not the worst but.
+[37:31] Yeah.
+[37:31] It'll pass.
+[37:33] So you go ahead doing the same thing over and over until you make sure that everything is right.
+[37:39] So if you feel like there's some word or something that doesn't make sense or you're not sure like the spellings or if the word that's used here is right.
+[37:49] What you can do is you could go back to the brief and you could check the script.
+[37:54] So since this is UGC like everything won't be word to word.
+[37:58] Like sometimes the creator might add in some filler words like well and that and this.
+[38:05] So make sure to like double check by your ears.
+[38:09] Make sure to listen to it.
+[38:12] So you could go ahead and do the same thing where you listen to what's being said.
+[38:17] And make sure to cut it.
+[38:20] And sometimes it can get like real messy.
+[38:23] Like for example even this I would say it's a lot of text and most sort of people might not read it.
+[38:30] So what you do is you take the cut tool and you make a cut over here.
+[38:34] Can we stop with the.
+[38:35] Can we stop with the.
+[38:37] Can we stop with the.
+[38:39] So here they say can we stop with the.
+[38:41] And what we'll do is we'll.
+[38:43] We'll leave that part here.
+[38:45] And.
+[38:46] Take it off.
+[38:49] And over here we could.
+[38:53] Leave the rest.
+[38:59] Yeah.
+[39:00] Actually this is much better.
+[39:01] So one thing that I'd like to point out is.
+[39:04] You don't have to keep your.
+[39:06] Captions like 100% polished.
+[39:09] Because.
+[39:10] Another way to add authenticity is.
+[39:13] To put in some deliberate mistakes.
+[39:15] Like for example.
+[39:17] When you are making an ad.
+[39:18] We would like keep.
+[39:20] The cut and the captions in the same line.
+[39:23] So.
+[39:24] When it's moving from one clip to the other.
+[39:26] You move.
+[39:27] Change the caption.
+[39:28] So for example.
+[39:29] When it's like this.
+[39:31] Don't see like the caption changing.
+[39:32] But.
+[39:33] If you do something like this.
+[39:35] Soon after this is done with that.
+[39:36] Like the next caption comes.
+[39:38] But she doesn't say anything.
+[39:40] So it'll look something like this.
+[39:42] Body back narrative for a second.
+[39:43] Because that's not what this is about.
+[39:45] Yeah.
+[39:45] So that deliberate mistake.
+[39:47] Can add authenticity.
+[39:49] Yeah.
+[39:49] As long as it's clear.
+[39:51] And.
+[39:52] Make sure that you are editing for your audience.
+[39:53] And the concept.
+[39:55] Once I'm done dealing with the captions.
+[39:57] I would go ahead.
+[39:58] And add the hook text.
+[40:00] So.
+[40:00] When you have a look at the script.
+[40:01] We have.
+[40:03] The hook text over here.
+[40:05] So.
+[40:06] Since I'm using a windows machine.
+[40:08] I don't have access to like the apple emojis.
+[40:11] Like windows emojis suck.
+[40:12] So.
+[40:13] My workaround for that is.
+[40:16] Figma.
+[40:16] Over here at Figma.
+[40:18] I have pages dedicated to each of my clients.
+[40:21] So since we are working with Zend.
+[40:22] And.
+[40:23] I have the batch number nice and big here.
+[40:26] And.
+[40:27] Anything to the right of it.
+[40:29] Is related to this specific batch.
+[40:32] So.
+[40:33] The way I made this.
+[40:35] Was.
+[40:35] I have this template.
+[40:38] So.
+[40:39] The first thing that I do.
+[40:39] When I create a page.
+[40:40] Is.
+[40:41] Go here.
+[40:42] Copy it.
+[40:43] And.
+[40:43] Go.
+[40:45] All the way to the top.
+[40:46] At the start of the page.
+[40:48] And.
+[40:48] And I paste this.
+[40:50] So.
+[40:51] This is the template that I use.
+[40:52] So I just copy.
+[40:53] And I paste it.
+[40:55] And.
+[40:56] That's how I get this.
+[40:57] TikTok organic text.
+[40:59] Like.
+[41:00] Especially with these borders and stuff.
+[41:02] Basically.
+[41:03] I would go ahead.
+[41:04] And copy this.
+[41:05] And go ahead and paste it here.
+[41:07] And you have this.
+[41:08] Group of things.
+[41:11] Like.
+[41:11] Not the text alone.
+[41:12] You click on this one line text.
+[41:15] So that.
+[41:16] You can select it as a group.
+[41:17] And what I would do is.
+[41:18] I would export it.
+[41:21] So.
+[41:22] Let's go.
+[41:24] To this one.
+[41:29] Go to assets.
+[41:30] And images.
+[41:31] And I paste it here.
+[41:34] So.
+[41:35] I like to keep it in here.
+[41:36] Because.
+[41:38] One thing.
+[41:39] Is.
+[41:39] This.
+[41:40] These are things that.
+[41:41] I create.
+[41:41] And it's not like.
+[41:43] Things that client give.
+[41:44] And if you want to make any changes.
+[41:46] Let's say.
+[41:47] Postpartum.
+[41:48] Something like this.
+[41:51] Like.
+[41:51] If you want to make a change.
+[41:52] You just click on it.
+[41:53] You export.
+[41:55] And you replace.
+[41:56] That specific text.
+[42:01] Yeah.
+[42:01] It should be this one.
+[42:02] And if you replace.
+[42:06] This one.
+[42:06] Let's say.
+[42:08] Go ahead.
+[42:09] And the changes.
+[42:10] Will get reflected.
+[42:11] Over here.
+[42:12] Let's revert that.
+[42:14] And.
+[42:15] You are.
+[42:16] Back to normal.
+[42:17] So.
+[42:18] Like.
+[42:18] How I would tackle that.
+[42:19] Is.
+[42:20] I would add them.
+[42:21] Into the.
+[42:22] Project.
+[42:23] And then.
+[42:23] I would bring them in.
+[42:25] And.
+[42:27] Since.
+[42:28] She is talking.
+[42:29] About.
+[42:31] Can we stop with the.
+[42:32] Getting my body back.
+[42:33] Narrative for a second.
+[42:34] Because that's not what this is about.
+[42:35] I feel like.
+[42:36] That would be enough for the hook.
+[42:37] And.
+[42:38] It's almost like.
+[42:39] Four to five seconds.
+[42:41] I always like to like.
+[42:42] Label my hooks.
+[42:43] Like.
+[42:44] So that I know that.
+[42:45] They are different from the hold.
+[42:46] So.
+[42:48] What I basically do is.
+[42:49] I select them.
+[42:50] Right click.
+[42:52] Vote label.
+[42:53] And I choose the color.
+[42:54] Usually I go with blue for hooks.
+[42:56] And.
+[42:57] I have them.
+[42:57] Set up as shortcuts.
+[42:59] Like shift.
+[42:59] F1.
+[43:00] F2.
+[43:01] I mean.
+[43:01] You can set up your own.
+[43:02] And that will like.
+[43:03] Speed up your workflow a lot.
+[43:04] Actually.
+[43:05] So.
+[43:06] The hook is definitely.
+[43:07] Outside the safe zones.
+[43:08] And we will have to adjust that.
+[43:10] So.
+[43:10] One thing that you could do is.
+[43:11] When you select the layer.
+[43:13] And.
+[43:13] Click on motion.
+[43:14] Right here.
+[43:16] You'll be able.
+[43:16] To move the text.
+[43:19] By just clicking.
+[43:20] And dragging.
+[43:21] Like.
+[43:21] This is.
+[43:22] This was.
+[43:22] A relatively new feature.
+[43:23] I believe.
+[43:25] Like.
+[43:25] Before.
+[43:26] You'll have to.
+[43:27] Move things like this.
+[43:28] And.
+[43:29] That can get very annoying.
+[43:31] Especially when it lags.
+[43:32] My god.
+[43:35] Okay.
+[43:36] I don't know.
+[43:36] Like.
+[43:37] If you have.
+[43:37] Experienced this.
+[43:38] Like.
+[43:38] When you're making.
+[43:40] A.
+[43:40] Store.
+[43:41] Like.
+[43:41] Instagram story.
+[43:41] Or something.
+[43:43] And when you're trying to work with the text.
+[43:45] Sometimes.
+[43:45] You find the text.
+[43:47] Being a little crooked.
+[43:48] It used to be hard to like.
+[43:50] Keep the text.
+[43:51] 100% straight.
+[43:52] So.
+[43:52] What you could do is.
+[43:53] You could.
+[43:53] Take that.
+[43:54] As an advantage.
+[43:55] And.
+[43:56] You know.
+[43:56] Make the text.
+[43:58] Slightly.
+[43:59] Like.
+[44:00] 0.6.
+[44:01] Or.
+[44:02] Anything less than.
+[44:03] 1.5.
+[44:03] Even 1.2.
+[44:05] Something like that.
+[44:06] Like.
+[44:06] Give it.
+[44:07] Subtle.
+[44:08] You know.
+[44:09] Crookedness.
+[44:09] So that.
+[44:10] It looks like.
+[44:11] Someone made it.
+[44:12] In their phone.
+[44:13] Like.
+[44:14] There's no.
+[44:14] No big edits.
+[44:16] It's.
+[44:16] Just.
+[44:17] So simple.
+[44:18] They just added a few.
+[44:19] B-rolls.
+[44:20] And.
+[44:21] They're like.
+[44:22] Done with it.
+[44:22] Okay.
+[44:23] So.
+[44:24] When I'm going to make the other variations.
+[44:25] What I do is.
+[44:27] I.
+[44:28] Go.
+[44:29] On.
+[44:29] To the sequences folder.
+[44:30] And.
+[44:33] I duplicate.
+[44:34] The.
+[44:35] Sequence.
+[44:35] That we have.
+[44:36] Let's say.
+[44:37] Breakdown.
+[44:38] And I'm going to put it.
+[44:38] Breakdown.
+[44:39] Version 2.
+[44:40] I mean.
+[44:41] You better stick to.
+[44:43] The naming conventions.
+[44:44] That you usually follow.
+[44:46] So that it's.
+[44:46] Easy for you to like.
+[44:47] Keep track of things.
+[44:49] So.
+[44:49] V2.
+[44:50] And.
+[44:52] Since.
+[44:53] The whole is the same.
+[44:54] And there's.
+[44:54] Nothing less to change.
+[44:55] In the hook.
+[44:57] You just need to change.
+[44:58] The.
+[44:59] Text.
+[44:59] So what you can do is.
+[45:00] Like if you want to replace.
+[45:02] The hook.
+[45:03] What you could do is.
+[45:04] You could.
+[45:05] Drag it.
+[45:07] And you could hold.
+[45:08] Alt.
+[45:09] And when you hover over it.
+[45:10] You see it highlight in blue.
+[45:12] And when you let go.
+[45:14] Like hook 1.
+[45:15] Gets replaced with hook 2.
+[45:17] Like the second image.
+[45:18] And then you could do the same thing.
+[45:19] For version 3.
+[45:20] You could duplicate version 2.
+[45:22] And then rename it to version 3.
+[45:25] And then you could.
+[45:27] Click on it.
+[45:28] Drag it to the timeline.
+[45:29] Like when you just hover over it.
+[45:31] You would see.
+[45:33] That hook 3.
+[45:33] Is.
+[45:34] Like.
+[45:36] Overlapping on hook 2.
+[45:37] So what you have to do is.
+[45:38] You have to hold alt.
+[45:39] Or option.
+[45:40] For mac users.
+[45:41] And then let go.
+[45:43] Then you got.
+[45:44] Hook 3.
+[45:45] Changed as well.
+[45:46] And over here.
+[45:47] I noticed that.
+[45:49] We are like.
+[45:50] Kinda too close to the.
+[45:51] Edges of the.
+[45:53] Safe zones.
+[45:53] So I'll make it a.
+[45:55] Wee bit smaller.
+[45:56] Yeah.
+[45:56] I think that.
+[45:57] Is.
+[45:58] Readable.
+[45:59] Alright.
+[46:00] So the final layer of editing.
+[46:01] Is sound effects.
+[46:02] So the reason why we use sound effects.
+[46:04] Is to grab our audience's.
+[46:06] Attention.
+[46:07] To a specific action.
+[46:09] Like.
+[46:09] If I have to give an example.
+[46:10] Let's say there's a video of a person.
+[46:12] Who is jumping off a ladder.
+[46:13] Something that you'll see in WWE.
+[46:15] So.
+[46:16] A person does that.
+[46:17] And you watch it without sound effects.
+[46:19] It might be just a normal video.
+[46:21] But.
+[46:21] Let's say.
+[46:22] You add in.
+[46:24] A bone crushing.
+[46:25] Sound effect.
+[46:26] Like.
+[46:26] Okay.
+[46:27] You might feel the pain.
+[46:28] Much more.
+[46:29] Like.
+[46:29] There's an impact.
+[46:31] In that action.
+[46:32] Sound effects is like.
+[46:33] If I start talking about it.
+[46:34] I can go.
+[46:35] For a very long time.
+[46:36] I mean.
+[46:36] I would highly recommend you guys.
+[46:38] Just to go ahead.
+[46:39] And.
+[46:40] Search.
+[46:40] And learn about sound effects.
+[46:42] Like.
+[46:42] It's an art of its own.
+[46:43] So in terms of.
+[46:44] The ad that I made here.
+[46:45] I did not add.
+[46:47] Any sound effects.
+[46:48] Other than this one.
+[46:49] So when I show the graph.
+[46:50] I wanted to add.
+[46:52] Like.
+[46:52] A pop sound.
+[46:53] Just to show that.
+[46:54] Something popped up.
+[46:55] So I have this.
+[46:57] Plugin.
+[46:58] Called premiere composer.
+[47:00] So.
+[47:00] It's from Mr. Horse.
+[47:01] You can find it online.
+[47:02] And I'm using the free version here.
+[47:04] So.
+[47:05] Here we have like.
+[47:05] Some default sounds.
+[47:06] Which.
+[47:07] Is.
+[47:08] The pop one.
+[47:09] That we are going to use for today.
+[47:10] So.
+[47:11] This one.
+[47:11] I use it here.
+[47:13] And.
+[47:14] One thing that you could do.
+[47:15] To make.
+[47:16] Your audio sound.
+[47:17] As.
+[47:18] Natural.
+[47:19] As possible.
+[47:20] Like.
+[47:20] Especially your sound effects.
+[47:22] What you could do is.
+[47:22] You could go to.
+[47:23] Essential sounds.
+[47:24] If you can't find it.
+[47:26] You go to window.
+[47:27] And you find it over here.
+[47:28] The.
+[47:29] Thing that you could do is.
+[47:30] You could add.
+[47:31] Reverb.
+[47:32] So.
+[47:32] Since this person is indoors.
+[47:34] There's this preset.
+[47:35] In essential sounds.
+[47:37] Which is called.
+[47:37] The room reverb.
+[47:38] So.
+[47:39] I could add it in.
+[47:40] And.
+[47:41] Just play.
+[47:41] Let's.
+[47:42] Let's.
+[47:43] 
+[47:43] Let's.
+[47:44] Back.
+[47:44] Or prolactin.
+[47:45] Level.
+[47:46] Spec.
+[47:46] Or prolactin.
+[47:48] Let me lower it down.
+[47:50] And I feel like the reverb is a little high too.
+[47:52] Let's give it a shot.
+[47:53] Spec.
+[47:54] You're prolact.
+[47:55] You're prolactin.
+[47:55] Yeah.
+[47:57] You could decrease.
+[48:00] The levels.
+[48:01] To maybe half of it.
+[48:02] 2.5.
+[48:03] Spec.
+[48:04] You're prolact.
+[48:06] Doesn't just bounce back.
+[48:08] You're prolact.
+[48:09] Yeah.
+[48:09] Not bad.
+[48:10] Let's.
+[48:11] Let's decrease it a tad bit.
+[48:13] Doesn't just bounce back.
+[48:14] Your prolactin levels stay elevated.
+[48:16] Yeah.
+[48:16] Not bad.
+[48:17] Not bad at all.
+[48:18] All right.
+[48:18] So once you're done with all of your variations.
+[48:20] And their edits.
+[48:21] You are ready to export.
+[48:24] So before you export.
+[48:24] You should make sure.
+[48:27] To set up the.
+[48:28] Source in.
+[48:29] Source out.
+[48:30] So what it basically means is.
+[48:32] Let me demonstrate it to you.
+[48:34] So what you do is.
+[48:35] You go to the end.
+[48:36] Of the video.
+[48:38] And you go like.
+[48:39] Two frames back.
+[48:41] And then you click on.
+[48:42] Oh.
+[48:42] When you do that.
+[48:43] You get this thing.
+[48:44] And you see like.
+[48:45] Most of this side is highlighted.
+[48:47] So.
+[48:48] What this means is.
+[48:49] When you're exporting.
+[48:51] You will be exporting the video.
+[48:52] From this point.
+[48:53] Like the starting point.
+[48:54] All the way.
+[48:56] Like up to this point only.
+[48:58] Like.
+[48:58] You won't be including.
+[48:59] The points that are here.
+[49:00] Which is like the blank screen.
+[49:02] So sometimes.
+[49:03] Some people might have.
+[49:04] Some other.
+[49:05] Clips.
+[49:06] That's behind.
+[49:08] And.
+[49:09] If you don't have your source in.
+[49:11] Source out.
+[49:12] You'll be.
+[49:12] Continuing to have.
+[49:13] Like a black screen.
+[49:15] And it continues to go.
+[49:16] So yeah.
+[49:16] So make sure to.
+[49:17] Set up your source in.
+[49:18] Source out.
+[49:19] Export.
+[49:19] And after that.
+[49:20] Make sure to turn off.
+[49:22] Your safe zones.
+[49:24] Yeah.
+[49:24] No one wants their safe zones.
+[49:25] In their final version.
+[49:27] So once you.
+[49:28] Are done with that.
+[49:28] You could go ahead.
+[49:29] And click on.
+[49:30] Export.
+[49:30] In the top.
+[49:31] Left corner.
+[49:32] Okay.
+[49:33] So here you have.
+[49:34] The name of the.
+[49:35] Ad.
+[49:36] Like you can stick to your.
+[49:37] Naming conventions.
+[49:38] And this will be the location.
+[49:40] On where you're going to export.
+[49:41] The preset that I use is.
+[49:43] Match source.
+[49:44] Adaptive high bit rate.
+[49:45] Like this works.
+[49:46] It's good enough.
+[49:48] And.
+[49:48] One thing that you.
+[49:50] Should do.
+[49:51] Is like.
+[49:51] Before you export.
+[49:52] It's better to check.
+[49:54] Your stuffs.
+[49:55] Like your edits.
+[49:56] In here.
+[49:57] Like I know.
+[49:57] It can be boring.
+[49:58] Like when you're like.
+[49:59] Working on an ad for so long.
+[50:00] And you have to.
+[50:01] Watch it again.
+[50:02] Trust me.
+[50:03] It can be like.
+[50:03] So boring.
+[50:04] And tiring.
+[50:05] But.
+[50:06] If you.
+[50:07] Go through this.
+[50:08] If you like.
+[50:09] Attentively.
+[50:10] I mean.
+[50:10] Search for errors.
+[50:11] And stuff.
+[50:12] You will save a lot of time.
+[50:13] You will save a lot of your time.
+[50:15] And others time as well.
+[50:16] So.
+[50:17] Even though it's boring.
+[50:18] I would highly recommend you to like.
+[50:20] Go through your videos.
+[50:21] Once you're done.
+[50:21] So you could go through here.
+[50:23] And.
+[50:25] Once you're like.
+[50:25] Okay with it.
+[50:27] You could click on.
+[50:28] Export.
+[50:29] So.
+[50:30] Once you're done exporting.
+[50:31] It'll look something like this.
+[50:32] Can we stop with the.
+[50:34] Getting my body back narrative.
+[50:35] For a second.
+[50:35] Because that's not what this is about.
+[50:37] I'm 18 months postpartum.
+[50:38] With my second baby.
+[50:40] All right.
+[50:41] So.
+[50:41] Once again.
+[50:43] Sometimes it's better to check.
+[50:44] Even after exporting.
+[50:45] Because.
+[50:46] Sometimes.
+[50:47] While you're rendering.
+[50:48] You can get some artifacts.
+[50:49] Or some errors.
+[50:50] So.
+[50:51] That will be visible.
+[50:52] Only after you export.
+[50:53] So yeah.
+[50:55] And I know it's a lot.
+[50:56] But.
+[50:57] It's better if you could like.
+[50:58] Check your work.
+[51:00] And yeah.
+[51:01] So.
+[51:01] That's the breakdown.
+[51:03] For.
+[51:03] This brief.
+[51:04] I hope it was helpful.
+[51:06] And feel free to.
+[51:08] Shoot out any questions.
+[51:08] That you have.
+[51:09] Like.
+[51:10] Pop it up in.
+[51:11] The general chat.
+[51:12] Or even DM me.
+[51:13] If you want.
+[51:13] But I would recommend you to like.
+[51:15] Put it in the general chat.
+[51:16] So that.
+[51:17] Everyone knows.
+[51:18] And everyone learns from it.
+[51:19] And if I don't respond.
+[51:21] Like.
+[51:21] You could.
+[51:22] Tag me.
+[51:22] Yeah.
+[51:23] Because I don't read.
+[51:24] All the texts.
+[51:25] If you need like.
+[51:26] Some specific.
+[51:27] Questions answered.
+[51:28] Feel free to tag me.
+[51:29] Okay.
+[51:30] Have a nice day guys.
+[51:30] Please.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Scorecard"
+  short_description: "Rank ads before spend"
+  default_prompt: "Use $creative-scorecard to score DTC ads, hooks, statics, and creative concepts for signal strength, pressure, belief shift, mechanism, proof, visualizability, and scale potential."

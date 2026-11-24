@@ -1,0 +1,331 @@
+[00:00] Yo, hello, hello guys. Today I'm going to explain the newest AI UGC v2 Sora prompt and
+[00:09] how to use characters and product so we are consistent. The main idea behind this was
+[00:17] I've seen like a lot of you is having issues on creating consistent Sora 2 videos with
+[00:25] one character for example and the product. And that's what I'm going to explain. So basically
+[00:33] the v2 is kind of similar like v1. The main thing is like we have a new prompt for the
+[00:40] gem that will deconstruct our videos, analyze them, give us our script. So the deconstruction
+[00:48] part is pretty simple. We only upload the video that we want to clone and it will give
+[00:54] this prompt and we'll get on return. For example, here's how everything works. We have a video
+[01:02] that we want to clone. We enter the prompt and Gemini use pro version for better results.
+[01:10] And Gemini like deconstructs the whole video like the full script, vocal pacing, emotional,
+[01:18] device, social context, is it a TikTok video, is it or whatever. And it gives us the full
+[01:26] prompt. This is the prompt that we will take and use it to create a video. For example, I
+[01:35] took this prompt, I went to Sora and we generated this video.
+[01:37] To summarize to you why weight loss injections make you lose weight and what's so magic about
+[01:40] them. First thing to know is they're not actually magic. They're not magic. There's nothing about
+[01:43] them specifically that makes you lose weight. So if you've got like, if you've got a really
+[01:48] good video, reference video, the prompt will be pretty good and the results will be good.
+[01:57] As you see, I have a trick with Sora that I didn't use here, but you could upload a high quality
+[02:03] image, 50 megabyte, 10 megabyte on Sora. And it actually, it will actually increase the Sora
+[02:10] 2 basic version quality. For example, it will not look too blurred or like low quality. It
+[02:16] will look like mid-Sora 2 Pro. That's what I've been using. But I think that's kind of patched
+[02:22] right now since they introduced the image to video thing. But I still use it to get the
+[02:29] quality a little bit better for testing. And after we generate the video with the prompt,
+[02:37] we will go to building consistent characters. We have two main workflows that we use for
+[02:45] consistent character. My favorite right now, if you have the Sora 2 Pro, the ChatGPT Pro account
+[02:51] is creating the characters directly on the Sora web app platform because you can have up to
+[02:57] five characters and you can keep them as long as you want. It won't get deleted like in Kia. It can be deleted
+[03:04] and you cannot use them. We will use the... We need to generate the first video in order to have an option
+[03:12] to create the character. For example, here we gave it this prompt that I got from Gemini. It's location,
+[03:18] subject, action, timing, dialogue, intent and that's it. After the video is generated, we... I don't know why it's not
+[03:32] that we're just letting me create the character. Second. After the video is generated using our prompt, we will go
+[03:46] and create a new character. This is how we will keep Sora 2 consistency. For example, here I have this girl
+[03:56] and I will go here, create a character. This is the way with the Sora app, by the way. We go, we choose the beginning
+[04:05] or whatever we want. The video gets uploaded.
+[04:12] Alright.
+[04:14] Okay. So after we create the character, we'll go continue.
+[04:26] We can leave this as it is, but I actually like to remove it, leave it empty.
+[04:32] And you can do it public or whatever you want. Save it. And we save it. And now,
+[04:42] we'll go to the part on how we can generate more videos of her in the same scene, looking the same, you know.
+[04:53] We did all this process. I told you how to generate the character. We actually use the Sora 2 way.
+[05:01] We use this way, as you've seen on the video. We use this. But on Kia, it's actually easy. One second.
+[05:11] You just create a video with Kia, either Sora 2 Pro or Sora 2. You go to the Kia logs. One second. You go to the logs. And you copy this task ID. And go back, put it here. Write 0 for name prompt. I usually leave it here. Girl talking. Something like that. And you generated the character. And then you can use that username on the prompts like before.
+[05:39] So that's how you do it with Kia. And I actually explain how to do it with Sora 2.
+[05:51] As I said, like, it's good to have the ChatGPT Pro account because if you generate a character with a high quality video, it will, the quality will keep up even if you use Sora 2, you know.
+[06:03] It will be, like I said, the mid-tier Sora 2 Pro video. But if you use the Sora 2 way to create a character that the quality is a little bit low.
+[06:12] If you use that character with a Sora 2 Pro video, the video will render on 1080p. But it actually will be low quality. Like, it will be like generating a Sora 2 video.
+[06:23] That's why I recommend, like, to try the high quality image upload thing so you can do the quality a little bit better.
+[06:32] One second. I have an example here on how the steps are actually to create consistent characters on Sora.
+[06:41] For example, we have the base prompt that we created the first video.
+[06:48] We will keep that same prompt and we will remove all the things from the prompt that correlate with background description, character description, voice description, basically anything that can make Sora hallucinate and change things in the video.
+[06:59] For example, if we say, like, kitchen in our prompt, even though the before video was in the kitchen, Sora will actually change a little bit something for the kitchen.
+[07:12] For example, the fridge can go to the other side or the fridge will disappear, you know.
+[07:18] And here's how I like to do it. For example, we will keep the same prompt on the first prompt like we have, because I need to zoom in.
+[07:27] We have all of these details like background, lightning, subject, look, added vibe.
+[07:33] Basically, these all are explaining the character or what she's doing.
+[07:37] What we will do here, like, we will keep this style.
+[07:40] It's a vertical 916 UGC iPhone 50 Pro, etc, etc.
+[07:44] On the location, we will put your character's name in the exact same scene.
+[07:49] This will be like this.
+[07:51] If you want to change the scene, you can say your character in the living room,
+[07:56] in the living room, basically saying, I don't know, in the living room, explain like cozy living room or modern living room, etc.
+[08:05] But that will actually change the background of the video that character appeared.
+[08:12] And if we want to use the same background with the character, for example, we want to generate two videos in the living room.
+[08:17] If the video we generated our character was in the kitchen, the two next videos in the living room won't have the same location.
+[08:26] So I'm actually trying to fix a way around that.
+[08:29] But most of my ads or anything I do is like a yapping method that you've seen lately on Twitter.
+[08:38] Like basically, it's the person talking, holding something in hand, you know, in the same scene.
+[08:41] That's what I like to do.
+[08:43] And the main idea is like to generate talking videos with Sora because they feel way more natural than every other AI tool out there.
+[08:53] And if you want to add B-rolls or images, you can do that with either with Sora or you can do it with Vio, you can do it with Clink 3, you can do it with whatever you want.
+[09:03] Also for the subject, we will say your character name in the exact same scene, talking in the exact same tone and voice, rhythm, and this knowing face or pacing.
+[09:13] I added this because it will keep the tone the same.
+[09:15] Also add this vibe description.
+[09:18] And actually, this part will always stay the same.
+[09:23] For example, one second.
+[09:25] This part will be the same for each 15 second video.
+[09:32] For example, I want to generate like, let's say three videos.
+[09:39] So video one, video two, video three.
+[09:47] And you can see like I have the base prompt on all the videos.
+[09:52] And what we will do now is go and take the actions and timing.
+[09:57] So basically take this part and go here.
+[10:02] And we can say the camera is fixed.
+[10:04] Okay.
+[10:05] User is talking cats.
+[10:06] She looks like you're away.
+[10:07] You can change this for every prompt.
+[10:09] For example, you can remove this.
+[10:12] You can say she talks directly on the camera.
+[10:21] Basically, the only thing you need to change is actions and actions, timing and audio and dialogue for each segment.
+[10:30] One segment is 15 seconds.
+[10:32] The prompt is optimized for 15 second videos.
+[10:35] Because the Sora 2 Pro storyboard thing was kind of lacking on Kia.
+[10:39] I don't know why.
+[10:40] And that's why I optimized it on the 15 second thing.
+[10:44] So we changed.
+[10:47] So this will be our first video with the character.
+[10:51] First video with the character.
+[10:52] And it's important you keep all the characters in the same place.
+[10:56] On the video two, we'll do the same.
+[11:00] For example, add actions and say, I was at home scrolling my phone.
+[11:08] Blah, blah, blah.
+[11:10] We changed the actions.
+[11:12] We changed the script.
+[11:13] And then we do for the third video the action script.
+[11:16] And now that I created my character, I have this one character.
+[11:22] And I will do like on a Google Docs.
+[11:25] It's easier to do it here on a Google Docs.
+[11:27] Click control F and go here and find like the thing you want to replace.
+[11:32] New girl Kia.
+[11:33] And we copy this one.
+[11:36] Go on.
+[11:37] We click replace all.
+[11:39] It will replace.
+[11:40] So now we copy the video one.
+[11:43] And we go here.
+[11:45] Generate it.
+[11:55] As you can see, the video will continue to generate.
+[11:58] What I want to explain in the meantime is using the consistent product method.
+[12:06] That I showed is like creating a video of your product and making it as a character on the Sora app.
+[12:14] For example, here.
+[12:15] Here I have a detox tea I found on Google.
+[12:19] And here like I will use the space goods product.
+[12:23] You need to generate like a video.
+[12:25] Maybe the product is rotating a little bit.
+[12:28] I will use this video to basically create a character on Sora that will use this exact product on our videos.
+[12:41] And how we will do that is like we will go here, here, upload this.
+[12:48] We select like beginning.
+[12:52] The video needs to have audio because for some reason Sora doesn't show you that error.
+[12:59] But if you go inspect the network tab, you will see that the error on the console, this is programming language.
+[13:06] So you will see an error saying a video doesn't have an audio file or something like that.
+[13:15] It's all explained here on how to do the consistent product.
+[13:19] So you can use Seedense 1.5 Pro or you even can use a cling.
+[13:23] Just make a four second or five second video to generate it.
+[13:28] And when we have the product, see this one is generating.
+[13:33] When we have the product and we want to use the character and the product, we could actually do it like this.
+[13:40] So here we have our character and we can do is holding space goods tea on her hand.
+[13:51] Maybe you can do is holding a 30 milliliter space good tea.
+[13:55] So it kind of doesn't make the packaging too big, you know.
+[14:00] So basically like display something that will make the packaging the exact size that's in real life.
+[14:07] So you say like your character is holding a 30 milliliter, let's say,
+[14:13] 50 milliliter of 50...
+[14:19] 500 grams, like my time.
+[14:21] 50 gram space goods tea on her hand.
+[14:24] And what this will do...
+[14:26] Let me check if the video uploaded.
+[14:29] Still not uploading, I don't know why.
+[14:34] Let's see if this video generated.
+[14:36] I will see like it's the same scene as before.
+[14:43] 
+[14:43] There's the same dialogue.
+[14:44] 
+[14:44] This is the one I use.
+[14:45] Anytime I have a meeting, I just open up this app called Cluely.
+[14:46] When I'm in a meeting, I just hit start recording.
+[14:47] I love the notes it gives me.
+[14:48] 
+[14:48] 
+[14:48] Use a note taker.
+[14:49] This is the one I use.
+[14:50] Anytime I have a meeting, I just open up this app called Cluely.
+[14:52] Sorry guys.
+[14:53] Oh, why is not not working?
+[14:55] Sorry guys.
+[14:58] seen as before, the same dialogue.
+[15:01] Use a note taker.
+[15:02] This is the one I use.
+[15:03] Anytime I have a meeting, I just open up this app called Cluely.
+[15:05] When I'm in a meeting, I just hit start recording.
+[15:07] I love the notes it gives me.
+[15:10] They're really organized and easy to read and the notes are shareable.
+[15:13] Keeps all of the notes in this dashboard.
+[15:15] Use a note taker.
+[15:16] This is the one I use.
+[15:17] Anytime I have a meeting, I just open up this app called Cluely.
+[15:19] When I'm in.
+[15:20] Sorry guys.
+[15:21] Oh, and why is this not uploading?
+[15:28] So basically you understood that.
+[15:30] And what you can do is like, as I told you, just change the actions and the dialogue and
+[15:34] that's it.
+[15:35] You will have like a one, two minute video if you use the Sora 2 in like maybe 20 to 30
+[15:42] minutes if you do batch batch generation.
+[15:44] So basically like just go.
+[15:51] Just create multiple.
+[15:52] So you can just create multiple videos.
+[15:54] For example, give prompt different actions and timing generate.
+[15:58] Give prompt different actions and timing generate.
+[16:00] Just you put three, four, five videos at the same time and you will have like a whole one
+[16:05] minute video in two minutes.
+[16:06] For example, let's say you don't have to wait like one by one, you know?
+[16:11] And this is the, how the whole workflow and it's actually really simple that you can even automate
+[16:16] it.
+[16:17] But because of issues with key and everything, I kind of stuck on that part.
+[16:22] So I couldn't really do that automation thing.
+[16:25] But as you see, as you see, it's like really crazy.
+[16:29] You just download, fix the voice even with, you can fix it with Adobe Podcast.
+[16:36] With this tool.
+[16:39] I use it for pretty much all of my videos.
+[16:42] It enhances speech and everything like that.
+[16:46] It's basically a really good tool.
+[16:47] I pay the, the creative cloud.
+[16:50] I don't know which plan it was.
+[16:51] I have Photoshop and all of them in one place and this comes free, free, but I think you need
+[16:57] to pay, I don't know what's the price.
+[17:00] Yeah.
+[17:01] You need to have the premium plan.
+[17:04] I would suggest buying this.
+[17:05] It's one of the best tools on the market.
+[17:08] Oh yeah.
+[17:09] Now we have this Zappi pouch.
+[17:12] Now we create it.
+[17:14] Continue.
+[17:16] Copy this.
+[17:17] And we have the name.
+[17:18] We'll go here.
+[17:19] Zappi pouch.
+[17:20] Go.
+[17:21] Copy this.
+[17:22] Remove.
+[17:23] Only me.
+[17:24] Okay.
+[17:25] Now we go here and say, we paid that prompt.
+[17:36] 0xROS is holding a 50 gram Zappi pouch on her hand.
+[17:43] She talks directly and we keep it.
+[17:44] We generate the video.
+[17:46] So I kind of think you now understand how everything goes, how everything works.
+[17:52] Zora 2 is like the hardest, one of the hardest AI models to say.
+[17:59] You need to kind of understand how it really works.
+[18:04] And once you figure it out, it will be like really easy to do every style of video you want,
+[18:10] to catch on on other tools.
+[18:12] For example, with the Zora 2 issues that are we having these two weeks, it's always down
+[18:20] on Kia, for example.
+[18:21] And I've seen a lot of you guys like either are waiting or are not using other tools.
+[18:28] For example, you could use the same prompt.
+[18:32] For example, here I did the old woman with a pumpkin seeds for blood pressure, one of the
+[18:37] products I'm running.
+[18:40] I used the exact same prompts from Gemini, even though it's not optimized for Nano Banana.
+[18:47] But I got the prompt.
+[18:48] And I put it here.
+[18:50] I just remove the actions and the dialogues and it's generating me like a pretty good UGC video.
+[18:57] And you can use this with the VO3.1 and you can do a really good video, for example.
+[19:04] Try using this platform.
+[19:05] You have a 5 cents 4k Nano Banana image, but don't leak it, guys.
+[19:09] Don't leak it.
+[19:11] It's images.laozhang.ai.
+[19:15] You need to open an account and I think it's apilaozhang.ai.
+[19:20] And you just use that API key here.
+[19:22] And it's actually really fast.
+[19:24] Before I was using FreePic with an unlimited version, but that was really slow, like basically
+[19:29] taking three, four, five minutes per one image.
+[19:33] And I would really recommend to even buy the Google Ultra plan for VO3.1.
+[19:42] It's really a crazy plan.
+[19:44] You can generate VO3.1 fast videos for 10 credits.
+[19:49] So I don't know how much.
+[19:50] For example, for three months, one month is like 1.25, I think on the new version.
+[19:56] Yeah, she's holding a phone.
+[19:58] Okay.
+[19:59] But I like the 4k version is really good.
+[20:02] You just need to fix the prompts.
+[20:04] But as you can see, like the details are really good.
+[20:07] And it's like 5 cents.
+[20:09] Let me see.
+[20:10] Yeah, it's 5 cents for 4k.
+[20:12] So I'm using this tool a lot to generate images for, to use them on VO3.1.
+[20:21] But the video is about Sora 2.
+[20:24] I will go on another video to explain how VO3.1 works.
+[20:29] One second.
+[20:30] One second.
+[20:31] Let's see.
+[20:32] Yeah, so.
+[20:33] As you can see, now I have the prompt.
+[20:37] I needed to explain it better, but you saw the product here.
+[20:41] See?
+[20:42] The product is here.
+[20:43] What I did was add the product.
+[20:45] Here's my character is holding 50 grand.
+[20:47] That's why it appears now.
+[20:48] The product name on her hand.
+[20:49] We will use this.
+[20:50] We will add it on the actions, but we also will add it to the audio and dialogue.
+[20:54] We say like XeroxRoseTest is holding ZappyPouch.
+[20:56] And you write the prompt so it actually holds.
+[20:59] And that's basically how you generate like consistent videos, as you can see.
+[21:01] Like, I did something weird here.
+[21:02] I don't know why.
+[21:03] It's the same place, the same character, as you can see.
+[21:05] And basically you can generate infinite videos of the same character in the same place.
+[21:08] Like you can see like even the belt is kept the same, no?
+[21:11] And that's how everything works basically.
+[21:13] So, to describe the steps.
+[21:14] One.
+[21:15] We deconstruct another video.
+[21:18] Step two.
+[21:19] We take the first prompt and generate a video.
+[21:24] Three.
+[21:25] We use generated video to create a character.
+[21:29] Create a character.
+[21:32] And we use that character to generate multiple videos in the same scene.
+[21:38] We use product character if we want to display the product.
+[21:42] So basically these are the steps.
+[21:43] We deconstruct the video.
+[21:44] We take that first prompt, create our video.
+[21:46] Using that video on Sora, with clicking the three dots, we create the character.
+[21:48] We give it a name.
+[21:49] We use that character to generate multiple videos in the same scene, same tone, same way of talking.
+[21:52] For example, here you can see like this is exactly the same.
+[21:55] What is this called?
+[21:56] The same earrings, the same makeup, the same clothes, car is the same, location is the same.
+[22:00] Park talk cars are the same as you can see.
+[22:01] So basically like everything is the same.
+[22:03] And we actually, if you want to include the product, we'll use the method I showed you.
+[22:08] Like this method.
+[22:09] Where is that?
+[22:10] This one.
+[22:11] You create this.
+[22:12] Create a side character, upload the video, upload for seconds, give it a name and use it on prompt.
+[22:16] For example, your character is holding detox dbg and that's it basically.
+[22:20] So that's the whole workflow and it can easily be automated if you want.
+[22:23] And I believe, and I did the workflows really simple so everyone can do it.
+[22:27] But I don't know what happened these kind of days.
+[22:28] Maybe the people are still stuck on the V1 version and didn't call out with V2, but it's really easy to do these kind of videos.
+[22:33] And I also will share a new cloud prompt that I did for creating script to video Sora 2 prompts.
+[22:39] For example, here I gave the avatar, the script, the art style, additional requirements, and it will generate me like the full prompt, the second one.
+[22:45] And then it will generate me like the segment two, three, four, five with a character, as you can see, like location, subject, vibe, actions, dialogue, intent.
+[22:53] And basically you can just copy paste and after you don't have to do all the manual things.
+[22:56] So this is how everything works.
+[22:58] I believe you understood it because it's really simple.
+[23:01] Next week, a really good work close will be added.
+[23:05] I don't know if you guys are using the VO3 automation, but it's really good to do especially videos with VO3.1.
+[23:12] But yeah, that's it.
+[23:13] If you need anything else, just let me know.

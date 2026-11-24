@@ -1,0 +1,18 @@
+{
+  "_help": "Copy this file to brand/brand.json and fill it in. Every script, prompt and checker reads your brand from here. Keep each field short and plain.",
+  "brand": "YourBrand",
+  "website": "yourbrand.com",
+  "product": "YourBrand Widget",
+  "product_word": "widget",
+  "product_look": "What the product looks like on camera: shape, colours, logo position, materials. The vision checkers compare frames against this and the photos in brand/product-photos/.",
+  "how_it_works": "How the product is used in a demo, step by step, in one or two sentences.",
+  "complete_demo": "What a complete, convincing demo shot shows from start to finish (the before, the action, the visible result).",
+  "problem": "The problem the ad shows before the product appears (the mess, pain or frustration).",
+  "audience": "Who buys it, in a few words.",
+  "never_show": [
+    "Things the product must never be shown doing, or claims you never make."
+  ],
+  "banned_phrases": [],
+  "transcribe_hint": "A short line of words Whisper should expect: brand name, product name, category words.",
+  "default_offer": "Your current offer line for end cards, e.g. 'Buy 1 get 1 free + free shipping'."
+}

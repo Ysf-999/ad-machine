@@ -1,0 +1,4 @@
+interface:
+  display_name: "Offer Diagnosis"
+  short_description: "Stress-test a DTC offer for scale"
+  default_prompt: "Use $offer-diagnosis to diagnose this offer, landing page, reviews, and competitor context."

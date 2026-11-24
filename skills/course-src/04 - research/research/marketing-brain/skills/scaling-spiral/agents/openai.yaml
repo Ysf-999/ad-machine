@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scaling Spiral"
+  short_description: "Expand winners across formats"
+  default_prompt: "Use $scaling-spiral to turn winning ads into horizontal variations, AI talking heads, and creator briefs."

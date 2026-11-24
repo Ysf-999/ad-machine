@@ -1,0 +1,8 @@
+{
+  "mock": true,
+  "cap": "12",
+  "limits": {"kie": 2, "elevenlabs": 1, "ffmpeg": 2},
+  "ads": [
+    {"id": "demo-base", "type": "ad", "beats": [1], "hooks": ["demo-h1", "demo-h2", "demo-h3"]}
+  ]
+}

@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+"""Post an automated alert to Slack through Composio, @-mentioning you so it notifies.
+
+  bin/slack-post <slack_user_id> <message_file | ->
+
+Needs the Composio CLI logged in with a Slack account linked (`composio link slack`).
+The watcher calls this when cloud/controller/config.json has "slack_user_id" set; leave it empty to turn Slack off.
+"""
+import json, shutil, subprocess, sys
+from pathlib import Path
+
+
+def main():
+    if len(sys.argv) != 3:
+        sys.exit(__doc__)
+    user, src = sys.argv[1], sys.argv[2]
+    text = sys.stdin.read() if src == "-" else Path(src).read_text()
+    tag = f"<@{user}>"
+    if not text.lstrip().startswith(tag):
+        text = f"{tag} {text}"
+    composio = shutil.which("composio") or str(Path.home() / ".local/bin/composio")
+    # Posting to a user id sends a DM to that person.
+    r = subprocess.run([composio, "execute", "SLACK_SEND_MESSAGE", "-d",
+                        json.dumps({"channel": user, "markdown_text": text})], capture_output=True, text=True)
+    if r.returncode:
+        sys.exit(f"slack post failed: {r.stderr.strip() or r.stdout.strip()}")
+    print(json.dumps({"channel": user, "via": "composio"}))
+
+
+if __name__ == "__main__":
+    main()

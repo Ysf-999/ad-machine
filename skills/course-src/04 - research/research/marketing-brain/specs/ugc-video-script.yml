@@ -1,0 +1,124 @@
+{
+  "name": "ugc-video-script",
+  "description": "Validates UGC video script packs across creator_brief, full_script, and ai_talking_head delivery modes. Enforces required structure, source-hierarchy tags on every line, the spoken word budget (45-55 words per 15s, hard caps per length), and Strategy Notes lever coverage.",
+  "required_top_fields": [
+    "Format",
+    "Delivery Mode",
+    "Platform",
+    "Target Length",
+    "Audience",
+    "Awareness Level",
+    "Creator Profile",
+    "Offer"
+  ],
+  "allowed_formats": [
+    "expert_authority",
+    "dialogue_qa",
+    "pattern_interrupt_rant",
+    "problem_solution_rant",
+    "testimonial",
+    "unboxing",
+    "day_in_life",
+    "fake_vs_real_psa",
+    "street_interview",
+    "comparison_skit",
+    "timeline_reveal",
+    "case_study_narrator",
+    "demonstration"
+  ],
+  "allowed_delivery_modes": [
+    "creator_brief",
+    "full_script",
+    "ai_talking_head"
+  ],
+  "allowed_platforms": [
+    "meta",
+    "tiktok",
+    "youtube_shorts"
+  ],
+  "allowed_lengths": [
+    "15s",
+    "30s",
+    "60s",
+    "90s",
+    "180s"
+  ],
+  "spoken_word_budget": {
+    "15s": {"target_min": 45, "target_max": 55, "hard_cap": 60},
+    "30s": {"target_min": 90, "target_max": 110, "hard_cap": 120},
+    "60s": {"target_min": 180, "target_max": 220, "hard_cap": 240},
+    "90s": {"target_min": 270, "target_max": 330, "hard_cap": 360},
+    "180s": {"target_min": 540, "target_max": 660, "hard_cap": 720}
+  },
+  "required_sections": [
+    "Reference Control Selection",
+    "Hook Options",
+    "Script",
+    "Spoken Word Count",
+    "B-Roll Shot List",
+    "Do's",
+    "Don'ts",
+    "Launch Notes"
+  ],
+  "hook_options": {
+    "expected_count": 3,
+    "require_source_tag": true
+  },
+  "script": {
+    "expected_beats": ["Hook", "Pain", "Mechanism", "Proof", "Objection", "CTA"],
+    "require_source_column": true
+  },
+  "strategy_notes": {
+    "required": true,
+    "heading": "Strategy Notes",
+    "required_fields": [
+      "Awareness Stage",
+      "Market Sophistication",
+      "Buyer Belief Shift",
+      "Market Signal",
+      "Reference Control Pattern",
+      "Schwartz Lever",
+      "Halbert Lever",
+      "Kennedy Lever",
+      "Cialdini Lever",
+      "Wundt Inhibition",
+      "Copy-Chief Pass"
+    ],
+    "reference_terms_any": [
+      "awareness",
+      "sophistication",
+      "belief shift",
+      "starving crowd",
+      "aida",
+      "offer",
+      "proof",
+      "cta",
+      "contrast",
+      "social proof",
+      "authority",
+      "scarcity",
+      "inhibition",
+      "excitation",
+      "voc",
+      "market signal"
+    ]
+  },
+  "require_testing_recommendation": true,
+  "banned_patterns": [
+    "guaranteed cure",
+    "guaranteed results",
+    "clinically proven to cure",
+    "works for everyone",
+    "no side effects",
+    "doctor approved miracle",
+    "fake scarcity",
+    "invented testimonial"
+  ],
+  "price_mismatch_severity": "warning",
+  "extreme": {
+    "required_phrases": [
+      "Mode: --extreme",
+      "User confirmed final review responsibility"
+    ]
+  }
+}

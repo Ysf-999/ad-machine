@@ -1,0 +1,844 @@
+{
+ "_about": "Starter taste rules (T-rules): brand-neutral craft rules carried over from a working setup. They grow from YOUR own review notes: every note logged with tools/feedback.py is tagged against these regexes; a note that matches none is NEW and becomes a rule with `feedback.py taste-add`, or a refinement with `feedback.py taste-edit` (old wording kept in 'was'). These sit ABOVE every R/S/C/A rule: a T-rule always wins. Ids keep their original numbers (gaps are rules that were brand-specific and removed); tools and checkers refer to some ids by number, so never renumber. OWNER_TASTE.md is generated from this file + feedback/log.jsonl by `feedback.py taste` - edit rules here, never in the .md.",
+ "rules": [
+  {
+   "id": "T01",
+   "group": "Product (AI-drawn)",
+   "title": "AI product = the real product, exactly",
+   "rule": "Match the real product photos in brand/product-photos/ and the product_look line in brand/brand.json: shape, proportions, thickness, colours, materials and logo position. Never add or remove parts, make it flimsy, puffy, shiny or oversized, or let it change identity within a clip. A product resting in a still lies on its real support surface at true scale, with camera-correct perspective, natural contact and a matching shadow: an upright frontal cutout or an arbitrary squash is not a realistic placement. Use an angle-matched real photo or scene-aware editing from the product references.",
+   "re": "product[^.]{0,60}(shape|fake|flimsy|accurate|accurat|glitch|wrong|incorrect|too (big|small|long|thin|flat|shiny)|looks? (very )?flat|appearance)|changes? shape|logo disappear|reference needs to be re ?done|look at my product",
+   "stages": [
+    "plan",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T02",
+   "group": "Product (AI-drawn)",
+   "title": "Demo motion: the product works the way it really works",
+   "rule": "The product is used exactly the way it really works (how_it_works in brand/brand.json), with clear, deliberate motion that is more than a token gesture. Never hovering, tapping, floating or a vague wave near the problem. The result appears exactly where the product acts and nowhere else; the problem never moves around, spreads or vanishes on its own. Use a start+end pair whose end frame is the same shot with the result complete.",
+   "re": "tapping|taps? (up|her)|up and down|hover|magically|disappear|not (actually )?(touching|using)|pressed (flat|against)",
+   "stages": [
+    "plan",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T03",
+   "group": "Product (AI-drawn)",
+   "title": "No flipping or rotating the product in AI clips",
+   "rule": "In AI clips nobody flips, spins or rotates the product: if it comes out of the box one way it stays that way. Packaging opens normally, never ripped. Hands grip the product realistically. No floating products, no cut-off or floating arms, every arm attached and normal.",
+   "re": "flip|rotate (it|anything)|rotating|rip(s|ped)? (it )?open|grip|float(ing)? in the air|arm (is )?cut off|floating on screen|fill in the arm|fingers around",
+   "stages": [
+    "plan",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T04",
+   "group": "Product (AI-drawn)",
+   "title": "Logos: never blur unasked; ours stays sharp",
+   "rule": "Never blur any logo or any patch of a clip unless the owner asks for that exact blur. Default is NO blur anywhere; if a logo worries you, flag it in DELIVERY.md and leave it as filmed. Our own logo is never blurred, smeared or covered (edit the empty plate, composite the product last). Packaging carries our logo. Burned-in creator captions are cropped/reframed away or the clip is swapped, never blurred.",
+   "re": "blur[^.]{0,40}logo|logo[^.]{0,40}blur|unblur|cover(ed)? the logo|hide the logo",
+   "stages": [
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T05",
+   "group": "Real demo footage",
+   "title": "Demo clip = ONE take: action -> visible result",
+   "rule": "Every real demo clip (moment kind demo-take) is one uncut take that shows the product in use and the visible result forming, all in the same shot (complete_demo in brand/brand.json). Never cut before the result shows, never show only the result, never an action-only clip, never cut halfway through a stroke, and never start a take partway through its action. Keep the beginning short, hold the result ~0.5-1 s, then cut. When the owner asks for a full take, play it from the start of the action until the result is clear, and speed it up (~1.5x) rather than cut into it so it still fits its line. If a clip does not have both the action and the result, do not use it.",
+   "re": "one take|one continuous take|in one shot|cut(s)? (the clip )?too (early|fast)|too many cuts|halfway|show the (full )?(action|result)|from the start",
+   "stages": [
+    "shot",
+    "master"
+   ],
+   "enforced_by": [
+    "shot_check",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T06",
+   "group": "Real demo footage",
+   "title": "Only strong, owner-picked demo clips; banned list is law",
+   "rule": "Use the strongest demo clips first: the owner's favourites, then INDEX quality 3. When two demo takes sit back to back, give the longer screen time to the take that shows the full action through to the result. A clip the owner calls weak, not satisfying or 'never again' goes into footage/BANNED_CLIPS.json the same minute and is never used again (preflight fails on it). Every demo clip is unique across all hooks of a batch.",
+   "re": "better (demo )?(clip|footage|broll|b-roll)|bad (demo )?(clip|footage)|never use (it|this|that)[^.]{0,20}again|ever again|weak|not satisfying|satisfying|stronger|strong (good )?(clip|footage)|clips i like|not a strong clip|dont like (it|these|this)|don'?t ever use",
+   "stages": [],
+   "enforced_by": [
+    "preflight"
+   ]
+  },
+  {
+   "id": "T07",
+   "group": "Real footage & b-roll",
+   "title": "Real footage over AI, throughout",
+   "rule": "Use REAL footage wherever it exists: the product demo, the problem, the people using it. AI b-roll is only for what can't be filmed (extreme close-ups, impossible shots) and must look real. For a talking AI person, cover most of the video with real b-roll under her voice. Source missing clips online and save good finds for reuse. Sourced clips with burned-in captions, text or watermarks are skipped (or cropped past the text without going blurry).",
+   "re": "real (footage|broll|b-roll|product)|more real|video footage|our real product shots|use much more real|no text (captions|on)|text on (the )?screen|burned-in",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T08",
+   "group": "Real footage & b-roll",
+   "title": "B-roll matches the line literally",
+   "rule": "Every visual matches what the line says, checked line by line before delivery: a car on a car line, a rug on a rug line (not hardwood), the named object actually in frame, the problem itself on problem lines (not a cute face). Never show another product as if it were ours.",
+   "re": "match(es|ing)? (the|this) script|matches? the line|unless the script|unless it mentions|doesn'?t match|not matching|another (tool|product)|not even (the|our) product",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T09",
+   "group": "Real footage & b-roll",
+   "title": "Never repeat a clip, scene, room or angle",
+   "rule": "Never reuse the same clip window, scene, room or camera angle twice in one ad. Vary the rooms and angles; an AI ad that keeps returning to the same room is boring. Another portion of the same source video is fine. Demo clips are unique across all hooks of a batch. Preflight flags repeated shots automatically.",
+   "re": "same (scene|room|clip|camera angle|scene multiple)|reus(e|ing) (this|the same)|already (used|seen)|stop showing this same|different scenes and rooms|repeat(ing)? the same|variety|so many times",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T10",
+   "group": "Problem look",
+   "title": "The problem reads instantly and looks real",
+   "rule": "The problem (problem in brand/brand.json) reads in half a second and looks like the real thing, not staged: real texture, real scale, the way it actually happens in a home. Never an exaggerated prop pile placed on top for the camera. Things meant to be clean or solved show zero trace of the problem. Failed-alternative demos: the problem is there before AND after the pass.",
+   "re": "looks? staged|too (much|fake|obvious)|sitting on top|on top of the|not (realistic|real) enough|before and after|stays? (dirty|there)",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T12",
+   "group": "Problem look",
+   "title": "Failed alternatives look real and actually fail",
+   "rule": "A failing alternative (the thing the buyer uses today) must VISIBLY fail: the problem is still there after the pass. Never put a clip where the alternative works well on a failure line; prefer real footage of it failing. The alternative looks like the real thing at its real size, keeps the same shape from the first frame to the last, and is used the way people really use it. Never a staged clip with the problem placed on top.",
+   "re": "actually (cleaning|working) (it )?(very )?well|doesn'?t (look like it )?fail|alternative[^.]{0,30}(fake|size|too big|shape|real)|competitor[^.]{0,30}(fake|real)",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T13",
+   "group": "Text & graphics",
+   "title": "All text perfectly straight",
+   "rule": "No text, bubble, pill, card or caption is ever rotated, tilted or crooked, in any style (hook bubbles, keyword text, sale text). Preflight measures text angle on the master and fails anything over 1.5 degrees.",
+   "re": "crooked|rotated|not straight|tilt|isn'?t straight|not rotated",
+   "stages": [
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T14",
+   "group": "Text & graphics",
+   "title": "Text centred and on one line",
+   "rule": "Text sits centred in its bubble/pill (equal padding), the bubble centred on screen unless placed on purpose, and short keywords stay on one line (never split a word across lines). Main content sits around the vertical centre, not crammed into the top half.",
+   "re": "cent(er|re)d|cent(er|re) the|center it|not cent|wraps|one line|sits too high|text better",
+   "stages": [
+    "still",
+    "master"
+   ],
+   "enforced_by": [
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T15",
+   "group": "Text & graphics",
+   "title": "End card: one simple offer message",
+   "rule": "End cards are simple: ONE offer message (default_offer in brand/brand.json), top-centre, slightly bigger, each line in its own bubble. Never a pile of offer bubbles at once. The end voiceover says the same thing as the card. The last word and the music finish before the video ends.",
+   "re": "end card|end of the video|at the end|too much text|shop now|offer (text|bubble)",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T16",
+   "group": "Text & graphics",
+   "title": "Hook text and captions placement",
+   "rule": "Captions sit bottom-centre inside the safe zone and never cover the product or the demo action. Captions show 1-3 words, only while each word is spoken. On voiceover ads the script captions run from frame one, including the hook: no top hook-text bubble on top of them unless the owner asks. A hook graphic (clock, counter, calendar) sits slightly higher so it never touches the captions. On non-VO ads (song, silent text ads) the hook text is on screen from frame one and stays until the first scene change.",
+   "re": "hook text|text overlay|overlay bubble|captions?[^.]{0,40}(bottom|top|cover|fit)|move the captions|regular captions",
+   "stages": [
+    "master"
+   ],
+   "enforced_by": [
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T17",
+   "group": "Text & graphics",
+   "title": "Captions synced to the very last second",
+   "rule": "Captions land on the spoken or sung word for the WHOLE video. The second half is where they drift, so check the full length (caption_sync_check on the master, plus a Whisper diff of the last third). Spoken numbers and times show as one card the moment they're said ('1 AM').",
+   "re": "captions?[^.]{0,30}(delay|timed|sync|match|accurate)|delayed|out of sync",
+   "stages": [
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T18",
+   "group": "Voice & audio",
+   "title": "Voiceover sounds like a real person in a real room",
+   "rule": "The VO must not sound AI: no perfect close-mic studio sound, no high pitch, no robotic flow. Give it the room sound of the scene with light, natural echo, but not so much it sounds far away. For any AI UGC or new voice, render 5 voice options (full opening sentence in context) and let the owner pick BEFORE building the ad. One consistent voice across the whole video and all its hooks.",
+   "re": "voice ?over[^.]{0,60}(realistic|ai|fake|natural|bad|redo|consistent|unnatural)|sounds? (so |too |very )?(ai|fake|robotic)|echo|high pitched|close to the mic|5 (new |different )?(voice|realistic|option)|voice (isn'?t|isnt) realistic",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T19",
+   "group": "Voice & audio",
+   "title": "VO pacing natural, no clipped words",
+   "rule": "VO runs at a natural speed: no rushed second sentence, no spliced pauses, a short real pause at commas and periods, slightly brisk overall (1.05-1.1x is fine). Never cut a word: the last word finishes and breathes before the cut, and the video never ends mid-word. Every word is pronounced correctly in every hook: the brand name, numbers and units are spelled phonetically for the TTS and Whisper-checked per take before building. A sung word must be pronounced right; re-sing the line if not. Emphasise the words the script stresses.",
+   "re": "too (fast|quick|slow)|rushed|way too fast|cut(s)? out|clipped|cut(s)? off|cuts? (slightly )?too early|pause|breathe|pronounc|emphas|unsmoothly|slower|faster",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T20",
+   "group": "Voice & audio",
+   "title": "Lip sync very accurate or hide the face",
+   "rule": "Any on-camera talking person is lip-synced very accurately on every clip. If an AI person still looks fake or the sync is off after one fix, shrink them: cut her out, small in the bottom-left corner over full-screen real b-roll. Never deliver blurry or obviously fake talking heads.",
+   "re": "lip ?sync|lipsyc|lip-sync",
+   "stages": [
+    "plan",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T21",
+   "group": "Voice & audio",
+   "title": "Clean audio: no hum, no stray AI sounds",
+   "rule": "No unwanted hum, electric buzz, white noise/hiss or stray AI voices. Never add a synthetic room/air-noise bed to a VO: the voice compressor and loudnorm lift it into audible hiss. Room sound = reverb only; check the VO stem's pause floor (aim <= -50 dBFS, nothing broadband above 6 kHz) before mixing, and fix noise on the noisy stem only (stationary denoise), never by gating to digital silence. Native AI clip audio stays muted under the VO. SFX only accompany visible events and stay precisely timed.",
+   "re": "buzz|hum\\b|hiss|white noise|native|background audio|weird (quick )?sound|gulp|mute|male voice|sound effect",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T22",
+   "group": "Voice & audio",
+   "title": "Music: under the whole video, quieter than the voice",
+   "rule": "Background music matches the tone, plays under the FULL video and never drops out (no music stops unless the owner asks), sits clearly quieter than the voice (lean slightly quieter), and the video ends with the music finishing, never a silent tail. Default the bed lower: start VO ads at music_under_db 9.",
+   "re": "music|song (extend|ends)|no song|(more |slightly )?(loud|quiet)(er)?\\b",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T23",
+   "group": "Pacing & edit",
+   "title": "Smooth: no lag, freezes, glitches or flashes",
+   "rule": "Every clip plays smoothly: no lag, stutter, frozen frames, choppy motion, glitchy pixels, blur bands, reversed motion (someone walking backwards) or split-second flashes. Preflight runs freeze and repeat detection; anything flagged gets fixed before review. In stills, keep clothes and furniture whole, sharp and geometrically normal: no erased/blurred edges, masking intrusions, warped support planes or filled rectangular patches.",
+   "re": "lag|choppy|frozen|freez|glitch|smooth|split second|unsmooth|pixels|stutter|paused|reverse the clip|walking backwards|messed up with the blur",
+   "stages": [
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T24",
+   "group": "Pacing & edit",
+   "title": "Hook in one or two takes; smooth hook-to-body",
+   "rule": "The hook is one or two continuous takes, never a barrage of hard cuts. It starts on the first spoken line with no dead pause, and moves into the body with a clean transition rather than a jarring cut. Preflight counts the cuts in the first 6 s.",
+   "re": "hard cuts?|too many cuts|one or two takes|clean transition|transition smoothly|no hard cut|pause at the start|straight into the script|first (2|two) seconds|wastes the hook",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T25",
+   "group": "Pacing & edit",
+   "title": "Engaging scenes with movement, big swings",
+   "rule": "No static image with a slow zoom, no people standing and staring. Scenes have real movement and several things happening (characters talking and doing things, the problem visibly happening), with emotion on emotional lines. Hooks take big, attention-grabbing visual swings. Black text cards get real b-roll behind them.",
+   "re": "engaging|static|slow zoom|attention[- ]grabbing|more things happen|lots of things|boring|more movement|more emotion|big swings|extreme|zoomed[- ]in picture|walking towards the camera|actually moving",
+   "stages": [
+    "plan",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T26",
+   "group": "AI realism",
+   "title": "AI people sharp and real, from real reference photos",
+   "rule": "AI people are built from a REAL reference photo, are sharp and high-res (never blurry), keep the same face, clothes and voice in every clip, and match their age to their voice. Recurring characters keep the SAME outfit in every scene they appear in, and any pet or recurring object looks identical in every shot. Scenes are physically logical: people stand where they would, objects are their real size, people really touch what they open, poses make sense.",
+   "re": "blurry|too blurry|(looks|look) (very |so )?fake|realistic|high(er)? quality|reference (image|photo)|real reference|ai looking|looks ai|same (black )?(outfit|clothes)|maintain the same|look accurate",
+   "stages": [
+    "plan",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T27",
+   "group": "Process",
+   "title": "Small fixes only; keep what was liked",
+   "rule": "A revision changes ONLY what the owner flagged. Keep everything he liked exactly as it is (same start frame, same clip, same timing) and re-render only that scene. Never rebuild a liked version: 'the last run was much better' happens when redos change more than asked. Fit replacements into the same time slot so the rest of the timeline doesn't move.",
+   "re": "exact same|same exact|keep (the )?(key )?(starting )?frame|everything (else )?(the )?(exact )?same|leave everything|only change|got (even )?worse|was much better|same time ?frame|keep everything|worse|was better|(put|bring) the original[^.]{0,40}back|original[^.]{0,30}(was|is) better|only (that|this) scene|everything else doesn'?t need",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T28",
+   "group": "Process",
+   "title": "A revision on one hook applies to all hooks",
+   "rule": "Any revision on one hook or version of a batch is applied to every hook/version of that batch, unless it's clearly hook-specific. Re-check all versions before pushing.",
+   "re": "all (3|three) (videos|versions|hooks|variation)|for all videos|all hooks|every (video|version)|apply to all|apply them to all|done to all videos|to all (the )?videos|same thing and apply",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T29",
+   "group": "Process",
+   "title": "Offer options where taste decides; learn the picks",
+   "rule": "For picks that are pure taste (voice, hook visual, a hero demo clip, a hard b-roll slot) show 3-5 options at once in a LOCAL PICKER PAGE (tools/option_picker.py -> OPTIONS.html, also listed on the ad board), never on Frame.io (Frame.io is for dissecting a full video). Then log which one he chose and why in feedback/log.jsonl, so the next ad starts from his pattern. Everything else: decide yourself, QA yourself, and don't ask for approval on simple steps. Don't stop for start-frame or scene approval: build the whole ad, QA it yourself, and he revises the finished video. EXCEPTION singing dramas: the song take and the full set of frames go to him for approval before any clip is made.",
+   "re": "options|choose from|to choose|picks? board|variations (to|so i can) cho",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T30",
+   "group": "Process",
+   "title": "Strict self-QA before he sees it",
+   "rule": "Before anything reaches review: run tools/preflight.py (automatic checks + this list line by line) and fix every FAIL. Re-check every previous revision on this ad and its batch is still applied. Apply only NEW revisions when he repeats an older one by accident. He reviews finished videos; he should never find a mistake already on this list.",
+   "re": "quality (assurance|checks)|qa (checks|it)|check (it|everything) yourself|same mistakes|you keep|again and again|learn|revisions i (previously|already)|previous runs",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T31",
+   "group": "Story",
+   "title": "Open loop: the product appears only at its reveal",
+   "rule": "Never show the product (or the offer) before the line that reveals it. Hooks build curiosity, then the hook's problem gets paid off. A pre-reveal shot of someone using something hides the product (back view, out of frame). The payoff returns to the hook's place.",
+   "re": "(dont|don't|not) show the product (yet|too early)|introduce the product later|product (too )?early|open loop|before (the|its) reveal|dont make it clear what product",
+   "stages": [
+    "plan",
+    "shot",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T32",
+   "group": "Process",
+   "title": "Delivery flow: review copies to Frame.io, finals delivered, no asking",
+   "rule": "Every review copy of a FULL VIDEO goes to Frame.io (one folder per batch, all hooks), never only local files. Clip or hook options for one slot are not review copies: they go in the local picker (T29). Final approval is the owner's Approve button on the ad board (or his clear OK in chat): once every ad of the batch is approved, the finals are delivered to their own Drive folder and the Frame.io folder is cleaned, without asking.",
+   "re": "put (it|them|all)[^.]{0,20}(on|in) frame\\.?io|on frame\\.?io|google drive|upload (it|them|all|that)|sub ?folder|name (it|them|the files)|rename|remove it off",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T33",
+   "group": "Story",
+   "title": "Length: under 2 minutes",
+   "rule": "Aim for 2 minutes or less unless the owner asks for long form; if a reference runs longer, cut a shorter version. Say the real length up front when it grows past the plan.",
+   "re": "too long[^.]{0,20}(video|ad)|way too long|above 2 minutes|so long, like|3 minutes",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T34",
+   "group": "Story",
+   "title": "Hooks call out the problem and the buyer directly",
+   "rule": "Every hook names the problem plainly (problem in brand/brand.json) or the buyer (audience) in the first line, so the viewer knows at once it's for them; clever hooks that hide the problem lose. EXCEPTION: drama and singing-drama ads open COLD and unaware for cold audiences: line 1 and the first frame are a story moment with no problem shown, and the problem arrives in the bridge. When targeting an avatar, the hook targets that viewer.",
+   "re": "call(s)? out (the problem|the buyer|the customer)|directly call out|targeting their problem",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T35",
+   "group": "Learned",
+   "title": "Product shots are real footage, never a pasted photo card",
+   "rule": "Never show product photos flat on a white square/card or pasted into a scene. For product moments use real product footage (unboxing, product in hand, product b-roll).",
+   "re": "white square|product shots?|images plainly",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T36",
+   "group": "Learned",
+   "title": "Physically real placement in windows and vehicles",
+   "rule": "A person or animal seen in a car or house window sits whole and physically inside behind the glass (body and head all inside, glass and frame in front). Never a head floating in or poking through a window; if the generator can't do it, shoot from inside instead.",
+   "re": "float\\w* (inside|in) (the )?window|head .*window",
+   "stages": [
+    "plan",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T37",
+   "group": "Learned",
+   "title": "Song ads copy the reference song",
+   "rule": "When a song ad remakes a reference ad, the song must sound just like the reference song: make it as a cover of the reference track with our lyrics (kie upload-and-cover, audio_weight ~0.95), same tempo, key, voice and band. Fresh songs in a described style don't count.",
+   "re": "just like the refer\\w* song|identical .*song|song .*identical",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T38",
+   "group": "Learned",
+   "title": "People in problem shots work on the problem, not the camera",
+   "rule": "In hook and problem shots (AI or real) the person looks at the problem and is actively struggling with it, never looking at or posing for the camera.",
+   "re": "(look|looking|staring)\\W+(at\\W+)?(the\\W+)?camera|not the camera",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T39",
+   "group": "Learned",
+   "title": "Each failing-alternative example is a clip not seen elsewhere in the video",
+   "rule": "When a line needs another failing alternative on screen, use a clip that has not been shown anywhere else in that same video: a different source clip, not another part of one already used.",
+   "re": "unique one that wasn.?t shown|wasn.?t shown in this (specific )?video|not shown (anywhere )?(else )?in this video",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T40",
+   "group": "Learned",
+   "title": "Start each clip when its subject is already on screen",
+   "rule": "Set every clip's in-point so the product/action is on screen from the first frames of the shot: no dead lead-in where the product enters late; start the clip later instead.",
+   "re": "(product|it) is shown (way )?too late|start (this|the) clip (a bit |a little )?later|shown way too late in the scene",
+   "stages": [
+    "shot",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T41",
+   "group": "Learned",
+   "title": "AI scenes hold steady inside a clip",
+   "rule": "Inside one AI clip the room stays the same: the problem on screen does not slowly vanish, move or multiply, and the lighting does not shift. Only what the action changes may change.",
+   "re": "(slowly )?disappears|lighting change|keeps? chang",
+   "stages": [
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T42",
+   "group": "Learned",
+   "title": "Owner-sent clips play at real speed, fitted to the line",
+   "rule": "When the owner links a real clip (TikTok, Drive) for a moment, use exactly the action he names, at the clip's normal speed (never the creator's sped-up version), framed so the action reads clearly, and trimmed so it fits the line and the cut perfectly.",
+   "re": "normal speed|sped.?up version|from this tiktok",
+   "stages": [
+    "shot",
+    "master"
+   ],
+   "enforced_by": [
+    "shot_check",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T43",
+   "group": "Learned",
+   "title": "Statics: place the real product photo, naturally",
+   "rule": "In static ads the product is the exact supplied photo from brand/product-photos/, placed naturally: it enters from a real image or photo-panel edge (or rests on a real surface) with coherent scale, lighting and spacing, and never overlaps text or faces. Keep the real product silhouette. Never a pile of copies, a compressed or puffy version, or an arbitrary frontal cutout.",
+   "re": "stacked liked this|good for flat surfaces|version was worst|(pasted|cut ?out) (product|photo)",
+   "stages": [
+    "still"
+   ],
+   "enforced_by": [
+    "vision_qc"
+   ]
+  },
+  {
+   "id": "T44",
+   "group": "Learned",
+   "title": "End clip = the product working, not a product hold",
+   "rule": "The last clip under the offer line / CTA is a real one-take clip of the product actually working on the problem the ad is about, never a static product shot of it held up or turned in the hand.",
+   "re": "product shot|last clip",
+   "stages": [
+    "plan",
+    "shot",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T45",
+   "group": "Real demo footage",
+   "title": "Demo = one full-frame clip, no split screen",
+   "rule": "When a line shows the product working, use ONE full-frame clip of the demo take, not a top/bottom split of two clips. Splits are only for before/after comparisons the reference itself shows.",
+   "re": "top and bottom clips|split screen|one clip",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T46",
+   "group": "Learned",
+   "title": "Music matches the reference ad's bed",
+   "rule": "On a remake, pick the library bed that sounds like the reference ad's music (measure its Demucs no-vocals stem: tempo, key, brightness, bass) and keep its mood: a direct-response ad gets a normal, calm, upbeat marketing/corporate-pop bed, never an intense trap/electro beat. When the owner likes a bed but wants it calmer, keep the same tempo and style and pick a lower-energy, less busy track. Never use the reference stem itself. Same track and drop on every hook of the batch.",
+   "re": "similar song|marketing song|song to the reference|music[^.]{0,40}reference|too much[^.]{0,20}(song|music)",
+   "stages": [],
+   "enforced_by": []
+  },
+  {
+   "id": "T47",
+   "group": "Learned",
+   "title": "Use lines show the product IN USE on the problem",
+   "rule": "When a line names the thing being fixed (a surface, an object, a body part), the character is using the product on it in the shot, and the problem is visible, with the camera close enough to read it. Never a bare hand resting on an already-solved surface, never an after-only shot for a use line.",
+   "re": "actually (have|use|using) the product|using it on|(product|it) in (his|her) hand",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T48",
+   "group": "Learned",
+   "title": "Hook visual shows exactly what the hook says",
+   "rule": "The opening clip literally shows the thing the hook line names (a professional for a 'pro' hook, the named object clearly in frame). If the best match is the next clip, open on it. All hooks of a batch open on DIFFERENT visual clips.",
+   "re": "hook.*(show|visual)|visual hook|same exact clip|different visual hook",
+   "stages": [
+    "plan",
+    "shot",
+    "still",
+    "master"
+   ],
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T49",
+   "group": "Learned",
+   "title": "No sub-second flash clips",
+   "rule": "Never cut in a clip shorter than about 1 s (a quarter-second angle out of nowhere reads as a glitch). Merge it into the neighbour shot or drop it.",
+   "re": "fraction of a second|quarter.of.a.second|comes up randomly",
+   "stages": [
+    "plan",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T50",
+   "group": "Learned",
+   "title": "Captions a little low, still centred",
+   "rule": "Real-footage VO ads: captions sit slightly below the safe-zone guide line (bottom about y 1280 on 1080x1920, rawedit caption_margin_v 640), still horizontally centred.",
+   "re": "lower the captions|captions.*lower",
+   "stages": [
+    "master"
+   ],
+   "enforced_by": [
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T51",
+   "group": "Learned",
+   "title": "Banned phrases never appear",
+   "rule": "No phrase from banned_phrases in brand/brand.json is ever written, spoken or sung in scripts, songs, captions or cards (preflight checks the plan and the burned captions). When the offer wording changes, update default_offer and banned_phrases there, not in the scripts.",
+   "re": "(don'?t|never|stop) (say|saying|write|writing|use|using) ['\\\"]|banned (phrase|word)|wrong (offer|sale) (line|text)",
+   "stages": [
+    "plan",
+    "still",
+    "clip",
+    "master"
+   ],
+   "enforced_by": [
+    "preflight",
+    "plan_review",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T52",
+   "group": "Learned",
+   "title": "No option labels burned into the video",
+   "rule": "Never draw 'Option A / B / C' or any other telling-apart label on the picture. Options and variants are told apart by the file name, the picker caption or the Frame.io file name only.",
+   "re": "option [a-e]\\b|on the video itself|top left corner|label on (the )?(screen|video)",
+   "stages": [
+    "master"
+   ],
+   "enforced_by": [
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T53",
+   "group": "Learned",
+   "title": "Captions: only the words being said, little text at once",
+   "rule": "Captions show ONLY the words being sung or spoken right now: a word appears when it is pronounced, never the second half of a sentence before it is said. Keep little text on screen at once (short chunks, a few words, not whole lines), still synced to the real audio on every video.",
+   "re": "too much text|text on the screen at (one time|once)|(when|while) the word is (actually )?being (pronounced|said)|less (text )?at once",
+   "stages": [
+    "master"
+   ],
+   "enforced_by": [
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T54",
+   "group": "Learned",
+   "title": "Clear caption font",
+   "rule": "Captions use a clear heavy font (Montserrat ExtraBold, thick outline), never Arial Black; when the hook picture is busy, the hook captions sit in the middle centre.",
+   "re": "(caption|text).{0,40}font|font.{0,40}(hard|easier|clear) to read",
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T55",
+   "group": "Learned",
+   "title": "Animate the frame he approved",
+   "rule": "When the owner approves a starting frame version, the clip is made from that exact file. Never revert to, copy or swap in another frame version afterwards, even if a QC check fails it; flag the QC result instead.",
+   "re": "(use|animate).{0,40}(starting frame|frame).{0,20}v(ersion)? ?[0-9]",
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  },
+  {
+   "id": "T56",
+   "group": "Learned",
+   "title": "Revisions go in the picker, not chat",
+   "rule": "Give the owner every revision or review choice on the review page / picker / ad board, never as a question in chat.",
+   "re": "(picker|review page).{0,40}not.{0,10}chat|not.{0,20}chat.{0,40}picker",
+   "enforced_by": [
+    "plan_review",
+    "shot_check",
+    "vision_qc",
+    "master_qc"
+   ]
+  }
+ ]
+}

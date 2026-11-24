@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finn Xplains Video"
+  short_description: "Turn voiceovers into Finn Xplains style videos"
+  default_prompt: "Use $finn-xplains-video to turn my script or voiceover into a Finn Xplains style video with KIE images and optional animation."

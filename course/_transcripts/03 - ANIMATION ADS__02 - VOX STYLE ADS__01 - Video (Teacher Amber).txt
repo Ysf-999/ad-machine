@@ -1,0 +1,306 @@
+[00:00] Hey everyone, Amber here, and we're going to be talking about a Vox paper style video.
+[00:11] By the end of this training, you'll be able to create a video just like this.
+[00:15] This is Maya.
+[00:16] For the last three months, she's been fighting a fish smell that just won't quit.
+[00:19] She's embarrassed when she walks out of bathroom stalls and someone walks in right behind her.
+[00:23] She's hoping they don't come out holding their breath.
+[00:25] Or worse, her boyfriend goes in right after she walks out.
+[00:28] She stands outside that door, dying inside.
+[00:30] She showers twice a day, sometimes three.
+[00:32] New soap, new wash, new underwear.
+[00:34] She's doing everything right.
+[00:36] The douches, the cranberry juice, baby powder down there, feminine sprays.
+[00:40] She's tried all of it.
+[00:41] It keeps coming back.
+[00:42] And it's killing her spicy time.
+[00:44] Making excuses, pulling away before things even heat up.
+[00:47] She can't be present when she's this in her head.
+[00:49] It's not a hygiene problem.
+[00:50] It's bacterial imbalance down there.
+[00:52] Everything she tried only worked on the surface, never the actual cause.
+[00:56] URO has four targeted probiotic strains that crowd out the bad bacteria causing that smell
+[01:00] and restore her natural pH.
+[01:02] Now he walks straight out of that bathroom right to spicy time.
+[01:05] She's fully there with him.
+[01:07] No excuses, no pulling away.
+[01:08] 10 million women already know this feeling.
+[01:11] Now it's your turn.
+[01:12] Try URO today.
+[01:13] All right.
+[01:14] So let's hop right in.
+[01:15] So here's what you're going to need before getting started.
+[01:18] You're going to need a script.
+[01:19] You're going to need the Vox skill.
+[01:21] We can put that skill beneath this video, but you can also go to the WAP training area
+[01:27] under WAP skills.
+[01:29] And then under skills, just click on Vox style.
+[01:32] You can download this MD file.
+[01:34] It's going to look something like this.
+[01:37] And you can copy and paste this and post it in the chat, or you can upload it as a skill
+[01:42] itself directly into quad code or whichever tool that you are using.
+[01:47] Excuse me.
+[01:48] The next thing you're going to use is 11 labs for voiceover generation.
+[01:52] If you want to do voiceover generation, there is an option to have the voice generated on
+[01:58] each individual video scene.
+[02:01] I prefer to do 11 labs generation.
+[02:03] I'll show you how I do my method.
+[02:06] Image generation.
+[02:07] You're going to need a chat GPT for or Google flow, whichever works best for you.
+[02:12] Then you'll want a product reference image.
+[02:15] Um, now actually this one, you can use see dance or Google Omni, but honestly, I did my
+[02:22] test in Google Omni and it worked.
+[02:24] It works pretty good.
+[02:25] It actually handled the automation really well, the animation on it.
+[02:28] So, and then whatever you would like to use for a cap cut.
+[02:31] I mean, excuse me, whatever you like to use for editing, uh, workflow, generate the script,
+[02:37] then generate the voiceover in 11 labs.
+[02:39] Um, I will then actually, I need to add a step.
+[02:42] I will add the voiceover into, uh, the, uh, like cap cut.
+[02:49] Then you want to generate your initial reference.
+[02:51] It's like your start image.
+[02:53] Um, in this instance, I have two different start images.
+[02:56] I will show you that here in a second.
+[02:58] Um, again, that's where the start frames.
+[03:00] Um, and then you want to generate the videos from the start frames and then assemble inside
+[03:05] of cap cut.
+[03:06] As usual, the post editing tips, I do like the speed ramp with retention, um, on some of
+[03:12] these videos.
+[03:14] And, uh, if the video feels slow, you can always go back and ask, you know, Claude or whatever
+[03:18] to generate another, uh, scene for you if it needs to be.
+[03:22] But in all honesty, with these type videos, it doesn't happen very often.
+[03:25] Um, but if you have any questions, like I said, just reach out.
+[03:28] So let's go ahead and actually hop right in.
+[03:30] Okay.
+[03:31] So in this example, I'm going to show you the raw actual chat feed.
+[03:34] I'm not going to sugarcoat it because you really want to run into times where, uh, you're
+[03:39] just learning how to use the skill.
+[03:41] This was my first time using this skill.
+[03:42] So, um, I'm going to just go through my process.
+[03:46] Okay.
+[03:47] So what I did was I'm in, uh, quad code.
+[03:49] I said, Hey, I have an MD file.
+[03:51] I'm not sure if it's a skill or not, but I'd like you to add wherever it needs to be.
+[03:55] So it actually put the file where it needed to be on my computer and saved it as Vox animated
+[04:00] ad.
+[04:01] Um, and so then what I did was I said, okay, utilizing that skill because I did not have
+[04:08] a script.
+[04:09] Okay.
+[04:10] Um, uh, you know, utilizing the skill, I'm going to walk through it.
+[04:16] I want, and I gave it the, um, the link to the website.
+[04:19] And then I also gave it the name of the file that I have saved on my drive where I have
+[04:24] like all the market research and things like that.
+[04:26] Um, and so then it asked me questions.
+[04:30] Do I have a product image?
+[04:32] And I said, yes, I'll upload it.
+[04:33] And, um, do you want simple or complex mode?
+[04:37] So that pretty much means, um, do you want it, the voiceover to be inside of the individual
+[04:44] scenes itself?
+[04:45] Or do you want it, uh, the other mode where you're doing the, uh, voiceover outside of
+[04:53] it?
+[04:54] So it also asked me to drop the product image.
+[04:57] And so this was the first script that it gave me.
+[05:01] And again, I'm going to be totally transparent.
+[05:03] If you're just practicing, just use the first script that it gives you.
+[05:07] Now me, I tend to complicate things.
+[05:10] So I wanted this to be a little bit more to it.
+[05:13] Okay.
+[05:13] Because I didn't reading this.
+[05:16] I didn't know it was a vaginal product, right?
+[05:19] Uh, you shower every day, you take care of yourself, but something feels off.
+[05:23] It's not a hygiene problem.
+[05:24] It's a bacteria problem.
+[05:26] Washing doesn't fix bacteria, right?
+[05:28] So if I'm reading this, I don't know.
+[05:30] And I can't tell that it's for a vaginal product, right?
+[05:33] And so because of that, Facebook might have a harder time putting it in front of the proper
+[05:38] audience.
+[05:39] So I gave it, so it spit out like right away the prompts.
+[05:45] And these are text to video prompts.
+[05:47] You can try it this way.
+[05:49] And again, I want to be transparent in this video.
+[05:52] You can try it this way.
+[05:53] And it does pretty good job.
+[05:55] So I copied and pasted it like directly into, um, flow here.
+[06:01] And it does a pretty good job.
+[06:02] What was happening is I did not have a consistency in the character.
+[06:09] So I'm showing you this because again, like you can get prompts and you can get these skills,
+[06:14] but there's going to be times where you have to get comfortable talking back and forth.
+[06:17] You'll have to do a couple of test clips before firing off and just like rendering all 10 of
+[06:22] these clips.
+[06:23] So I had quite a bit of back and forth actually, um, with like the script.
+[06:28] Right.
+[06:29] And so I'm going to show you this because I think it's beneficial.
+[06:34] I actually just talked to it and I said, so yeah, this seems very surface level.
+[06:39] Um, when you're dealing with female issues, we need to actually analyze the script.
+[06:44] And so I gave it some ideas of what to go through.
+[06:49] So I'll just give you this tip.
+[06:51] If you're selling to women, be super detailed because as females, man, females will talk about
+[06:56] the nastiest things.
+[06:57] Like it's nothing, right?
+[06:58] So be sure to find that in the, in your research, but I really wanted it to plug in some of the
+[07:03] things she's talking about, the smell, the itch, the showering multiple times a day.
+[07:07] So I went back and forth and I ended up with this actual script.
+[07:15] Okay.
+[07:16] So this script, I liked it.
+[07:17] I took out the dashes.
+[07:18] I pasted it back in there and I said, okay, let's go ahead and generate the prompts.
+[07:24] Um, again, it gave me, it gave me image, uh, text to video prompts.
+[07:33] You can use this if you like.
+[07:35] I prefer to have starting images.
+[07:37] So what I did was I ended up creating starting images.
+[07:42] This is my base image where most of my scenes will start.
+[07:56] And this is my, um, this is my start image for when we introduce the product.
+[08:03] Okay.
+[08:04] And so when I generated these different video styles, um, it came into play really good.
+[08:11] So let me just show you here.
+[08:14] Now I'm going to show you my software.
+[08:16] We don't have to use this software here.
+[08:19] Um, this is the same, whether you're using Google flow or key or whichever tool you're using.
+[08:24] Okay.
+[08:25] So you'll see that I had a start frame here.
+[08:31] And then I just used their prompt and this is how it came out.
+[08:35] She's embarrassed.
+[08:35] As she walks out of that stall, someone walks in right behind her.
+[08:39] She hopes they don't have to hold their breath.
+[08:42] All right.
+[08:43] So I went on, I did compare C dance 2.0 fast.
+[08:48] C dance 2.0 fast does a decent job, but honestly, I think Omni does really good.
+[08:54] So, um, I pasted in each of the prompts and you can actually ask, you can actually ask this
+[09:03] to say, Hey, I don't know where I put it in here, but I said, Hey, can we just do, um, start and end scene images?
+[09:12] Um, or like start images.
+[09:16] Because again, that's what I personally feel better with.
+[09:19] You have to test your own workflow and what you like better.
+[09:22] Do you like going directly text to video?
+[09:24] Or do you like having a start image, um, and an end, in an end frame?
+[09:29] In my example, I just use a start frame.
+[09:35] So then you end up with clips like these.
+[09:40] We have a start frame and a video.
+[09:42] And so what I'm going to do now is I'm going to go ahead and pause it.
+[09:47] And let me actually, actually, you know, let me just show you what I did.
+[09:50] Okay.
+[09:50] Once I got my videos generated, I uploaded them into, um, cap cut.
+[09:57] And so I can tell you right now, the length of these is way too long.
+[10:02] So what I'm going to do is I'm going to select all of these.
+[10:05] I'm going to go speed and it's going to need to be at least double the speed.
+[10:10] Okay.
+[10:12] So now the next thing I'm going to do is I typically will come and I'm going to zoom in here.
+[10:19] And what I'm going to do is I'm going to listen to the script and watch my, um, scene here to find out where it needs to end.
+[10:27] Let me show you.
+[10:28] This is Maya.
+[10:29] For the last three months, she's been fighting a fish smell that just won't quit.
+[10:33] She's embarrassed when she walks out of bed.
+[10:34] Okay.
+[10:35] So that it need, I need this one to end right here.
+[10:38] Which just won't quit.
+[10:41] Okay.
+[10:42] So I'm going to come here and I'm going to speed.
+[10:44] This is the duration of this, the clip.
+[10:47] So I'm going to go down.
+[10:48] And so for me, I like to generate 10 second clips and then speed it up because then you have control of the pacing.
+[10:56] So here we go.
+[10:57] Let's play.
+[10:57] This is Maya.
+[10:58] For the last three months, she's been fighting a fish smell that just won't quit.
+[11:02] She's embarrassed.
+[11:02] Okay.
+[11:03] So now we're going to, I'm going to bring this one because this is my next one.
+[11:06] So let's see.
+[11:07] Let me just listen.
+[11:09] When she walks out of bathroom stalls and someone walks in right behind her, she's hoping they don't come out holding their breath.
+[11:14] Okay.
+[11:14] So this one, this next one needs to end about right here.
+[11:19] And so actually look at here.
+[11:23] See?
+[11:24] So I need to make this one longer.
+[11:26] Let's see what it looks like.
+[11:28] This is Maya.
+[11:29] For the last three months, she's been fighting a fish smell that just won't quit.
+[11:32] She's embarrassed when she walks out of bathroom stalls and someone walks in right behind her.
+[11:36] She's hoping they don't come out holding their breath.
+[11:37] So this one, I'm going to try to make it in here.
+[11:43] So I'm going to adjust the speed on that one.
+[11:45] And we're going to make it a little bit longer until it touches that line.
+[11:49] There we go.
+[11:51] Okay.
+[11:51] Hoping they don't come out holding their breath.
+[11:55] Okay.
+[11:55] So now I'm going to bring this next one over.
+[11:58] And let's see where it needs to end.
+[12:01] Or worse, her boyfriend goes in right after she walks out.
+[12:04] She stands outside that door, dying inside.
+[12:06] Okay.
+[12:07] So I need this one to end right there.
+[12:10] So I'm going to take this.
+[12:12] And I want the duration to be longer.
+[12:15] Great.
+[12:16] So this touch is there.
+[12:18] Walks in right behind her.
+[12:19] She's hoping they don't come out holding their breath.
+[12:21] Or worse, her boyfriend goes in right after she walks out.
+[12:24] She stands outside that door, dying inside.
+[12:27] She showers twice a day, sometimes three.
+[12:29] New soap, new wash, new underwear.
+[12:31] She's doing everything right.
+[12:32] Okay.
+[12:33] So let's find this in the next one.
+[12:36] So I'm thinking that one's going to need to...
+[12:40] So let me zoom back in.
+[12:43] I'm going to want that to end kind of right there.
+[12:47] So I'm going to take it and let's make the duration longer.
+[12:52] There we are.
+[12:52] Now we pick the next one.
+[13:08] Let's see where it needs to end.
+[13:09] The cranberry juice, baby powder down there, feminine sprays.
+[13:14] She's tried all of it.
+[13:15] It keeps coming back.
+[13:19] Okay.
+[13:24] All right.
+[13:25] So now I've done a few of them.
+[13:27] And let's go through and see what it looks like so far.
+[13:29] This is Maya.
+[13:30] For the last three months, she's been fighting a fish smell that just won't quit.
+[13:34] She's embarrassed when she walks out of bathroom stalls and someone walks in right behind her.
+[13:37] She's hoping they don't come out holding their breath.
+[13:40] Or worse, her boyfriend goes in right after she walks out.
+[13:42] She stands outside that door, dying inside.
+[13:45] She showers twice a day, sometimes three.
+[13:47] New soap, new wash, new underwear.
+[13:49] She's doing everything right.
+[13:50] The douches, the cranberry juice, baby powder down there, feminine sprays.
+[13:54] She's tried all of it.
+[13:56] It keeps coming back.
+[13:57] And it's killing her spicy time.
+[13:59] All right.
+[14:00] So I'm not going to do this whole video, but this is the process that I do.
+[14:04] And if it works for you, great.
+[14:05] If another workflow works for you, share it with the group.
+[14:08] All right.
+[14:08] But the only other thing after, you know, you've done all of these and put these together.
+[14:13] The only other thing you can do if you want to make this like next level, add a little
+[14:19] bit of background music.
+[14:20] You can also come here.
+[14:22] So like this one, since we're talking about the bathroom two different times, I'm actually
+[14:26] going to find your transition to put there to kind of, you know, change things up a little
+[14:34] bit.
+[14:35] So let's see if we put that there in between.
+[14:38] Boop.
+[14:38] And we don't need it to be a two second transition.
+[14:47] Dolls and someone walks in right behind her.
+[14:49] She's hoping they don't come out holding their breath or worse.
+[14:52] Her boyfriend goes in right after she walks out.
+[14:54] She stands outside that door dying inside.
+[14:57] She showers twice a day.
+[14:58] Okay.
+[14:59] So yeah, those are some things that you can do.
+[15:01] And that is the walkthrough of how to get it done.
+[15:05] On this here, you will see the example script.
+[15:08] Your next steps would be generate your own script or product or use the script that I've
+[15:14] provided here as a sample, create a practice video and share that to the community.
+[15:19] Thanks so much.
+[15:19] As always, if you have any other questions, please don't hesitate to ask in the community
+[15:23] and we'll see you on the next video.
+[15:25] Bye.
+[15:37] Bye.
+[15:44] Bye.
+[15:50] Bye.
+[15:53] Bye.

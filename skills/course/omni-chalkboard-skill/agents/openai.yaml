@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chalkboard Animated Ad"
+  short_description: "Turn any offer into copy-paste 10s chalkboard clip prompts"
+  default_prompt: "Use $omni-chalkboard-skill to turn my offer into a full chalkboard ad — VO script plus self-contained 10-second clip prompts I can paste straight into Omni."

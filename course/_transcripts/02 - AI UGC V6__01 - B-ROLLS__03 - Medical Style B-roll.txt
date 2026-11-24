@@ -1,0 +1,98 @@
+[00:00] Hey guys, so in this video I'm going to show you how to do x-ray style b-roll videos just like this
+[00:11] All right, so here's what you're going to need you're going to need the 0x row as AI agent
+[00:15] We're going to be using chat GPT image 2 and then you're going to also want to use cling or c dance now
+[00:20] At the moment of recording this video. We do not yet have a skill
+[00:25] Specific for this, but I'm going to show you the process
+[00:27] From start to finish. Okay, and you can still kind of use the same process
+[00:33] To still get the same outcome
+[00:36] So the first thing you're going to need is going to need to generate like your normal starting image
+[00:41] So in this example, it is a dog that is not feeling good in their dog bed
+[00:47] So we'll go ahead and generate that and actually I did a different perspective. I did a golden retriever
+[00:54] so what I just do is
+[00:56] I'll just take this and
+[01:00] I went inside of the 0x row as agent started a new chat and
+[01:06] Now this is a little bit different than what I did, but I pretty much said hey help me generate an image prompt for a tick-tock style
+[01:12] Candid photo from iPhone 15 of
+[01:16] Someone recording a golden retriever walking slowly in the backyard because of joint pain, okay?
+[01:21] Um
+[01:23] And I want to make sure that it actually does it in tick-tock style
+[01:27] You want it to actually say this in the prompt itself that gives you the better camera angles
+[01:33] When I did that prompt
+[01:35] Um, excuse me when I did that I was given this prompt
+[01:39] I'm going to show you the first starting image
+[01:41] So let me show you what that is here
+[01:43] And the first starting image
+[01:47] Was this
+[01:48] So this was the starting image that it gave me so this is going to be your step one
+[01:54] The next thing we need to do is we now need to create a second
+[01:58] End frame of image that is zoomed in and it can be x-ray style of whether you want it to be like
+[02:06] Do you want it to show bones? Do you want it to show organ? Do you want it to show something inflamed?
+[02:12] And so that's what this next prompt is
+[02:15] uh, over here then
+[02:19] Okay, so what we do is we copy this here copy that prompt
+[02:27] That says yeah help me get in a zoomed in skeleton overlay
+[02:30] It'll give you a prompt and you will get an output that is similar to this here
+[02:37] It did it zoomed in it's got the overlay so now this you can't really see it that well
+[02:43] So you can keep it like this or you can prompt it to kind of do kind of a the blacked out background
+[02:49] So now you really see those bones pop in there
+[02:53] And so that's actually what I did here
+[03:01] And then from there what you want to do is you want to animate both of those images and so
+[03:09] Let me show you the difference here
+[03:11] So this was the start image
+[03:14] this is the image with the um
+[03:17] The x-ray and then if you want to you can give it a reference image like this and just say hey, can you make can you make it?
+[03:23] Look like this and it will reference and
+[03:26] um
+[03:27] Do dark in the background for you
+[03:30] Then you want to generate the video and let me show you what the video looks like here
+[03:39] So there we go that's the video now this video looks kind of wonky
+[03:43] So what I would do is I would edit this video
+[03:46] Maybe trim it a little bit and then I would speed it up to 2x
+[03:51] And there we go
+[03:55] Then you got a really good image now. This also works for humans, right?
+[03:59] Actually before I go to the humans, you can also do the same thing
+[04:03] You can tell it, you know, do you want a bone? Do you want a joint?
+[04:06] Do you want in this instance?
+[04:08] It was an example of the intestines there, right?
+[04:13] And or you can do it zoomed in like that
+[04:14] The process is still the same step one you get your your beginning reference image step two you do your ending image and step three
+[04:24] You do a video
+[04:26] All right, and the video prompt is super simple
+[04:29] And a super simple prompt is this here
+[04:35] So go ahead and mess around with it again. The next steps are to do this, right?
+[04:40] Go ahead and generate at least three b-rolls showing this let me actually show you I forgot to show you the woman one
+[04:52] So we've had a woman
+[04:55] She's taking the groceries out
+[04:57] So this was image one she's going to have elbow pain
+[05:01] So we're going to zoom in there, but I actually like the darkened version better
+[05:06] So you take that as the end image
+[05:09] We go to the video
+[05:11] And you can generate the video so again, let's just watch it here
+[05:17] So again, that video looks kind of wonky if you look at the whole video, but if we were to edit this video
+[05:24] Trim it down
+[05:27] Boom
+[05:29] There you go
+[05:30] All you need is like two or three seconds
+[05:32] So that is it for this video again if you have any questions, please don't hesitate to post in the discord group
+[05:38] If we can get a skill created for this we definitely will so we can make it a little bit easier for you
+[05:43] but
+[05:44] This really is the process and even if you have to do it manually, it's not super duper hard
+[05:49] If you have any challenges, just let us know. Thanks so much. See you in the next video
+[05:52] Oh
+[05:55] deserving
+[05:57] And you
+[06:00] are
+[06:00] have a
+[06:01] have a
+[06:02] have a
+[06:02] have a
+[06:03] have a
+[06:03] have a
+[06:04] have a
+[06:04] have a
+[06:04] have a
+[06:05] have a
+[06:05] have a
+[06:06] have a
+[06:06] have a
+[06:06] have a

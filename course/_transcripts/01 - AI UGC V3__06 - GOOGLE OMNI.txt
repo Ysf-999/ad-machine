@@ -1,0 +1,162 @@
+[00:00] Omni and the two ways I use it
+[00:07] Hey guys, today I'm going to show you how to use Omni and the two ways I use it.
+[00:17] The prompt is really simple and I got it from Joseph in our group.
+[00:22] It's a really simple prompt that you can do and match it to my workflow.
+[00:26] Yeah, you can play around with it but the base of the prompt will be that.
+[00:33] Everything will be real simple. You will have two ways of doing things.
+[00:39] The first way is like generating an image from ChatGPT using the realistic prompt I told you guys.
+[00:47] So basically you go to ChatGPT, you give a reference image, you say copy it
+[00:52] and then use that reference image with the prompt that ChatGPT gave you.
+[00:56] Then you will have a more realistic image and you can change the feature of the character
+[01:02] so it doesn't look like the one we copied let's say.
+[01:06] But yeah. So as you can see these two characters are all from TikTok shop videos.
+[01:12] I just cloned them. I didn't change appearances because I'm not using them on ads.
+[01:16] But if you were to use them on ads you should change how she looks, change the facial structure.
+[01:21] So you don't have any problems. You won't have but just to be sure.
+[01:25] So what's the workflow?
+[01:29] The first workflow that you will do is like upload your starting image.
+[01:35] So this is the starting image. You will upload it.
+[01:38] And when you upload the image we will use it as a reference.
+[01:45] So we give here the image as a reference and we will use this simple prompt.
+[01:50] Natural and realistic are movements. Blah blah blah.
+[01:53] She says, put what she says and this prompt on the end.
+[02:00] And basically we press play and the videos are being generated.
+[02:07] The first method has also two ways of how you can do it.
+[02:14] Basically you can go on and generate like more. Change the script here.
+[02:20] And basically just generate more. But sometimes this will be different.
+[02:26] You know the voice will be different. Maybe the character will move different.
+[02:30] And what I like to do with Omni is like after I have my first video you can see here.
+[02:35] And you can see that here the video is generated, right?
+[02:43] And I have generated the video.
+[02:46] And what I like to do is not regenerate with the image.
+[02:51] But I like to add this video as a reference here.
+[02:54] And it will follow the voice, the movement.
+[02:57] Basically like act as the first video.
+[03:01] Because Omni is a really good video editor, let's say.
+[03:05] So for example here like we have these are image to video.
+[03:10] And also this is image to video.
+[03:12] So as you can see, let's hear it now.
+[03:14] Yeah.
+[03:15] And you can see like they are kind of the same, yes.
+[03:33] But what I like to do is like go here, add the prompt.
+[03:37] And basically you have as a reference and I put it play.
+[03:42] And you will have a video that matches the sound of the previous video, let's say.
+[03:54] And if you want to add products or anything like that, I just go and use this prompt.
+[03:59] I think it's here.
+[04:01] Yeah.
+[04:03] Use the same prompt.
+[04:18] You just add this.
+[04:19] She brings the square perfume bottle from.
+[04:22] You tag the image into the frame and hold it up.
+[04:24] Yeah.
+[04:25] You can do this with ChatGPT.
+[04:26] Just say, keep the exact same prompt.
+[04:27] Just add character movement that she shows the product to the screen and something like this.
+[04:35] Yeah.
+[04:36] Basically Omni is really simple.
+[04:37] And you can even apply this strategy to Kling, Kling 3.
+[04:41] You can apply the same prompt to Kling 3.
+[04:43] Here's how Kling 3 looks.
+[04:46] And it's not bad, to be honest.
+[04:47] Just the mouth movement is what everyone knows.
+[05:02] Yeah, it's really good.
+[05:04] And also the adjustment layer that I use is like contrast.
+[05:08] You can do from minus 12 to minus 16.
+[05:12] And these you can play around, but they are not really that important.
+[05:15] Most important is like contrast.
+[05:16] Because as you can see, it makes that iPhone style look.
+[05:20] So yeah, now we use the video as a reference and you can see like...
+[05:23] You can see like it follows the previous video.
+[05:36] Okay, this is the first step.
+[05:38] This is more a kind of easy way to generate videos.
+[05:43] And they will not look as good as Cdance, but they will be cheaper.
+[05:51] But the next method I will show you will probably have some bugs, but it will be way better than the normal image to video and video that we used.
+[06:04] So the second way of doing videos in Google Flow is by using a video reference.
+[06:19] I have only tried right now with Cdance 2 videos.
+[06:22] I haven't tried if they work with real videos, but when you use this workflow, sometimes you will go into...
+[06:32] This video is restricted.
+[06:34] We cannot generate because policy will have too many issues.
+[06:36] But if Google detects that the video is AI, you can use it more free to generate this.
+[06:44] As you can see, this is my Cdance 2 video that I shared with the group before.
+[06:48] So what I did with this video is I went and used it as a reference and I wrote the prompt.
+[06:56] And as you can see, this is how the first video looks.
+[07:00] Let's put on audio.
+[07:01] Let's put on audio.
+[07:02] Let's...
+[07:03] So this is how the first video looks.
+[07:10] So this is the reference video we are using and this is the video that it generated.
+[07:22] As you can see, this is really, really good.
+[07:31] And what I like to do is copy this prompt.
+[07:36] And after I generate the first video, I don't like to use the reference video because it may lead us to videos getting rejected.
+[07:47] Let's say privacy policy on Google Flow, it won't generate.
+[07:50] But if I use the AI version of the video that it changed, Google will think it's like it's V or Omni and it will give you less restrictions.
+[08:00] So as you can see, now I have my AI video generated from my reference, so reference to video.
+[08:07] And you can see it's all the same, you know, the hand movement.
+[08:11] Maybe the voice is not the same, but yeah, you get the idea.
+[08:14] And it looks like way more realistic than the image to video thing.
+[08:18] So what you can do for testing is like try out the first method first and then get a video from my Discord or from the videos I've shared.
+[08:27] Or upload a video of your own that you did from Cdance and try this workflow.
+[08:31] It's really simple.
+[08:32] And what I did is like added the first reference.
+[08:35] So this is the video reference.
+[08:36] And I created the first AI video.
+[08:38] Now what I'm going to do is go here and edit the prompt and use the, let's say, evergreen prompt that we have.
+[08:48] But do not get based always on this, you know, because if you have like, if you have a static tripod shot, you can say static tripod shot.
+[09:00] No camera movement.
+[09:05] It's really simple.
+[09:06] You can play around with it, but the base is this and basically you match it to your own flow.
+[09:13] And yeah, so now that we have the AI generated video, we go here, we add it to the prompt and we use basically the same prompt as before.
+[09:26] So sometimes if it's, if it's got too many issues, I like to use a second, let me hear.
+[09:39] If it's, if it changed the character or something, I just like to use this, just put it like this and it will work.
+[09:46] But yeah, so this is the main workflow that I do.
+[09:49] And it's really simple.
+[09:50] It's cheap.
+[09:51] Basically what I like to do is generate a video on Cdance, take that video and use it as a reference on flow and generate more videos for way cheaper.
+[10:00] You know, it will not be Cdance quality, but the amount you can generate with this and it will look like maybe 60, 70% as Cdance.
+[10:10] And it's really good, especially for Talking Cat.
+[10:13] It's really good.
+[10:14] Yeah.
+[10:15] So yeah, this is the workflow I used.
+[10:17] I hope I'm clear.
+[10:19] I will show the prompts below on the Whoop.
+[10:22] I will give you the prompt.
+[10:23] I will also give you the product prompt.
+[10:25] So you're kind of having an idea.
+[10:27] And yeah, as you can see now, the video is generated.
+[10:29] As you can see, it's crazy.
+[10:39] But the script is...
+[10:40] Yeah, the script is short for 10 seconds.
+[10:50] For 10 seconds, I would suggest doing around 30, 33 words.
+[10:55] Yeah, that will be really good.
+[10:57] As you can see now, you have...
+[11:06] Yeah, this is great.
+[11:07] It's really good.
+[11:08] It's really good.
+[11:09] Even I tried with...
+[11:10] Even I tried with...
+[11:11] This is a Cdance video.
+[11:14] I'm using the Cdance video as a reference.
+[11:16] I'm just changing the script with Omni.
+[11:19] Yeah, it's really crazy.
+[11:24] Yeah, guys.
+[11:25] So basically, this is it.
+[11:26] It's really simple.
+[11:27] You don't have to go on and think too much about it.
+[11:31] You know, just go generate videos, play around with it.
+[11:33] And it's really simple.
+[11:34] You can do basically whatever you want.
+[11:36] Yeah.
+[11:37] So this is mostly for the talking part and for generating other scenes.
+[11:49] You can do it easily also.
+[11:51] Yeah, so that's it, guys.
+[11:52] This is the Omni workflow.
+[11:53] And I believe you will like it.
+[11:54] And you will literally see the difference between image to video and video to video.
+[11:59] Like, look, it's so cool.
+[12:01] I'm going to go ahead and go ahead and go ahead and go ahead and go ahead and go ahead.
+[12:05] And yeah, thank you, guys.
+[12:06] If you have any questions, please let me know.
+[12:07] And also, don't forget to rate the course.
+[12:08] It's really important.
+[12:09] Thank you.
+[12:10] Bye.

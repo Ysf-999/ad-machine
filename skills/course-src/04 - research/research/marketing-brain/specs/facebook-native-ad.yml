@@ -1,0 +1,93 @@
+{
+  "name": "facebook-native-ad",
+  "description": "Validates Markdown Facebook native ad packs with primary text, headline CTA, and native image prompts.",
+  "block_heading_regex": "^## Ad\\s+\\d+\\b.*$",
+  "required_sections": [
+    "Angle",
+    "Facebook Primary Text",
+    "Short Headline CTA",
+    "Native Image Prompt"
+  ],
+  "primary_text": {
+    "section": "Facebook Primary Text",
+    "min_words": 90,
+    "max_words": 190,
+    "min_sentences": 5,
+    "max_sentences": 28,
+    "first_sentence_max_words": 18,
+    "require_product_mention": true,
+    "require_disclaimer_any": [
+      "individual results vary",
+      "consult your veterinarian",
+      "ask your veterinarian",
+      "talk to your veterinarian"
+    ]
+  },
+  "headline": {
+    "section": "Short Headline CTA",
+    "min_chars": 2,
+    "max_chars": 40,
+    "action_words_any": [
+      "see",
+      "try",
+      "check",
+      "get",
+      "read",
+      "learn",
+      "shop",
+      "start",
+      "claim",
+      "watch",
+      "discover",
+      "find",
+      "support"
+    ]
+  },
+  "image_prompt": {
+    "section": "Native Image Prompt",
+    "min_words": 120,
+    "max_words": 330,
+    "anchor_any": [
+      "photorealistic iphone photo",
+      "casual everyday iphone shot",
+      "handheld iphone snapshot",
+      "realistic ugc phone photo",
+      "unfiltered smartphone image",
+      "candid creator style iphone frame",
+      "static ugc iphone photo",
+      "captured on an iphone"
+    ],
+    "must_include": [
+      "everything is in sharp focus",
+      "background is fully focused",
+      "no bokeh",
+      "no blurred background",
+      "no shallow depth of field",
+      "no fake lens blur"
+    ],
+    "must_include_any": [
+      [
+        "no added text",
+        "no extra text",
+        "no text or graphic overlays"
+      ],
+      [
+        "no graphic overlays",
+        "no fake overlays",
+        "no added text or graphic overlays",
+        "no text or graphic overlays"
+      ]
+    ]
+  },
+  "banned_patterns": [
+    "guaranteed cure",
+    "guaranteed results",
+    "clinically proven to cure",
+    "works for everyone",
+    "no side effects",
+    "doctor approved miracle",
+    "fake scarcity",
+    "limited supply proof"
+  ],
+  "price_mismatch_severity": "warning"
+}

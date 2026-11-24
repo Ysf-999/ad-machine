@@ -1,0 +1,626 @@
+[00:00] So
+[00:05] you
+[00:08] you
+[00:10] you
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] 
+[00:11] you
+[00:30] and
+[00:33] you
+[00:34] you
+[00:36] you
+[00:36] you
+[00:37] you
+[00:38] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:39] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:40] you
+[00:41] you
+[01:00] Thank you.
+[01:30] Thank you.
+[02:00] I guess we can start until other people join.
+[02:09] Maybe the time, I don't know, but let's see how this goes.
+[02:13] So, you guys know me as 0xRoyce.
+[02:17] And I started this AIUGC thing from, I think it was from September, posting on my Twitter.
+[02:27] And it blew up like crazy.
+[02:29] It was really good.
+[02:32] And finally, I had a chance to make a Discord community.
+[02:36] So, we can have a chat with guys like you and share ideas, share everything else that will help us scale and be an advantage to the other people that also run ads, also do AI videos.
+[02:54] Because for me, like most people think I run my own brands, but in reality, I only run affiliate marketing together with Thomas.
+[03:06] He's one of the craziest guys for affiliate.
+[03:11] He is the affiliate DJ, basically.
+[03:14] And it was really good to see how much you guys supported the community, how much you're sharing and how crazy videos you are doing.
+[03:30] I think I'm really impressed.
+[03:31] I haven't seen, especially Joseph, he's not here.
+[03:36] But his videos are really crazy.
+[03:39] Congrats to that guy.
+[03:40] It's really crazy.
+[03:43] And the thing with the AI videos.
+[03:48] Now, I know you guys have seen the Seed&Stu.
+[03:53] And you have seen a lot of guys claiming to have their own prompts, for example.
+[04:00] But the real thing here is that these AI tools will become so easy to make videos.
+[04:08] You will need only like one or two sentences.
+[04:12] I don't know if you've seen my prompts in the chat that I've shared.
+[04:16] They're like five lines of prompts with basic text and Seed&Stu does everything by itself.
+[04:26] So don't get followed by other AI UGC guys.
+[04:31] And the future of AI videos and whoever wins will be who can generate the most creative and the most quality videos at scale.
+[04:45] So that's what will make the decision if you win or you don't win.
+[04:53] But again, thank you guys for joining this group.
+[04:58] And it's really been great two weeks.
+[05:02] A lot of new modules will come.
+[05:05] A lot of new crazy stuff will come.
+[05:06] Two new web apps only specific for this community will be live at most on Monday.
+[05:16] When you can basically automate Sora 2 and VO3 videos.
+[05:20] And generate how many you want with your own API keys and everything.
+[05:25] It will be open for testing for all of you guys.
+[05:27] And I believe those tools will help you make a lot more videos and easier.
+[05:33] Because I see you kind of have some difficulties by generating videos.
+[05:40] But if you understand the concept of how AI works and how generating video works, it will be really easy.
+[05:48] But the prompting thing will be a thing of the past.
+[05:56] As I told you, it will be so easy to generate videos.
+[06:00] You will upload only an image and a two, three line prompt.
+[06:03] And you will have a long video, for example.
+[06:07] Let's say a minute video.
+[06:07] And I can't wait to scale more with the new tools.
+[06:14] But we need to keep up.
+[06:16] As you've seen, like every week it comes a new crazy tool.
+[06:20] And you just need to adapt to it, you know.
+[06:26] That's it for the introductory part.
+[06:30] If you guys want any other questions, I can answer.
+[06:35] Now it's Q&A time, basically.
+[06:37] If anyone wants to talk, it can talk.
+[06:46] So ask something.
+[06:48] Thomas, you can say something.
+[06:51] Yeah, yeah, yeah.
+[06:52] Hi, guys.
+[06:54] As you know, I'm the guy who works with Retournet Adspend.
+[06:58] But on the affiliate part.
+[07:01] So we are launching different offers.
+[07:05] White ad, gray ad.
+[07:07] And we use Black ad tactic, but we always ship.
+[07:12] And we are like ethics.
+[07:15] And the goal is to really show you what is affiliate marketing in a real way.
+[07:21] Like underground value.
+[07:24] Most people think affiliate marketing is clickbank, launch ad, and create for a return on adspend.
+[07:32] But it's not the case, guys.
+[07:35] There is so many people that are printing millions and millions by doing clocking, having the best deal in the market.
+[07:45] And I think I'm able to show you a little bit of what can be achieved.
+[07:53] How to build a strong setup in the US.
+[07:57] With, for example, LLC, slash bank, cashback, real Black ad account.
+[08:04] Because people are launching ad on an account that they found in Black ad world.
+[08:14] So, this kind of account are not solid enough for you to launch real offer.
+[08:21] Like you need, you need to bring, to do some partnership with real ad account where an insider comes.
+[08:30] Like, do something on the ad account to let you, it's not really legal, but let you launch some ad and print money.
+[08:43] So, that's a, that kind of, things I want to show you.
+[08:48] Excel bank, strong page, strong contact, insider, validate ad, real deal, ICPA.
+[08:57] That's it.
+[09:03] That was basically what Thomas is saying is like, you need to have good contacts with, with everyone.
+[09:11] Like, I've got, I've got told from a big guy in affiliate that the most important thing about the affiliate thing is like, how good your offer is.
+[09:22] Because right now with AI and everything, people can generate content in minutes.
+[09:30] And basically, speed and creativity won't be the thing that scales your offer.
+[09:38] It will be your offer, for example.
+[09:41] If you cannot access a good offer, or if you can only access an offer that everyone has, you won't, you won't have time to, to scale it, for example.
+[09:53] Or, there won't be enough margin for you to, to be profitable.
+[10:00] So, what Thomas and I always talk about is like, to build connections.
+[10:11] Just be nice with people.
+[10:13] But don't let them, like, get over you, you know.
+[10:18] Because until today, we've built so many contacts.
+[10:21] We basically have access to the best offers, the best deals.
+[10:26] And for example, I can use my name to, to get on different, different networks, different access to, to many other things that you couldn't have.
+[10:42] Without building real connections or having like a big name, for example.
+[10:47] And that's it basically.
+[10:53] Do you have any questions, guys?
+[10:58] I did not quite understand what these Facebook blackhand accounts are.
+[11:04] Can you explain it again?
+[11:07] Yes, of course.
+[11:07] Yeah, Thomas explain.
+[11:09] Like there is different, uh, setup that you can, uh, there is two approach in a, like, blackhand account.
+[11:17] First thing is, you can use some, uh, agency on Telegram that, uh, will, uh, onboard all the, the farming.
+[11:26] Like they will create for you, uh, uh, sell bank.
+[11:30] Like you have a store, a pixel on a separate business manager.
+[11:33] Uh, uh, uh, some head account proxies with, uh, T-Datec browser with, uh, Explorer, for example.
+[11:41] And, uh, you will just launch on pad and, uh, like your launcher offer, but there is so many ban because, uh, this account are buy from, uh, blackhand world or Russian team.
+[11:55] And, uh, it's, it works.
+[11:57] Like it's okay.
+[11:58] Uh, but there, there is many ban, so you can deal with it.
+[12:04] You have to be ready to bring volume.
+[12:09] And, uh, it's really intensive.
+[12:12] Like, uh, you can wake up one day and all your account are brand.
+[12:16] So it's one approach.
+[12:17] It works.
+[12:18] And most of the time, this kind of, uh, agency only accepts, uh, crypto top-up.
+[12:23] But then if you have a good contact, you can, uh,
+[12:28] um, and people that provide you an account that, uh, where, where an insider come, like someone who works in Meza and just, um, add this account.
+[12:44] I don't know exactly what they do.
+[12:46] Um, and, uh, it's not something we can market and say like this, like, uh, on Twitter, but, uh, they come on the account and add a, like, let's say a tag.
+[12:58] And, uh, uh, this account will be really more solid and able to, to spend high on, uh, offer that, uh, are really, it's to be difficult to run on, uh, Facebook ads.
+[13:12] So there is two approach.
+[13:14] I don't know if it's clear.
+[13:15] So it's basically just a better agency account that can launch more aggressive ads.
+[13:21] Yes.
+[13:22] 
+[13:22] Okay.
+[13:23] Thanks.
+[13:24] Can we, can we run like, uh, iGaming offers on there too?
+[13:28] Can we run like, uh, iGaming offers like casino offers on, on there too, on those ad accounts?
+[13:42] Um, the main things he told me is, um, like, uh, make money niche, but, uh, I'm sure like, you know, it can work.
+[13:55] I will, uh, ask to him and you can contact me on, uh, not me, but, uh, regional Aspen team and telegram.
+[14:02] Be, you have seen it.
+[14:04] And, uh, I will be happy to more information like, uh, but yeah.
+[14:10] Okay.
+[14:11] Okay.
+[14:12] Thank you.
+[14:13] And, uh, for, uh, we are not, sorry, I'm not only focused on a black hat.
+[14:22] I, uh, I already have a contact or a white hat, uh, um, and, uh, this account are platinum.
+[14:34] I don't know if you know this, but, uh, some people use it only to make people look at the
+[14:40] FOMO.
+[14:41] But, uh, the thing is, uh, platinum accounts are more, uh, able to spend like, uh, big money.
+[14:49] And it's only for, for white hat.
+[14:51] So whatever you, you want to do, you can, uh, contact us and speak.
+[14:57] Like it's not a bite from us, buy from us or a work with us, but just if you want to know more and, uh, have more contact, you, you can speak with us.
+[15:06] So, yeah.
+[15:07] I'll be, as I told you, like, we've got a lot of contacts, uh, in the, um, all of the affiliate running ads, things, space, you know.
+[15:21] And Thomas was talking about two different providers that we use for ourselves, basically, to run black hat offers.
+[15:32] There, there needs to be a whole kind of different setup.
+[15:37] But just to be clear, we don't support scamming by black hat.
+[15:42] Me and Thomas run mostly either like supplements that get you banned easy on Facebook and everything like that.
+[15:54] But we're not running scamming, you know, just to be clear.
+[15:58] And if you try to run like ads, I know you guys have seen like Emma relief and those kinds of brands that push VSLs mentioning all types of, uh, diseases, for example, and they don't get banned on Facebook.
+[16:15] And they're basically using a setup like this.
+[16:19] I will send an image.
+[16:21] One second.
+[16:25] I sent the image on the, on the meeting room chat.
+[16:41] So basically like you will have an old BM one where you only create the pixel and you, you leave it untouched, for example.
+[16:52] And you will have the BM number two, which you will run ads.
+[16:56] For example, the BM number two, if it, if it gets banned, you can just spin up a new BM and run it.
+[17:03] But this is like for the black hat, uh, offer that we, we kind of negotiated with, with our providers to get a better price for you guys.
+[17:18] And like we said to them, cut us our affiliate cut.
+[17:22] And let's use this, this, let's use your provider to, to make a better price for our community.
+[17:30] If they want to run like, like at that either casino, either Legion or supplements.
+[17:36] And that's what's what's what's Thomas was saying.
+[17:40] But we also have like, uh, white hat agency account offer.
+[17:45] That's really great.
+[17:47] And it's easier to, to not get banned because it's, uh, I've had too many issues with Thomas.
+[17:59] We, we've lost like too many accounts with, with Meta.
+[18:05] Just to be clear, there is no, no such a thing as zero risk.
+[18:10] Like, uh, any, any Meta account can still be banned, but, uh, you can do some setup and, uh, use some accounts that are, that tends to be more solid.
+[18:24] Yeah.
+[18:25] So maybe I can, uh, explain something.
+[18:34] Um, what I wanted to say is that I don't know how deep you are in, uh, affiliate marketing, but, uh, it's also, um, a thing about, oh, how strong are you when you speak to, to people or, uh, how confident are you when you reach.
+[18:54] Affiliate manager.
+[18:55] Affiliate manager.
+[18:56] I know that like, uh, the same affiliate manager can give you the payout every, like one time per month, three times per week.
+[19:08] Depending on who you speak, what you say to him, what you show to him, how confident you are.
+[19:14] So, this will, like, it's such a mindset thing that we will, uh, think about, yeah.
+[19:23] Um, yeah, this kind of affiliate agency thing at the count is too deep, but let me show you, uh, what we are doing with the new systems and what we will be launching.
+[19:42] I will share the screen.
+[19:49] I will share the screen.
+[19:50] 
+[19:50] 
+[19:50] I will share the screen.
+[19:51] 
+[19:51] I will share the screen.
+[19:52] I will share the screen.
+[19:52] I will share the screen.
+[19:53] I will share the screen.
+[19:53] I will share the screen.
+[19:54] I will share the screen.
+[19:54] I will share the screen.
+[19:55] I will share the screen.
+[19:55] I will share the screen.
+[19:55] I will share the screen.
+[19:55] I will share the screen.
+[19:55] I will share the screen.
+[19:56] I will share the screen.
+[19:56] I will share the screen.
+[19:56] I will share the screen.
+[19:56] I will share the screen.
+[19:57] I will share the screen.
+[19:57] I will share the screen.
+[19:57] I will share the screen.
+[19:57] I will share the screen.
+[19:57] I will share the screen.
+[19:58] magic, I will name the screen.
+[19:58] What the fuck?
+[20:17] What the fuck?
+[20:20] What the fuck?
+[20:25] I see the screen.
+[20:40] Yeah, we can see it.
+[20:53] It's basically like, this one will be like upload a video to and analyze it and create like, for example, the character image.
+[21:09] And it creates the background and you can add your own product, for example, here.
+[21:16] And like we will create the first frame and we go on this part and it will generate the segments.
+[21:26] For example, here, like we have segment one, segment two.
+[21:31] The step is like this, we upload the video, but I will do it right now, but it will take some time to analyze and create videos.
+[21:39] One second.
+[21:40] New.
+[21:41] So this is like the first step, for example, and we take like a video and upload it.
+[21:48] We upload and continue and we use Gemini and the backend to analyze basically like this one is for the VO3 automation.
+[21:59] It's like the same setup we use already with Sora, but we don't need to create the gem.
+[22:07] We will upload the video directly here and it analyzes the whole video and extract the script and generate us segments for eight seconds each.
+[22:24] As you know, guys, as you know, guys, as you know, guys, VO3 is eight seconds, it generates for eight seconds each with its own dialogue in it.
+[22:33] And we also will have an option to to change the the segments.
+[22:41] So it feels like one video, not some cut video, you know, and the automation thing one second.
+[22:52] For example, if you see here, we have a button here that says bridge segments and it will create an end frame here that matches the script and uses the character that we uploaded.
+[23:08] And it will add it to the end frame here and it will add a start frame here.
+[23:13] But I did it with Kia, but I will make it so you guys can either use Google API or use file AI or use Kia and like basically just do upload video.
+[23:25] It analyzes you generate the character, you upload your product, your product and you generate the first frame.
+[23:34] If we leave this open, we will use the first frame that we did earlier that girl second.
+[23:41] We will use this for example.
+[23:44] And now right now, like he is generating the image, but as I've told you guys, Kia works by reverse engineering, Sora, VO3.
+[23:57] So they basically have a pool of chat GPT accounts and they use their own account to generate videos and then remove the watermark.
+[24:09] So it basically like having 10 Sora accounts of your own and using those accounts to generate videos.
+[24:15] And that's how Kia works basically.
+[24:19] And when it generates the frames, we can just put generate video, generate all segments, and we will generate the segments with Kia.
+[24:33] And we will have an option to stitch the video together and we will get like a one minute video long.
+[24:40] We can just wait for this to generate.
+[24:42] But the other thing that I want to tell you guys is this new Sora app that I'm doing is basically like you can upload the script here.
+[24:59] And I can't get a lot of this.
+[25:00] 
+[25:00] 
+[25:00] And I can't do that.
+[25:01] 
+[25:01] And I can't do that.
+[25:02] 
+[25:02] And I can do that.
+[25:03] 
+[25:03] And I can do that.
+[25:04] 
+[25:04] And I can do that.
+[25:05] 
+[25:05] And I can do that.
+[25:06] 
+[25:06] And I can do that.
+[25:07] 
+[25:07] And I can do that.
+[25:08] 
+[25:08] 
+[25:08] And I can do that.
+[25:09] 
+[25:09] And I can do that.
+[25:10] 
+[25:10] 
+[25:10] And I can do that.
+[25:11] Thank you.
+[25:41] Thank you.
+[26:11] We will have two models.
+[26:12] We will have a script and video analysis because a lot of you guys have said to me like,
+[26:17] hey, I do not have a video to clone.
+[26:20] Can I use my own scripts?
+[26:22] And things like that.
+[26:24] And I took like feedback and now we will do like one module with will be script analysis
+[26:33] and the other one will be video analysis.
+[26:35] For example, right now I uploaded the raw script and I will say like the scene will be outdoor
+[26:45] in front of his pickup truck.
+[26:51] Or a 40-year-old athletic man wearing a blue sports tank top.
+[27:02] So styles you can add like selfie video.
+[27:09] You just see TikTok style.
+[27:13] Normal pacing.
+[27:19] Big pacing.
+[27:21] I would just press generate workflow and it goes to Gemini 3.
+[27:27] It runs the script and returns out the script.
+[27:31] If the script is longer than 55 words, it will generate the segments which we can use.
+[27:38] See now here like one clip is enough.
+[27:41] So the text I uploaded is 15 seconds.
+[27:44] But if the text was bigger, for example, we can get this again.
+[27:51] We'll put it here.
+[27:54] And we will say old man runner.
+[28:00] And talking about running.
+[28:03] And when we press convert to character, it will take this and add our character to the prompt.
+[28:14] As you see, like I only gave the script to the tool and it generated our prompting guide that we use.
+[28:25] And it added actions and the dialogue.
+[28:33] It's basically like doing it with a gem, but it's all automatic.
+[28:39] Now we wait it to convert to a character.
+[28:47] Sometimes Gemini is slow.
+[28:49] I don't know why, but I'll fix that too.
+[28:50] So, you know, it uses our character prompt that I told you guys to not mention.
+[28:59] To not mention location.
+[29:02] To not mention subject.
+[29:06] Characteristics that can make the character change appearance in the video.
+[29:12] So, basically, if we use this in the exact same scene, in the exact same scene, vibe, talking in exact same tone and rhythm.
+[29:23] And it will keep that consistency that you guys say like, oh, it's not keeping, it's not keeping.
+[29:29] That's how I generate videos.
+[29:31] And I've made this with Kier.
+[29:38] One second, let me fix this.
+[29:40] It will work with Kier, the new character thing that I told you.
+[29:47] What is this error, bro?
+[29:49] Yeah.
+[29:49] 
+[29:58] Second, let's remove this.
+[30:00] So, how it will work, it will be like, first, we will generate the first video.
+[30:06] After the first video generates, we will create the character.
+[30:10] And then it will create the second, third, fourth, fifth video based on how long the script is.
+[30:18] And all it will be documented here.
+[30:22] And back we will get like, we will get all the videos.
+[30:27] We can download them together and just edit them a little.
+[30:30] And you will have like a one minute video for 30, 40 minutes maximum.
+[30:36] That's basically the, the Sora 2 automation thing.
+[30:44] And the VO3, yeah, it got blocked.
+[30:47] But you can download, you will have a button here, download all videos.
+[30:51] And it will download them all together.
+[30:56] And basically.
+[30:57] I'm going to say it.
+[30:58] This with our one minutes later.
+[31:03] And it doesn't look that bad.
+[31:06] But yeah, also I found new open source tools that will also
+[31:14] will help us.
+[31:21] Basically, it will ask, it will act like a,
+[31:26] like a screenwriter and like a story writer, for example.
+[31:31] When we will only give a script.
+[31:35] And it will generate us the, the, the whole workflow, the whole flow of the video.
+[31:44] It will generate all frames.
+[31:46] It will keep character consistency.
+[31:48] And you can basically do all those 3D animations pretty easily.
+[31:55] You can do like a Resilio video that you guys sent me pretty easily.
+[32:00] Like I did one video with the tool that I shared.
+[32:06] I pushed some updates earlier today, but it kind of seemed that they, they broke.
+[32:12] Broke things.
+[32:13] I see.
+[32:13] I like a video here.
+[32:17] I like a video here.
+[32:19] I like a video here.
+[32:19] I like a video here.
+[32:19] I like a video here.
+[32:20] I like a video here.
+[32:20] I like a video here.
+[32:20] I like a video here.
+[32:20] I like a video here.
+[32:21] I like a video here.
+[32:21] I like a video here.
+[32:21] I like a video here.
+[32:21] I like a video here.
+[32:21] I like a video here.
+[32:21] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:22] I like a video here.
+[32:23] I like a video here.
+[32:23] I like a video here.
+[32:23] I like a video here.
+[32:23] magic.
+[32:23] I like a video it generated in.
+[32:24] five minutes i think max they hold 32 seconds
+[32:29] using the vo 3.1 tool i i told you guys
+[32:39] guys sorry that i'm late to the show my name is mano i'm part of the team as well
+[32:48] basically what roas is trying to tell you is that we are trying to fix the steps
+[32:56] and basically give automation tools to the members so we can push more
+[33:02] ads we can push more videos we can push more creatives
+[33:08] tyrona will get to you shortly we also have some partners as thomas explained in the beginning
+[33:17] for the guys that joined lately it will be a pleasure working with all of you guys
+[33:24] just so we can have the biggest community for ai ugc and for our partners so we can connect
+[33:31] with the work that we do we get cheaper stuff we get we buy things cheaper we are trying our best
+[33:39] you just have to wait pleasure meeting you guys we will have more meetings with the group
+[33:46] and good luck enjoy
+[33:48] if you also have any other questions just let me know this was the first meeting but on the next
+[33:58] meeting i will bring people that basically are running
+[34:04] 30k to 40k a day only with ai ugc ads
+[34:12] they really explain like how they think uh what angles how do they approach uh creatives how do they
+[34:24] approach uh copywriting i don't know if you've tested the copywriting tool i posted but i do all my ads
+[34:32] and landing pages using that it's really crazy you can either combine it with cloud if if the
+[34:40] things you're running are not that uh blackhead or if you run for example supplements or ed for
+[34:48] uh blood pressure gemini works the best because it doesn't care it writes the most aggressive copy you've ever seen
+[34:56] one of the best brands that are scaling ai ads it's been shared on the platform on the community it's
+[35:14] uh resilient
+[35:16] yeah cloud i don't know cloud has a filter for me because maybe i i i am too aggressive with
+[35:31] with uh copy and everything with the claims for example if you say lose
+[35:38] for example let's say lose 60 pounds in three three weeks and for for most of the times for me it cancels
+[35:49] but yeah now guys i know you you want to try to make the most uh perfect the most realistic video
+[36:04] uh you try to fix the lip sync you try to fix the hands you you try all these things to make a perfect
+[36:12] video and in the end that video like just doesn't perform what i would suggest to you guys is like
+[36:17] try as many things as you can try as many new combinations new ideas try combine sora with
+[36:28] well with cling combine sora with cling do like um do 3d animations do um whatever new concepts for example
+[36:41] uh one member showed me uh a month ago he said like after a month you can
+[36:47] you can leak my my strategy because it will it will get um i forgot the word but yeah it uh
+[36:58] uh one video that he did he was also low yeah saturated yeah he was also low uh low on budget
+[37:08] uh members uh one one of the members of the group it was like uh something bracelet for
+[37:16] healing healing spiritually bracelet for hearing uh healing spiritually and the concept was like uh
+[37:25] was done with sora too it was the mom on the recording herself speaking on the phone
+[37:32] the song with the song and the son was saying mom thank you i love you the bracelet you bought me
+[37:39] it helped me so much it opened my eyes and things like that mom i love you it was like it was really
+[37:44] emotional yeah the guy is here
+[37:50] and it was one of the best videos i've seen maybe he can he can explain the the
+[38:03] how how he thought about that idea he told me that he he wanted to be a film film writer when he was
+[38:11] younger and that's how these concepts are are coming out yeah thank you for having me here thank you yeah
+[38:21] how are you man so actually the thing is i don't try to too complicate things i just keep it simple and uh
+[38:32] uh i try to write the dreams that i got so when you combine the unconscious brain with your conscious mind
+[38:41] it will give you some kind of ideas i have some ideas written on uh on my paper but uh i don't get time to
+[38:52] post it in the in the discord chat but yeah that was the first i think the second video
+[39:00] video that i made of the phone call and the second one was of the bishop that uh you guys have seen the
+[39:10] screenshot of my matrix it was 47 seconds 67 percent hook rate and a 14 point something percent uh
+[39:21] the watch time whatever that was yeah it was like one video was uh
+[39:30] uh the the mom thing i told you and the other one was like a priest
+[39:36] talking while walking it was really crazy yeah yeah and i'm making seminar kind of video
+[39:44] where the mom is sitting in the seminar hall and uh the camera is on her and she's asking question
+[39:53] um emotionally something like that and then um there's guests on the on the stage
+[40:01] and uh they're answering the questions and uh so if you ask me about the the background consistency
+[40:11] i don't have that much background consistency i just use a different kind of camera angles so that
+[40:18] i will show that oh this is from this camera angle this camera angle not too much consistency i would say
+[40:26] in the background i'm not pro in that and the second video that i'm making is you know there was a
+[40:35] organic guy who was selling uh jesus uh picture picture light and he was uh the hook was his mom was throwing
+[40:52] some kind of stuff on him and then he says oh i'm christian some somebody will love this this uh picture of me
+[41:01] i'm gonna give me jesus and i will sell this he made a lot of money um um saying that thing so the next concept i'm thinking is
+[41:12] a child who has depression anxiety and uh she just slams the door saying uh i don't like this i don't like
+[41:23] you mom i don't like the stuff you believe in and then the mother she goes to either therapist
+[41:31] either church either friend and she records that uh interaction with her and then comes home
+[41:42] gift her this or place it on her whatever bed bedside table and then after some days her daughter come in
+[41:52] and tell how much she has been healed or something like that yeah and so the thing is when you're trying
+[42:03] to write a hook you just have to create a spark in it like i was watching a video yesterday and he said
+[42:15] don't tell a dog is sitting on a mat tell dog is sitting on a cat's mat so it will spark a curiosity
+[42:24] like why is dog sitting on a cat's mat something like that
+[42:30] please zurex yeah thank you man thank you for sharing all these tips with us when i first talked
+[42:38] with you like i really was blown away by your by your creativity and it's the only thing that will keep
+[42:46] that will keep you in front of of the competition because uh i give it max two two months and and
+[42:56] everyone will have access to the best tools they can generate the most realistic videos they can clone
+[43:01] basically anything they want and um and you you won't have the advantage of only realistic videos
+[43:12] anymore it's uh it's all comes down to the creativity and the most important part the how good your your
+[43:20] offer is like how good are margins how good uh is your shipping for example how good is your customer
+[43:27] support and everything like that that will help you scale but i think um ai is here ai videos are here
+[43:37] to stay and they won't go away just it will come down to the who's the most aggressive who's the most
+[43:44] creative who can really go deep on their customer um pain points on their customer psychology how they
+[43:53] think how they wake up how they feel through the day what do they think through the day what do they
+[43:58] think about your product what do you think about their issue you need to to kind of have all um all of
+[44:07] the for example you need to know basically your avatar since when he wakes wakes up till he goes to sleep
+[44:16] maybe what he sees in his dreams you know in order to to get the the most uh attention from him because
+[44:27] as i've told you guys you can do 100 ads in maybe two hours as we were saying it's all it's always the copy
+[44:39] yeah i've also seen like literally the video generations you can clearly see their ai the lip sync is way
+[44:49] off the character changes but uh the spend is is like crazy for example and they have crazy sales they
+[44:57] have a crazy back end and they have mrr and everything else but we're talking like about that we need to
+[45:07] to i would suggest you guys to start changing your approach to ads because it won't be this easy
+[45:14] anymore uh everyone is jumping on ai ads everyone is launching ai ads as gaz is saying like five good
+[45:23] ads a week perform better than some big car press spent uh showing like 500 ugc ads uh but also taking
+[45:34] consideration that try to utilize the ai to target uh people that don't notice ai immediately because
+[45:46] that's there there's the money is there and uh you kind of have a little bit more time to make some more
+[45:55] money for yourself because before needing to uh to hop on on creativity and how good your ad copy and ads are
+[46:07] but i think ai slope is here to stay and you can basically do everything you want i remember one year from now
+[46:17] uh i was doing like 10 different steps just to generate a 15 second a video that looked like
+[46:26] and uh in a year like we've come to so much new tools so much uh crazy tools that we can use to basically do
+[46:39] uh to generate everything you want i know drop shippers maybe someone dropship from here you know how hard
+[46:48] it was like to get the product in your head to full to film videos ship to influencers ships to
+[46:56] pay influencer get back the product you didn't have content no you can do like from professional
+[47:02] photography to videos to videos to vsl to landing pages to building everything with ai it just it's just
+[47:11] how much you want and how much you want to understand how everything works together and it will be easy to
+[47:18] to generate sales i'm confident like uh everyone here i kind of say like 1k a day is definitely doable with
+[47:30] uh the ai tools that we have today and if you take that uh all the lessons i've shared and all all my
+[47:42] tweets all my messages on my telegram community and use them i i believe you can generate a good
+[47:49] ads you can generate a good revenue for your brand or as an affiliate or uh everything you want because
+[48:00] it's really easy uh to make everything you want basically and that's it i i would like from you guys
+[48:09] to to to read all the things on the course that i post because i see some guys asking how do i do this
+[48:16] how do i do that where it's really clearly explained on the course for example uh maybe i know it's kind of
+[48:25] boring to go through the course but every time every time i try to make things so easy that you can just
+[48:31] copy and paste it on somewhere and just uh learn the logic behind it and then just just run it i don't
+[48:38] try to complicate it like an hour-long video talking on psychology you need your mindset you need this
+[48:47] because you're tired of hearing people you know you need mindset to do this you need yeah we need that
+[48:53] but you also need systems to do videos to scale to because only mindset won't won't scale your
+[49:00] that's it basically if you guys have any other questions just let me know
+[49:07] they are doing listen i've posted the uh a quote in my in the community where i said like
+[49:26] it's easier to ask for forgiveness than to ask for permission so brazilia is claiming like they cure cancer
+[49:34] they cure everything else they do as leo saying insane black hat you know but in the end like if
+[49:43] they generate 100 million us dollars and they get and they get fined 20 30 million there they're still
+[49:49] 70 million plus you know so sometimes in life you need to take risks they take a big risk maybe they can go
+[50:00] go to prison but yeah go to prison two three years and you get out having 50 million but the resilient thing is like
+[50:09] a
+[50:09] a big setup
+[50:16] from uh from stock from using multiple businesses using trustee trust funds and everything like that just to
+[50:25] to keep hidden you know because they would get if they were fully american they would get sued easily and closed
+[50:40] what i would say for resilient everything else uh you maybe i don't know you guys but you shouldn't
+[50:47] all be focused on us especially if you have a low budget because you have an extremely competitive
+[50:55] uh resilient uh because us market you need to have a big budget in order to do good volume uh but i also
+[51:07] would rip some big brands that ai that are launching ai videos that are that are doing big
+[51:17] numbers and launched like for example in european countries launching arabian countries launching uh
+[51:26] launching middle east i said middle east launch in asia for example singapore you have singapore
+[51:33] that also they also work like they also pay online things in difference to some countries that only like
+[51:41] to do cash on delivery but yeah if you just copy ads and translate them with ai you can do basically you
+[51:49] can do arabic german french italian everything you want and you can maybe not do the volume like resilia
+[51:56] for example but uh you can do like a good volume that other people aren't um taking advantage on because
+[52:08] they are only focused on the us market as we know like us market is the biggest market
+[52:15] yeah that is is is an issue but just don't pay it
+[52:26] yeah man i only run to to old audience
+[52:33] uh the copywriting is the gem you i posted on the marketing mafia whoop you just configure the gem and
+[52:52] and just for example you take a winning ad copy from a different niche and you say uh here's a winning ad copy i
+[53:00] uh i got from x brand for example and here's info about my product and my brand try to use the same
+[53:10] aggressive copy and generate me a new copy that matches my product etc etc
+[53:15] that's it basically if you guys have any other questions just let me know
+[53:29] okay
+[53:37] okay
+[53:45] okay
+[53:52] so it seems like no one wants to ask the questions uh next meeting probably will be
+[54:04] like this time next week but we will see we'll launch an announcement and we can discuss
+[54:12] new things new tools but i believe the automation tools i'm saying uh i will um post it will be only for
+[54:22] the group it's uh
+[54:27] experience so much
+[54:31] the sedance tool like
+[54:32] the
+[54:35] to be the
+[54:36] the
+[54:37] the
+[54:37] the
+[55:02] but right now i still think i still think sora and combining it with cling it can brings you
+[55:10] can bring you good results and also do not uh do not sleep on vo 3.1
+[55:19] it's really good for generating videos and it's not that
+[55:24] if you have the ultra plan it's basically like free videos for example
+[55:32] yeah that's it guys i i had the plug but all the accounts got banned and people started texting me
+[55:45] bro my account got banned got banned i don't know what happened but i will
+[55:49] i will ask someone else i think um all the plugs got the the accounts from the same person that's why
+[55:58] it all failed
+[55:59] yeah it's fucked up
+[56:06] i will also share let me see how much was the price
+[56:18] on the link i told you guys they have a link i think they have cheap vo 3.1 videos it's like
+[56:28] 17 cents per video on the fast
+[56:31] here you have it uh 17 cents per vo 3.1 720p quality
+[56:47] it's really cheap
+[56:55] yeah i think you can contact them where uh when did you register for slash
+[57:09] yeah i will also post a lot more partners as you know guys uh i'll try to get a really good prices
+[57:23] that you won't see any in any community uh outside of the marketing mafia why because
+[57:31] uh most of the time we do not take uh affiliate cut
+[57:37] we only share the tools that that we i will ask the the guy that set me up the the promotion
+[57:49] you
+[57:49] you
+[57:49] you
+[57:49] you
+[57:49] you
+[57:49] 
+[57:49] 
+[57:49] 
+[57:49] 
+[57:49] 
+[57:49] 
+[57:49] 

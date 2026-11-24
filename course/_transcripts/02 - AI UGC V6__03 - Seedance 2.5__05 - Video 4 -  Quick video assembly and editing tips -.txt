@@ -1,0 +1,25 @@
+[00:00] Okay, so in this video, I want to show you really quickly how I pieced this together.
+[00:05] And so what you're going to do is come in here and put your videos together just like normal,
+[00:10] cut out the empty spaces. But what I did do is I did actually speed ramp these because this
+[00:17] particular video, they were, the movements were really slow. So I speed ramped it to about 1.15
+[00:24] for the entire video. I did, you can see I didn't do any editing. I didn't do any zooms. I
+[00:29] literally just cut and, you know, chopped the images, the videos that I wanted together.
+[00:35] And then this portion here, there's a narrator. Matching patterns, turning blocks, looking again,
+[00:44] practice that feels like play. One grandmother reported her second grader with ADHD became more
+[00:49] patient, more analytical, and less frustrated after a few weeks. Can we try a harder one? Let's do it.
+[00:56] Try Uzzel for 30 days.
+[00:58] So, you know, I added that. The other thing I added was some background music. If you're not sure about
+[01:03] background music, you can ask ChatGPT. Say, I'm using CapCut. Can you recommend some background music
+[01:10] or background songs? I knew that I wanted to use something that sounded like the song from like,
+[01:16] This Is Us, the TV show here in the US, but you shouldn't really copy it. So you can, you know,
+[01:22] use and search inside of here for music or you can use something like Suno and say, hey, in the same
+[01:29] chat, you can say, hey, can you help me write a Suno prompt to generate some background music for this?
+[01:34] But literally that's it. The other tip I want to share with you is about generating accurate
+[01:40] captions. So what I like to do is I will come in here and wherever the spoken lines are, so the spoken
+[01:47] lines are here. I like to select it and create it as a compound clip. If you do that before generating
+[01:55] captions, your captions will come out more accurate. And yeah, so I added captions and I added a hook text
+[02:04] and on the captions, I, you know, I don't do the visible captions when the hook text is showing.
+[02:09] But yeah, that is it. So like I said, take your time with this. Everyone's process is going to be
+[02:17] different. But the thing is to just go through it, get confident, just practice with a short drama,
+[02:23] you know, a one minute or a minute and a half drama just to get started to get your feet wet.
+[02:27] But that's it for this section of videos. Let us know if you have any questions. Thanks.

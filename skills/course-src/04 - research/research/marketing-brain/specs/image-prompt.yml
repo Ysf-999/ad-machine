@@ -1,0 +1,52 @@
+{
+  "name": "image-prompt",
+  "description": "Validates native image prompts for iPhone realism, fully focused backgrounds, concrete subject details, and no fake overlays.",
+  "prompt_section_names": [
+    "Native Image Prompt",
+    "Image Prompt",
+    "Prompt"
+  ],
+  "min_words": 120,
+  "max_words": 330,
+  "anchor_any": [
+    "photorealistic iphone photo",
+    "casual everyday iphone shot",
+    "handheld iphone snapshot",
+    "realistic ugc phone photo",
+    "unfiltered smartphone image",
+    "candid creator style iphone frame",
+    "static ugc iphone photo",
+    "captured on an iphone"
+  ],
+  "must_include": [
+    "everything is in sharp focus",
+    "background is fully focused",
+    "no bokeh",
+    "no blurred background",
+    "no shallow depth of field",
+    "no fake lens blur"
+  ],
+  "must_include_any": [
+    [
+      "no added text",
+      "no extra text",
+      "no text or graphic overlays"
+    ],
+    [
+      "no graphic overlays",
+      "no fake overlays",
+      "no added text or graphic overlays",
+      "no text or graphic overlays"
+    ]
+  ],
+  "forbidden_visuals": [
+    "fake before and after",
+    "fake badge",
+    "fake review",
+    "celebrity endorsement",
+    "doctor endorsement",
+    "watermark",
+    "cinematic bokeh",
+    "shallow depth of field"
+  ]
+}

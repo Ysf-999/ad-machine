@@ -1,0 +1,242 @@
+[00:00] that a couple of announcements also and reminders would be also beneficial to gain
+[00:07] like together everybody here yeah i think also because it's friday maybe people are out yeah
+[00:16] do you do you maybe know ecom talent yeah i know yes yes i'm there and they are doing every friday
+[00:23] also um they are good at it with the reminders and everything uh big activity but uh their members
+[00:30] mostly are from europe so the time zone difference might be i think also right so some of our members
+[00:36] might be from us or something yeah here it's like mostly us and also uae yeah i felt that yeah in
+[00:42] ecom talent i felt that mostly they are from uh european union yeah so yeah there will be a lot
+[00:51] new updates i have been talking with joseph and um what are we using we will be sharing with the
+[00:58] group as you've seen like we have shared some of our sops or automations we'll make videos on
+[01:05] how you can use them so it's basically i'm trying to prepare everything so when someone joins or the
+[01:12] people on the group can get something and do an ad or whatever they want in in very
+[01:21] you know so i think it's a good time you know by automating let's say not 100 but maybe 60 70 and
+[01:28] removing the uh the things that doesn't let you that waste your time for example the prompts creative
+[01:38] thinking the logic and other things you know so i i will think um i think it will be uh good updates and
+[01:47] good work workflows that we will share and i'm sure that it will allow members to to make some pretty
+[01:56] good videos because what i've seen lately people are really uh are wanting quality and quantity at scale
+[02:07] because everyone is doing ai ads so now people are just kind of moving to the quality and quantity side
+[02:14] you know as you've seen with cdance 2.5 you cannot tell like the video is ai for example you know
+[02:29] so yeah this meeting will be like more simple discussion you know next next week i think we will have
+[02:38] a meeting with one of my mentors which is also a really big affiliate he's he's been in the space for
+[02:48] more than 15 years i believe 15 or 20 and he has done a lot of money with with affiliate marketing
+[02:56] especially with weight loss so he can show us uh some tips and how how to think it it won't be all about
+[03:06] ai ads but mostly it will be the foundational things that your business or how how you should act on meta
+[03:14] let's say or affiliate business or e-com you know basically he's thinking and i really like like uh
+[03:22] his execution you know when he executes something he does it perfectly and 99 of the times you know if
+[03:30] if he thinks it will work it will definitely work you know so next week we will have a meeting with him
+[03:37] and i will also bring a lot of people that are from eight to nine figure brands big affiliate teams you
+[03:46] know there will be a lot of value in these meetings so i would suggest that that you join you know maybe
+[03:52] take notes but also i will record the meetings and post on the group so yeah if you have any questions
+[03:59] just we can discuss you know that's amazing yeah i would love to these meetings be like a regular thing
+[04:07] especially with such cats it would be a real like sauce spilling sessions so that would be fire
+[04:14] yeah because normally we we wouldn't leak you know the brands or their ads you know what i mean but
+[04:23] it will be of course of course but this is the community cost community thing right so it's a different
+[04:28] story sorry i didn't get i'm saying that it's a closed community so it's a different story right yeah
+[04:37] yeah yes yes so what i'm also seeing right now i don't know if you guys have tested the drama ads but
+[04:48] with joseph we have seen them get get a lot of spend one ad that joseph did is getting
+[04:58] around 100k spent i believe in two three days
+[05:02] so i would suggest trying the drama ads and also the song ads but that we are i've saved it but yeah
+[05:11] i've saved it but didn't test yet and i was struggling to get to get omni to do that
+[05:18] so i with with only you should do like you should have a frame for each scene because it's not that good
+[05:26] like see this so i shouldn't i shouldn't uh like chain it i should instead do frame by frame yeah yes
+[05:35] yes you okay uh frame by frame and it will be easier for you you know uh let's say for example
+[05:44] for a scene with two persons talking you can have like uh maybe three frames and just juggle you know
+[05:53] when when some when one person talks you throw the frame at the the person and then you throw the frame
+[06:00] to the next person so it's basically image to video not that not like you know that you can do references
+[06:07] and just say okay cut yes because in the old uh omni workflow uh you showed us to chain one video to
+[06:15] another yes i was using that and uh it was messing up things like changing the backgrounds
+[06:22] different other hallucinations were appearing so i just stopped it but i didn't try the drama ad yet
+[06:28] i was trying it myself before the sop came out based on the resilient from the heart attack or something
+[06:34] something like that basically when when we share something let's say now did it with the cdance 2.5
+[06:43] drama what you can do is like take that sop and say to cloud hey uh this is an sop that works with
+[06:51] cdance 2.5 i really want to make it with google omni but the issue is omni uh doesn't support multi cuts
+[07:00] or multi-cut angles here's the official omni workflow what's the best way that i can match this sop to
+[07:07] you can do it basically with cdance 2.0 and other models you know and you give it a reverse engineer it yeah
+[07:15] yeah yeah basically like engineer and match it and you tell okay uh what we will need from you is we will need a start frame
+[07:24] a frame or a frame for each scene let's say and you you make it give prompts here you know when we share
+[07:31] those things it's good that you guys take it and match it for your business or your workflow so it
+[07:36] matches um your your workflow better you know so you don't waste time trying to adapt to my workflow you
+[07:43] know what i mean great stuff we'll definitely test it out and share my results uh i hope the like i know
+[07:52] that they are they are not going to be 100k in three days results but anyway yeah i hope they will work
+[07:59] well it's the idea because sometimes we over we overestimate uh how much people uh or
+[08:08] uh we think that people know ai like us for example you know when i see a video it's with ai but
+[08:16] yeah that's totally true i'm sure yeah yeah the population is too big and i've seen like very
+[08:23] very bad ai videos like convert like crazy you know like vo3 or yeah older people especially right
+[08:32] yeah with older people it's it's crazy i've seen like videos with lip sync you know deep fakes
+[08:38] convert yeah the most ugly old school hagen type of things yeah they're converting like crazy
+[08:46] it's also the idea the script how yeah for sure how you visualize the video for example it's everything's
+[08:56] come to place but uh the the video is with what you make the video is important but not that important
+[09:07] you know okay i see are you guys also by the way advertising anyone in uk are you seeing good results
+[09:15] i was all the time advertising in european union with different local languages but now to be able
+[09:21] to use c dance i want to move to uk also and i wonder if the market is strong enough
+[09:27] not usa of not usa of course but still yeah cheaper there uk is strong we have with my friend we run a
+[09:43] a weight loss supplement in uk yes and we were achieving maybe two three hundred cents a day before
+[09:53] their paypal got shut down but uh uk is a good market you know great great great also in europe like
+[10:01] if you really do good videos let's say or a good funnel you make everything correct basically like
+[10:11] seal from the best in usa and make it for europe also localize it and what i like to do is um i don't
+[10:20] like to use ai for translate because sometimes it's really bad it makes sense so maybe far better some
+[10:28] time to to pay someone from fiverr to to translate your things you know nice that's a good good that's
+[10:35] a good trick you will have a leverage by having the the copy correctly you know you will have a bit
+[10:42] of a good idea it doesn't make sense it's like uh saying an indian accent with uh trying to say american
+[10:53] but here is indian you know and the words that ai translates um do not uh they aren't words that
+[11:03] are used in the normal conversational way in europe yeah for sure i i was fighting a lot with cloud code
+[11:09] to make hard rules you know in my workspace for it to stop those uh like npc words uh and patterns
+[11:19] to humanize it a little bit and i was even forcing it sometimes to make mistakes uh for example if it's
+[11:25] a native art or if it's something that the person tells uh it's it shouldn't speak like with check
+[11:30] spirit level of creatines right yes it's it also makes let's say the scripts um
+[11:40] people in normal life don't use those words let's say or
+[11:46] they don't talk that way you know and when they hear the video maybe you will get some conversions but
+[11:52] if you try to to make everything perfect like people talk in real life for example in places like
+[11:59] germany netherlands i've run some ads on netherlands and the weight loss works there i've sold the product
+[12:09] uh like pills for weight loss it wasn't deepfake it was normal like uh gray let's say funnel and it
+[12:19] i had 1.6 1.8 roos on it but the offer got shut down and i didn't go i just translated with my friend
+[12:28] that i have netherlands i make sure the copy on the ad is good matches the translation isn't wrong
+[12:36] and i was getting really really low cost cost per click the ctr was really good you know and the
+[12:45] checkout was also really good so yeah i think for europe i would say try to localize as much as you can
+[12:54] you know try to use it yeah yeah i'm totally doing it yes but i will i will uh get and try that idea
+[13:00] from hiring someone from fiverr to make it even even more authentic it's also fiverr maybe you can find
+[13:08] a student you know on tick tock and say hey oh yeah i have copies in english i will send you
+[13:18] the script you will make sure it matches the the language i will give you x money maybe you can find
+[13:25] the young guy you know tick tock and paying 50 100 a month or something like nice nice nice uh what about
+[13:34] the do you said it was a grey hat funnel and i was i wonder after the last meeting where i attended also
+[13:41] here um i was checking the clocking topic and i wonder if when we do clocking does the meta
+[13:48] also get the signals of purchases and does it link and showing the campaign and optimize over it or
+[13:54] when we do clocking we should like uh stop wanting that how does it look like cloaking usually
+[14:02] cloaking works only to hide the landing page oh so the checkout works okay right the checkout
+[14:11] is uh works with postback so when you work with someone if you are they will give you an option
+[14:19] to create postbacks and usually they have events for like add to cart initiate checkout and say or purchase
+[14:27] you know so with those three you have a postback which you send back to uh to to your server and then
+[14:36] it goes and optimizes to meta it says okay this one at this time an add to cart event happened you know
+[14:45] if i don't know if you have used everflow or something like that but it shows that you have
+[14:50] events and you can you have for example for an ip you have at today's date friday september 4
+[15:00] uh 16 16 18 an add to cart event happened and then 10 minutes later a purchase happened and when that
+[15:09] you have a purchase or add to cart event you can send uh that with the conversion api you can send it to
+[15:16] facebook and it will and it will be like a better data optimization so it won't work on pixel but it
+[15:24] will work with postback and conversion api so it's more like server-side uh events not okay i use we tracked
+[15:33] uh are you familiar with it will it cover that thing or you don't think so i i haven't used we tracked i
+[15:42] use click flare which is a really good tracking tool it's called click flare let me write a chat
+[15:51] click flare click flare click flare click flare click flare click flare click flare click flare click
+[16:00] i can show you a read i can show you some guys that i used for yeah that would be amazing blackhead and
+[16:11] greyhead they are called you can see they work only with crypto but they don't have the best
+[16:21] accounts but they are really no just dm me on telegram and i will tell my partner to to tell you
+[16:34] they are a vietnamese agency
+[16:38] they don't have the best accounts but what they are the best that they are really fast you know
+[16:43] you can get a new account if you got banned in one two hours max you know they so they are really
+[16:49] good i will show you two three guys that i used so yeah but what actually worked for me is like
+[16:57] having a good cloaking so basically using white rabbit for cloaking and that's it if you have a
+[17:03] good cloaker make sure like the the white page ad is really good you know you have all the privacy
+[17:10] policy terms and conditions uh make sure like every every link works you know it's not one page
+[17:18] make sure the privacy policy links are actually clickable you know add some blog posts make the
+[17:24] the website feel alive not not just some random website that you made to to hide from that
+[17:35] so yeah if you have a question are you guys by the way also familiar with the thing that meta started
+[17:42] uh banning uh domains that are in health niche in european union because i had that issue like
+[17:49] literally two days ago i was like shocked because it was a new thing to me never happened before never
+[17:54] heard of it and i i had to like change the whole domain of my funnels to be able to continue advertising
+[18:00] i think it's only like a a band wave to say sometimes meta just okay but sometimes of the year
+[18:12] they are focused on cleaning up you know and if you get out of the way you are abandoned
+[18:18] they will not close uh their source of income you know because they live yeah yeah yeah it wasn't
+[18:30] it wasn't banned it banned completely like they allowed me to continue advertising with the domain
+[18:34] but they stopped sending the as they say some events and by those some events they meant initiate
+[18:40] checkouts and purchases which was really catastrophic i only could see like landing page views uh like
+[18:46] clicks etc only the upper funnel things you know so it was very bad for a whole like two days until i
+[18:54] like changed the whole um the main thing and started working again you will have always problem with
+[19:02] health and wellness yeah yeah yeah we'll do is like uh try to use custom events if you are not banned
+[19:13] also from custom events and try to use server-side uh events as much as possible to to kind okay and bypass
+[19:22] health and wellness flag okay sometimes you will need to change the domain i will see if i have something
+[19:31] on that regard and send you amazing yeah i would really appreciate it yeah
+[19:38] and also like sometimes you can talk to a meta insider so they can remove that flag yeah i requested
+[19:46] review and they said that no you just said like go away uh yeah it happened uh simultaneously with two my
+[19:55] facebook profile bands also so they banned it i requested the review and they like uh banned it forever
+[20:01] without the possibility to review so but now i'm back i changed the domain and changed the profile i'm
+[20:09] warming it up properly uh using an anti-detect browser's proxy so it should be fine now yeah what uh what i
+[20:17] actually also noticed is like i've used agency accounts but for some reason the cpms are way higher than
+[20:30] using my personal account i think meta is also recognizing the oh the detect browsers the proxies you know
+[20:40] it just it's just it's just like a thing i've noticed i'm not sure how true is it but when i use like
+[20:48] my personal account i spend like months building it slowly you know and when i use my ad account
+[20:57] i tend to have let's say for an offer i tested with an agency account i had 80 to 90
+[21:02] uh cpm or 100 and it was a platinum account so the most expensive is it that revival or something else
+[21:12] i don't want to mention but it's okay no problem yeah i used the the the most expensive plan and i'm just
+[21:20] getting 100 cpm on that account and on the on my account that i don't band but i paid to to get it
+[21:29] back i was getting 30 to 40 cpm and wow in usa yeah uh uk uk uk uk uk okay okay okay interesting
+[21:41] yeah i started using ggc at accounts like seven months ago uh for uh two months then i stopped and
+[21:47] now uh when these all bands uh started i had to get one too because my was banned so i will also
+[21:55] let's see if i was going to show you a trick yes on how to check your account uh trust here so
+[22:08] it's one two three so if the trust here of your account is one it means it's a new account facebook
+[22:14] doesn't trust it you know and you will get maybe penalized for it so
+[22:22] what you will do
+[22:25] what you will do
+[22:34] as you can see on my personal account i have a trust tier three which is
+[22:39] the highest tier you can get and usually your ads will get approved faster you won't get banned and you
+[22:50] will have better performance of the ads so right and if you are working with an agency provider and they say okay we have
+[23:00] uh the best ad accounts you can find you know
+[23:04] yes what you do if you buy from them and go to to the ads manager page
+[23:10] go to inspect element i believe you you know that yes yes yes yes i do and you you will go to source
+[23:21] and you like to just search there the trust uh no yes you will go to source and click this ads global scope id thing
+[23:31] on the first time it won't load you just need to refresh the page while keeping open the inspect element
+[23:39] and then go go on that and just search trust here and you will find the trust here of your account so
+[23:45] if someone advertises hey we have uh
+[23:49] edge hipa accounts you know the highest level accounts
+[23:53] and with some of the agencies that i worked i noticed they are giving basic accounts you know
+[23:59] it's trust here one the trust here one is the the
+[24:06] least trustable account in meta and will definitely include in your performance
+[24:13] not being that good you know that's really really
+[24:17] interesting i'm going to check it i'm going to check it with this agency ad account
+[24:22] to see if they are right to me for premium usually the biggest agencies in the space
+[24:28] have really tier three but what i've also been using for white hat which are really good
+[24:38] i have run glp glp i've run telehealth and i've run all the other offers
+[24:48] everything has been solid you know it worked really good amazing so uh what is the benefits
+[24:53] one more time except are it being accepted easier okay it means the the account has actual spend behind
+[25:00] it it's very right and you won't have too many problems with it you know the performance will be
+[25:07] you will be rewarded from facebook algorithm you know if your ads of course uh-huh okay so if someone
+[25:15] sells you premium price and say we have the best ad accounts and you see trust tier one
+[25:19] it means the ad account is a simple ad account that you can get from every agency or from yourself you
+[25:27] know you just create it it's a tier one so the tier three accounts are the hardest to obtain especially
+[25:34] if if it's your account but how you can obtain it is like by spending by verifying your payment method
+[25:41] uh by not doing weird things with your facebook or launching me that's you know so tier three is the
+[25:49] highest tier trust tier of ads account of ad accounts so uh it will give you uh better performance
+[26:00] that's what i've noticed with the tier one yeah and tier three accounts
+[26:04] you know this isn't something that like life or death you know it's just things that maybe can
+[26:16] can make your performance slightly better you know and allow you to to to win yeah always something
+[26:23] right yeah no i'm not all right guys i gotta go story uh thank you very much and have a great rest of the
+[26:31] meeting thank you bye bye no i'm not sharing the screen this is more like a simple meeting for this week
+[26:39] from next week i will do one meeting one week a meeting with someone like a brand owner or big affiliate
+[26:51] or someone who has made money with ai ad so we can learn something new and also maybe we can do
+[26:59] during during during during the week like a random meeting with the team and we can talk so yeah that's
+[27:07] what i i talked for today and that's what i said i do not have anything else to add only that new modules
+[27:16] are coming soon so if you have any questions just let me know and yeah
+[27:29] no i don't think there is a swipe file of all trending ai formats what are we doing is like
+[27:54] i cloak both what are we doing is like we are posting on the swipe files uh channels on the discord
+[28:07] usually when someone sees i might add tags or make it like a forum but i also added the member resources
+[28:18] so yeah i'm open to the discord group as you know i'm not really
+[28:38] it's my first time you know having something like a community or something i've always like run ads for
+[28:44] myself so i don't really know how to run everything so i will try to fix the discord
+[28:51] make it easier to to navigate so yeah i cloak creatives with
+[29:02] if this platform that i cloak for i clocked for hiding the script usually
+[29:07] it adds a a sound underneath the video which ai cannot detect the real script but that sound
+[29:20] isn't heard by the person viewing it you know it's only heard by the by the ai so your script will say
+[29:27] you will lose uh 100 pounds a week but the ai will hear health and wellness
+[29:35] uh this diet is really good you need to work on the gym blah blah blah nothing here's this platform
+[29:43] and i forgot the name of the other platform for cloaking if you don't have um if you don't have
+[29:54] bad creatives let's say like a naked woman or something this platform will will cloak your creative
+[30:00] really good and also i am using the i'm not running black cat anymore but i'm using uh catalog ads to hide the videos
+[30:16] i don't know if you know how you run catalog ads but i can send to something
+[30:26] it's
+[30:30] yeah flex ads and also catalog ads
+[30:44] also the language one but my best performing one was the catalog ads
+[30:51] and also another ad flow no i haven't happened
+[30:58] oh
+[31:00] i i haven't heard of it
+[31:11] but maybe it can work because it's it's working with uh dynamic product ads
+[31:17] i'm not sure the the ones that i've used is uh catalog ads one 200 one and with a one dollar budget
+[31:26] and the bit cap so that will be better for us but i'm not running anymore because the performance really fell
+[31:36] right now it's going up but everything is easier you know with white ads
+[31:41] okay yeah i saw that i i will respond after this meeting so yeah
+[31:55] no worries bro so that was all for me if you have any any other questions just let me know
+[32:06] or we can finish for this meeting and also let me know in the group what time would you like
+[32:13] for next week i usually do fridays because it's end of the week but my audience is more usa and
+[32:21] or uae so i'm not sure what's the perfect time you know to so yeah yeah that's it for me i see that no
+[32:31] one has has a question so thank you guys for taking time but these meetings from now on will be more
+[32:40] will be every week the the friday meeting will be every week for sure with lots of new guys
+[32:47] talking and basically discussing new new formats or new strategies something like that yeah
+[32:53] yeah thank you so much and see you see you next time
+[32:58] you

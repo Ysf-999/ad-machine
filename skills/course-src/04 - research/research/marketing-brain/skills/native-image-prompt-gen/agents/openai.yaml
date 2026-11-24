@@ -1,0 +1,4 @@
+interface:
+  display_name: "Native Image Prompt Gen"
+  short_description: "Create realistic native ad image prompts"
+  default_prompt: "Use $native-image-prompt-gen to create candid iPhone-style native ad image prompts for this ad concept."

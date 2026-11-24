@@ -1,0 +1,54 @@
+﻿Drama Ads Walkthrough
+
+
+
+
+Writing the script, Generating the videos, Simple Editing and pacing
+
+
+* Video 1: Overview https://www.loom.com/share/673d5f3f596e4c30ac0d66385434b704 
+
+
+* Video 2: How to write drama scripts: https://www.loom.com/share/e233fe1b6d5c41a2bd60ae60d5528823 
+
+
+* Video 3: How to generate the images videos: https://www.loom.com/share/115224317d054038888a5d28c35f3387 
+
+
+* Video 4: Quick video assembly and editing tips: https://www.loom.com/share/4e1f708dc9384201aa2085c72f8463cc 
+
+
+Whats needed:
+* OxROAS Agent
+* The Plot Compendium- DramaAdScript. Md (Helps write script) 
+* Drama Ad Machine 2.0 (skill) 
+* .env file with API keys
+   * Kie, higgsfield etc. (images & video)
+   * Elevenlabs for voices
+
+
+
+
+Recommended AI Models:  (Oct 2026)
+* Claude Code / Codex
+* Chatgpt Image 2
+* Seedance 2.5
+
+
+
+
+
+
+Workflow: 
+* Research (vent, confessions reddit) 
+* Script writing (Or use winning script / adcopy) 
+* Visualization
+   * Characters fronts
+   * Characters Sheet (full body & wardrobe) 
+   * Scenes
+   * Voices 
+* Generation 
+   * Pilot video 1st
+   * Generate the rest
+* Editing
+   * Pacing / speed ramp 1.10-1.15

@@ -1,0 +1,142 @@
+[00:00] Hey guys, so in this video we're going to be talking about creating an AI B-Roll library.
+[00:05] It's one of the easiest and fastest ways to help speed up your production, but it is also a huge
+[00:10] pain point, but it will greatly help you give your editors leverage. And so what we're going to be
+[00:15] using is the 0xROAS AI agent to help you build out that B-Roll library. So here's what is going
+[00:22] to be needed, the 0xROAS agent, and I recommend using it on codex. You can use it on whatever
+[00:27] you like, but codex will help you to go ahead and also generate images. If you want to do it that
+[00:33] way, you can click this link here and watch the video. If you do not have access to it, it'll show
+[00:38] you how to upload it and get going with it. Also, you want to make sure that you've got some product
+[00:43] research inside of that same agent as well. Again, if you haven't done so, this links to the same video,
+[00:49] it shows you how to upload it and get some basic research done for your brand and product, but also
+[00:55] you can add and upload your own files as well. And then you want to make sure that you've got some
+[01:00] product images already in your folder as well. Now, when it comes to the actual generation process,
+[01:06] you can do it two ways. You can do it from text to image and then turn that image into a video.
+[01:12] This is best if you're, you know, if you're a newbie to the process, if you want to have a little bit
+[01:18] more manual control to help make less mistakes, definitely then I would recommend using GPT-MH2,
+[01:27] which again, if you're building it in codex, it's already in there for the video generation. And
+[01:32] then you can use Kling or C-Dance is what I recommend usually for B-roll. It just has way better
+[01:39] camera control. It looks way better than Omni in most cases. If you are doing text to video,
+[01:46] you can just have it prompt out the text and you can just go straight into Kling or C-Dance.
+[01:53] But again, this is kind of advanced if you trust the process or if you have a bigger budget,
+[01:58] if you're not worried about like wasting as much, you know, cause there's definitely going to be a
+[02:02] learning process. So we'll go ahead and jump right to it. I've got some prompts here. I've pretty much
+[02:08] copy and pasted what my conversation was. And again, the goal with this is not for you to just
+[02:14] follow the process step by step by step. Your output might look a little bit different than mine,
+[02:18] but it's more important to understand the flow and the process and to use your tools,
+[02:22] you know, use what you have first before trying to reinvent the wheel essentially. Right?
+[02:28] So here's what I did is the first one is, um, I went inside of my AI agent and I said, Hey,
+[02:34] I need to create a B-roll library for, and I named the product. Um, and I told him the goal of the B-roll
+[02:40] was to create a B-roll library to mix and match. I'm not going to read this entire thing, but pretty much
+[02:44] I wanted to tell it, Hey, number one, I want to B-roll library. And then two, I was like, but first
+[02:50] let's map out some of these categories first. Right. And I gave it some ideas again, the, um, the, uh,
+[02:59] the prompt, you can just copy and paste if you want to. So when it did is it ran it and it, you want
+[03:05] it to actually go through the thinking process. It ran through the thinking process where it was
+[03:09] like, it followed a set of rules. And then what it does is it plans out a master folder structure.
+[03:16] Okay. So these are folders here and then it has sub folders, right. That are specific to that product,
+[03:23] right. Freshness, anxiety, checking or second guessing, showering again, laundry buildup,
+[03:28] bathroom hesitation. Right. So all of these things, and then it helps like map it out and you can
+[03:33] actually read through this if you'd like, just to make sure that it's on the same page, but it does
+[03:39] it for all these categories. So look, failed solutions or old routine, uh, product discovery,
+[03:45] right. Starts finding it on social. Right. Um, and so it's got all these different things here,
+[03:52] right. Uh, product education, product use, right. So it goes ahead and it plans all these things out.
+[04:03] And then keep going here. And so this is says, Hey, this is the recommended, uh, you know, folders.
+[04:10] And again, that's just like a summary here. And then I said, okay, great. So now for each of these
+[04:15] categories, can you help me write three specific B-rolls that can be put in each one of them? So
+[04:22] essentially what it did is this one, for example, it has way more than three, but I'm saying, Hey,
+[04:27] can you, I, I was just getting started, you know, this, I don't want to take a ton of time
+[04:32] and I want to test it out first. I'm like, Hey, just do the first three. And so that's what it did
+[04:37] where it broke down the three, but it gives you like what the point of view is. Okay.
+[04:44] And so if all those look good, I'm using the image to text process. And so it gave me 36 test
+[04:53] concepts that, you know, you could use to start out the library. And so I said, now, great. Can
+[04:59] you create a shot list for each of these categories? Right. Like actually create an image, uh, three,
+[05:05] you know, three, nine by 16 images on each. And so what I ended up with is it gave me these shot
+[05:12] list images so that I could sort of preview what I want, what that B-roll would actually look like.
+[05:19] And this looks pretty doggone good, right? I mean, none of these actually show the face. So these can
+[05:26] be reused multiple times. And so if you don't like one, you could, you know, select it and say, Hey,
+[05:32] can we make this blah, blah, blah. And you can just make selections with it. The biggest thing is
+[05:36] about being confident and just talking to the agent, right. For what you like or don't like.
+[05:45] Okay. And so now if these looks good, you can just literally say, Hey, just generate,
+[05:52] go ahead and generate each of these images individually nine by 16. Now, if you like these,
+[05:59] go ahead and use them and they'll come out great. It's a great starting point. But if you want to add
+[06:05] the sauce, I'm going to give you a little tip for sauce. So if you look at these, these camera angles
+[06:11] look sort of, uh, they look, they're okay, right? They're not bad. They're just okay.
+[06:18] But if you add this here where it says, make the camera angles, uneven camera angles,
+[06:23] TikTok style, candid as if it was taken with the iPhone 15. So if you're want your, if you want it
+[06:30] to very, very much feel like a TikTok authentic at this to your prompts. And you can see the camera
+[06:39] angles look different, right? They coming in at different angles. That's her being uncomfortable.
+[06:46] She'll be pulling the, you know, blanket up. This looks like someone actually was like recording
+[06:51] from their phone, uneven camera angle. Okay. So we'll go through these and you can just, like I said,
+[07:02] go through. And if you like them, these will be your starting images. And so let's say you wanted
+[07:08] to do a mashup video and you want it to have three or five different people, uh, opening up,
+[07:15] you know, the product, right? So then I'm saying, Hey, give me three unique images
+[07:20] and unique angles for the unboxings images. So this right here.
+[07:27] So now I've got three different unboxing images, right?
+[07:35] So that's how you get your actual start images of a B roll. These look amazing. It's an amazing
+[07:40] thing to start. And so now that you've got your images, the next thing you'll need is, okay,
+[07:44] now I need to do image to video. And you can say, okay, for these 18 frames,
+[07:49] um, can you give me image to video prompts for cling? And then at the beginning of each one,
+[07:56] add this, this gives you that handheld shaky. I'm not going to read this to you guys. Cause again,
+[08:00] it's, it's pasted in the prompt area. And so then you just simply copy and paste these prompts into
+[08:08] whatever tool you have. So let me show you really quickly. These are the prompts that you can use.
+[08:14] Just use them in this order, use them in these order. And this is the tool I have. And so I just
+[08:21] want to show you a quick example. So this is the unboxing video. That's the unboxing video there.
+[08:27] I mean the image, excuse me. So then you just copy and paste.
+[08:31] And one thing I want to mention is, and this is another reason why I like to do images first image
+[08:41] to video, because I didn't notice this, but this image is actually blurred right here. So if I would
+[08:47] have caught that, I could have went back to the agent and said, Hey, this image is blurred,
+[08:53] recreate it and make sure that the text is visible. Right. Another tip I want to give you is usually
+[09:01] when you're dealing with something with text. I, it's better to use C dance, right? Cling. I start
+[09:08] with cling because cling is cheaper than C dance, but cling is also, as of this recording, not very good
+[09:14] at rendering written text without it turning all glyphic and stuff. And C dance tends to do better
+[09:22] with written. But either way, you know, these videos would have been good if I didn't mess that up.
+[09:33] Here's a cling one unboxing video.
+[09:35] So that's cling.
+[09:43] This is,
+[09:44] this is C dance, right?
+[09:50] Cling.
+[09:54] And I'm going to do another video on this. So this video does look awkward, but I'm going to do a video
+[10:01] on resourcefulness around like your generations, because this video does look very awkward. You
+[10:07] cannot use the whole video.
+[10:10] But if you were to snip that video,
+[10:13] you could use a short one or two seconds there and boom, you've got your B roll.
+[10:20] And then here's another one, right? I'll probably end up redoing this one. I feel like she should have
+[10:24] taken the underwear out and then closed the drawer, right? And then walked away.
+[10:29] But either way, this is an amazing start to building out your repository. I literally used
+[10:36] two brain cells to do this process. So the biggest thing is just use what you have.
+[10:43] Oh, and another tip is to ask the AI agent to rename your files for you, just because it's going
+[10:50] to save it as these ugly looking like file names. But you want it to go ahead and rename it so you
+[10:56] can easily tell what it is. Create a Google folder, a drive and Google folder and upload
+[11:02] them there. So your next steps for this assignment is going to be to create 10 B roll videos for you,
+[11:09] for your or another company and share them in the discord group. As always, if you have any
+[11:15] questions, feel free to post in the group and we'll be sure to help you. Thanks so much.
+[11:18] Let's do it.
+[11:22] Let's do it.
+[11:23] Let's do it.
+[11:24] Let's do it.
+[11:25] Let's do it.
+[11:25] Let's do it.
+[11:26] Let's do it.
+[11:27] Let's do it.
+[11:27] Let's do it.
+[11:28] Let's do it.
+[11:28] Let's do it.
+[11:28] Let's do it.
+[11:29] Let's do it.
+[11:29] Let's do it.
+[11:30] Let's do it.
+[11:30] Let's do it.
+[11:31] Let's do it.
+[11:31] Let's do it.
+[11:32] Let's do it.
+[11:32] Let's do it.
+[11:33] Let's do it.
+[11:33] Let's do it.
+[11:33] Let's do it.
+[11:34] Let's do it.
+[11:34] Let's do it.
+[11:35] Let's do it.
+[11:35] Let's do it.
+[11:36] Let's do it.
+[11:36] Let's do it.
+[11:37] Let's do it.
+[11:37] Let's do it.

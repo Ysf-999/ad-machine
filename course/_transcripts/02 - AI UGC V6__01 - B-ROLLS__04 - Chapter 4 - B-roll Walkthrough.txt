@@ -1,0 +1,29 @@
+[00:00] Hey guys, in this video I'm going to show you how to create a screen recording AI B-roll.
+[00:04] Something like this.
+[00:11] Alright, so you're going to want to use this process when you need to create an AI generated B-roll video,
+[00:16] but you need to actually maybe reference an actual screen recording.
+[00:20] You might want to do this to show your client's actual website inside the video,
+[00:25] because sometimes if you only use a URL, I mean like a reference image,
+[00:30] things can get real glitchy.
+[00:32] And so with this, it actually allows you to embed, so to speak, your actual video inside of the video.
+[00:39] So what you're going to need is your reference start image,
+[00:43] a reference iPhone screen recording or desktop recording.
+[00:46] And then in this instance, I'm using CDANCE 2.0 or 2.5.
+[00:49] In this example, I'm using key.ai.
+[00:53] It's something you can pay for as you go.
+[00:55] So what I did was you come here and it's super simple.
+[01:01] Okay.
+[01:01] So this is an example of 2.5.
+[01:04] CDANCE 2.0 can do this as well, but it actually came out a little better with the 2.5.
+[01:10] And so you want to use this prompt like this,
+[01:12] handheld shaky camera movement, use at reference image.
+[01:16] And so you add your reference image here and then you say what it's doing.
+[01:20] So person is scrolling and clicking on the,
+[01:22] then he says, make the phone show the screen.
+[01:25] And then you do the at reference URL.
+[01:27] So literally all you're doing is adding the reference image and adding the reference video.
+[01:35] And this is like my screen recording and this is how you get that output.
+[01:40] So that's it.
+[01:41] If you have any questions, feel free to ask in the group.
+[01:43] I'll see you on the next video.
+[01:44] Thank you.

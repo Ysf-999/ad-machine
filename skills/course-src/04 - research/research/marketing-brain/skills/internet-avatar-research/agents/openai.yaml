@@ -1,0 +1,4 @@
+interface:
+  display_name: "Internet Avatar Research"
+  short_description: "Turn online evidence into avatar decisions"
+  default_prompt: "Use $internet-avatar-research to mine internet sources, reviews, comments, and competitor pages into trigger events, pain ladders, ranked themes, and creative decisions."

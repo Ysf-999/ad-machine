@@ -1,0 +1,4 @@
+interface:
+  display_name: "Archetype Builder"
+  short_description: "Cluster buyers into ad archetypes"
+  default_prompt: "Use $archetype-builder to turn these insights into buyer archetypes and awareness stages."

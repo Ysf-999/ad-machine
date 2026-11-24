@@ -1,0 +1,93 @@
+﻿Whiteboard Style Video — Training Walkthrough
+What You'll Need Before Starting
+* A script
+* Whiteboard skill — custom Claude skill (link in training resources below the video)
+* ElevenLabs (or similar) for voiceover generation
+* Image generation: 
+   * ChatGPT / GPT-4 (recommended) OR Google Flow (nano banana)
+   * Product Reference Image
+* Video generation: 
+   * Seedance 2.0 (recommended for best output quality) OR Google Gemini Omni (works, but lower quality — see comparison in video)
+* CapCut for video editing
+Workflow
+* Generate the script
+* Generate the voiceover in ElevenLabs
+* Generate the initial reference image — this sets how the whiteboard looks (style, aesthetic, layout)
+* Generate the start frames — individual scene images based on the reference
+* Generate the videos from the start frames
+* Assemble and edit in CapCut
+  
+
+Post-Edit Tips
+* Speed ramp your videos to help with retention — how much depends on the pacing of the spoken line
+* If the video feels too slow, go back and add another drawing/scene to fill the gap
+* Don't stress about gaps until you reach the end — assess the full video first, then fill where needed
+
+
+URO probiotics: 
+
+
+
+
+“I showered twice before one date…and then canceled anyway.
+Not because I didn’t like him. I really liked him. That was the problem. Something felt off down there, and I was terrified that the closer he got, the sooner he’d notice.
+So I became the cleanest woman alive. Morning shower. Pre-date shower. Emergency shower. I’d feel better for five minutes, then start worrying all over again.
+I even started avoiding intimacy. This tiny private worry was beginning to control my whole relationship.
+Then I learned the part nobody had explained to me: cleanliness and vaginal-flora balance are two completely different conversations.
+You can shower, use soap, and keep yourself clean—but surface cleanliness isn’t the same thing as supporting the balance of your vaginal flora.
+That’s when I tried URO.
+It has the V-Positiv Probiotic Blend: four Lactobacillus strains paired with 400 milligrams of XOS prebiotics.
+Basically, it combines probiotics with the prebiotics that support their environment. It’s two capsules a day, and consistency matters.
+The review that got me said, ‘I didn’t even tell my guy I was taking something—he recognized the difference.’
+That was the exact confidence I wanted.
+URO is the number-one best-selling vaginal probiotic in the USA, with more than 10 million bottles sold.
+Give the routine about eight weeks because this isn’t supposed to be an overnight cover-up.
+And if you’re skeptical, there’s a 30-day money-back guarantee.
+If you’re clean but something still feels off, tap Shop Now and read the URO details for yourself.”
+
+
+Next Steps: 
+
+
+* Generate your own script for a product
+* Create a video
+* Share to the community in Discord
+VOX Paper Style Video — Training Walkthrough
+What You'll Need Before Starting
+* A script
+* Vox skill — custom Claude skill (link in training resources below the video)
+* ElevenLabs (or similar) for voiceover generation
+* Image generation: 
+   * ChatGPT / GPT-4 (recommended) OR Google Flow (nano banana)
+   * Product Reference Image
+* Video generation: 
+   * Google Gemini Omni (works, but lower quality — see comparison in video)
+* CapCut for video editing
+Workflow
+* Generate the script
+* Generate the voiceover in ElevenLabs
+* Generate the initial reference image — this sets how the whiteboard looks (style, aesthetic, layout)
+* Generate the start frames — individual scene images based on the reference
+* Generate the videos from the start frames
+* Assemble and edit in CapCut
+  
+
+Post-Edit Tips
+* Speed ramp your videos to help with retention — how much depends on the pacing of the spoken line
+* If the video feels too slow, go back and add another drawing/scene to fill the gap
+* Don't stress about gaps until you reach the end — assess the full video first, then fill where needed
+
+
+URO probiotics Vox Script Example: 
+
+
+This is Maya. For the last three months, she's been fighting a fish smell that just won't quit.
+She's embarrassed when she walks outta bathroom stalls and someone walks in right behind her. She’s hopin they dont come out holdin their breath.
+Or worse, her bf goes in right after she walks out. She stands outside tha door. Dying inside.
+She showers twice a day. Sometimes three. New soap. New wash. New underwear. She's doing everything right.
+The douches. The cranberry juice. Baby powder down there. Feminine sprays. She's tried all of it. It keeps coming back.
+And it's killing her spicy time. Making excuses. Pulling away before things even heat up. She can't be present when she's this in her head.
+It's not a hygiene problem. It's bacterial imbalance down there. Everything she tried only worked on the surface. Never the actual cause.
+URO has four targeted probiotic strains that crowd out the bad bacteria causing that smell and restore her natural pH.
+Now he walks straight out of that bathroom right to spicy time. She's fully there with him. No excuses. No pulling away.
+Ten million women already know this feeling. Now it's your turn. Try URO today.

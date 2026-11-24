@@ -1,0 +1,66 @@
+[00:00] Next, I want to show you how you can take any script and actually turn it into the drama. Say,
+[00:04] I have a script that I want to write for the Uzzel. I want to turn this into a drama video.
+[00:09] Be sure to tell it how long you want it to be. I said I want it to be less than, no longer than
+[00:14] two minutes, I think is essentially what I said. So you plug in the script and then it's going to
+[00:20] build out the plan for you. And if you don't like it, you can push it. You can tell it what you want
+[00:25] to adjust. And so like, I wanted the mom to actually mention that she knows the child struggles
+[00:30] with ADHD because that was based off of a winning ad angle for the company. And so then give it
+[00:38] whatever creative direction you had. It's okay if you don't have creative direction, but I did. I had
+[00:44] a specific creative direction. And so I just, you know, opened up my chat and I talked to it. I said,
+[00:50] hey, let's go through the plot before we actually lock in the script because we shouldn't be
+[00:55] introducing the game at the beginning. So read through this, right? This is a drama. You don't
+[00:59] want your product being shown up front. And so you want to go through here and really push it because
+[01:06] if you, if you give it just, if you take just the first output, it's not going to be the best.
+[01:10] So you want to, this is where you put your creative direction in here, your creative vision,
+[01:15] you know, use very, very descriptive. So like, hey, the girl is clearly frustrated.
+[01:19] She has low confidence and low self-esteem, right? So you can give it all that feedback
+[01:24] and it will go through and adjust the plot for you.
+[01:32] And so this is the adjusted, you know, script. It gives you the visuals. And a lot of this,
+[01:37] you have to just literally slow down and read. There's no shortcut to doing that.
+[01:42] And so then I had a little bit of issues with my API key and 11 labs, but we finally got it sorted
+[01:47] out. And so what it's going to do is it's going to generate your characters. This is the visualization
+[01:52] where we've got the characters and we've got the living room. And then it breaks down. Once you
+[01:58] approve the characters, it's going to get create character reference sheets. If you do have children
+[02:03] and you're having hard times with the AI generating the image, I did use ChatGPT image too,
+[02:08] right here in the chat. And it worked okay. It's all, it'll put the product actually in as a reference
+[02:15] photo. And then this was the girl's bedroom initially. So I did have to go back and I said,
+[02:24] Hey, can you actually make it like, look lived in, right? Like a lived in girls room, little girls
+[02:29] room. And then I said, great next step. So if you ever don't know what the next step is, ask it,
+[02:36] okay, what's the next step? Let's move to the next step. I approved. Right. And so then what it did
+[02:41] is it took my 11 labs API key and it says, Hey, we need to generate, you need to pick the images and
+[02:47] the voices, excuse me for each character. And so this, it gave me some references I could listen to.
+[02:53] She has ADHD. I know she struggles, but tonight I just got angry.
+[02:58] Right. And so this one, she has ADHD. I know she struggles, but tonight I just got angry.
+[03:03] So he just says one voice, one, two, or three. And so you just pick the voice that you want.
+[03:14] So I said, Hey, for mom, I want voice number one, grandma. I want voice number one,
+[03:18] daughter. I want voice number two and narrator. I want voice number three.
+[03:23] So then it started creating like the first pilot video.
+[03:27] I bought that to help. I know she wouldn't touch it. She'd already had a hard afternoon.
+[03:35] I can't tell anymore. Tell what? When she needs help. When she's quit. She has ADHD. I know she
+[03:42] struggles, but tonight I just got angry. Remember hiding your homework? I thought you'd be disappointed.
+[03:49] I think she's scared of that too. So you can, so that's the pilot. So you can make different
+[03:56] adjustments. So like in this example, this table, I wanted to show a failed solution. And one of the
+[04:02] failed solutions is what's called a STEM toy. It's an educational toy. And so I Googled like a STEM toy
+[04:08] online and I took a screenshot of it. And I pretty much said like the plot video was good, but I want,
+[04:14] I want it to flash back to the mother as a child and like a sepia color. That's like a gold color.
+[04:20] But then I also wanted them to add this to the table. So then it made that adjustment, right? As a
+[04:26] reference image. And then this is the reference image of her as a child, the mother as a child,
+[04:31] because the mother struggled as well with ADHD. And so this is just, like I said, it's just going back
+[04:38] and forth with it. And it's going to give you different scenes that you can use here. And then it's
+[04:44] going to generate the videos all right here in the chat. And so you just literally go through
+[04:54] and you make sure that you like the images and that the images are accurate because we are using
+[04:59] CDANCE 2.0. It is super expensive. So, because this telling me, Hey, this is going to cost you about
+[05:05] 41 bucks, but you can see here some of the different videos that it's generated.
+[05:16] And literally that's it. Once you like a video, you literally have it just spit out all the videos.
+[05:28] Wait, let me try.
+[05:32] Got it.
+[05:33] You figured it out.
+[05:36] Now, if the video seemed awkward, that's okay. If they seem like there's long pauses and things
+[05:41] like that, that's okay. These are all things that can be fixed in post-production.
+[05:47] But these are all the videos that we did. Okay. So in the next video, what I'm going to do,
+[05:52] I'm not going to, like I said, I'm not going to go through, through here, this whole chat.
+[05:56] The biggest key is to just follow the steps on the skill because your output might not be the same
+[06:02] output as mine. And so whenever you're uncertain of something, just ask it, what's the next step?
+[06:08] Or like communicate with it. It is, it is your partner in creating these things. Okay.
+[06:13] So that is it on this video. I'll show you the next video of what I did, of how I actually put it
+[06:19] together.

@@ -1,0 +1,184 @@
+# A03 Video Ads Mastery / 3 video ad safezone guidelines.mp4
+
+[00:00] Okay, so now we're moving into some more technical stuff when it comes to running ads.
+[00:07] And most of the videos moving forward, not all of them, but most of the videos from this point in the course will be in this format.
+[00:14] Just me showing you some stuff, showing you practical examples, and giving you tips,
+[00:20] and just recording looms on how we do stuff, how I do stuff, and just sharing some valuable insights when it comes to making ads.
+[00:31] So basically this video is about safe zones and safe zone guidelines, and I cannot stress how important this is.
+[00:40] Just because I see a lot of brands doing this wrong, and I can't believe when I scroll to Atria,
+[00:46] when I scroll to Ad Library, and when I see the amount of ads that aren't optimized,
+[00:52] and don't take safe zones into account, just baffles me.
+[00:57] And it's just a huge part of why ads perform.
+[01:03] And if you are optimizing for this, and if you are taking safe zone guidelines into consideration,
+[01:10] when making ads, you already are a step ahead of everyone else, basically.
+[01:16] And so to understand safe zones, first you need to understand when you're running ads on Facebook and Instagram,
+[01:23] meta, like basically, your ad can get placed on different placements.
+[01:29] So one of those placements are, for example, when you're scrolling through feed.
+[01:33] So you're just scrolling Instagram feed, for example, and then you get an ad there.
+[01:37] Other placements can be when you're going through Instagram stories, for example, you're kind of, you know, listing stories,
+[01:45] and then you get an ad in a story format.
+[01:49] Other placements could be you're scrolling reels on Facebook or on Instagram.
+[01:54] You're scrolling reels, and then you scroll, and you get an ad.
+[01:56] So that's another placement.
+[01:58] And basically, one ad you make can get placed in all of these, right?
+[02:05] And so we need to make sure it's optimized for all those placements, because all those placements look different.
+[02:11] Like, as you can see, so this is, for example, feed, right?
+[02:14] This is feed placement.
+[02:15] Like, as you can see, the ad gets cropped.
+[02:19] And now, oops, and now one solution to that is when you're making ads, you export one version in, like, 9x16.
+[02:28] I don't know why it says 16x9.
+[02:30] This is a random image I found on the internet.
+[02:33] Basically, when you're doing ads, you can make 9x16 version, and then you duplicate it,
+[02:39] and then you optimize it for 4x5, which is 1080 times 1350.
+[02:45] And that's just unnecessary amount of work, because you have to export all of your ads twice, which just is unnecessary.
+[02:55] And I'll show you how to avoid that, and I'll show you how to basically optimize your ads for all placements.
+[03:02] And to show you a practical example, this is an ad that we made.
+[03:06] And as you can see, this is one placement.
+[03:09] So when you're scrolling through Facebook, for example, this is one Facebook feed placement.
+[03:14] Then you have Instagram stories placement, right?
+[03:17] And this is the same ad.
+[03:18] This is the exact same file, right?
+[03:21] But you can see, like, how you can see full screen here.
+[03:24] But here, it gets cut, right?
+[03:26] It gets cut on top and on the bottom.
+[03:29] And the same thing is for reels.
+[03:33] Let me, yeah, Instagram reels.
+[03:34] So you can see how it looks on reels.
+[03:35] You can see, like, it's full screen again, right?
+[03:40] And so we need to make sure, and then on posts, it gets cut.
+[03:45] It gets cropped, right?
+[03:46] And so how do we make sure we optimize all of our ads for all placements at all times?
+[03:52] That's basically done through something called Save Zone Guidelines.
+[03:59] And I'll show you an example.
+[04:01] So basically, you'll get a file like this.
+[04:05] And this is an overlay that you'll use anytime you're editing ads.
+[04:09] And it'll look like this.
+[04:11] And I'll show you in a bit how to do that.
+[04:14] But basically, all of your text, all of your captions, and all of your product shots should be visible inside of the Save Zone Guidelines.
+[04:26] And this here is kind of taking the, like, Instagram and Facebook reels interface into account.
+[04:34] Like, usually, this is the place where the buttons are.
+[04:38] Like, like, share, comment, save, right?
+[04:40] So we usually try to avoid placing stuff here.
+[04:44] But it isn't a huge mistake if some things, like, you know, get a bit of outside of Save Zones.
+[04:52] Like, on the left and on the right.
+[04:53] That's not a huge issue.
+[04:55] Huge issue is if you place something here.
+[04:59] So, like, and down here.
+[05:02] So anything that's not green is a no-no.
+[05:05] That's what you basically try to avoid at all costs when making ads.
+[05:12] And obviously, as you can see, like, the video, the video itself is full frame.
+[05:16] Like, that's not an issue.
+[05:18] But make sure that the important things, like, as you can see, the product is always visible inside of this Save Zones, basically.
+[05:27] And I'll now try to demonstrate.
+[05:29] So, first, I have some bad examples.
+[05:33] And the way I, so I use Final Cut.
+[05:35] I'm pretty sure you can do this in all other software.
+[05:39] So I just go to View and then choose Custom Overlay.
+[05:45] So I add an overlay while I'm editing.
+[05:48] It's this one.
+[05:50] And that way, while I'm editing, I can see this, right?
+[05:54] And then I can turn it off whenever I want, right?
+[06:00] Or you can just, like, do this, for example.
+[06:04] You can just add this on top, right?
+[06:07] On top of your timeline.
+[06:11] Let me demonstrate this.
+[06:12] Add this on top of your timeline.
+[06:13] And then just, like, have the opacity at 40%.
+[06:17] And that way, you can kind of have it manually if you don't know how to add, like, the custom overlay to your editing software.
+[06:25] That's another way how you can do that.
+[06:28] And basically, as you can see, this is a random ad I found on Atria.
+[06:34] And I have another one.
+[06:35] As you can see, this is not good.
+[06:38] Because when this ad gets placed on feed, it'll get cut like this, right?
+[06:44] So it'll get cut here.
+[06:45] And people won't be able to read ladies, men are so obsessed.
+[06:49] And they'll only see with this smart wallet.
+[06:52] And that just doesn't make any sense.
+[06:54] And if this ad gets placed on feed and someone sees it, they'll be like, what the fuck's going on here, right?
+[07:01] And so that's why it's very important to keep all of your captions and all of your important items inside of SaveZone.
+[07:09] So, for example, as you can see, air tag attachment, that's okay.
+[07:14] But so he never loses it again, just won't be visible in feed.
+[07:20] This as well, like cash, half of cash won't be visible.
+[07:26] Yeah, this is just like a huge mistake, right?
+[07:30] And yeah, I just can't believe how many brands do this.
+[07:36] For example, this one here.
+[07:38] Like this is just insane.
+[07:40] This won't be even visible like on Reels.
+[07:42] Because usually on Reels, down here is where the description is, you know, name of the profile.
+[07:50] Let me show you.
+[07:51] Yeah, so this is where like, so this is like the place for the buttons that I mentioned, right?
+[07:57] And down here, you usually have some kind of button.
+[07:59] You have the advertiser name or the profile that you're running the ad from.
+[08:04] And then you have some description.
+[08:06] And like if you have some text down here, it just won't be visible.
+[08:09] And yeah, that's just how you kind of use save zones and make sure all of your ads are optimized for all placements on Facebook and Instagram.
+[08:21] By just using this while you're editing and making sure everything important fits inside of this.
+[08:27] And then you can just export your ad in 9 by 16.
+[08:30] So 1080 times 1920.
+[08:33] And that way, you don't have to like export different versions for different placements.
+[08:38] You just have one version that's optimized for all the different placements.
+[08:43] And I'll show you a good example actually that was done by one of my editors.
+[08:48] So as you can see, text can go a bit outside of the save zones on left and on right.
+[08:54] And why I left some space here on left and right, like from the edge of the screen,
+[09:02] is because when you run an ad on reels, it gets kind of cropped on the sides a bit.
+[09:10] And I just want to make sure none of the text is like very close to the edges.
+[09:16] So it doesn't get cropped out basically.
+[09:18] But a little bit outside of save zones on the left and on the right and over here is cool.
+[09:25] But nothing should ever be outside of these save zones.
+[09:30] And then, for example, as you can see, these captions are inside.
+[09:36] The product is visible, right?
+[09:38] And then, yeah, this text, as you can see, this is not a huge issue.
+[09:47] And, yeah, as you can see, product is always visible inside of save zones, right?
+[09:55] Like she's cleaning it.
+[09:56] We're talking about cleaning it.
+[09:57] And that's visible inside of save zones.
+[09:59] And, yeah, that's pretty much it.
+[10:03] Again, product clearly visible inside of the save zones.
+[10:07] Text down here as well.
+[10:10] And that's a good example of how you optimize your ads to basically fit for all placements.
+[10:17] And then another good example is, so you'll notice that this ad actually isn't 9 by 16.
+[10:27] So this is 4 by 5, 1080 times 1350.
+[10:33] And basically all of the ads, all of the video ads for Facebook and Instagram or Meta are either 9 by 16 or 4 by 5.
+[10:44] And then, for example, if you're working with horizontal footage, that's a good example.
+[10:49] And you can't, like, stretch it to be vertical because then, like, a lot of things get cropped out.
+[10:55] Then you could export it as 4 by 5, right?
+[11:01] That's not a format you can use.
+[11:05] And the good thing with 4 by 5 videos is you don't have to, like, you don't have any save zones with 4 by 5s, basically.
+[11:14] You can place whatever you want anywhere you want.
+[11:16] And it'll still be fine.
+[11:20] But then on feed, on reels, it'll look like this.
+[11:23] Give me a second.
+[11:25] Yeah, so this is the ad that I was showing you instead of Final Cut.
+[11:30] As you can see, it looks good on feed.
+[11:33] It looks exactly as it does here, right?
+[11:36] But then on reels, it, you know, gets cropped out and the empty space is just filled with some color or maybe some buttons or whatever.
+[11:48] And, yeah, again, on Instagram, like, on feed, it looks good.
+[11:53] And then this is how it looks like on reels and on stories, basically.
+[11:57] It gets cropped because it's 4 by 5, obviously.
+[11:59] It can't fit the whole screen.
+[12:02] But sometimes you want to run only 4 by 5s.
+[12:09] But usually we like to export all of our ads in, like I said, 9 by 16 with the save zone guidelines in mind, basically.
+[12:22] So that's pretty much it.
+[12:23] Make sure whenever you're editing ads to use these save zone guidelines and to, like, place your product, your captions, your text inside of this green zone.
+[12:35] And you should be good.
+[12:36] And all your ads will be optimized for all of the placements on meta.
+[12:41] That's it.
+[12:41] Thanks.
+[12:42] Thanks.
+[12:42] Thanks.
+[12:42] Thanks.
+[12:42] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:43] Thanks.
+[12:44] Thanks.

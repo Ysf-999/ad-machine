@@ -1,0 +1,4 @@
+interface:
+  display_name: "Whiteboard Animated Ad"
+  short_description: "Turn any offer into copy-paste 10s whiteboard clip prompts"
+  default_prompt: "Use $omni-whiteboard-skill to turn my offer into a full whiteboard ad — VO script plus self-contained 10-second clip prompts I can paste straight into Omni."

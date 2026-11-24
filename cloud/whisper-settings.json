@@ -1,0 +1,51 @@
+{
+ "_help": "Frozen faster-whisper settings the cloud workers use for captions (worker/adjob_boot.py reads \"faster\"). \"production_mlx\" is the Mac mlx-whisper profile they mirror.",
+ "model": "CT2 float16 conversion of openai/whisper-large-v3-turbo (see docs/SETUP_CLOUD.md step 6)",
+ "production_mlx": {
+  "language": "en",
+  "task": "transcribe",
+  "word_timestamps": true,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "compression_ratio_threshold": 2.4,
+  "logprob_threshold": -1.0,
+  "no_speech_threshold": 0.6,
+  "condition_on_previous_text": true,
+  "beam_size": null,
+  "best_of": null,
+  "sample_len": 224,
+  "fp16": true,
+  "vad_filter": false,
+  "initial_prompt": "None for full VO; existing EDL prompt unchanged for each render beat"
+ },
+ "faster": {
+  "device": "cpu",
+  "compute_type": "float32",
+  "cpu_threads": 6,
+  "beam_size": 1,
+  "best_of": 1,
+  "max_new_tokens": null,
+  "vad_filter": false,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "language": "en",
+  "task": "transcribe",
+  "word_timestamps": true,
+  "compression_ratio_threshold": 2.4,
+  "logprob_threshold": -1.0,
+  "no_speech_threshold": 0.6,
+  "condition_on_previous_text": true
+ }
+}

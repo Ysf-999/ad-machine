@@ -1,0 +1,245 @@
+[00:00] Today I'm going to explain how to make AIUGC videos with Cdance and how to get the best out of Cdance.
+[00:07] In order to know how Cdance works, I would suggest you read the official Cdance 2 blog posted by ByteDance.
+[00:13] That way you will understand how Cdance works, how references work, and it's literally like a five minute read.
+[00:19] You will understand everything, you will know how things work, and how you should think about generating Cdance videos.
+[00:25] Once you get that, it's really easy.
+[00:27] Don't care about the prompt, don't care about anything else, just read it first, and then come and watch this video because everything will be more clear for you.
+[00:38] Now I will share the most important part about Cdance.
+[00:42] In order to get really good videos, you will need to have the reference image or the first frame should be as close as possible to a TikTok video.
+[00:53] So the image you will use to generate videos on Cdance should look like real life or should look like a TikTok video.
+[01:01] So the colors, the feel, the look of the image should look the same as a TikTok video.
+[01:06] Why? Because Cdance has been trained on TikTok videos.
+[01:09] That's why it's really important to have a really good frame.
+[01:13] That's 95% important for you to generate TikTok or to generate UGC videos with Cdance.
+[01:20] So do everything you can, just make sure you have a really good first frame or reference image.
+[01:27] Now I will explain step by step on how to create the gem and the cloud skill.
+[01:30] Basically we will use two ways of creating prompts for Cdance.
+[01:34] We will use my main original cloning method that I've been sharing since the beginning.
+[01:40] And we will use cloud for creating ideas from scratch, uploading your winning ad script or something like that.
+[01:46] So I will explain how to do the cloud skill.
+[01:51] As I said before, writing any prompt, we'll need cloud or Gemini to understand what it's doing, to understand how Cdance work.
+[01:56] That's why it's really important to have this skill in place.
+[02:00] I uploaded a skill here.
+[02:01] A skill in cloud is basically a set of instructions that tells cloud to follow these steps to generate this specific action.
+[02:07] So you will download this, go to this link and upload it.
+[02:10] And there you will have the cloud skill.
+[02:11] For the Google Jam, it's really easy.
+[02:14] You just go to Gemini, create a new jam, upload the instruction and the knowledge from here.
+[02:19] That's it.
+[02:20] Once we set up the skills and the jam, now we will go on the second part, which is creating Cdance 2.0 prompts.
+[02:28] As I said, the most important thing about Cdance is the first frame or the first image.
+[02:33] Make sure that looks as realistic as possible.
+[02:35] I will explain the two ways.
+[02:37] I will explain the cloud way and the Gemini way.
+[02:40] After creating the skill, you can use this template here to give it to cloud.
+[02:44] But also I have a prompt I used here.
+[02:47] It's not really that important.
+[02:48] It is important, but you can use whatever prompt you want, basically.
+[02:51] Just explain the idea to it.
+[02:52] I said, create a 60-second Cdance 2.0 easy to see a upper video.
+[02:56] I tagged the skill here by pressing slash and the name skill.
+[02:58] I said, use image one as the woman talking in the car.
+[03:01] I said this because sometimes cloud can generate a separate image for the face of the character
+[03:07] and a separate image for the character in the car, let's say.
+[03:10] But I said, use image this as the woman talking in the car.
+[03:12] You can also say the woman looks blonde.
+[03:14] She's 20 years old.
+[03:15] She has white tank top.
+[03:17] She has necklace and everything like that.
+[03:19] Okay.
+[03:19] Once we finish this part, I like to also say, she is always sitting in the same car, in the
+[03:23] same seat, the same lightning, same angle and the same tripod camera setup.
+[03:26] You can do, this is only important if you have like a fixed setup thing, but the prompts
+[03:31] that cloud will give you will work.
+[03:33] And also I added, she should talk like she's yapping to a friend, add small natural movements
+[03:36] and gestures, looking around, leaning closer, laughing a little and saying things like,
+[03:39] like, you know, basically to make the video more realistic.
+[03:42] And also I said to split the video in multiple clips.
+[03:50] Okay.
+[03:50] So now cloud will give us the structured prompt.
+[03:54] This is the character reference.
+[03:56] We will use this to generate images.
+[03:57] And here is the most important part.
+[03:59] It's the C dance prompt.
+[04:00] So basically it's a natural language prompt.
+[04:02] It works really good and it's recommended by the official C dance documentation.
+[04:07] Also when using references, make sure this space doesn't exist.
+[04:10] So the reference should be tag image one altogether, no spaces.
+[04:15] This is a simple bug.
+[04:16] I don't know why it happens.
+[04:17] And here's, it explained the prompt.
+[04:19] You have one, two, three, four, four clips with 15 seconds.
+[04:22] And it's like a one minute video.
+[04:24] Okay.
+[04:25] So right now we only have the prompt.
+[04:27] We don't have image.
+[04:27] We don't have videos.
+[04:28] So now you're asking how to do, how to go from prompt to video.
+[04:32] The first step that we need to do is generate the first rain.
+[04:35] We need to be sure that it's really, really perfect in order to get the most out of C dance videos.
+[04:40] So, um, I shared a skill about creating realistic images with ChatGPT.
+[04:45] It's on the Whoop.
+[04:48] As I said, now we have the structure prompt here and we'll use the ChatGPT realistic images instructions I made.
+[04:56] It's on Whoop.
+[04:57] Basically it's this document.
+[04:58] What you will do is copy all of this, go into a ChatGPT chat and paste it.
+[05:02] And ChatGPT will set the instructions.
+[05:05] And now you will go here, copy the character reference and the first clip.
+[05:08] That's what I like to do.
+[05:09] And we go to ChatGPT and say, I'm creating a new video for C dance.
+[05:13] And I will need the first frame prompt so I can generate an image that matches the UGC video below.
+[05:16] I don't have any references.
+[05:17] Give me the correct iPhone photo realistic prompt that matches this scene.
+[05:20] And you paste it.
+[05:21] And ChatGPT gives you a prompt.
+[05:22] If you have a reference or an image that you like to make ChatGPT inspired from, you upload either a screenshot from a TikTok video or from Pinterest or from Ads Library.
+[05:32] Basically whatever you want.
+[05:33] And you paste it.
+[05:35] Use the first image as reference.
+[05:38] And ChatGPT will give you the prompt.
+[05:39] You copy this.
+[05:40] You generate the image with ChatGPT images.
+[05:42] Here, like, it gave me this.
+[05:45] It doesn't look bad.
+[05:46] It looks really good.
+[05:46] But now I say, okay, character should be on the passenger seat.
+[05:50] She should look good and clean.
+[05:52] I tried hair, blah, blah, blah.
+[05:53] Okay.
+[05:54] Now that we have the first frame, it's time to generate videos.
+[05:59] What we will do is go to C dance on Kieh.
+[06:02] I really like Kieh because you have a simple pricing.
+[06:04] You have a clear pricing.
+[06:06] You know your expenses.
+[06:07] You don't need to buy premium plans, yearly plans or whatever plans other sets are advertising.
+[06:13] So it's really simple.
+[06:14] And we will use the reference mode.
+[06:16] Not the first frame mode.
+[06:17] Because first frame, it tends to make the video not as good as the reference.
+[06:23] I don't know why it happens.
+[06:24] But with reference, it looks way better than just using first frame.
+[06:28] And how we will do this?
+[06:30] Now that we have the first frame, let's say I generated this first frame or first image.
+[06:34] I upload it here.
+[06:35] And I say, I copy this prompt.
+[06:40] Paste it here.
+[06:41] And I fix this one that I told you.
+[06:43] Image one.
+[06:45] Okay.
+[06:45] We have only one image here, so it's easy.
+[06:47] So this is the prompt.
+[06:48] This is the image.
+[06:49] So we referenced it here.
+[06:51] We have it here.
+[06:53] And this we'll use the same moment, same background, basically, as you can see, when the video is generated.
+[06:59] I got the wrong ratio.
+[07:00] That's why it's horizontal.
+[07:01] But you understand why.
+[07:02] So the prompt, you have the image.
+[07:04] And also, a really good part of this is the reference audio, which I stole from a TikTok video.
+[07:09] Cut it to 15 seconds and upload it here as an MP3.
+[07:12] What this does is it uses the same voice from this audio.
+[07:15] So basically acts like a voice cloner.
+[07:17] But you can also use it as background music.
+[07:18] You can use it as a sound.
+[07:19] Sound effects.
+[07:20] You can use maybe whatever you want.
+[07:23] Wind or whatever sound you want to include in the video.
+[07:27] And you can say, like, at the part which is, okay.
+[07:32] She talks fast and casual like venting to her best friend on FaceTime with natural Amazon-like filler using audio 1.
+[07:40] And what this will do, this sound, the script she reads, it won't use the sound from the video.
+[07:45] But it will use the voice from the audio.
+[07:47] Sorry.
+[07:47] It won't use the sound from the audio.
+[07:50] But it will use the voice from the audio when you reference it.
+[07:53] And it will read this script with the audio reference we added.
+[07:57] So basically think of it like cloning the voice with 11 labs and just changing after.
+[08:01] But it's built in on Cdance.
+[08:02] So as you can see here, the voice I got from TikTok, look, you can hear it even better.
+[08:10] So the sound is even better.
+[08:11] So that's how you generate Cdance videos.
+[08:14] So it's 720p, 9, 16, 15 seconds.
+[08:17] It's really easy.
+[08:18] And here, and also if you want to have the part of adding products, here we have the prompt.
+[08:28] These are the prompt of this video I did.
+[08:30] And as you can see now, I will introduce the product into the video.
+[08:34] What's good with Cdance is like you can have a video of the woman starting talking without the product at first.
+[08:39] And then you can say she gets the product and brings it onto the frame.
+[08:42] You know, that's why it's really good.
+[08:43] For example, we say here the woman from image one, blah, blah, blah.
+[08:46] Audio one.
+[08:47] So we reference the audio.
+[08:48] The sound is the same.
+[08:50] And here we have reaches down out of frame with the right hand.
+[08:52] She brings up to the chest the Euro probiotic from image two.
+[08:56] So on image two, we will upload the product.
+[08:58] And what will happen in the video is like she will bring the product from the outside of the frame to the frame.
+[09:04] That way you can generate videos that look more real or more natural than generating the first frame with the product already in hand.
+[09:11] So I hope you understand what I mean.
+[09:13] So it's really simple.
+[09:14] So basically what you need to do is you either tell cloud, for example, on clip three, I want the character image one to get the product image two from outside of the frame and bring it to the frame.
+[09:34] And the cloud will give you the clip saying she gets the product two from the right side and brings it to the frame, blah, blah, blah.
+[09:40] It's really easy.
+[09:41] So, yeah, that's basically how sedans work.
+[09:43] The prompt is really simple.
+[09:44] The most important rule is you have a good first frame, a good reference image.
+[09:48] And then you can add products.
+[09:51] You can add whatever reference you want to include in the video.
+[09:53] Just make sure you say to cloud or Gemini, hey, add this list to the prompt.
+[09:57] So, yeah, it's prompt.
+[09:59] It's reference.
+[09:59] If you want product, add one more file.
+[10:01] So you have one file, two files, a video.
+[10:04] We don't need this.
+[10:05] And audio, it's the audio that will sound the same on the screen.
+[10:09] 720p, 916, 15 seconds.
+[10:10] That's it, basically.
+[10:11] The same process is also the same for Gemini.
+[10:14] So what you do is you upload a video and say, help me clone the first 15 seconds of this video exactly as it is.
+[10:19] I will have the first frame of the image of this girl and the second image will be a second girl.
+[10:23] So this is the video on the park interview I did, I shared with you.
+[10:28] Now Gemini gave us two clips.
+[10:30] One clip is five seconds.
+[10:31] One clip is 10 seconds.
+[10:32] But what I said to Gemini is, I said, okay, do it all in one prompt.
+[10:37] And it will do one 15-second video.
+[10:39] And you can just upload it to C-Dance.
+[10:42] It will have the starting frame.
+[10:44] Basically, it will do this whole video in one prompt for 15 seconds.
+[10:47] Because it was really simple and there's no need to separate it on five and ten seconds.
+[10:50] You just say, okay, do it with 15-second clips, you know.
+[10:53] Yeah, that's it.
+[10:54] It's really simple.
+[10:55] And if you have any questions, please let me know.
+[10:57] So don't forget to read the official blog of C-Dance so you understand how everything works.
+[11:02] And the second thing is generate really good images with JGPT.
+[11:06] Use my instruction.
+[11:08] Use this.
+[11:08] It's really good.
+[11:09] And the third step is make sure you put the correct references on the prompt.
+[11:14] So image one is the woman.
+[11:17] Image two is a product.
+[11:20] Image three can be another thing she holds in hand or she does something like, I don't know, glasses or sunglasses.
+[11:26] Whatever you want.
+[11:26] It's basically what you want on the video.
+[11:28] So this is how C-Dance works.
+[11:31] It's really simple.
+[11:32] Once you get the idea, basically any video, it will be really easy to replicate or to do it.
+[11:38] So don't think of it as the prompt is the key here.
+[11:42] The prompt are going to be as simple as possible.
+[11:45] As you can see, it's like writing a message to a friend, you know.
+[11:48] It's really simple.
+[11:49] There's no tricks.
+[11:50] There's no big prompts.
+[11:51] There's no templates or whatever.
+[11:55] It's really simple.
+[11:55] You can do whatever you want.
+[11:56] You can even write a very simple prompt like a TikTok UGC video of the woman from image one in the same place talking about gut issues.
+[12:04] She says this.
+[12:06] And it will work 90% the same, you know.
+[12:09] So, yeah.
+[12:10] Read the docs.
+[12:11] Generate good first frame images and make sure you reference it, reference the images correctly.
+[12:16] So image one, image two can be a product or whatever you want.
+[12:18] Yeah, that's it.
+[12:18] Bye.

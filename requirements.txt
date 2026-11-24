@@ -1,0 +1,22 @@
+# Main tools (Apple Silicon Mac, Python 3.12). Installed by ./install.sh into .venv
+anthropic==2.3.0
+requests==2.34.2
+httpx==0.28.1
+numpy==2.5.4
+scipy==1.18.1
+pillow==13.0.0
+opencv-python-headless==5.0.0.93
+scikit-learn==1.9.1
+sentence-transformers==6.3.0
+static_ffmpeg==3.0
+openai-whisper==20250625
+mlx-whisper==0.4.3
+demucs==4.1.0
+lameenc==1.9.0
+tiktoken==0.14.0
+PyYAML==6.0.3
+rich==15.0.0
+yt-dlp
+pyobjc-framework-Vision==13.0
+pyobjc-framework-Quartz==13.0
+pyobjc-framework-CoreML==13.0

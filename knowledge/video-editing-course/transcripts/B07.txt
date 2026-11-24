@@ -1,0 +1,1317 @@
+# B07 Video Editing Breakdowns / 7 video editing breakdown part 3 organic ad.mp4
+
+[00:00] Hey guys, so today we'll be breaking down an organic ad that I made for Dog Friendly Co.
+[00:05] So for those of you who don't know, Dog Friendly Co is a premium dog brand.
+[00:10] I mean they say premium pet products, not dogs.
+[00:14] Okay, and the product that we're going to focus on today is this one.
+[00:18] It's the dog harness.
+[00:20] So this one is made with high quality materials and it has this back ring and an add-on which is
+[00:26] this no-pull front d-ring attachment.
+[00:30] So this thing can help your dog from pulling.
+[00:34] So what it does is when your dog pulls, it redirects and it'll turn back towards you.
+[00:40] So more about that in the ad.
+[00:42] Okay, so with that said, let's have a look at the ad.
+[00:48] Three reasons I regret getting this from my dog.
+[00:50] First off, my dog suddenly stopped yanking on the lead, which means I no longer get that
+[00:55] arm workout during our walks.
+[00:56] Number two, everyone at the dog park keeps asking where I got it and I have to stop every
+[01:00] two minutes to show them, but I'd rather do that than gatekeep.
+[01:04] And number three, this thing comes with a lifetime warranty, which means I literally have zero
+[01:08] excuse to get her a new one ever again.
+[01:11] My shopping addiction is not happy about this, but honestly, these are the kind of problems
+[01:15] I can live with.
+[01:16] You can get this harness with a front d-ring attachment to gain better control of your dog
+[01:20] and the shock absorption leash is great for dogs who have sudden burst of energy.
+[01:24] If your dog's a puller, this is your sign to upgrade their gear to stop dreading your
+[01:28] walks.
+[01:28] Join over 400,000 happy dog parents today.
+[01:32] All right.
+[01:32] So for this brand, most of the ad spend goes towards women as young as 25 and all the way
+[01:38] up to their 60s.
+[01:39] So keeping that in mind, let's get into the brief.
+[01:42] In this brief, most of the things are going to be similar.
+[01:45] Over here, we have an example, which is the inspo that we will be using.
+[01:49] And let me play it for you.
+[01:50] I made a huge mistake buying the T-Box chai sampler pack.
+[01:54] And here's why.
+[01:55] First off, it's way too authentic.
+[01:56] Sourced all the way from Assam, India.
+[01:58] Yeah, the chai capital of the world.
+[02:00] So now the taste is actually refreshing and I can't go back to the stale stuff I used to
+[02:03] get at the supermarket.
+[02:04] They've got 10 unique chai varieties made with real spices, no artificial flavor and requires
+[02:09] little to no sugar.
+[02:10] Uh, no thank you.
+[02:11] Oh, and did I mention they threw in a free double wall teacup and spoon?
+[02:14] I mean, who even likes free stuff?
+[02:16] With 17,000 five-star reviews and 300,000 chai boxes sold, I think that proves my point.
+[02:22] But hey, if you still want to give it a shot, just know you're never going to want to go
+[02:25] back to your regular chai again.
+[02:26] So don't go to their website and get one.
+[02:29] All right.
+[02:29] So that was a pretty good inspo.
+[02:31] Like it's a decent organic ad.
+[02:32] One thing about this brief is the idea is completely based on reframing the positives.
+[02:39] As negatives.
+[02:40] So when you have a look at the hook here, you've got like three hooks, a hold and a call to action.
+[02:48] Which is in short CTA.
+[02:50] The thing that's different here is we will have to generate AI voiceovers.
+[02:55] So more on that later.
+[02:57] Whenever you get a brief where you have to like generate AI voiceovers, take your time and understand
+[03:02] what needs to be done in the brief.
+[03:04] Once you understand like what needs to be done, it'll help you figure out like what type of AI voiceover to use.
+[03:10] Like whether it's an organic female or maybe a male voice in a podcast style.
+[03:15] Like when you have all of that figured out, it'll save you a lot of time and even AI credits.
+[03:21] All right.
+[03:21] Enough yapping.
+[03:22] And let's get into 11 labs.
+[03:24] So this is what 11 labs look like.
+[03:26] I mean, before we start, just a heads up.
+[03:29] They update the site almost all the time.
+[03:32] Like the layout keeps on changing and I think I might have seen eight different variations of this site by now.
+[03:38] So if the layout doesn't match up or if you find anything different, like don't worry, it's totally normal.
+[03:43] They seem to change things quite frequently, but the process is usually the same.
+[03:48] So with that said, let's go into voices.
+[03:50] So in this ad, we'll need to use an organic female voice and pull this off.
+[03:56] I cloned a voice from one of our top spending UGC ad and it'll sound like this.
+[04:01] The spirit of adventure dwells in mountain peaks.
+[04:04] It's a quite simple voice and let me show you how I do it.
+[04:08] Okay.
+[04:08] So if I want to clone an organic voice, what I would do is I would either go through the UGC library that we have,
+[04:14] like you would go to the client's UGC staffs and see if you can find any voice that matches.
+[04:19] If not, you could go to any social media.
+[04:21] In this case, I'm going with TikTok and you can search for some keywords that's related to the ad that you're making.
+[04:28] So in this case, I'm simply going to type dog harness, which I have here.
+[04:32] And this third video is from Dog Friendly Co.
+[04:36] So I'm going to try that.
+[04:37] I have taken my hot girl summer walk to a whole new level.
+[04:41] Thanks to Dog Friendly Co. who have set me up with...
+[04:43] Okay.
+[04:44] So I want to clone this voice and what I'm going to do is I'm going to download a video.
+[04:47] It doesn't matter if I download it directly from TikTok because I need audio only.
+[04:53] So I'll right click and download the video.
+[04:56] So once you download, you need to make sure that it's under 10 MB.
+[05:00] So in this case, it's around 8 MB.
+[05:04] So you could go into 11 labs and then click on create or clone a voice.
+[05:11] So over here, what you'll need to select is instant voice clone.
+[05:14] So what you can do here is you can just drag and drop.
+[05:22] So once you upload this video, make sure to click on this so that it removes the background noises.
+[05:28] In this case, there's background music.
+[05:30] So it's better to keep this on.
+[05:32] And then you can click on next.
+[05:35] And it'll go ahead analyzing it.
+[05:38] So over here, you can preview the voice that's there.
+[05:41] Let's give it a shot.
+[05:42] A dream without a plan is just a wish.
+[05:45] Okay.
+[05:45] So not bad at all.
+[05:46] So I can just put in a name and then click on save voice.
+[05:50] You might have to fill in labels and stuff.
+[05:53] And that's a no-brainer.
+[05:54] Okay.
+[05:57] So I won't be doing that.
+[05:58] And let's go to the studio.
+[06:00] All right.
+[06:01] You can find studio on the left panel over here.
+[06:03] And when you click on it, this is what it'll look like.
+[06:06] So I had a batch here already.
+[06:08] And if you want to start a new one, you can click on new blank project.
+[06:13] And click on audio project.
+[06:15] So that's how you will start.
+[06:18] So let me open what I already have.
+[06:20] All right.
+[06:22] So when you load up your project, it's going to look like this.
+[06:24] So I have chapters enabled.
+[06:27] And you can do that by on the top right corner, you can find these three dots.
+[06:31] And then click on project settings.
+[06:34] And then you can enable chapters.
+[06:36] Also, the model that I'm using is 11 labs multilingual version 2.
+[06:40] I'm not using version 3 since it's still in alpha stage.
+[06:44] And it's not very stable.
+[06:46] So I'd rather have stability than new features.
+[06:48] So I'm sticking to version 2 for now.
+[06:52] And yeah.
+[06:54] Let's create a new chapter so that I can start fresh.
+[06:59] So I'll name chapter 1 as OG.
+[07:02] And then let's name this new.
+[07:06] If it'll work.
+[07:07] Yeah.
+[07:07] Okay.
+[07:09] So usually what I do is I just copy the script from the brief.
+[07:14] And I paste it over here.
+[07:15] So the way I do it is I just copy the first hook and I put it on top.
+[07:22] And I create a blank space.
+[07:26] And then get the second one.
+[07:29] Put it over here.
+[07:30] And then I do the same thing for the third.
+[07:38] Okay.
+[07:39] So once we got the three hooks here.
+[07:41] What I would do is I would get the hold.
+[07:47] Yep.
+[07:47] Copy it.
+[07:48] And paste it over here.
+[07:49] So when I arrange things like this.
+[07:52] It's pretty clear that the first one is the hook.
+[07:56] First hook.
+[07:57] And second hook.
+[07:58] And third hook.
+[07:59] And this entire section is the hold.
+[08:00] So I have that in my mind.
+[08:02] And if I want to make some changes later.
+[08:04] It'll like help me a lot.
+[08:06] And then finally I leave one more space.
+[08:09] And bring in the call to action as well.
+[08:11] Alright.
+[08:14] So this is what it'll look like.
+[08:17] And on the right side.
+[08:18] That's where you can find the tools that you will be using.
+[08:21] So I have my voice selected here.
+[08:22] So you can click on this.
+[08:24] And then when you click on all saved voices.
+[08:27] You will find a list of voices that's here.
+[08:31] So the professional ones are the ones that's already there in 11 labs.
+[08:36] And recently uses whatever you used recently.
+[08:40] And also the cloned ones are where you'll find the cloned voices.
+[08:44] Okay.
+[08:45] So in this case I'll be using this one.
+[08:47] So when I click on it.
+[08:49] It'll be ready here.
+[08:52] And before you start generating anything.
+[08:55] It's better to calibrate your voice.
+[08:58] So what you can do is you can click on this button here.
+[09:01] So these are the settings that you use to calibrate your AI voice.
+[09:05] So when you hover over each setting.
+[09:07] It would show what it means.
+[09:09] So you can play around and find what suits your ad.
+[09:13] And one thing to keep in mind is before you start your generations.
+[09:16] Make sure to adjust these and keep it fixed.
+[09:19] Because if you change this mid generation.
+[09:22] Like you're halfway done.
+[09:24] And you feel like you need to change something.
+[09:26] And that will cancel all the things that you have generated previously.
+[09:31] So that's a huge waste of credits.
+[09:33] So make sure to get this done at the start.
+[09:37] So some techniques that I use while generating AI voiceover.
+[09:40] Is I capitalize some words that I want to stress or emphasize.
+[09:45] So in this case I want to emphasize the word regret.
+[09:48] So what I'm going to do is I'm going to capitalize it.
+[09:50] And before you play.
+[09:54] Make sure you have a look at this setting over here.
+[09:57] This little button.
+[09:58] So right now it's at playing until end.
+[10:00] And that's the default.
+[10:02] So what it does is when you click on generate.
+[10:04] It's going to generate all the way until the end.
+[10:07] And if you don't have everything set up.
+[10:09] It's going to be a waste of AI credits.
+[10:11] So what I'm going to do is I'm going to click on it.
+[10:15] And I'm going to generate a selection only.
+[10:18] So make sure to check that before you like generate things.
+[10:21] And right now let's see how this works.
+[10:26] Three reasons I regret getting this for my dog.
+[10:29] Okay not bad.
+[10:30] So let's try how it sounds without.
+[10:32] Okay.
+[10:41] Okay let's give it a shot.
+[10:45] Three reasons I regret getting this for my dog.
+[10:47] So you see the difference right.
+[10:48] When you capitalize you'll get a lot of emphasis on the word.
+[10:51] And to be honest I'm not like very happy with how this sounds.
+[10:55] So let me go to the OG version instead of regenerating.
+[11:00] Okay so let's see how this sounds.
+[11:02] Three reasons I regret getting this for my dog.
+[11:05] Yeah perfect.
+[11:06] That's the kind of voice that I'm looking for.
+[11:08] And that's what I went with.
+[11:10] Another technique that I use is.
+[11:12] I use the dash symbol or the minus symbol.
+[11:15] So what it does is.
+[11:16] It creates pauses in sentences.
+[11:19] There are times it works and there are times it doesn't.
+[11:21] So regenerating will help.
+[11:23] For example there's one over here.
+[11:25] And then one over here.
+[11:27] So if I didn't have it sometimes.
+[11:29] It would not have a space over here.
+[11:33] And that can be annoying.
+[11:34] Like manually adding spaces.
+[11:36] So if you can get that fixed right here.
+[11:38] It would be best.
+[11:39] So these are the two techniques that I use most of the time.
+[11:43] And so before I start generating everything.
+[11:46] What I would do is.
+[11:47] I would go through the entire script.
+[11:49] I would capitalize whatever I have to capitalize.
+[11:51] And I would add dashes where necessary.
+[11:54] So once that is done.
+[11:55] I will set it to the playing until end setting.
+[11:59] And then generate.
+[12:00] And it generates from start to end.
+[12:02] And then I'll give it a listen.
+[12:03] But if you feel like you need to make some changes.
+[12:06] What you could do is.
+[12:07] So you could go back.
+[12:09] And turn this to playing selection.
+[12:11] And then change it sentence by sentence.
+[12:14] Also a quick tip.
+[12:16] After you generate.
+[12:17] Make sure to lock that paragraph.
+[12:19] So if you lock it.
+[12:20] You won't accidentally change anything.
+[12:23] Also one more point.
+[12:24] So when you're like halfway done generating.
+[12:26] And if you feel like that something isn't working.
+[12:29] Or if you could change a setting or something.
+[12:32] So what you can do is.
+[12:33] If you go and change the settings this way.
+[12:36] It's going to cancel out everything that you have generated previously.
+[12:40] And what you could do is.
+[12:42] There's this thing called override settings.
+[12:44] So when you click on this.
+[12:45] It's going to change the settings.
+[12:47] Only for that single paragraph that you select.
+[12:50] So since I'm here.
+[12:51] And when I click on override settings.
+[12:53] It's going to apply this settings.
+[12:56] Instead of the usual one that's over here.
+[12:59] TLDR.
+[12:59] If you want to change the settings for a single paragraph.
+[13:02] You can click on override settings.
+[13:03] And you can change that.
+[13:05] Once you're done generating.
+[13:07] You could go ahead and export.
+[13:09] You can choose the audio format that you need.
+[13:11] And you can click on this button.
+[13:13] Once it's done exporting.
+[13:14] You can download it.
+[13:15] And let's get into Premiere.
+[13:17] Alright.
+[13:17] So what I'm going to do is.
+[13:18] I'm going to start by setting up my safe zones.
+[13:22] So let's bring in our safe zone here.
+[13:24] Extend it a bit.
+[13:28] Okay.
+[13:29] And then I'm going to set the opacity to 20.
+[13:32] And then I'm going to lock it.
+[13:34] So I don't have to worry about it anymore.
+[13:36] So we are going to edit this in layers.
+[13:38] Just like we did in the previous video.
+[13:40] So I'm going to start with the air roll.
+[13:42] And I'm going to bring the voice over here.
+[13:45] I'm going to make it a little big.
+[13:46] So that I can see the waveforms.
+[13:49] Okay.
+[13:50] So what I'm going to do is.
+[13:51] I'm going to take off the silencers.
+[13:53] And the breaths.
+[13:55] So we press shift C.
+[13:57] And Q.
+[13:59] E.
+[14:00] Q.
+[14:00] All right.
+[14:02] So one thing to keep in mind when cutting up the voice over.
+[14:05] Is to get rid of the silencers.
+[14:07] And the breaths.
+[14:08] Pillowards won't be there.
+[14:10] Since this is AI generated.
+[14:11] So you can cut up the voice over.
+[14:13] And move on to the next layer.
+[14:15] I've cut up the voice over.
+[14:16] And color coded them.
+[14:17] So I can recognize which is which.
+[14:19] In this case.
+[14:21] Blue means hook.
+[14:22] Green means hold.
+[14:24] And this teal color.
+[14:25] Is for the call to action.
+[14:27] Also I've added my usual effects.
+[14:29] To the audio track.
+[14:30] So that it's clear.
+[14:32] Okay.
+[14:33] So let's move on to the next layer.
+[14:34] Which is music.
+[14:36] So like I said earlier.
+[14:38] Music is what gives soul to your ad.
+[14:40] It makes your audience feel something.
+[14:43] The feeling that I want to give here.
+[14:44] Is a light hearted happy vibe.
+[14:46] That has been working quite well recently.
+[14:48] With dog friendly crow.
+[14:50] Based on the learnings that we have done.
+[14:52] So I have three ways of sourcing music.
+[14:54] And let's get to it.
+[14:56] Okay.
+[14:56] So option one.
+[14:57] Is using TikTok.
+[14:59] Or other social platforms.
+[15:00] So I will search for some keywords.
+[15:02] In this case.
+[15:03] It's going to be like.
+[15:04] Dog harnesses.
+[15:05] Or best harnesses for dogs.
+[15:07] Or something like that.
+[15:08] So let's give it a shot.
+[15:10] So it's best dog harnesses.
+[15:16] So from here.
+[15:17] I would look at some videos.
+[15:18] And try to find one.
+[15:19] With a decent number of views.
+[15:21] And engagement.
+[15:22] Once I find that.
+[15:23] I would either Shazam.
+[15:25] Or Google it.
+[15:26] And then I would search for the instrumental version.
+[15:28] So the reason being.
+[15:30] I don't want any vocals.
+[15:31] Messing up with my voiceover.
+[15:33] So that's the reason why I look for instrumental versions.
+[15:36] If the song has vocals.
+[15:38] Option two.
+[15:39] The usual stock sites.
+[15:41] I personally use Artlist.
+[15:43] Since it has a wide variety of good quality music.
+[15:47] Epidemic sound is good as well.
+[15:48] But Artlist has stock footages.
+[15:50] And some AI tools as well.
+[15:52] So that trumps Epidemic for me.
+[15:54] There are free sites as well.
+[15:55] Like Pixabay and stuff.
+[15:57] But they aren't the best.
+[15:58] So when you invest on something like this.
+[16:00] I feel like it's definitely worth your buck.
+[16:02] So the way I find music.
+[16:03] Is I usually jump into the music tab on the left.
+[16:07] So in the music tab.
+[16:08] You've got some filters over here.
+[16:10] And the one that I use the most.
+[16:11] Are genre and mood.
+[16:13] So in this case.
+[16:14] Since we need a happy music.
+[16:16] Let's check out mood.
+[16:18] And let's make sure we include happy.
+[16:23] So over here you have some music.
+[16:25] That has the happy tag in it.
+[16:28] So let's say we don't want anything serious.
+[16:31] So we can just click on minus to exclude it.
+[16:36] So the same thing applies in genre.
+[16:38] You could choose any genre that you like.
+[16:40] And you could go to the music list here.
+[16:43] And see what suits your ad.
+[16:46] Option 3 is the TikTok creative center.
+[16:49] You can google that.
+[16:50] And find this site.
+[16:51] Make sure to bookmark it.
+[16:53] Because this site can be quite useful.
+[16:55] So you've got all sorts of information here.
+[16:57] And the one that we are going to be focusing now.
+[17:00] Is the trends tab.
+[17:01] And you go to songs.
+[17:03] Alright so once you're here.
+[17:04] Make sure to select the country that you're selling for.
+[17:06] And in this case it's United States.
+[17:08] And down here you'll have a bunch of videos.
+[17:11] That has been trending for the last 7 days.
+[17:14] So when you click on that.
+[17:17] You'll be able to see like what's trending.
+[17:19] And be careful the audio might be a little too loud.
+[17:21] So yeah be warned.
+[17:23] Yeah you could go around and see like what is trending.
+[17:32] And if there's something that you can use.
+[17:34] Feel free to do so.
+[17:35] In the ad that I made.
+[17:36] What I did was.
+[17:37] I went to the last 120 days.
+[17:39] Like last 4 months I believe.
+[17:41] And then I found this clip called Aesthetic.
+[17:43] So if I click on play.
+[17:46] There are a bunch of videos.
+[17:48] Like let me give a play on this.
+[17:49] Come take a s*** with me at my house.
+[17:51] Heee.
+[17:52] No matter what goes down in here.
+[17:53] You don't have to worry about leaving a trace with very small spaces.
+[17:56] All you have to do is press this button.
+[17:58] And you're good for 45 days.
+[18:00] Yeah.
+[18:02] Okay.
+[18:02] So I bet you might have heard this music somewhere.
+[18:05] So the reason I chose this was.
+[18:07] The music was quite trending at that time.
+[18:10] So you can click over here to see the analytics of this audio.
+[18:13] You can see the interest for this audio has been on the fall.
+[18:16] And down here you have some examples.
+[18:18] And the interest for this specific audio has been mostly on ads.
+[18:23] So over here you have the age range which is shown in a pie chart.
+[18:26] But for some reason it has been down for a couple of weeks.
+[18:29] I don't know why.
+[18:29] I hope they fix it.
+[18:31] So what I do is.
+[18:32] I would go here.
+[18:33] The song's name is Aesthetic by Tolan Kim.
+[18:37] So I would just Google search it.
+[18:40] I would make sure to include the name which is Tolan Kim.
+[18:44] Then I download the music from there.
+[18:47] You can also try the sped up, slow down or the reverb versions if you want.
+[18:51] So once I download the audio I would import it into my project.
+[18:55] And then I'll have a look at the audio here.
+[18:57] So what I'm looking for is I try to start the hold at the start of the beat drop.
+[19:03] So let's have a look at how I do it.
+[19:06] So let's have a look at how I do it.
+[19:14] Okay.
+[19:15] So when I look at this waveform I can get an understanding that there's something happening here.
+[19:19] So first let me decrease the audio.
+[19:22] I usually go for somewhere around minus 18 to minus 22.
+[19:26] So let's just go with minus 20 for now.
+[19:30] Play it over here.
+[19:31] Yeah.
+[19:35] So this part is the beat drop.
+[19:37] So what I would do is I would make a cut over here.
+[19:40] And I'll delete this part for now.
+[19:43] And I would go back to the start of the hold.
+[19:47] So this is where like color coding comes in handy.
+[19:50] So I know which part is the start of the hold and which part is the hook.
+[19:55] Alright.
+[19:56] So now that's here.
+[19:57] I would go ahead and extend for the rest of the hook.
+[20:00] But still I would add a cut so that I know this audio is for hook.
+[20:05] And this one is for the hold.
+[20:08] So since I want it to be organic I'm not going to do any edits on the audio.
+[20:12] I'm just going to leave it as is.
+[20:14] So let me make a cut over here.
+[20:16] And just a little bit.
+[20:20] Yep.
+[20:21] So when you give it a listen it looks something like this.
+[20:23] Three reasons I regret getting this from my dog.
+[20:26] First off my dog suddenly stopped yanking on the lead.
+[20:29] Which means I no longer get that arm workout during our walk.
+[20:32] Okay not bad.
+[20:33] So one point that I like to make is.
+[20:37] What I'm doing here is situational.
+[20:39] Like this is what I did for this specific ad.
+[20:42] So there are times where I might start the beat drop right in the hook.
+[20:45] Or maybe even later in the hold.
+[20:47] Like it's completely situational.
+[20:49] And make sure to explore and experiment on these.
+[20:52] Like to figure out your own style.
+[20:54] So that way you'll learn a lot more.
+[20:56] And if you feel like you found something that works.
+[20:59] Feel free to share it in the community.
+[21:01] So that everyone wins.
+[21:02] So for B-Rose we have a creator who's contented really well.
+[21:06] So based on that learning.
+[21:07] I decided to use her clips and her clips only.
+[21:10] I'm familiar and updated with our clients content library.
+[21:13] So that made me confident that I could pull it off with this one creator.
+[21:18] Since this is an organic ad.
+[21:19] I wanted it to be as if she filmed and edited it by herself.
+[21:23] If I had used another creator.
+[21:25] There are chances that people might get skeptical or even confused.
+[21:29] And that's not good.
+[21:30] And that can cause them to doom scroll away.
+[21:33] I usually set up my B-Role in a separate sequence.
+[21:36] I've named it pancake.
+[21:38] And let me explain.
+[21:39] So pancake editing is a type of editing.
+[21:42] Where you have two timelines stacked on top of each other.
+[21:45] It looks something like this.
+[21:46] So let me drag the sequence here and put it on top.
+[21:50] So right now you have two timelines.
+[21:52] And what you can do is.
+[21:53] You can skim through the B-Roles.
+[21:55] And find something that you like.
+[21:57] Let's say I want to use this one here.
+[21:59] So I just drag and drop.
+[22:02] One issue with this is.
+[22:04] Let's say you are using a clip with audio in it.
+[22:07] So when you select that.
+[22:08] It gives the audio as well.
+[22:09] So what you can do is.
+[22:11] You can click on this button.
+[22:12] Which is linked selection.
+[22:14] So if you turn that off.
+[22:15] When you select.
+[22:16] You select the video only.
+[22:18] So when you drag and drop.
+[22:20] It's just a video that's in.
+[22:21] So you can go around.
+[22:22] Cut it.
+[22:23] And use whatever clip that you like.
+[22:26] If you find this complicated.
+[22:27] There's another way that you can do.
+[22:29] So.
+[22:31] Still.
+[22:32] I would have my B-Roles in a separate sequence.
+[22:35] And what I would do is.
+[22:36] I would go around.
+[22:38] And I would find a B-Role that I like.
+[22:39] Let's say I want to use.
+[22:42] Hmm.
+[22:43] Yeah.
+[22:44] I want to use this one.
+[22:45] So what I would do is.
+[22:46] The timeline.
+[22:47] I mean.
+[22:48] With the playhead on top of the clip.
+[22:50] I would click on F.
+[22:52] And then it would come in my source monitor.
+[22:55] So when it's here.
+[22:57] I would click on I and O.
+[22:59] So when I click on I it means in.
+[23:02] You set the in point.
+[23:04] And when you set O.
+[23:05] You set the out point.
+[23:07] So.
+[23:08] What's going to happen is.
+[23:09] When you go to your arrow section.
+[23:12] And you find two buttons here.
+[23:14] So if you want to drag the video only.
+[23:15] You click on this.
+[23:17] And you drag it.
+[23:18] So this way you have a clip that's already cut.
+[23:20] And you can just put it in here.
+[23:22] So out of the two.
+[23:24] It's a matter of preference.
+[23:25] So if you have a different way.
+[23:26] Feel free to go by what suits you.
+[23:28] Okay.
+[23:29] So in terms of b-rolls that I used.
+[23:31] Let me break it down for you.
+[23:33] I started the hold with a split screen.
+[23:35] To show the difference right at the start.
+[23:37] So let me play it for you.
+[23:39] First off.
+[23:40] My dog suddenly stopped yanking on the lead.
+[23:43] First off.
+[23:44] My dog suddenly stopped yanking on the lead.
+[23:47] The split screen is coherent with what's being said.
+[23:50] And let me show you how I made it.
+[23:52] Let me go to the breakdown.
+[23:54] And here.
+[23:55] I have two clips.
+[23:58] So over here.
+[24:02] I found two sets of clip.
+[24:03] For this part of the voiceover.
+[24:05] So I laid one set on top.
+[24:07] And the other at the bottom.
+[24:08] So the one on top is the bad example.
+[24:11] Where she is being pulled around.
+[24:13] At the bottom.
+[24:14] It's just her walking easily.
+[24:16] With her harness.
+[24:17] First to make the split screen.
+[24:18] I start by setting up guides.
+[24:20] That are at the exact midpoint of the frame.
+[24:23] So what I would do is.
+[24:24] I would enable rulers.
+[24:26] In view.
+[24:28] And show rulers.
+[24:29] A shortcut for that is.
+[24:31] You can click on the program monitor.
+[24:33] Or the screen over here.
+[24:34] And you can press control R.
+[24:37] So that will bring in the rulers.
+[24:40] And then you can add in a guide.
+[24:42] So for you to add a guide.
+[24:44] You have to go on to the ruler.
+[24:46] In this case we want it in the middle horizontally.
+[24:49] So you go on to the horizontal ruler.
+[24:52] Click on it.
+[24:53] And drag it in.
+[24:53] So when you bring in your guide.
+[24:56] What you should do is.
+[24:58] You have to make sure.
+[24:59] That your guides aren't locked.
+[25:02] So you can uncheck this.
+[25:04] Or what you could do is.
+[25:05] You could use the shortcut.
+[25:06] Control alt shift R.
+[25:08] It might be different for mac users.
+[25:10] So you can find it over here.
+[25:11] In the view panel.
+[25:13] Okay.
+[25:14] So now.
+[25:15] When you hover over the guide.
+[25:16] You would get something like this.
+[25:19] So what you can do is.
+[25:20] You can right click on it.
+[25:21] And click on edit guide.
+[25:22] So according to my resolution.
+[25:24] I know that the height of the frame is 1920.
+[25:28] What I'm going to do is.
+[25:29] I'm going to divide that by 2.
+[25:31] To get the midpoint.
+[25:33] So once I click on OK.
+[25:35] You'll see that the guide is at the middle.
+[25:38] So this half and this half are equally balanced.
+[25:42] So what I would do now is.
+[25:44] I would move the clip on top.
+[25:46] And I would crop the part.
+[25:48] So that anything above the midpoint.
+[25:51] Over here is the bad example.
+[25:53] And what I want is.
+[25:55] Anything below this.
+[25:55] Should be the good example.
+[25:57] So how you can do that is.
+[25:59] So you can achieve that by.
+[26:01] Changing the position.
+[26:03] And making sure.
+[26:04] That everything happens.
+[26:05] Within the safe zones.
+[26:06] And above the midpoint.
+[26:09] And let's make sure.
+[26:10] The other clip has the same.
+[26:11] So what I'm going to do is.
+[26:12] I'm going to copy the motion.
+[26:13] And paste it on here.
+[26:17] So since we have the same values now.
+[26:19] I'm going to crop it.
+[26:22] So in FX control.
+[26:23] You will be able to find the crop settings.
+[26:25] At the bottom.
+[26:26] So what I'm going to do is.
+[26:28] I'm going to crop the bottom part of the clip.
+[26:30] And I'm going to do that by holding control.
+[26:32] Or command.
+[26:34] And sliding it over.
+[26:35] The reason I'm holding control here is.
+[26:39] When I press control.
+[26:40] The changes happen slightly.
+[26:43] If I don't press control.
+[26:44] It's like too fast.
+[26:46] It's hard to get accurate measurements.
+[26:49] So what I'm going to do is.
+[26:50] I'm going to hold control.
+[26:51] And bring it to the center.
+[26:54] And to make sure.
+[26:56] I would zoom in.
+[26:57] And see if it's getting cut at the center.
+[27:02] Yep.
+[27:03] Not bad.
+[27:03] So once that's done.
+[27:06] I would make sure to crop the other one as well.
+[27:08] So over here.
+[27:09] It's 31.6.
+[27:11] So let's give that.
+[27:12] On to this one.
+[27:16] Yep.
+[27:17] Works fine.
+[27:18] So I'm going to fit it.
+[27:21] And then.
+[27:21] The next step is to make sure that.
+[27:23] The bottom clip.
+[27:24] Is inside the saved zone.
+[27:26] And visible at all times.
+[27:28] So you simply.
+[27:30] Move the position.
+[27:31] And make sure that it's in the center.
+[27:33] Let's do the same thing.
+[27:34] By copying this.
+[27:36] And pasting it over here.
+[27:37] So here you can see.
+[27:38] That it's going.
+[27:39] A bit close to the saved zones.
+[27:41] So I'm going to move it up a little.
+[27:43] And make sure it's all balanced.
+[27:49] Yep.
+[27:49] So that's how I made the split screen here.
+[27:51] And.
+[27:55] So that's how I made it.
+[27:57] So that's how I made the split screen here.
+[27:59] And when you're making this.
+[28:00] Make sure to keep the things.
+[28:02] Inside the saved zone.
+[28:04] So for the next part.
+[28:05] It says.
+[28:06] Which means I no longer get that arm workout.
+[28:08] During our walks.
+[28:09] Which means I no longer get that arm workout.
+[28:12] During our walks.
+[28:13] So when she says.
+[28:14] I no longer get an arm workout.
+[28:15] I found a clip of her.
+[28:17] Being pulled by the dog.
+[28:18] In first person.
+[28:21] So.
+[28:22] That clip.
+[28:23] Is over here.
+[28:25] When you're editing.
+[28:26] There might be instances.
+[28:27] Where some of your b-rolls.
+[28:28] Won't be long enough.
+[28:30] To fit what's being said.
+[28:32] Like this one for example.
+[28:34] If I had to take the original clip.
+[28:36] Which is.
+[28:36] UGC video 3.
+[28:39] Yep.
+[28:39] It's this one.
+[28:40] So.
+[28:43] Let me take this.
+[28:44] Pressing I.
+[28:45] And then.
+[28:47] Oh.
+[28:50] So.
+[28:50] 
+[28:50] This video.
+[28:51] Originally was this shot.
+[28:55] So.
+[28:56] How did I manage to get extra here.
+[28:58] What I did was.
+[28:59] I used this.
+[28:59] New feature from Adobe.
+[29:01] Called.
+[29:01] Degenerative Extend Tool.
+[29:03] And.
+[29:04] When you click on that.
+[29:04] And when you drag that.
+[29:05] To fit what you want.
+[29:09] Then you'll get a setting here.
+[29:10] So.
+[29:10] What it says is.
+[29:12] It's going to change it to 30 fps.
+[29:14] And.
+[29:15] If I click continue.
+[29:16] What would happen is.
+[29:17] It would upload that video.
+[29:18] To.
+[29:19] The Adobe.
+[29:20] Servers.
+[29:21] And.
+[29:21] It would generate.
+[29:22] A bunch of frames.
+[29:23] And.
+[29:24] Extend the video.
+[29:25] And.
+[29:25] That's what has happened here.
+[29:27] So.
+[29:27] The thing here is.
+[29:28] This thing costs credit.
+[29:31] Use this.
+[29:31] Only when it's necessary.
+[29:33] Or if you're close to your monthly renewal date.
+[29:35] Also.
+[29:36] Make sure that the start.
+[29:37] And end points of your clips.
+[29:38] Are what you want it to be.
+[29:39] Like for example.
+[29:42] If it's.
+[29:43] Something like this.
+[29:45] Where you have a little bit of.
+[29:47] The next frame.
+[29:48] Bleeding in.
+[29:49] If you do that.
+[29:50] And if you extend.
+[29:51] What would happen is.
+[29:53] Premiere.
+[29:54] Would extend.
+[29:55] From this last frame.
+[29:56] You have.
+[29:59] The person talking.
+[30:00] Or doing something.
+[30:01] For the rest of your video.
+[30:02] So make sure to check your start and end points.
+[30:05] One more thing.
+[30:06] The results can miss sometimes.
+[30:08] So.
+[30:08] It won't be as good as you.
+[30:10] Think it can be.
+[30:11] Well.
+[30:11] In this case.
+[30:12] I kind of got lucky.
+[30:13] Like in a high movement clip.
+[30:14] It managed to.
+[30:16] Do a pretty good job.
+[30:18] For the next part of the clip.
+[30:19] I showed some clips.
+[30:20] Which showed a harness.
+[30:21] In a park setting.
+[30:23] So.
+[30:23] It's just a happy dog.
+[30:25] In the park.
+[30:25] Because it says this.
+[30:27] Number two.
+[30:28] Everyone at the dog park.
+[30:29] Keeps asking where I got it.
+[30:30] And I have to stop every two minutes.
+[30:32] To show them.
+[30:33] So that's the reason.
+[30:33] I chose clips.
+[30:34] That are set in a park.
+[30:36] So it matches what's being said.
+[30:37] And the next point.
+[30:39] Is this.
+[30:40] And number three.
+[30:40] This thing comes with a lifetime warranty.
+[30:43] Which means.
+[30:43] I literally have zero excuse.
+[30:45] To get her a new one ever again.
+[30:46] My shopping addiction.
+[30:48] Is not happy about this.
+[30:49] The third point.
+[30:51] Talks about lifetime warranty.
+[30:52] So I decided.
+[30:53] To show close-ups.
+[30:54] Of the harness.
+[30:55] To show.
+[30:56] The quality.
+[30:56] Of the materials.
+[30:58] So over here.
+[30:58] You can see some close-ups.
+[31:00] Especially over here.
+[31:03] Like this one.
+[31:06] Yeah.
+[31:06] So I'm trying to be.
+[31:07] As coherent as I can.
+[31:08] To what's being said.
+[31:10] So that there is no disconnect.
+[31:11] In the hold.
+[31:12] Also while editing.
+[31:13] I'm trying to keep in mind.
+[31:14] To keep it as simple.
+[31:15] As possible.
+[31:16] So I didn't do anything.
+[31:17] Fancy or complicated.
+[31:19] And for the next part.
+[31:20] But honestly.
+[31:20] These are the kind of problems.
+[31:22] I can live with.
+[31:24] Yeah.
+[31:25] So.
+[31:26] Here is like.
+[31:27] The turning point of the video.
+[31:28] She says.
+[31:29] These are the problems.
+[31:30] That she can live with.
+[31:32] So at this point.
+[31:33] I wanted to show.
+[31:34] Both the person.
+[31:35] And her dog.
+[31:36] Happy with the harness.
+[31:38] But honestly.
+[31:39] These are the kind of problems.
+[31:40] I can live with.
+[31:41] And one more reason.
+[31:42] That I chose that.
+[31:43] Was.
+[31:44] I wanted to show.
+[31:45] That she doesn't actually.
+[31:46] Regret the purchase.
+[31:48] Like.
+[31:48] These problems.
+[31:49] Are good problems.
+[31:50] In her life.
+[31:51] So that's like.
+[31:52] The turning point of the video.
+[31:53] And I wanted to emphasize that.
+[31:55] With this clip.
+[31:56] So the b-rolls from here.
+[31:58] I decided.
+[31:59] To show the solution.
+[32:00] And how it actually works.
+[32:02] So I try to be coherent.
+[32:03] To what's being said.
+[32:05] Okay.
+[32:05] For example.
+[32:06] So this part here.
+[32:09] And the shock absorption leash.
+[32:11] Is great for dogs.
+[32:12] Who have sudden burst of energy.
+[32:13] If your dog's a puller.
+[32:14] This is your sign to.
+[32:15] So when you're talking about.
+[32:16] A shock absorption leash.
+[32:18] We show it over here.
+[32:19] And then.
+[32:20] We show.
+[32:21] How it works.
+[32:21] Like.
+[32:22] The product.
+[32:23] In action.
+[32:26] So I went ahead.
+[32:27] And added b-rolls.
+[32:28] According to what's being said.
+[32:30] And next up.
+[32:30] Let's have a look at.
+[32:31] How I tackled.
+[32:32] The hooks.
+[32:33] So something interesting.
+[32:34] About hooks is.
+[32:35] Most people spend like.
+[32:37] Hours editing their hold.
+[32:39] And spend like.
+[32:39] Five minutes on the hook.
+[32:41] Like.
+[32:41] That approach is not ideal.
+[32:43] Like.
+[32:43] The hook.
+[32:43] Is the vital part of your ad.
+[32:45] Like.
+[32:45] If your hook is shit.
+[32:46] Your hold is wasted.
+[32:47] Like.
+[32:48] No matter.
+[32:48] How good it is.
+[32:49] So enough of me.
+[32:50] Yapping on that.
+[32:51] So.
+[32:52] Let's see.
+[32:52] How I got.
+[32:56] Three reasons.
+[32:57] I regret getting this from my dog.
+[32:58] First.
+[32:59] Three reasons.
+[33:00] I regret getting this from my dog.
+[33:02] First off.
+[33:03] My.
+[33:03] So.
+[33:04] For the first hook.
+[33:05] I used a clip of her.
+[33:06] Putting on the harness.
+[33:08] Something about this harness is.
+[33:09] You can put this within three seconds.
+[33:11] And I wanted to show that.
+[33:12] Right off the bat.
+[33:13] So this.
+[33:14] Along with the hook.
+[33:14] Where she says.
+[33:15] That she regrets.
+[33:16] The purchase.
+[33:17] Will create something called.
+[33:19] Cognitive dissonance.
+[33:20] So.
+[33:20] What it means is.
+[33:21] When two things that don't go together.
+[33:23] Is shown in the hook.
+[33:24] Like.
+[33:25] For example.
+[33:26] Here.
+[33:26] You're like showing a selling point.
+[33:28] And she's saying that she regrets the purchase.
+[33:31] Like.
+[33:31] That thing can create.
+[33:33] Like.
+[33:33] An open loop in their head.
+[33:35] And.
+[33:36] There are chances they'll continue to watch.
+[33:38] Since they're curious.
+[33:39] To know.
+[33:40] Like.
+[33:40] What the answer is.
+[33:41] So.
+[33:41] That was one reasoning behind.
+[33:42] My hook.
+[33:43] To show that clip.
+[33:45] So.
+[33:45] For hook two and three.
+[33:46] I piggybacked on the same concept.
+[33:48] Behind.
+[33:49] Hook one.
+[33:50] So.
+[33:50] The main idea of this batch.
+[33:51] Is negative framing.
+[33:52] So.
+[33:53] Since the voiceover.
+[33:54] Is saying something negative.
+[33:55] In the hook.
+[33:56] I stuck to.
+[33:57] Using positive ones.
+[33:59] Like.
+[33:59] For example.
+[34:00] I wanted to grab attention.
+[34:02] With.
+[34:02] This clip.
+[34:03] So.
+[34:03] When she says.
+[34:04] Don't make the same mistake as me.
+[34:05] I showed the dog.
+[34:07] Chilling.
+[34:08] And.
+[34:09] Then.
+[34:09] Finally.
+[34:10] It's.
+[34:11] A clip of her.
+[34:12] Putting on the harness.
+[34:13] So.
+[34:13] Same here.
+[34:14] It's just a happy doggo.
+[34:16] And.
+[34:16] Then.
+[34:17] It goes on like this.
+[34:21] So.
+[34:22] That's.
+[34:23] It.
+[34:23] For the hook.
+[34:24] And.
+[34:24] Let's get on to the next layer.
+[34:26] So.
+[34:26] The next layer is.
+[34:27] Animation.
+[34:28] And.
+[34:28] Transitions.
+[34:29] So.
+[34:30] I did not do anything big.
+[34:31] But.
+[34:32] I did something that.
+[34:33] Is.
+[34:33] Pretty important.
+[34:34] When editing.
+[34:35] So.
+[34:35] This is something that's.
+[34:36] Really small.
+[34:37] But.
+[34:37] It can make a huge impact.
+[34:38] In your edits.
+[34:39] When editing.
+[34:40] Make sure to maintain.
+[34:41] Consistency.
+[34:42] Between clips.
+[34:43] That are similar.
+[34:44] I'll show you an example.
+[34:46] I used a clip of the front attachment.
+[34:48] And then.
+[34:49] The next clip is like this.
+[34:50] So.
+[34:51] Over here.
+[34:51] What I've done is.
+[34:52] I've added a horizontal flip effect.
+[34:55] And.
+[34:55] Why did I do it?
+[34:56] So.
+[34:57] The original video is like this.
+[35:00] It's.
+[35:01] On the opposite direction.
+[35:03] And.
+[35:03] When you play it.
+[35:04] It.
+[35:05] Can look like this.
+[35:06] You can get this harness.
+[35:07] With a front D-ring attachment.
+[35:08] To gain better control of your dog.
+[35:10] Let me play it again.
+[35:11] You can get this harness.
+[35:12] With a front D-ring attachment.
+[35:14] To gain better control of your dog.
+[35:16] So.
+[35:16] When you have a look at it.
+[35:17] You might feel.
+[35:18] That something.
+[35:19] Is off.
+[35:19] Over here.
+[35:20] In this clip.
+[35:21] Our eyes go into this one.
+[35:23] Like.
+[35:24] Our eyes are drawn.
+[35:25] To this action.
+[35:26] And then.
+[35:27] When you go on to the next one.
+[35:28] It's flipped.
+[35:30] So.
+[35:30] When it's on the other side.
+[35:31] It can be a little jarring.
+[35:33] And.
+[35:34] The one thing.
+[35:35] That I did to fix.
+[35:36] Was.
+[35:36] I simply.
+[35:37] Put on this effect.
+[35:38] Called.
+[35:39] Horizontal flip.
+[35:40] And for other editing softwares.
+[35:41] It might be a different approach.
+[35:43] So.
+[35:43] When I enable it.
+[35:45] And play.
+[35:45] You will find the difference.
+[35:47] Get this harness.
+[35:47] With a front D-ring attachment.
+[35:49] To gain better control of your dog.
+[35:51] And the shock of.
+[35:51] So.
+[35:51] Now.
+[35:52] The difference between clips.
+[35:53] Is not that bad.
+[35:55] And.
+[35:55] It seems much more fluid.
+[35:57] So.
+[35:57] As an editor.
+[35:58] Make sure to train yourself.
+[35:59] To spot these things.
+[36:01] Like.
+[36:01] If you can spot it.
+[36:02] You are halfway there.
+[36:03] Then.
+[36:03] You can go ahead.
+[36:04] And play around.
+[36:05] To see what you can do.
+[36:06] To make it as seamless.
+[36:08] As possible.
+[36:09] So.
+[36:09] Does that mean.
+[36:09] You have to do this every time.
+[36:11] Not really.
+[36:12] Make sure to use it.
+[36:13] On places.
+[36:14] Where it matches the context.
+[36:16] Like.
+[36:16] If you want your audience.
+[36:17] To have a feeling of.
+[36:19] Panic.
+[36:19] Or.
+[36:20] A feeling of.
+[36:21] Uneasiness.
+[36:22] Like.
+[36:23] If you need that.
+[36:23] You can purposely add these things in.
+[36:25] And.
+[36:26] Give them that feeling.
+[36:27] Like.
+[36:27] You can convey panic.
+[36:29] Or.
+[36:30] The feeling of uneasiness.
+[36:31] Or.
+[36:32] The bad emotions.
+[36:33] Like.
+[36:34] Nothing's coming to my head at the moment.
+[36:36] So.
+[36:36] Those type of things.
+[36:37] You can deliberately do.
+[36:38] By adding these things.
+[36:40] So.
+[36:40] As an editor.
+[36:41] Once again.
+[36:42] Keep your eyes sharp.
+[36:43] To spot these things.
+[36:44] At first.
+[36:45] It can seem a little hard.
+[36:46] But the more you do.
+[36:47] The more you learn.
+[36:48] The next up is.
+[36:50] Captions and text.
+[36:51] And I did not do anything.
+[36:52] Different from the previous lesson here.
+[36:54] So.
+[36:55] Let me quickly run down.
+[36:57] So.
+[36:58] I go into the.
+[36:59] Sequence.
+[37:00] And I click on text.
+[37:02] And then.
+[37:03] What I do is.
+[37:04] I click on.
+[37:05] Create captions from transcript.
+[37:08] So.
+[37:08] When you do that.
+[37:09] You will get something like this.
+[37:12] So.
+[37:12] The fonts and all would be different.
+[37:14] So.
+[37:14] Make sure to go with a font.
+[37:16] That matches the brand.
+[37:18] And the ad.
+[37:20] So.
+[37:21] In this case.
+[37:21] I believe I used.
+[37:23] Proxima Nova.
+[37:25] Let me see.
+[37:28] Yep.
+[37:29] The same.
+[37:30] Proxima Nova.
+[37:31] Once you put in your captions.
+[37:33] Make sure to.
+[37:34] Check with the script.
+[37:35] And make some fixes.
+[37:36] If necessary.
+[37:37] And also.
+[37:38] You can add in the hook.
+[37:39] And call to action.
+[37:40] In this section as well.
+[37:42] So.
+[37:42] It's the same.
+[37:43] I used Figma.
+[37:44] And I exported it.
+[37:46] And it looked like this.
+[37:48] I used Figma.
+[37:49] For the call to actions as well.
+[37:51] The reason I used Figma.
+[37:52] Was.
+[37:53] When I was working on the hook.
+[37:54] At the same time.
+[37:55] I worked on the call to actions there.
+[37:57] And I just got it done in one sweep.
+[37:59] So.
+[37:59] That's the reason.
+[38:00] Nothing big.
+[38:01] And.
+[38:02] Once you are done with all of the text.
+[38:03] Make sure that.
+[38:04] All of your content are.
+[38:05] Inside the safe zone.
+[38:07] And then you are golden.
+[38:08] The final layer.
+[38:09] Is sound effects.
+[38:11] So.
+[38:11] I didn't do anything big here.
+[38:12] I didn't want to overdo anything.
+[38:14] The only thing that I used was.
+[38:16] Whenever the harness clips in.
+[38:18] I added a seatbelt sound.
+[38:20] So.
+[38:21] It should sound something like this.
+[38:22] Three reasons I regret getting this from my dog.
+[38:25] First.
+[38:26] Yeah.
+[38:27] Dog.
+[38:27] First.
+[38:28] Works like a charm.
+[38:29] So once you are done with all of that.
+[38:31] You can make your variations.
+[38:32] And double check.
+[38:33] And finally you can export.
+[38:35] Also remember to turn off.
+[38:36] The safe zones before you export.
+[38:39] So that it's not there in your final version.
+[38:41] That concludes the organic ad breakdown.
+[38:44] And thank you for watching.
+[38:45] And feel free to let me know.
+[38:47] If you have any questions.
+[38:48] You can either DM me.
+[38:49] Or pop it in the general chat.
+[38:52] Alright.
+[38:52] So.
+[38:53] Bye guys.
+[38:53] 
+[38:53] Bye.
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] 
+[38:53] !
+[38:54] Bye.

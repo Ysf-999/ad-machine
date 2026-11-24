@@ -1,0 +1,451 @@
+﻿AI UGC V6 - SEEDANCE 2.5
+Building High-Converting AI UGC (Step-by-Step)
+
+
+Introduction
+This module teaches you how to use seedance 2.5 either by using GOOGLE GEMINI GEM or Claude Skills.
+
+
+This is one of the best and most capable video models of 2026. It’s genuinely a crazy model but also the price is expensive.
+
+
+I have discovered a method to let me drop the price to $6 for 30s without subscribing to scammer platforms.
+
+
+Everything is pretty simple.
+
+
+The Step-by-Step Process
+
+
+Step 1: What is Seedance 2.5
+
+
+As I told you above, SD 2.5 is one of the best models for video generation right now. It’s truly exceptional with a great cost also.
+
+
+Now what makes seedance 2.5 unique.
+
+
+I’ve spent more than 1k+ on kie.ai testing seedance 2.5 and its full capabilities in the last 30 days.
+  
+
+
+
+Where you can use it also:
+* Byteplus Official Platform
+* Dreamina Capcut
+* Higgsfield (again you need to pay yearly plan or smth)
+
+
+
+
+The latest model 2.5 supports up to 50 image/audio/video references, which is crazy to think about it…
+
+
+But most of the time we will probably do less than 10 unless an ad requires a lot of assets in the video.
+
+
+Step 2: How to Crack Seedance 2.5
+
+
+There’s a lot of methods I will be showing on how to use seedance 2.5 at its highest capable level even though some methods might seem weird lol.
+
+You can apply these methods also to:
+* Wan 3.0 (50-60% cheaper than 2.5, but not that advanced)
+* Minimax H3 (really cheap but still not that advanced, price is worth it)
+
+
+This 2s method below cuts seedance 2.0 and 2.5 costs down to 30-40% on kie, im not sure about the other platforms.
+
+
+
+
+Method #1: 2s black video voice reference.
+
+
+Instead of using Audio1 as a voice reference in Seedance 2.5 we will use a black video as voice reference, i know it sounds weird but it works better than audio reference.
+
+
+This is i discovered randomly because i was lazy to put audio ref 😭💀
+
+
+This is how it works:
+* Open capcut
+* Create a 2s black video
+* Add the voice reference to it (make sure its a part where voice sounds good, and is speaking normally, not long pauses)
+* Export the video in 2k
+  
+
+
+
+Method #2: 2s 10x speed up video & voice reference.
+
+
+This works similar to the method of the black reference, which we will just add an upgrade which will be a reference to the motion of the video also, this is what makes the video feel really realistic.
+
+
+Here’s what you will do:
+* Download a reference video
+* Open capcut
+* Import the video
+* If the video is longer than 30s, cut into 30s parts
+* Speed up the video until it reaches 2s, it should be around 10-12x
+* Mute if you don’t want to use original voice
+* Add custom voice like above
+* Export 2k
+
+
+Here’s how it looks like:
+  
+
+
+
+Method #3: 2s black video & audio reference.
+
+
+Only do this if the audio is not coming out good from the video.
+
+
+Remember we use the 2s black video on kie ai to save credits
+
+
+Step 3: Clone Skill or Seedance 2.5 Yapper 
+
+
+I have created two new skills for seedance 2.5
+* One is my original cloning method for sora, but now i’m using it for seedance
+* The other one is my updated seedance 2.0 yapper for seedance 2.5
+
+
+Check them here:
+
+Clone Skill: Seedance 2.5
+
+
+Yapper 2.5: Seedance 2.5
+
+
+
+
+AI UGC V6 - SEEDANCE 2.5
+Gemini Clone Video Skill
+
+
+Introduction
+I will show you how to upload skills into gemini and use gemini spark for analyzing videos and getting prompts for seedance 2.5
+
+
+The Step-by-Step Process
+
+
+Step 1: Download the skill
+
+
+Here’s the link to download the clone-seedance-video skill:
+Clone-seedance-video
+
+
+After you download it…
+
+
+
+
+Step 2: Go to Gemini and Choose Spark Mode
+
+
+This is a new method of the Gemini App, which leverages skills in gemini, the default chat doesn’t allow skills, and gems feel kinda outdated.
+
+
+So you will go in the Gemini web app and go here:
+https://gemini.google.com/spark/
+
+
+And then here and upload the skill and continue
+
+
+  
+
+
+
+
+
+
+
+Step 3: How to use it
+
+
+* Open a new chat on spark
+* Upload video
+* Write this prompt
+
+
+
+
+________________
+
+
+/clone-seedance-video  
+
+use descriptive fallback to make me a seedance 2.5 prompt
+
+
+Break down this video 1:1 so I can recreate it exactly.
+
+
+Go scene by scene. For every scene describe how everything looks - the setting, the framing, the lighting, what the person is wearing, every b-roll, support brolls by matching their styles, ask for references if needed, every camera zoom, or everything that's on the video . Note which words get emphasized & how, the tone of voice, the pacing & the mannerisms. Keep the entire breakdown under 5k characters. MAKE SURE IT'S SUPER DETAILED AND EXPLAINS EVERYTHING EXACTLY HOW YOU SEE IT
+
+
+make sure the prompt is perfect, if more than 30s, separate it in multiple n+1 30s videos or what's most applicable to it.
+
+
+I will use image1 for the background, and character.
+i will use video1 only as voice reference, motion references, and vibe/feel of a ugc video, do not adopt characters or anything else.
+let me know what other images i should put as reference
+________________
+
+
+
+
+Now if you want to do it for your own product, you can say:
+“Keep everything the same, just change the dialogue so it matches my product, here’s more info about my product:
+
+I will use this character as Image1, and i will use my product as i uploaded.
+
+Please match everything to my product, make sure everything is perfect.
+”
+
+
+
+
+Step 4: How to generate the video
+
+
+Spark will give you whatever you need together with the prompts.
+
+
+MAKE SURE TO DOUBLE CHECK THE PROMPT
+
+
+Do not ever blind generate, this is an expensive model, if smth doesnt look good make sure to change like timing, physics, etc…
+
+
+Before generating the video we need to prepare the assets, this is very important.
+
+
+Prepare the assets that it gives you.
+
+
+  
+
+
+
+If you need to generate a new character, you use my realistic ai images method.
+
+
+This works the same also for the brolls and everything else it suggests.
+
+
+Make sure your product images are high quality and png, or in a white background.
+
+
+
+
+Preparing everything together
+
+
+* Go to kie ai
+* Choose Seedance 2.5
+
+
+We won’t use first frame and last frame
+
+
+Upload the prompt:
+  
+
+
+
+Upload image references:
+  
+
+
+
+Upload Video Reference:
+  
+
+
+
+
+
+Choose 9:16 and Mov type and correct duration:
+  
+
+
+
+
+
+Check if references are alright.
+
+
+Sometimes before the dialogue its good to add:
+
+
+Uses @Video1 or @Audio1 voice as a reference to say :{xxx}
+
+
+
+
+Yeah this is it.
+
+
+This will get updated when i find smth else, but i have been using this to generate videos.
+AI UGC V6 - SEEDANCE 2.5
+Yapper Skill
+
+
+Introduction
+This process is similar to the clone video, but this one we can use it into claude/chatgpt/grok where ever you like it
+
+
+The Step-by-Step Process
+
+
+Step 1: Download the skill
+
+
+Here’s the link to download the yapper skill:
+https://drive.google.com/file/d/19-ovx0k8YWBnbKIw9QwptGN9eBIGwy5o/view?usp=sharing
+
+
+After you download it…
+
+
+
+
+Step 2: Go to Claude and upload the skill
+
+
+* Go to claude
+* Customizations
+* Skills
+* Upload the skill
+
+
+
+
+
+
+Step 3: How to use it
+
+
+* Open a new chat on claude
+* Upload your script, product image, character image
+* Write this prompt
+
+
+
+
+________________
+
+
+/seedance25-yapper 
+
+Use this skill to help me create a new yapper ad for seedance 2.5, follow the official skills instructions.
+
+
+I uploaded my script, my character image, my product image.
+
+
+I will use Video1 as a reference for voice only, motion, and feel of the video. Do not use characters from video, or location.
+
+
+If the video is longer than 30s, use a balanced n+1 so each clip feels natural.
+
+
+Make sure you do 60-75 words per 25-30s.
+
+
+Let me know what you need else.
+
+
+________________
+
+
+Use the same tricks that we used earlier even for this method
+
+
+
+
+Step 4: How to generate the video
+
+
+MAKE SURE TO DOUBLE CHECK THE PROMPT
+
+
+Do not ever blind generate, this is an expensive model, if smth doesnt look good make sure to change like timing, physics, etc…
+
+
+Before generating the video we need to prepare the assets, this is very important.
+
+
+Prepare the assets that it gives you.
+
+
+
+
+Preparing everything together
+
+
+* Go to kie ai
+* Choose Seedance 2.5
+
+
+We won’t use first frame and last frame
+
+
+Upload the prompt:
+  
+
+
+
+Upload image references:
+  
+
+
+
+Upload Video Reference:
+  
+
+
+
+
+
+Choose 9:16 and Mov type and correct duration:
+  
+
+
+
+
+
+Check if references are alright.
+
+
+Sometimes before the dialogue its good to add:
+
+
+Uses @Video1 or @Audio1 voice as a reference to say :{xxx}
+
+
+
+
+Yeah this is it.
+
+
+This will get updated when i find smth else, but i have been using this to generate videos.
+
+
+
+
+Prompts COPY PASTE FOLDER:
+Prompts

@@ -1,0 +1,222 @@
+{
+  "name": "facebook-ad-copy",
+  "description": "Validates standard Facebook/Meta direct-response ad copy packs across single image, carousel, and video formats.",
+  "variation_heading_regex": "^### Variation\\s+\\d+\\s*:\\s*(.+?)\\s*$",
+  "expected_variations": 3,
+  "allowed_formats": [
+    "single_image",
+    "carousel",
+    "video"
+  ],
+  "required_top_fields": [
+    "Format",
+    "Audience",
+    "Awareness Level",
+    "Offer"
+  ],
+  "strategy_notes": {
+    "required": true,
+    "heading": "Strategy Notes",
+    "required_fields": [
+      "Awareness Stage",
+      "Market Sophistication",
+      "Buyer Belief Shift",
+      "Market Signal",
+      "Schwartz Lever",
+      "Halbert Lever",
+      "Kennedy Lever",
+      "Cialdini Lever",
+      "Wundt Inhibition",
+      "Copy-Chief Pass"
+    ],
+    "reference_terms_any": [
+      "awareness",
+      "sophistication",
+      "belief shift",
+      "starving crowd",
+      "aida",
+      "offer",
+      "proof",
+      "cta",
+      "contrast",
+      "social proof",
+      "authority",
+      "scarcity",
+      "inhibition",
+      "excitation",
+      "voc",
+      "market signal"
+    ]
+  },
+  "required_variation_fields": [
+    "Primary Text",
+    "Headline",
+    "Description",
+    "CTA Button"
+  ],
+  "require_testing_recommendation": true,
+  "cta_buttons": [
+    "Shop Now",
+    "Learn More",
+    "Sign Up",
+    "Get Offer",
+    "Book Now",
+    "Contact Us",
+    "Subscribe",
+    "Order Now"
+  ],
+  "primary_text": {
+    "min_words": 45,
+    "max_chars": 2200,
+    "visible_hook_min_chars": 35,
+    "visible_hook_max_chars": 125,
+    "require_visible_hook_markers": true,
+    "visible_hook_min_segments": 2,
+    "require_product_mention": true,
+    "mechanism_terms_any": [
+      "because",
+      "built",
+      "designed",
+      "works by",
+      "formula",
+      "protocol",
+      "system",
+      "mechanism",
+      "method",
+      "process",
+      "delivery",
+      "custom",
+      "ingredient",
+      "dose",
+      "technology",
+      "material",
+      "personalized"
+    ],
+    "audience_journey_terms_any": [
+      "tried",
+      "still",
+      "tired",
+      "sick of",
+      "fed up",
+      "used to",
+      "keeps",
+      "every time",
+      "after",
+      "before",
+      "already",
+      "again",
+      "usual",
+      "random",
+      "another"
+    ],
+    "objection_terms_any": [
+      "without",
+      "not",
+      "instead",
+      "even if",
+      "risk",
+      "guarantee",
+      "if",
+      "but",
+      "no",
+      "still",
+      "because"
+    ]
+  },
+  "headline": {
+    "max_chars": 40
+  },
+  "description": {
+    "max_chars": 30
+  },
+  "proof": {
+    "min_categories": 2,
+    "categories": {
+      "number": [
+        "%",
+        "$",
+        "day",
+        "days",
+        "week",
+        "weeks",
+        "month",
+        "months",
+        "year",
+        "years"
+      ],
+      "testimonial": [
+        "review",
+        "customer",
+        "client",
+        "owner",
+        "testimonial",
+        "people say",
+        "verified"
+      ],
+      "authority": [
+        "doctor",
+        "vet",
+        "expert",
+        "research",
+        "study",
+        "clinical",
+        "lab",
+        "scientist"
+      ],
+      "risk_reversal": [
+        "guarantee",
+        "refund",
+        "risk-free",
+        "money-back",
+        "trial"
+      ],
+      "specificity": [
+        "because",
+        "designed",
+        "built",
+        "custom",
+        "specific",
+        "step",
+        "protocol",
+        "plan"
+      ]
+    }
+  },
+  "format_specific": {
+    "single_image": {
+      "required_fields": [
+        "Image Direction"
+      ]
+    },
+    "carousel": {
+      "required_fields": [
+        "Carousel Cards"
+      ],
+      "min_cards": 3,
+      "max_cards": 5
+    },
+    "video": {
+      "required_fields": [
+        "Video Script"
+      ],
+      "required_timecodes": [
+        "0-3s",
+        "3-10s",
+        "10-25s",
+        "25-40s",
+        "40-60s"
+      ]
+    }
+  },
+  "banned_patterns": [
+    "guaranteed cure",
+    "guaranteed results",
+    "clinically proven to cure",
+    "works for everyone",
+    "no side effects",
+    "doctor approved miracle",
+    "fake scarcity",
+    "invented testimonial"
+  ],
+  "price_mismatch_severity": "warning"
+}

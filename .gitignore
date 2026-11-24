@@ -1,0 +1,46 @@
+# secrets — never commit
+.env
+*.token
+board-token
+brand/brand.json
+cloud/controller/config.json
+
+# environments
+.venv/
+.modal-env/
+.object-separation/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# your own work and media (stays on your Mac)
+projects/
+footage/
+FINALS/
+taste/
+library/music/
+library/approved_broll/
+cloud/.scratch/
+cloud/models/
+cloud/evidence/
+cloud/locks/
+cloud/controller/*
+!cloud/controller/app.py
+!cloud/controller/config.example.json
+feedback/log*.jsonl
+feedback/WEEKLY_*.md
+feedback/RESULTS.md
+feedback/results.json
+feedback/credits_log.jsonl
+feedback/meta_map.json
+brand/product-photos/*
+!brand/product-photos/README.md
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+
+# integration state (ids for your own accounts)
+frameio/

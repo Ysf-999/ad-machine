@@ -1,0 +1,4 @@
+interface:
+  display_name: "DTC Research Orchestrator"
+  short_description: "Run the full DTC research workflow"
+  default_prompt: "Use $dtc-research-orchestrator to turn this product packet into a research report and ad brief plan."

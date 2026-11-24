@@ -1,0 +1,657 @@
+# B03 Video Editing Breakdowns / 3 video editing breakdown part 1 organic ad 1.1.mp4
+
+[00:00] All right, hello my friend and this is video at Breakdown. So in this video I'll be showing you
+[00:05] one of our recent ads that I did with my agency for the client. I guess you know the name of the
+[00:12] client Doc Friendly Co because you should have some bounties to work with. And in this video
+[00:16] you will watch how I basically approached the whole video editing and how I decided to go with
+[00:23] every decision that I did with it. So before starting let me first of all show you the video
+[00:31] itself so you guys understand what we were doing, right? So here's the video, just watch it, I'll
+[00:37] unmute myself. Watch my dog train herself. Your dog's body is built for pulling and that back clip harness
+[00:43] is making it worse. It connects right to their strongest muscles, creating a perfect lever system
+[00:49] that lets them drag you down the street. But here's what happens when you move that clip to the front.
+[00:54] Their own pulling force works against them. Every time they try to lunge forward, the front attachment
+[01:00] redirects that energy back toward you automatically. So you're stopping their pulling without pain.
+[01:05] No training needed, just physics doing the work. The difference was immediate for my dog and over
+[01:11] 400,000 other frustrated owners. Stop battling your dog's natural strength and start redirecting it.
+[01:17] Shop the sale before it ends at dogfriendlyco.com
+[01:21] Alright, as you can see, simple but at the same time really vibey music came out.
+[01:29] Let me first of all introduce you who the F is talking right now. So, this is me, right?
+[01:39] I guess you could see me somewhere here. So this is me. My name is Kamara Dunn and I'm 21 years old.
+[01:47] Currently I'm working with Carlin Agency and in the e-com editing world I've been for the last four months.
+[01:55] What I wanted to say is the purpose of this video ad breakdown is just to show you
+[02:01] how we video editors in the community really approach the whole video editing workflow from A to Z, right?
+[02:09] And we also have some sort of agenda that we will follow, right? I'm prepared. I'm prepared guys. I'm prepared.
+[02:17] So the first thing that I will do is go through the brief, read it and interpret it and try to show you how I approach just like the brief, I would say, observation.
+[02:29] The second is how I organize, how I organize my project and structure my workflow.
+[02:36] So basically my workflow is pretty much the same as the Carlos. I guess if you watched his previous video where he broke down the video that he did previously.
+[02:49] If you remember, he went and like laid out his, what is that like approaches to the video editing, which are like arrow, voiceover, music, clips, captions, and et cetera, et cetera.
+[03:05] Well, I have almost the same stuff. The third step would be for us is just go and start video editing from this, from the zero.
+[03:14] And by zero, I mean from the brief, then we'll start like creating, generating the voiceover with 11 labs and slowly move to the video editing itself.
+[03:26] And we will do that until we will get to the point where we could just render it and send for the review.
+[03:35] This should be pretty much it for our agenda. And I would say the overall structure of my video.
+[03:41] Before starting, I would like to tell you that this is my first ever experience of like recording this type of video and recording it in English, since English is not my primary language.
+[03:53] And explanation for me was quite kind of complicated. So please bear with me and hope you understand it.
+[04:00] And if not, if you have some sort of questions, concerns, or you kind of missed something, please feel free and approach me in the, in the discord.
+[04:12] This is how I look like in the e-com talent, like under the OG tab, right?
+[04:18] Just feel free to reach me out. I would be happy to answer to all of your questions.
+[04:23] Even if I would be allowed, like share you with some materials that I'll be using here.
+[04:29] So thank you guys. And let's get to it.
+[04:33] Okay, this is our brief for this project. And yeah, please don't get me wrong.
+[04:40] I'm going to call this project because every video for me is a project.
+[04:44] Okay. As I said previously, this is our brief. And this is how it looks like.
+[04:49] The left side, the middle, and this is like the additional part with the strategic breakdown.
+[04:55] I might actually blur this part because I'm not really sure if I can show you.
+[05:02] So for me as a video editor, the main part that I need to focus on is the following.
+[05:12] The first is what kind of ad we're doing here. So which is like 9 by 16, three hooks, one hole, three total ads.
+[05:21] Clear, right? We had some sort of ideation here, which is not really useful to us.
+[05:28] Specifically not with this case, but what's really important. It's ad example.
+[05:35] Why? The ad example is going to tell us what we are required to do in terms of like maybe captions,
+[05:43] maybe the style, maybe even like rhythm or just simply pacing.
+[05:49] So this is something that I really pay attention from the beginning, even before like getting to
+[05:55] the whole brief and trying to read everything that was written by a copywriter or by anyone else.
+[06:01] The main part for me is just to understand what I am required to do. So let's watch it.
+[06:07] Use physics to stop your dog from pulling without training. Your dog's body is literally designed for
+[06:13] pulling and that back clip harness connects directly to their strongest muscles. So it's like giving them
+[06:18] a perfect lever system to drag you around. Here's the physics breakthrough. Move that clip to the front
+[06:23] and their own pulling force works against them. When they try to pull forward, the front attachment
+[06:27] automatically redirects that energy back towards you, turning their momentum into gentle guidance
+[06:32] instead of a tug of war. Plus this stretchy bungee absorbs those sudden jerks so they can't rip your
+[06:37] arm off when you're not expecting it. No training needed, just physics doing the work. The difference
+[06:41] was immediate for my dog and over 20,000 other frustrated owners. Stop battling your dog's
+[06:46] natural strength and start redirecting it. Get yours at dogfriendlyco.com.
+[06:50] Being honest, it is super simple, super dynamic in terms of the music. The whole thing that is kind of
+[06:57] dictating is music and I wouldn't say pacing because pacing it is here is artificially boosted by music
+[07:07] simply because it is some sort of a rock-ish style. It's kind of pushing the viewer to absorb information
+[07:14] faster. The fact that this video uses rock or something around rock style making this video really
+[07:22] engaging. This is like something that we need to keep our mind, right? So let's get back to brief and
+[07:32] the next steps for me is just to look through brief. I'm not really trying to read it simply because
+[07:40] it's not really necessary to me at this point but what I would like to look at is some sort of comments
+[07:46] which are in some sort of colors, right? Like pink, green, orange. And as I can see, copywriter left some
+[07:54] notes like back clip close up, slash red arrow to it to highlight it, right? For this line specifically,
+[08:01] like dramatic drag clip. Sure. Demo this mechanism. So with dogfriendly, there is one simple mechanism that
+[08:09] we're kind of trying to force in ads which is like this front bearing attachment that kind of redirects
+[08:18] the dog momentum when they're trying to pull you or something, right? I kind of understand what they're
+[08:24] talking about. And CTA like the easiest one. Okay, now since we have everything here already prepped,
+[08:32] now all we got to do is just start with editing. And for us, it starts from folder organization. Here is
+[08:39] an empty folder. I specifically created just to keep my project in here. In mail, I just created a new
+[08:48] folder, name it as the name of the patch of the brief. And the next thing that I like to do is right click
+[08:56] and pin to quick access. What this thing does, it creates a pin it folder right in this tasks bar or
+[09:06] whatever it's called, just a bar. And I need to just drag it just down here. And it's always going to be
+[09:14] here. And even if I just look around the whole my PC, and I need to get back instantly to this folder,
+[09:22] I just press it. And so in this folder, I would like to always create like two folders. Normally,
+[09:28] normally, this is like my default folder stack, I would say the first one is stock. This is where
+[09:34] I'm going to be storing all the clips that I'll find later on. And everything that could be used as a
+[09:43] stock footage, right? So the next one is voiceover. And the third, additionally, if we're going to have
+[09:52] like more than two music used in the whole app, then I could add like a music folder as well. But
+[09:59] normally, I don't add it. That is something that will help you to be additionally well-structurized,
+[10:07] which is not a bad thing. Now, all I got to do is just start with the first layer of video editing,
+[10:13] which is voiceover. And for that, I just go to 11 laps, simply because it is maybe for now, the best
+[10:24] voiceover tool. So the first thing that I do is just try to understand what kind of voice our
+[10:30] copywriter is telling us to use. And since we are required to use female voice in a generic style,
+[10:37] that's exactly what we're going to search for. Actually, I don't even need to search since I've
+[10:44] already kind of, I would say, listed out a voice that I am kind of okay to use. They are normally here.
+[10:52] And since this is generic, there is a specific voice that I like to use, which is, let me find it out.
+[10:58] This is not it. To alt. It's close, but not it. This is it. It's emotional, it's fun, yeah, it's
+[11:21] useful as it's written here. So all I am doing now is just copying the copy itself and pasting here
+[11:32] and trying to hear it if it sounds the way I would like it to sound.
+[11:37] This one change stops pulling forever. This one change stops pulling forever.
+[11:43] It's good. It's good. But let's try to one more.
+[11:46] This one change stops pulling forever.
+[11:48] This one change stops pulling forever.
+[11:51] This one change stops pulling forever.
+[11:55] I'm just downloading it. Going to the my folder, voiceover. And let's just name it, uh,
+[12:05] just h1, hook, and just d, just for the dogs. Or you could just write dogs as well.
+[12:13] Now, now for the second hook. Just copying and pasting here.
+[12:18] Watch me outsmart my dog. Watch me outsmart my dog.
+[12:23] Um, I don't really like it. I'm not really sure why, but maybe because she's saying like,
+[12:31] watch me outsmart my dog. Like, her tonation goes like this way. Like, it is downward sloping, right?
+[12:40] Watch me outsmart my dog.
+[12:43] Watch me outsmart my dog.
+[12:43] Watch me outsmart my dog.
+[12:44] Here it's more monotonic.
+[12:46] Maybe like it fluctuates a bit. But relatively it's on the one line.
+[12:54] Watch me outsmart my dog.
+[12:55] 
+[12:55] Too generic.
+[12:57] Maybe because I need to, not this one, but I need to increase style exaggeration, which stands for increasing, I would say, randomness in intonation and lowering stability, which refers to ability of the model to be less random, right?
+[13:20] More stable, just as it's written here.
+[13:23] Watch me outsmart my dog.
+[13:26] It is robotic now.
+[13:26] Maybe we'll need to decrease more stability.
+[13:32] It's better, right?
+[13:33] It has more life in it.
+[13:36] Maybe it could go even better.
+[13:42] Maybe like this.
+[13:49] One more.
+[13:51] Watch me outsmart my dog.
+[13:56] Nope.
+[14:02] That's so-so.
+[14:07] Not at all.
+[14:11] Too fast.
+[14:11] too loud
+[14:16] she's tired as well
+[14:26] maybe this will help somehow
+[14:41] I feel like we
+[15:06] we are in a rabbit hole
+[15:11] watch me outsmart my dog watch me outsmart my dog we can take this one it's not bad
+[15:24] h2 hook dogs now it's time for hook tree
+[15:36] watch my dog train himself
+[15:43] watch my dog train himself watch my dog
+[15:53] watch my dog train himself watch my dog train himself watch my dog train himself
+[16:03] watch my dog train himself this is good yeah it's emotional it has emphasis in
+[16:09] it and I just liked overall good now it's time for the whole part and since the
+[16:17] script itself is not big as we normally do because our videos on average last
+[16:23] longer than one minute and here it's gonna be less than one minute that's for
+[16:28] sure maybe around 40 45 seconds and that's why I would love to just take the
+[16:34] whole text as it is without like dividing it for several parts that's why we can
+[16:40] just copy the whole whole part and put it here now let's hear how it sounds your
+[16:46] dog's body is built for pulling and that back clip harness is making it worse it
+[16:50] connects right to their strongest muscles creating a perfect lever system that
+[16:54] lets them drag you down the street but here's what happens when you move that
+[16:58] clip to the front their own pulling force works against them every time they try to
+[17:03] lunge forward the front attachment redirects that energy back toward you
+[17:06] automatically so you're stopping their pulling without pain no training needed
+[17:11] just physics doing the work the difference was immediate for my dog and
+[17:15] over 400,000 other frustrated owners stop battling your dog's natural strength
+[17:21] and start redirecting it well it is good but it's not ideal it's not the level I
+[17:27] would love it to be right it has some flaws in it it has some wrong spelling parts for
+[17:33] example in this part since we have this punctuation it kind of messed the right
+[17:39] spelling so that's why all I gotta do here is just download it as it is and the later when
+[17:45] we move to the Premiere Pro and start editing the whole voiceover part we will
+[17:51] regenerate at the time so just hold and the easiest and the best part which is
+[17:58] ha cta I'm going to just keep it on the same line so the pronunciation works better
+[18:07] there is a certain problem that I face quite often with 11 laps
+[18:15] which is misspelling of certain words when it comes down to the domains right here we need
+[18:25] the model to spell it as dog friendly code calm I don't know why but it always keeps missing this
+[18:32] code part and in order to tackle this issue what I like to do is just go to chat GPT you can go to the
+[18:39] temporary chat mode and ask him and all you gotta do in chat GPT is just copy paste this how can I make 11 laps to spell fully
+[18:49] you can write it in brackets or in quotation marks just dog friendly code calm and specify the part that 11 laps misses in my case it is it always always misses
+[19:07] cool cool part and this should be it and it will provide you several ways to kind of tackle
+[19:17] tackle it okay I was trying to play with chat GPT and came out with this prompt it's not really prompt but just my
+[19:25] I'm trying to like approach chat GPT when with different way and and I'll go just when trying to voice over
+[19:32] the following line 11 laps is not spelling code part how can I fix that and then I just provided the whole
+[19:40] text part as in a way that I was trying and it just provided me with a different ways and one of them was
+[19:48] using phonetical spelling which was dog friendly code calm it wasn't spelled with c-o but with k-o-h which
+[19:59] actually sounds the same and let's try to see how it looks like how it sounds like in a reality shop the
+[20:05] sale before it ends at dog friendly code calm shop the sale before it ends at dog friendly code calm
+[20:11] you see it is working that's the way how we can tackle the issue I'm not saying that I know how we
+[20:18] can tackle the 11 laps issues but chat GPT could be really helpful in this way because AI knows more
+[20:25] this all this technical parts so just saving it as a cta and we're all done for voiceover okay I turned
+[20:35] off my camera just so you guys could see everything on the workspace that I'm going to have here and
+[20:42] since we already created everything with voiceover now we need to edit and polish it so for that reason
+[20:49] we're going to Premiere Pro in my case it's Premiere Pro and create just couple folders the first one I
+[20:55] like to create a sequence this is where I'm going to be keeping and having every every like sequences with
+[21:02] hook one hook two and hook three and normally I like to create sequence just normal sequence yes
+[21:11] and call it h1 this is for the hook one version it's the one that I like to start with and then
+[21:17] I like to do is just drag and drop the voiceover folder where we have all the things that we generated
+[21:24] with 11 laps since we're doing the h1 version we're taking h1 hook dogs voiceover and dropping here after
+[21:33] that the hold and cta so before trying to do the edits itself I just wanted to give you some heads up
+[21:41] on what kind of shortcuts I'll be using so you guys won't miss it like in terms of what I did or what I'm
+[21:48] going to do so normally if you see that there's something that is going on like this I just press
+[21:56] D so I'm just deleting it right I'm just pressing D and deleting it so yeah I'm deleting like this empty
+[22:03] spaces in between as well as here and this should be it also the next thing that I like to do the like
+[22:12] that I like to use is a button C which stands for razor 2 which allows me to just create some cuts in the
+[22:22] sequences right so the next thing I like to do is use a keyboard of a and that allows me to drag everything
+[22:29] that is allocated on the right side of the timeline for example if I have like a couple cuts here and I
+[22:40] need to like I need to somehow change the placement of everything on the right I wouldn't go and like
+[22:50] select everything manually what I like to do is just press a which allows me to select the tool that's
+[22:58] called track select forward press this which selects everything on the right and if I want to select
+[23:06] everything on the left for example this part again I won't go and just like select all of them like
+[23:13] this but but I'm gonna just hold shift and then press a that's it it does the same but it goes in a
+[23:24] backward way as you can see the shortcut for this one is shift plus a so here we go so this was like a
+[23:35] small introduction on what I will be using in terms of the shortcuts so you guys understand what the
+[23:41] hell is going on on your view all right here's our voiceover and the first thing I'd like to do is is
+[23:48] check what kind of volume we are working with and by volume I mean the way how loud our voiceover sounds
+[23:55] for that reason I'll be using this panel it specifically tells me what is the level of the sound here
+[24:02] so let's hear it this one change stops pulling forever so just based on the hook part I can tell
+[24:09] that it ranges from minus 15 to minus 21 this one change stops pulling forever yeah just right here
+[24:16] this is not really good especially knowing that people would be hearing and would be watching our ad
+[24:22] on their phones which does not really um which does not really like delivers everything out loud
+[24:31] especially people who are on facebook instagram and etc and without headphones that's why they would
+[24:38] not able to hear everything right away that's why we need to make sure that the volume is on point
+[24:45] and for me as a rule of thumb I like to keep the volume between minus three and minus six this is
+[24:53] specifically for the a roll part and by a roll I mean voiceover itself so everything besides that such
+[25:00] as music sfx and everything else could be lower so in order to make this voiceover be around a minus three
+[25:08] and minus six I need to add the just difference between what is right now and what I needed just
+[25:16] a little of mass here so if it's around minus 15 minus 21 all I need is just to add 11 and it will be
+[25:26] around minus 10 so that's exactly what I'm going to do just 11 now let's see this one change stops
+[25:33] pulling forever your dog's body is built for pulling and that back clip harness is making it worse
+[25:38] as you can see it's now making it minus 11 this one change stops pulling forever your dog's body is
+[25:44] built for pulling and that back clip harness is making it worse it connects right to their strongest
+[25:49] muscles creating a perfect lever system that lets them drag you down the street well I wouldn't say
+[25:56] that the volume should be always in between of minus three and minus six it sometimes can go a bit
+[26:03] lower to minus nine but as I said previously just as a rule of thumb try to keep it in between of minus
+[26:11] three and minus six so this one change stops pulling forever your dog's body is built in order to make it
+[26:19] even more perfect I would say just go and make the whole voice over like 12 right yeah to volume 12 decibels
+[26:28] and it should be just write what we need here this one change stops pulling forever well still hook part
+[26:38] fluctuates around minus 10 mark this one change stops pulling forever in order to fix that all I'm going
+[26:45] to do is just increase it to 15 which is going to make it way loud but but just hear it just but let's try to
+[26:54] listen this one change stops pulling forever you see it goes like straight to zero which is not good for
+[27:01] us so let's keep it maybe at around 13 this one change stops pulling forever and this high bars by high
+[27:12] bars I mean this and this we're going to make them we're going to just adjust them volume wise and to do
+[27:19] that all I like to do is just create marks just right here and in order to do that you have to hold
+[27:27] control and that creates this you see like plus mark on your cursor that allows you to create this I
+[27:36] would say what is what is our keyframes yeah this is our keyframes and by doing so I can just drag it
+[27:42] down here and hence adjust the volume just right around this waveform one change stops pulling this one
+[27:52] change stops pulling forever forever forever yeah we can do the same stuff here of course it's not
+[27:59] necessary just based on the bars just based on the volume here link forever pulling forever yeah we can
+[28:06] keep it your dog's body is built for now the next step for me is to delete all pauses well this may not
+[28:15] sound a bit logical to you since later on I will be adding this pauses artificially but this is the way
+[28:24] how I like to approach it I will just go to the text panel transcript then press this I don't know like
+[28:31] what is that a filter a filter icon which shows me like couple shits and I press the pauses I go here
+[28:41] delete and then here delete all it now automatically reboots all the pauses now we can see some cuts that
+[28:50] are appeared here by the by the premiere pro itself so it was previously like this without cards and with
+[28:58] cards it looks like this good now the third step for me is just to go one by one in terms of the lines
+[29:08] and like words here and try to make sure that the script here sounds naturally by natural I mean like
+[29:16] a couple criteria the first one is pause the second one is intonation and the third one I would say
+[29:22] something that's kind of neglected it's like a natural sounds of speaking people and by that I mean inhales and exhales
+[29:32] sometimes I always tend to inhale and I need to make sure that they are on point and they're not like
+[29:40] messing with the whole vibe I would say so let's hear it
+[29:44] this one change stops pulling forever your dog's body is built for pulling yep you may not notice it
+[29:52] but the pause in between hook one part and the beginning of hold too too quick so this one change
+[30:01] stops pulling forever this one change stops pulling forever your dog's body in this part if we just leave
+[30:08] it like this people who will be watching this will not be able to digest the hook part efficiently in order
+[30:17] to understand what the video is going to be about that's why what I like to do is just again like uh select
+[30:26] the tool of which is called track select forward and drag it a little bit forward
+[30:34] it's pulling forever now let's hear how it sounds in this one change stops pulling forever
+[30:47] this one change stops pulling forever your dog now the pause is a bit too long
+[30:54] and in order to adjust it all like all I gotta do is just um just remove the half of it the half of the
+[31:02] pause stops pulling forever your dog's body is this one change stops pulling forever your dog's body
+[31:09] yep that's exactly what I need let's hear the rest your dog's body is built for pulling and that back
+[31:16] clip harness is your dog's body is built for pulling
+[31:22] again your dog's body is built for pulling
+[31:24] again we have a pause here just this part I like the overall like the existence of the pause here but
+[31:35] it's a bit too too too long all I need to do is just remove it the half of it just half
+[31:44] now let's hear how it sounds now is built for pulling and that back clip for pulling
+[31:49] there's something yeah like this dog's body is built for pulling and that back
+[31:57] maybe a bit more of the pause here
+[32:00] pulling and that back clip your dog's body is built for pulling and that back clip harness is making
+[32:06] it worse it can yeah it sounds good and that back clip harness is making it worse it connects right to the
+[32:14] it's making it worse I don't like the inhale sound here which is this one and in order to remove it
+[32:26] but keeping the pause all I gotta do is just create a cut where I need it and remove the part which is
+[32:36] additional which is not like necessary to us and then all I gotta do is just drag this stuff which allows
+[32:45] to create a smooth uh a smooth introduction to this part to this part of the audio and drag the here as
+[32:56] well which allows me to create a smooth fade out of the audio of this part it connects it can verse it
+[33:06] let's hear how it sounds in a bigger picture and that back clip harness is making it worse it connects
+[33:12] right to the verse it connects right to the yeah that's exactly what I need first it connects right
+[33:19] to their strongest muscles creating a again inhale sounds but overall sounds not bad it's right to their
+[33:28] strongest muscles creating a but no I don't like it by the way sometimes you won't be able to cut a
+[33:38] specific point that you would like to for example here I want to cut right in between these two frames
+[33:44] but unfortunately premiere pro right now allowing me to do just this one but I want to create a cut
+[33:51] right in between and in order to do that I go here and press show audio time units which allows me now to
+[33:59] see uh not to see but like allows me to make more adjustable and more precise cuts like this if it
+[34:08] previously was just like this right now once I turn on show audio time units I'm able to cut more precisely
+[34:22] and here as well I'm going to do the same stuff I can then turn it off sometimes it's not really useful
+[34:28] especially in the beginning so souls
+[34:32] so souls creating a sounds not bad here huh but all I gotta do here is just create a cut
+[34:47] I need a pause here still but it shouldn't be that why is it not working
+[35:02] this should be good now let's just hear it again how it starts from the beginning just to make sure
+[35:23] that overall vibe and feel of voiceover is natural right this one change stops pulling forever your
+[35:31] dog's body is built for pulling and that back clip harness is making it worse it connects right to
+[35:36] their strongest muscles creating a perfect lever system that lets them drag you down the street
+[35:41] but here's what yep it's good no working on but here's what happens part
+[35:49] drag you down the street the pause here is good but it's quite long so i just need to remove the half of it
+[35:57] drag you down the street but here's what happens when you move that clip to the front
+[36:02] click to the front all right this whole section of uh this one is not really good why because first
+[36:11] there's a pause in between which is here when you when you this inhale sound and the second one that
+[36:17] i don't like is how it ends like just here clip to the front like front that's not what i need
+[36:25] and that specifically happened because of this mark or just character or whatever it's called so all i
+[36:33] gotta do is just go here and remove it and all you gotta do now is just place a dot here that should be
+[36:43] enough but here's what happens when you move that clip to the front their own pulling force
+[36:50] it's kind of fast
+[37:15] but here's what happens when you move that clip to the front
+[37:18] their own pulling force works against them i like it especially the first part and all i gotta
+[37:24] do is just name it as it is now i'm going back to premiere pro
+[37:36] i always like to use media brother instead of just going to the folder going to the one that you need
+[37:42] and then drag them from this board right i don't really like it i like to do everything
+[37:47] on the same view which i'm working so that's why it's always useful to use media brother so here's
+[37:54] the voiceover part and here's what we need but here's what happens when you move that clip to the front
+[38:02] street but here's what happens when you move that clip to the front
+[38:07] all we're going to do is you've removed the previous part insert the new one and in order to
+[38:13] in order to make it quicker in terms of adjusting this new one because it's kind of raw right now
+[38:20] all i'm going to do is just copy the part that is kind of was adjusted previously and right click past
+[38:30] attributes and just select everything that was here in the audio attribute side of things and press ok now
+[38:37] it has the same volume the same effects if we added some so it makes your life way easier let's remove
+[38:45] the pause here and see add you down the street but here's what happens when you move that clip to the
+[38:49] front i need a little bit of pause here just a little bit on the street but here's what happens when
+[38:57] you move that clip to the front sounds good now removing this empty space and removing this a little
+[39:04] bit of the pause here move that clip to the front their own pulling force works against them you move
+[39:10] that clip to the front nope that was was actually necessary here clip to the front their own pulling force
+[39:18] works against them every time they good against them but i don't like this inhale sound so it's better
+[39:27] just to create the smooth fade out transition works against them every time they try to
+[39:35] maybe we could remove this pose works against them every time they try nope that was was actually on point
+[39:42] there's it's going to be fitch that we...
+[39:48] all right
+[39:49] what's up was on point
+[39:51] so we're going to see is that we're going to see that we're going to see that we're going to see that
+[39:53] we're going to see that we're going to see that we're going to see that we're going to see that
+[39:55] we're going to see that we're going to see that we're going to see that we're going to see that
+[39:57] we're going to see that we're going to see that we're going to see that we're going to see that
+[39:59] we're going to see that we're going to see that we're going to see that we're going to see that we're going to see that
+[40:01] Good.
+[40:02] It sounds good here, but...
+[40:18] Okay, I like how it sounds here.
+[40:23] So this part as a whole, it's good, but I don't like specifically this part.
+[40:40] It has no pause in here, which is kind of strange, and that's why it's making it sound strange.
+[40:46] That's why we need to regenerate it.
+[40:48] I wouldn't say that it's a must-have, but this is the way how I like to go with.
+[40:55] Every time they lunge forward, the front attachment redirects that energy back towards you automatically.
+[41:01] Every time they try to lunge forward, the front attachment redirects that energy back towards you automatically.
+[41:09] Cool.
+[41:11] Just name it as it is.
+[41:15] Remove it.
+[41:17] Remove the previous one.
+[41:19] Insert the new one.
+[41:21] Copy and paste the attributes of existing to the new.
+[41:27] And we should be good to go.
+[41:30] Insert the attributes of existing to the new one.
+[41:39] Insert the attributes of existing to the new one.
+[41:45] Now we need to adjust this inhale part.
+[41:48] course I'm not going to be just removing as a whole because we need that pause it
+[41:52] is creating but we're going to just create a smooth spheta from it so I
+[41:58] don't hear the inhale sound at all. We need a little bit more pause.
+[42:06] A little bit of the pause here. Good. Now all we're going to do
+[42:18] here is remove this pause that was left previously and I guess this is just a
+[42:27] part of inhale sound just right here. Yep all I gotta do I guess is
+[42:33] just remove it and this pause could be played well here but let's try it.
+[42:41] I actually don't really like how it sounds just here specifically this part so you're stopping there
+[42:55] just stopping them what the fuck.
+[42:59] So you're stopping there pulling without pain. So you're stopping pulling so you're stopping
+[43:06] there pulling without pain yeah this whole part is not the way how I need it specifically this so
+[43:12] word because there is like there is a small pause but I want to be really smooth and to sound something
+[43:22] like so you're stopping there pulling without pain without just so you're stopping there pulling
+[43:27] without pain. So for that reason we're going to 11 laps again and regenerating the part.
+[43:35] And the best way to do it in my opinion is just to make sure the first letter is in a small caps and let's see.
+[43:44] So you're stopping there pulling without pain. So you're stopping there pulling without pain.
+[43:52] I guess I need to increase the speed just to one. So you're stopping there pulling without pain.
+[43:59] Yeah that's not bad I could definitely use this one so again we're gonna just save it as it is just as the script itself.
+[44:06] So you're stopping there pulling without pain.
+[44:10] And remove the previous way how it sounded. So you're stopping there pulling without pain.
+[44:18] Just drag and drop. Copy the style. Paste it. And we should be good to go.
+[44:26] Maybe we don't need this pause just to make it even smoother.
+[44:38] Automatically. So you're stopping there pulling without pain.
+[44:42] As well as here the pause is a bit unnecessary.
+[44:45] Pulling without pain. No training needed.
+[44:47] Well not much. Maybe just a little of it could be left here.
+[44:53] Energy.
+[44:54] Energy.
+[44:54] Energy.
+[44:55] Energy.
+[44:56] Energy.
+[44:56] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:57] Energy.
+[44:58] Energy.
+[44:58] Energy.
+[44:58] Energy.
+[44:58] Energy.
+[44:58] Energy.
+[44:59] Energy.
+[44:59] Energy.
+[44:59] Energy.
+[45:00] Energy.
+[45:00] Energy.
+[45:00] Energy.
+[45:00] Energy.
+[45:00] Energy.
+[45:00] Dr.
+[45:01] Red.
+[45:01] 
+[45:01] Can you say?
+[45:01] Let's go.
+[45:01] Here.
+[45:02] Let's go.
+[45:02] Let's go.
+[45:02] Let's go.
+[45:02] Let's go.
+[45:03] Let's go.
+[45:03] Let's go.
+[45:04] Let's go.
+[45:04] Let's go.
+[45:04] Let's go.
+[45:04] Let's go.
+[45:04] Let's go.
+[45:04] Let's go.
+[45:05] Let's go.
+[45:05] Let's go.
+[45:05] Let's go.
+[45:06] Let's go.
+[45:06] You are.
+[45:25] is for now. Maybe we could even add this to fade-ins and fade-outs just to make
+[45:32] sure it's smooth. I'm gonna repeat myself by saying like smooth, smooth but this is
+[45:38] what I'm trying to do here.
+[45:40] The front attachment redirects that energy back towards you
+[45:44] automatically so you're stopping their pulling without pain. Yep this is exactly
+[45:48] what I wanted. No training needed just physically. Here the pose is good but the
+[45:54] bit too long so we could just cut the half of it. Make sure that the transition
+[46:01] here is not rough. We could create this transition by just holding the right side
+[46:07] of the audio and shifting it to the left and it will create automatically this
+[46:13] stuff. By the way I'm using Adobe Premiere Pro 2025. I know that these features are
+[46:22] not available on previous versions such as like 2023, 2024 but I might be wrong
+[46:29] about 2024. I'm just saying this to make sure that you guys understand or like do
+[46:35] not wonder asking where like what the fuck I got this features.
+[46:41] So for this part it sounds really good and I don't need to touch it anymore so let's
+[46:53] hear the rest.
+[46:54] Yeah it actually sounds good here. Now I'm going to do this here. It's just an additional
+[47:07] pose just right before the CTA.
+[47:11] And I guess this is an inhale sound and all I got to do here as well is just to create this fade out transition.
+[47:29] And make sure it covers this inhale sound so it won't appear in the final result.
+[47:40] And start redirecting it. Shop the sail before redirecting it.
+[47:44] I guess just a bit more of a pause won't make a big deal. Just something like this. Oh.
+[47:51] And making sure that this inhale sound is not sounded I guess.
+[48:00] Redirecting it. Shop the sail before it ends. Stop battling your dog's natural strength and start redirecting it.
+[48:06] Shop the sail before it ends.
+[48:08] Nope we need more pose here.
+[48:10] Because sometimes you need to make sure that the pause is big enough between the hold part and the CTA.
+[48:17] Just a person I mean the viewer understands that the video is kind of like completed.
+[48:25] And now this is your call to take the action.
+[48:28] So this pose exactly like it dictates uh like I would say the narration of the story.
+[48:38] Directing it. Shop the sail before it ends.
+[48:40] Natural strength and start redirecting it. Shop the sail before it ends.
+[48:44] Yep. But I feel like this is now a bit too big.
+[48:47] Start redirecting it. Shop the sail before it ends at dogfriendlyco.com.
+[48:54] Yep. Sounds good.
+[48:57] Now let's just check it from the beginning.
+[49:01] And the best way to do it by simply like let me turn on my camera just so you guys understand what I mean here.
+[49:08] One of the best ways to do the checking is by simply turning your head to somewhere around or just not looking at your timeline.
+[49:18] Because this I would say approach would help you to remove your own biasness to your own work.
+[49:25] You just want to make sure that when you hear the whole voiceover you need to make sure that first of all it sounds organic.
+[49:32] It sounds natural and it sounds like consistent in terms of the intonation like pronunciation etc etc.
+[49:40] So this is like our goal for now.
+[49:43] I hope I made it clear by simple like by simply explaining to you.
+[49:48] But if not my bad guys my bad.
+[49:51] So I'm turning my camera off again.
+[49:55] Now I'm just going back to the beginning of the timeline and like trying to release in it again.
+[50:01] This is our goal.
+[50:02] And as I said previously all I'm going to do here is just turn around or just look down or try not to look at this island at all.
+[50:10] Just so you guys could see how I'm going to approach it.
+[50:12] I'm going to put myself here.
+[50:15] This one change stops pulling forever.
+[50:17] Your dog's body is built for pulling and that back clip harness is making it worse.
+[50:22] It connects right to their strongest muscles creating a perfect lever system that lets them drag you down the street.
+[50:27] But here's what happens when you move that clip to the front.
+[50:30] Their own pulling force works against them.
+[50:33] Every time they try to lunge forward the front attachment redirects that energy back towards you automatically.
+[50:38] So you're stopping their pulling without pain.
+[50:41] No training needed.
+[50:45] Not sure about this part.
+[50:46] Let's hear it again.
+[50:48] A lunge forward.
+[50:50] The front attachment redirects that energy back towards you automatically.
+[50:53] So you're stopping their pulling without pain.
+[50:56] No training needed.
+[50:57] Just physics doing the work.
+[50:58] The difference was immediate for my dog and over 400,000.
+[51:04] For my dog and over.
+[51:06] This inhale sound is a bit too long here.
+[51:09] So we could just, I would say, shorten it.
+[51:14] Create this fade in and fade out stuff.
+[51:21] And hopefully it sounds way better now.
+[51:23] Doing the work.
+[51:24] The difference was immediate for my dog and over 400,000 other frustrated owners.
+[51:31] Stop battling your dog's natural strength and start redirecting it.
+[51:34] Shop the sale before it ends at dogfriendlyco.com.
+[51:37] I like it overall, but I would like to just make sure it's good enough.
+[51:42] So let's double check it.
+[51:43] And sometimes it's better just to, I don't know, create additional pause here just in between.
+[51:49] And let it go from this, from the emptiness to the, to the real voice over.
+[51:53] So you are ready, actually.
+[52:00] This one change stops pulling forever.
+[52:02] Your dog's body is built for pulling.
+[52:04] And that back clip harness is making it worse.
+[52:06] It connects right to their strongest muscles, creating a perfect lever system that lets them drag you down the street.
+[52:12] But here's what happens when you move that clip to the front.
+[52:14] Their own pulling force works against them.
+[52:17] Every time they try to lunge forward, the front attachment redirects that energy back towards you automatically.
+[52:23] So you're stopping their pulling without pain.
+[52:25] No training needed, just physics doing the work.
+[52:28] The difference was immediate for my dog and over 400,000 other frustrated owners.
+[52:33] Stop battling your dog's natural strength and start redirecting it.
+[52:36] Shop the sale before it ends at dogfriendlyco.com.
+[52:40] I like it.
+[52:41] And now we're going to just do this.
+[52:43] Now, since the next step for us is to make sure that the overall volume of the voiceover is around
+[52:51] the one that I mentioned previously, which is around minus three and minus six.
+[52:55] And the best way to do that is by simply ignoring what has been said and simply focusing on this bar.
+[53:02] Just to make sure it's first of all, it's not too loud and not too like, I would say low in terms of the volume.
+[53:10] This one change stops pulling forever.
+[53:12] Your dog's body is built for pulling and that back clip harness is making it worse.
+[53:16] So this part is just based on the overall look of this waveform.
+[53:23] I mean, this one, right?
+[53:26] It's kind of low.
+[53:27] So like here, as you could see, it's kind of loud enough.
+[53:31] Not like loud, loud, but like we can hear it well.
+[53:34] But here it's kind of low just according to the waveforms itself.
+[53:38] So the best way to do it is just simply understand where we need to like increase the voice.
+[53:47] So it's right here, right?
+[53:50] Just this part.
+[53:52] And simply drag it to the maximum.
+[53:55] Yeah, that's here.
+[53:56] And that back clip harness is making it worse.
+[53:59] It connects right to their strongest muscles, creating a perfect lever system that lets them drag.
+[54:04] Yeah, sure.
+[54:05] Now let's see the other parts.
+[54:08] Muscles, creating a perfect lever system that lets them drag you down the street.
+[54:12] But here's what happens when you move that clip to the front.
+[54:15] Oh.
+[54:16] Drag you down the street.
+[54:17] But here's what happens.
+[54:19] So this, I would say, highs in the waveform.
+[54:24] I'm going to mess with us in the future.
+[54:27] Not in the future, but like shortly.
+[54:31] Because I feel like we need to increase this part a bit more.
+[54:34] You down the street.
+[54:36] But here's what happens when you move that clip to the front.
+[54:39] Now you see, it's kind of like overreaching the minus three mark, the negative three decibels.
+[54:46] And that's why we need to make sure that these parts are not messing with the experience of the viewer
+[54:52] when they will be watching this video.
+[54:54] So the best way is to do just create this type of keyframes.
+[54:58] And they're going to just make us a favor by simply adjusting these high bars.
+[55:11] Yep, we can actually like hold the control keyboard.
+[55:16] So I'm going to press this keyboard.
+[55:18] And press this keyframe.
+[55:21] And it's going to make it easy in and easy out.
+[55:24] You see like it's more smoother.
+[55:26] Like it has, I would say, a U shape here.
+[55:31] Compared to this one, which is like some sort of a triangle style.
+[55:37] While this is kind of like a slopped version.
+[55:43] So the same stuff here.
+[55:44] Just creating like three keyframes.
+[55:48] Dragging the middle one.
+[55:50] Just to make sure it's matched with the overall volume.
+[55:56] Height with the overall volume height.
+[55:59] And it should be good to go.
+[56:00] Again, we could just hold control.
+[56:03] Press it here and it's going to make it even more smoother.
+[56:07] Let's hear how it sounds now.
+[56:09] But here's what happens when you move that clip to the front.
+[56:11] Yep, it's adjusted and now it's good to go.
+[56:15] Let's hear the rest.
+[56:19] We can just increase it a little bit.
+[56:23] Yeah, like 13.46 should be good to go.
+[56:26] Their own pulling force works against them.
+[56:29] Good, good.
+[56:31] Every time they try to lunge forward,
+[56:33] the front attachment redirects that energy back towards you automatically.
+[56:38] This automatically part is kind of a bit too loud.
+[56:41] Back towards you automatically.
+[56:43] Yep.
+[56:44] So let's adjust it as we did it previously.
+[56:47] And we should be good to go for this part.
+[56:52] Yeah, something like this.
+[56:53] Then hold control.
+[56:55] Press it and it should be adjusted even better.
+[56:58] Let's see.
+[56:59] Or do automatically.
+[57:00] So you're stopping their pulling without.
+[57:03] Wait a minute.
+[57:04] So you're stopping their pulling without pain.
+[57:07] So this part is in a lower range of volume bar.
+[57:13] And by lower range I mean like from minus six till minus 12.
+[57:17] And I need it around to be from minus three to till minus six.
+[57:22] And sometimes I allow it to be in minus nine.
+[57:26] Just to make sure that the voice is not like monotonous and intonation.
+[57:31] Right.
+[57:31] So you're stopping their pulling without pain.
+[57:36] If it's reaching like minus 12 or minus 15, this is our sign to like increase the sound,
+[57:41] increase the volume.
+[57:42] So what we gotta do is just increase it as much as possible.
+[57:48] So you're stopping their pulling without pain.
+[57:50] Yeah, it's better now.
+[57:51] But we're just gonna adjust some of the parts.
+[57:56] For example, this one.
+[57:58] So you're stopping their pulling without pain.
+[58:02] So you're stopping their pulling without pain.
+[58:06] I would say this is should be adjusted as well.
+[58:12] So you're stopping their pulling without pain.
+[58:18] No training needed.
+[58:19] Just physics doing the work.
+[58:21] The difference was immediate.
+[58:23] Yeah, this is good.
+[58:24] Doing the work.
+[58:26] The difference was immediate for my dog and for my dog.
+[58:32] I guess this for my dog could be adjusted even better.
+[58:35] Immediate for my dog.
+[58:37] Nope, not that much.
+[58:39] Just a little bit.
+[58:41] Yep.
+[58:41] And immediate for my dog and over 400,000 other frustrated owners.
+[58:47] Stop battling your dog's natural strength and start redirecting it.
+[58:50] Shop the sale.
+[58:52] Shop the sale.
+[58:54] The shop is kind of too loud.
+[58:57] So let's adjust it.
+[59:00] So it sounds better.
+[59:01] Shop the sale before it ends at dogfriendlyco.com.
+[59:04] Good.
+[59:06] Now let's make a third check by doing in the same way.
+[59:13] Maybe like turning around or like by simply not looking at your timeline and simply focusing on your volume.
+[59:22] This one change stops pulling forever.
+[59:24] Your dog's body is built for pulling and that back clip harness is making it worse.
+[59:29] It connects right to their strongest muscles, creating a perfect lever system that lets them drag you down the street.
+[59:34] But here's what happens when you move that clip to the front.
+[59:37] Their own pulling force works against them.
+[59:40] Every time they try to lunge forward, the front attachment redirects that energy back towards you automatically.
+[59:45] So you're stopping their pulling without pain.
+[59:47] No training need.
+[59:49] So this part is a bit loud I feel like.
+[59:53] You automatically.
+[59:54] So you're stopping their pulling without pain.
+[59:56] Yeah, just a bit too much.
+[60:00] Wait, so you're stopping their pulling without pain.
+[60:04] Well, let's leave it as it is.
+[60:09] Maybe it would be adjusted when we add our music.
+[60:13] So let's hear the rest.
+[60:14] No training needed, just physics doing the work.
+[60:17] The difference was immediate for my dog and over 400,000 other frustrated owners.
+[60:22] Stop battling your dog's natural strength and start redirecting it.
+[60:26] Shop the sale before it ends at dogfriendlyco.com
+[60:29] All right.
+[60:30] I feel like we're done with voiceover.
+[60:32] Now it's time to music.
+[60:35] And by music, I mean music selection.

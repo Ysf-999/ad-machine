@@ -1,0 +1,318 @@
+[00:00] Hey guys, Amber here.
+[00:06] I'm just going to do a quick walkthrough on how to do the whiteboard style videos.
+[00:09] I'm going to quickly go over this document, but then I'll show you behind the scenes how
+[00:12] you can actually generate this yourself.
+[00:14] I showered twice before one date and then canceled anyway.
+[00:17] Not because I didn't like him.
+[00:18] I really liked him.
+[00:19] That was the problem.
+[00:20] Something felt off down there and I was terrified that the closer he got, the sooner he'd notice.
+[00:23] So I became the cleanest woman alive.
+[00:26] Morning shower, pre-date shower, emergency shower.
+[00:28] I feel better for five minutes, then start worrying all over again.
+[00:31] So let's go ahead and dive right in.
+[00:33] So before you get started, what you need is going to be a script.
+[00:37] You're also going to want to download the whiteboard skill.
+[00:39] We can probably put it below this video, or if you are going inside of the training, inside
+[00:43] of WAP, just click on skills and you'll see one that's called animation skills.
+[00:47] Click on that one and then click on whiteboard and you'll have the zip file right here that
+[00:52] you can download.
+[00:54] And you want to save that to your computer.
+[00:57] The next thing that you're going to want to do is, like I said, upload that to your
+[01:02] quad.
+[01:03] We could probably have a separate video for training if you're not sure how to do that.
+[01:06] The next thing you're going to do is you need something for voiceover generation.
+[01:09] I like to use 11 labs or something similar.
+[01:12] Image generation.
+[01:12] You're going to need, I like to use ChatGPT image 2.
+[01:16] It's whatever's in ChatGPT.
+[01:17] Or if you're using key, it's the ChatGPT image 2.
+[01:21] Or you can use, if you're using like Google flow and you just want to keep it all inside
+[01:24] of Google flow, you can use the Nano banana in there.
+[01:26] You're also going to want a clean product reference image if you're doing a physical product.
+[01:31] Video generation, CDANCE 2.0 so far has given the best output.
+[01:34] It is a little bit more pricey.
+[01:37] The original video that I did, I actually did create it in Google Omni.
+[01:42] It's not going to look as good.
+[01:44] You can tell it will be AI generated and you might have to do more generations of it, but
+[01:48] it's a more cost effective thing if all you have access to is like a Google flow.
+[01:51] And then of course, CapCut or whatever you want to use for editing.
+[01:54] This is kind of the workflow here.
+[01:56] First we are going to generate the script.
+[01:59] Then you want to generate the voiceover.
+[02:01] I like to do the voiceover first because it helps me visualize, like imagine, and you
+[02:05] also will be able to hear about how long the video will be.
+[02:09] Then you're going to generate your reference image of what you want the actual whiteboard
+[02:12] style to look like.
+[02:13] The aesthetic, the layout for the scenes is going to be like their start frame.
+[02:17] And then you want to generate, it says generate start frames.
+[02:20] It should be in frame actually.
+[02:21] I need to update that.
+[02:22] But you want to generate the individual end frames, like, and I'll show you how all this
+[02:25] works.
+[02:26] And then you want to generate the videos again using CDANCE or Google Omni, and then you
+[02:30] want to assemble it all into CapCut.
+[02:32] Now there are some post editing tips and I can kind of show you this as well.
+[02:36] I like, there's things that you can do for speed, for retention using speed ramps to speed
+[02:40] up the actual image itself.
+[02:42] And then if the video feels slow, you can go back and, you know, go back into Claude and
+[02:46] ask it to help like put in this instance and generate more scenes to fill out the gap.
+[02:49] But don't worry about any gaps right now.
+[02:51] Just get the video done first.
+[02:53] So let's go ahead and hop right in.
+[02:55] So, if you click over here on this Google Doc, I've got a sample script that has been generated.
+[03:01] And it's for this product, URO.
+[03:03] I should have already had it pulled up.
+[03:05] URO vaginal probiotic.
+[03:09] And so you can go there and get whatever image you need for the product.
+[03:13] I'm not going to walk through how to do that on the video.
+[03:15] Hopefully you can figure that part out.
+[03:16] If not, just post in the group and we'll be more than happy to share.
+[03:19] So we've got that.
+[03:20] And then I'm going to just come over here to 11 labs and I've got a voice that I like.
+[03:24] So I'm just going to, let's see, copy, go to 11 labs, paste it here, go ahead and generate
+[03:31] that.
+[03:32] I'm going to pause this video so it's not super long.
+[03:33] Let me go ahead and generate.
+[03:34] Okay.
+[03:35] So I've got my audio generated and I've uploaded it into CapCut.
+[03:38] It ended up being about a minute and 40 seconds, but I speed ramped it up.
+[03:41] So I got it down to about a minute and 10 seconds.
+[03:43] All right.
+[03:44] So the next thing I'm going to do is you're going to take this script.
+[03:47] We're going to copy and once you, cause I've got the skill already uploaded here, um, inside
+[03:52] of, you know, whatever tool you're using, whether you're using quad or, uh, uh, chat
+[03:57] GPT, I'm just going to use chat GPT cause it was already here, but you put in something
+[04:00] like this, use the whiteboard skill to help me turn this script and two prompts so that
+[04:03] I can create a whiteboard style video.
+[04:04] The prompt that we're going to be using is for, and I give it the product name, uh, there.
+[04:09] And then I just, uh, oops, there we go.
+[04:12] And then I just paste it the, um, I just paste the script there and, uh, just hit enter.
+[04:17] Now I've already done this before actually.
+[04:20] So I'm going to just kind of show you what you're going to get.
+[04:22] The output is going to be something, hold on a second, like this.
+[04:27] Hold on a second guys.
+[04:30] So the output you're going to be is something like this.
+[04:32] It might give you an actual full brief.
+[04:34] Um, if you want, it'll give you the full brief.
+[04:37] It'll kind of give you the breakdown and it'll show you like what actually is happening.
+[04:41] So you can kind of preview that there and it'll give you a walkthrough.
+[04:47] So then I said, okay, help me generate the prompts, uh, starting with the initial prompt
+[04:51] for the reference.
+[04:52] So this is the actual, uh, initial whiteboard reference prompt.
+[04:54] It's copy and paste.
+[04:56] Um, and then these are going to be now said, Hey, can you go ahead and give me the prompts
+[05:01] for the rest of it?
+[05:03] So you'll get this and you can export this into a Google doc, or you can just copy and paste.
+[05:07] And what you're going to get when you render these images is what you get is, um, hold
+[05:15] on a second.
+[05:16] Okay.
+[05:17] And so after I've already generated these images just to keep, you know, time of this
+[05:21] video super short.
+[05:22] So this, you'll get a start image like this.
+[05:24] You can, you know, edit or prompts or adjust it however you'd like, but this is the one
+[05:28] that I have for this one.
+[05:29] And then what you're going to do is take each of those individual prompts and generate each
+[05:33] of the end screens, right?
+[05:35] So these are some examples of each of the end screens.
+[05:37] Okay.
+[05:39] So now when you generate the video, you're going to use this start frame as each start frame,
+[05:44] and then each different prompt will have a different end frame.
+[05:47] So start frame and frame.
+[05:49] Okay.
+[05:52] And so you can do that in whatever tool you'd like to use.
+[05:54] Um, like I said, if you can get access to C dance, let me actually show you the difference
+[05:58] between, um, I'm going to actually show you the difference between the output with VO and
+[06:03] with C dance.
+[06:04] So this is two showers today and then, well, I had to cancel my date.
+[06:08] Okay.
+[06:09] So that's the output with VO.
+[06:11] It looks horrible actually.
+[06:13] Um, and then I copied and pasted that exact same prompt.
+[06:19] And that's how it looks like with C dance.
+[06:21] Um, uh, so like I said, use whichever tool that you like, if you're using Hitchfield or
+[06:26] if you're using key or, um, the, the biggest thing is to copy and paste the prompts.
+[06:30] Um, here, my start frame you'll see was the blank.
+[06:33] And then the end frame is, you know, that other end frame.
+[06:37] And so for prompt number two, start frame, and then the end, plug in the end frame for that.
+[06:41] And so you want to do that for each step of the way.
+[06:44] And so I'm going to go ahead and generate the rest of these and I'll circle back to you guys.
+[06:48] Okay.
+[06:49] So I've got the first few videos rendered.
+[06:52] So I'm going to go here and I'm just going to select these and I'm just going to drag it
+[06:57] here inside of cap cut and it should drag them in order.
+[07:01] Let's see.
+[07:02] I showered twice before one date and then canceled anyway.
+[07:04] Not because I didn't like him.
+[07:05] I really.
+[07:06] Okay.
+[07:07] So let me show what I'm doing here.
+[07:08] All right.
+[07:15] Um, so I've got the sound here, um, as the bottom layer.
+[07:21] So let's just turn that off.
+[07:22] I've got the sound here.
+[07:24] It's totaled about a minute and less, a little less than a minute and 10 seconds.
+[07:28] And then I've got my videos here.
+[07:30] So I usually just drag them in an order.
+[07:32] And then what I do is I come in and I will adjust it according to the spoken line.
+[07:36] Okay.
+[07:37] So I showered twice before one date and then canceled anyway.
+[07:40] Not because I didn't like him.
+[07:42] All right.
+[07:43] So this actually needs to be sped up a little bit because if we listen to what she's saying,
+[07:52] I'm going to go over here.
+[07:53] 
+[07:53] I'm going to go over here.
+[07:54] And actually I'm going to mute this because it had music in the background.
+[07:58] I don't know if you can tell.
+[07:59] I showered twice before one date.
+[08:01] And so we're going to come through and change the music.
+[08:02] So let's just do this.
+[08:03] I showered twice before one date and then canceled anyway.
+[08:07] Not because I didn't like him.
+[08:08] I.
+[08:09] All right.
+[08:10] So we need to speed that up.
+[08:12] Let me go here.
+[08:14] Oh, and I'm going to speed it up.
+[08:18] There we go.
+[08:19] Okay.
+[08:20] So let's see what that looks like.
+[08:21] I showered twice before one date and then canceled anyway.
+[08:26] Not because I didn't like him.
+[08:27] And what you can also do is I can take some off at the beginning.
+[08:33] Yeah.
+[08:34] Okay.
+[08:35] 
+[08:35] Kim, I really liked him.
+[08:36] That was the problem.
+[08:37] Something felt off down there.
+[08:38] And I was terrified that the closer he got, the sooner he'd notice.
+[08:39] All right.
+[08:40] So that's kind of where we need to be.
+[08:55] So let's adjust this here.
+[08:58] All right.
+[08:59] So then we'll see.
+[09:02] I showered twice before one date and then canceled anyway.
+[09:06] Not because I didn't like him.
+[09:07] I really liked him.
+[09:08] That was the problem.
+[09:09] Something felt off down there.
+[09:10] And I was terrified that the closer he got, the sooner he'd notice.
+[09:13] All right.
+[09:14] And then let's start this next one.
+[09:16] He'd notice.
+[09:17] So I became the cleanest woman alive.
+[09:19] Morning shower, pre-date shower, emergency shower.
+[09:22] I feel better for five minutes, then start worrying all over again.
+[09:25] I even started avoiding intimacy.
+[09:27] This time.
+[09:28] All right.
+[09:29] So shower.
+[09:30] I feel better for five minutes.
+[09:31] I feel better for five minutes, then start worrying all over again.
+[09:34] I.
+[09:35] All right.
+[09:36] So I need it to end right here, worrying all over again.
+[09:38] So this is what we can do.
+[09:39] Like I said, we can trim out some of the beginning.
+[09:42] Scoot this down some, and then we can speed ramp it.
+[09:47] Bring that down.
+[09:50] Let's see what that looks like there.
+[09:51] You'd notice.
+[09:52] So I became the cleanest woman alive.
+[09:53] Morning shower, pre-date shower, emergency shower.
+[09:55] I feel better for five minutes, then start worrying all over again.
+[09:56] I even started.
+[09:57] All right.
+[09:58] So this is kind of how I do it.
+[09:59] Okay.
+[10:00] Um, and I see here.
+[10:01] I started avoiding intimacy.
+[10:02] This tiny private worry was beginning to control my whole relationship.
+[10:04] Then I learned the part nobody had explained to me cleanliness.
+[10:06] Okay.
+[10:07] So like I said, I usually find where it ends.
+[10:13] Like the audio should end.
+[10:19] Then I learned the part nobody had explained to me. Cleanliness.
+[10:23] Okay. So, like I said, I usually find where it ends. Like, the audio should end.
+[10:29] Then I learned the part nobody had explained to me.
+[10:31] Alright, so this scene should probably end here. So, I'm going to take some off the beginning.
+[10:39] Again. I even started avoiding intimacy. This tiny private...
+[10:42] I'm also going to speed ramp it up. Because, remember, I need it to end.
+[10:47] Right there. That's where I need this one to end. So, I'm going to speed ramp it.
+[11:01] There. Alright.
+[11:10] So, now if you started from the beginning.
+[11:17] Something felt off down there. And I was terrified that the closer he got, the sooner he'd notice.
+[11:21] So, I became the cleanest woman alive. Morning shower. Pre-date shower. Emergency shower.
+[11:26] I feel better for five minutes. Then start worrying all over again.
+[11:29] I even started avoiding intimacy. This tiny private worry was beginning to control my whole relationship.
+[11:34] Then I...
+[11:34] Alright. So, you want to follow the rest of the process.
+[11:37] I'm not going to show, like, actually doing the full video.
+[11:39] But that is the actual full process here.
+[11:41] The only other thing I would do is...
+[11:43] I would come over here to audio.
+[11:46] Sound effects. And maybe...
+[11:48] We can just maybe put whiteboard.
+[11:51] Yeah. Maybe find a whiteboard sound effect. I don't know if they...
+[11:55] So, if they don't have it here. I don't think they have one here.
+[12:01] I'll go inside of Levin Labs and create sound effects for that.
+[12:05] And then maybe some background music.
+[12:07] But that is it. Again, I don't want this video to be super long.
+[12:12] I will show you the final output of this video.
+[12:15] And then what you want to do is...
+[12:17] After watching this video, here are your next steps.
+[12:21] Generate your own script for the product.
+[12:23] Or use this sample script that we have here.
+[12:26] The products here you will need when you generate.
+[12:30] You'll need to go...
+[12:31] I think it's called URO Probiotics.
+[12:34] So, you'll need to get, like, an image there.
+[12:36] So, just go to the website.
+[12:38] URO Vaginal Probiotic. Right?
+[12:42] So, just go to the website.
+[12:44] And... Oop! That's not the right one.
+[12:46] But hopefully, you catch my gist. Right?
+[12:48] You go to their website. Get their product.
+[12:50] Because you're going to need a product image.
+[12:52] But go ahead and generate this.
+[12:54] Or generate your own script.
+[12:56] Generate that video. Complete the full video.
+[12:59] And then share it to the community in Discord.
+[13:01] Ask for feedback.
+[13:02] If you have any questions along the way,
+[13:04] don't hesitate to reach out.
+[13:06] See you on the next one.
+[13:07] I showered twice before one date.
+[13:09] And then canceled anyway.
+[13:10] Not because I didn't like him.
+[13:11] I really liked him.
+[13:12] That was the problem.
+[13:13] Something felt off down there.
+[13:14] And I was terrified that the closer he got,
+[13:15] the sooner he'd notice.
+[13:17] So I became the cleanest woman alive.
+[13:19] Morning shower. Pre-date shower. Emergency shower.
+[13:21] I feel better for five minutes, then start worrying all over again.
+[13:24] I even started avoiding intimacy.
+[13:26] This tiny private worry was beginning to control my whole relationship.
+[13:29] Then I learned the part nobody had explained to me.
+[13:31] Cleanliness and vaginal flora balance are two completely different conversations.
+[13:35] You can shower, use soap, and keep yourself clean.
+[13:37] But surface cleanliness isn't the same thing as supporting the balance of your vaginal flora.
+[13:41] That's when I tried URO.
+[13:42] It has the V positive probiotic blend.
+[13:44] Four lactobacillus strains paired with 400 milligrams of XOS prebiotics.
+[13:48] Basically, it combines probiotics with the prebiotics that support their environment.
+[13:52] It's two capsules a day and consistency matters.
+[13:54] The review that got me said,
+[13:56] I didn't even tell my guy I was taking something.
+[13:58] He recognized the difference.
+[13:59] That was the exact confidence I wanted.
+[14:01] URO is the number one best-selling vaginal probiotic in the USA,
+[14:05] with more than 10 million bottles sold.
+[14:07] Give the routine about eight weeks because this isn't supposed to be an overnight cover-up.
+[14:10] And if you're skeptical, there's a 30-day money-back guarantee.
+[14:13] If you're clean but something still feels off,
+[14:15] tap shop now and read the URO details for yourself.

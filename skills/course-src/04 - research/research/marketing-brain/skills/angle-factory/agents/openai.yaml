@@ -1,0 +1,4 @@
+interface:
+  display_name: "Angle Factory"
+  short_description: "Convert insights into ad angles"
+  default_prompt: "Use $angle-factory to generate direct response ad angles from this product research."

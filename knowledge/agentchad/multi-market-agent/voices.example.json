@@ -1,0 +1,7 @@
+{
+  "_note": "Copy to voices.json and fill in voice IDs from YOUR ElevenLabs account (Voices -> copy ID). One voice per role; keep roles, not names. A creator clone is only allowed with that creator's written consent.",
+  "calm-female-40s": "<<FILL>>",
+  "chatty-female-20s": "<<FILL>>",
+  "warm-male-40s": "<<FILL>>",
+  "creator-clone-with-consent": "<<FILL>>"
+}

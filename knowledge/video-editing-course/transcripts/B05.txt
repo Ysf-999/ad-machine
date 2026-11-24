@@ -1,0 +1,1031 @@
+# B05 Video Editing Breakdowns / 5 video editing breakdown part 1 organic ad 1.3.mp4
+
+[00:00] Since we are getting to clip selection part and just video editing part,
+[00:05] the best way to do that again is go back to the brief.
+[00:09] Because it is the stuff that tells us what to search for, if that makes sense.
+[00:15] So I always like to go from hold to CTA.
+[00:19] So for us, the first thing that I need to do is just find a hook.
+[00:23] And since the comment for the visuals was like similar to OGR, so let's watch it.
+[00:31] So it's basically a clip of the creator.
+[00:35] Her name is Livamos.
+[00:37] Well, that's her nickname.
+[00:39] So like we need two clips.
+[00:44] The first one is when she's showing a bungee leash, which is that this thing is called bungee leash.
+[00:49] Use physics to stop your dog from pulling.
+[00:52] And the second clip is how the mechanism works.
+[00:55] And by mechanism, I mean the front clip attachment, the front D-ring attachment mechanism,
+[01:01] which is like make the dog to turn around.
+[01:04] Okay.
+[01:05] So since our agency have been working with this client for quite a long time,
+[01:10] we do have a certain folder where we kind of place everything that is related to the specific brand.
+[01:17] And as well as footages that were sent by the creators around that product.
+[01:23] And in our case, it is like harness.
+[01:26] And now all I got to do is just sort out and find those that I need.
+[01:32] In our case, I need the footages of Livamos.
+[01:36] That's the name of the creator.
+[01:38] As you can see, I have like four footages of her.
+[01:40] And the one that we need for this specific project is located in this clip.
+[01:48] Yep.
+[01:50] There he is.
+[01:51] Yep.
+[01:53] Now all I got to just select the beginning of the part that I need.
+[01:57] Press I on the keyboard and find the end of it, which is somewhere here.
+[02:02] Yep.
+[02:02] So I need to find it precisely.
+[02:07] And press O, which allows me to select the certain part that I need.
+[02:12] And then hold this drag video only icon.
+[02:16] And drag and drop it to the timeline.
+[02:19] And this should be it.
+[02:22] And yep.
+[02:23] Since the footage was originally in 4K, all I got to do is just go to Properties tab.
+[02:31] Press Fill in the Transform.
+[02:34] And it will make the video fit to my frame.
+[02:39] Right?
+[02:40] If it was initial like this.
+[02:42] So I don't go to the scale and do it manually.
+[02:44] Try to adjust it.
+[02:46] And until I find that number, which should be 50.
+[02:49] The best way to do that and save your time is by simply pressing the fill button.
+[02:55] Or like icon, whatever it is.
+[02:57] So let's see how it could be adjusted to our hook part.
+[03:02] This one change stops pulling forever.
+[03:05] This one change stops pulling forever.
+[03:09] So we have here two clips, right?
+[03:12] The first one she's showing a bungee list.
+[03:14] The second one is the turning around, I guess.
+[03:17] So instead of like searching for the part where there is a cut, all I got to do is just simply right click on the clip itself.
+[03:26] And go and find Scene Edit Detection.
+[03:30] And click Apply a Cut at Each Detected Cut Point.
+[03:34] Which will analyze the clips and create a cut right where the clip has a cut itself, I guess.
+[03:43] So now all I got to do here is simply adjust the cut to the point where there is some sort of beat drop or change in the sentence.
+[03:54] So let's hear.
+[03:55] This one change stops pulling.
+[03:56] Change stops pulling.
+[03:58] This one change stops pulling.
+[04:00] So I could place it where the pulling starts, right?
+[04:04] Just like this.
+[04:05] This one change stops pulling forever.
+[04:08] You're done pulling forever.
+[04:10] Change stops.
+[04:11] Change stops.
+[04:12] Well, I think it would be even better if I just place it where the stop.
+[04:18] Where the stop is, right?
+[04:22] So let's see how it works now.
+[04:24] This one change stops pulling forever.
+[04:25] Your dog's body is built for.
+[04:27] Your dog's body is built for.
+[04:30] Your dog's.
+[04:31] Your dog's.
+[04:31] Forever.
+[04:32] Your dog's.
+[04:33] Your dog's.
+[04:33] Your dog's.
+[04:34] This one change stops pulling forever.
+[04:37] Let's see if we could adjust it by the beat.
+[04:40] Yeah, we could somehow.
+[04:45] Let's do that instead.
+[04:46] So I could have some sort of continuation of the clip in the whole part.
+[04:52] So I want to leave like this much space.
+[04:57] Just without any clip.
+[04:59] So here's the hook part.
+[05:01] And it's all done.
+[05:03] This one change stops pulling forever.
+[05:05] Yep.
+[05:05] Your dog's body is.
+[05:06] Now.
+[05:08] Going to the next part.
+[05:10] Your dog's body is built for pulling.
+[05:12] First of all, let's check if there are any comments on this part.
+[05:15] So your dog's body is built for pulling.
+[05:19] Nope.
+[05:19] There is no any comments.
+[05:21] Which is a free will for us.
+[05:24] But there is.
+[05:25] There is.
+[05:25] There is.
+[05:26] A comment for the other part of the first line.
+[05:30] Which is backlit close up.
+[05:31] Red arrow to it to highlight it.
+[05:34] Your dog's body is built for pulling.
+[05:36] So I guess the best thing to do is just show a dog pull, right?
+[05:41] So since we are allowed to search for some content around the internet.
+[05:47] Specifically TikTok, Instagram, maybe some YouTube shorts.
+[05:52] We would go and try to find the footage that would fit the best for this part.
+[05:59] Maybe even two footages of dog pulling its owner, right?
+[06:04] So the best way to do that is just simply go to the TikTok, right?
+[06:08] Is simply go to the TikTok, which won't work because I need to turn my VPN.
+[06:14] Alright, here we are.
+[06:16] All you gotta do now is simply go to the search bar and write dog pulling.
+[06:22] That's it.
+[06:23] Like, there's nothing fancy you gotta do.
+[06:26] Just search for a certain keyword, words that make sense to you to search.
+[06:33] And you'll find some clips that could be used, right?
+[06:36] So let's search for some good stuff.
+[06:40] So the first thing we need to find a clip where dog pulls, like, hard.
+[06:47] Something like this would work, I feel like.
+[06:49] There's a motion blur, which is like a natural blur by the camera movement.
+[06:55] Yeah, and it is a POV shot, which is really, really good for us.
+[07:04] So in order to download it, I go to the link bar, copy the link to it, and go to this site,
+[07:13] which is tiktokdownloader.io.
+[07:16] So I don't know about you guys, but I prefer to go with this one specifically because it offers you to download
+[07:24] tiktok clips, videos in high quality, which is HD, right?
+[07:30] Which is really cool.
+[07:31] And sometimes it really makes sense to use a higher quality footages.
+[07:36] So now just download it, save it in your folder, which we initially called like a stock folder.
+[07:45] Yep, here we go.
+[07:46] And just name it as you wish.
+[07:48] I will go just dog pulling.
+[07:51] That's it.
+[07:52] Now we're going back to Premiere Pro and just drag and drop the footage we found.
+[07:57] And it's always better to find a certain part of the clip that delivers the most message.
+[08:05] So with this one, it would be good to use like this initial, like I would say two seconds,
+[08:12] because it's kind of obvious.
+[08:13] So we should go for the part which shows first of all the hand of the owner,
+[08:18] showing the struggle, and then the part where the dog is struggling, right?
+[08:23] Like you see, it's kind of like, I don't know how to call this position,
+[08:29] but the dog's kind of bending, which showing like his effort to track the owner, well, whatever.
+[08:36] Your dog's body is built for pulling.
+[08:37] Now, since the footage was not that good in quality,
+[08:41] all you got to do is just go to properties and press fill again.
+[08:45] Now we need to search for the part which we have comments for.
+[08:50] Backlick closeup, radar to it, to highlight it.
+[08:54] Okay, good.
+[08:55] So for that reason, let's go to TikTok again and just write dog pool.
+[09:01] Again, just dog pool.
+[09:03] And try to find something visually better or just fitting for us.
+[09:20] Okay, there is a hack that I like to use,
+[09:31] which is simply just changing the location of your VPN.
+[09:35] So if previously it was just Sweden,
+[09:37] for now we're just going to take US VPN and just refresh the website,
+[09:42] and it should provide some better options.
+[09:44] Okay.
+[09:44] This is good.
+[09:54] So we can just take this one.
+[09:59] In the same manner as we did with the previous clip.
+[10:04] Just by downloading it with TikTok Downloader.
+[10:07] 
+[10:07] Okay.
+[10:07] 
+[10:14] And just save it as dog pooling.
+[10:23] Nope.
+[10:24] Dog pooling 2.
+[10:27] Alright.
+[10:28] We should be good to go.
+[10:30] Maybe we could something even better.
+[10:34] More visible back clip.
+[10:36] Let's see this one.
+[10:51] Yeah, this is actually good.
+[10:56] Yeah.
+[10:58] Well.
+[11:01] Yeah.
+[11:02] If you take it to this part specifically.
+[11:04] Yeah, it's actually good.
+[11:06] So we can download it as well.
+[11:22] Let's just search for lead pooling instead of leash pooling.
+[11:26] It may also provide some other versions of clips.
+[11:30] Yeah.
+[11:31] Yeah.
+[11:31] Yeah.
+[11:31] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:32] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:33] Yeah.
+[11:34] Yeah.
+[11:34] Yeah.
+[11:34] Yeah.
+[11:34] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:35] Yeah.
+[11:36] Yeah.
+[11:36] Yeah.
+[11:36] Yeah.
+[11:36] Yeah.
+[11:36] Yeah.
+[11:36] Yeah.
+[11:37] 
+[11:37] 
+[11:37] Yeah.
+[11:37] 
+[11:37] Yeah.
+[11:37] Yeah.
+[11:37] Yeah.
+[11:38] Yeah.
+[11:38] Yeah.
+[11:39] Yeah.
+[11:39] Yeah.
+[11:39] Yeah.
+[11:39] Yeah.
+[11:39] Yeah.
+[11:40] Yeah.
+[11:41] Yeah.
+[11:41] Yeah.
+[11:41] Yeah.
+[11:41] Yeah.
+[11:42] Let's work with what we have then.
+[12:10] That would be way more time friendly for us.
+[12:12] This one should be good.
+[12:16] Let's see.
+[12:17] That could be used here.
+[12:27] What about this one?
+[12:31] Harness is making it worse.
+[12:33] It connects right to their strongest muscles creating a...
+[12:47] As you can see I'm trying to fit, I'm trying to choose a specific clip based on its lens.
+[12:55] In order to keep the speech supported by the audio.
+[13:00] What I mean by that is simply this.
+[13:03] If we have this part which is this.
+[13:09] So it connects right to their strongest muscles.
+[13:12] I cannot really include like couple clips here even though it may help me with retention.
+[13:21] But my goal is to insert here a clip that would be just right this lens.
+[13:29] So in other words I can for example take a clip from here.
+[13:34] Because it's not that long.
+[13:37] Like if I just increase it.
+[13:40] And find out where are the cuts.
+[13:43] You see?
+[13:45] It's not long enough.
+[13:46] It kind of ends already.
+[13:48] And if I just let's say keep it this way.
+[13:53] Just to show you what kind of impact it will have.
+[13:55] It connects right to their strongest muscles.
+[13:58] Like you see?
+[14:00] This footage does not carry any sort of information.
+[14:04] Like this one kind of tries to explain you that the harness is kind of clips to their strongest
+[14:12] muscles, muscles, etc, etc.
+[14:14] But once we see this clip.
+[14:17] We kind of try to understand it.
+[14:20] But it immediately like disappears.
+[14:23] That's why my goal here is to find a clip that will be long enough in order to cover a
+[14:29] certain part of the speech.
+[14:32] So the viewer will get information clearly.
+[14:37] And I guess clearly and vividly I would say.
+[14:41] Without any flaws or distractions.
+[14:44] So we need to keep in mind that the length of the clips are also important.
+[14:51] So if this one.
+[14:52] It connects right to their strongest.
+[14:54] So as you can see.
+[14:56] The half of the clip we don't see the dog itself.
+[14:59] So in order to fix that.
+[15:01] I need to make sure that from the beginning.
+[15:03] Right?
+[15:04] From the beginning we could see the dog right till the end.
+[15:08] And for the pulling.
+[15:10] Creating a perfect lever system.
+[15:11] Creating a perfect lever system.
+[15:14] Dramatic drag clip.
+[15:18] So.
+[15:19] Strongest muscles.
+[15:21] Creating a perfect lever system.
+[15:23] That lets them drag.
+[15:24] Lever system.
+[15:25] That lets them.
+[15:27] That lets.
+[15:28] So here I guess it would be better just to insert two different clips.
+[15:33] The whole point is to keep retention high enough.
+[15:37] This is around like.
+[15:38] 3 plus second.
+[15:40] Area.
+[15:41] So just to keep something.
+[15:43] Engaging enough.
+[15:45] We need to divide this part by two.
+[15:50] So.
+[15:51] We've used this.
+[15:52] We use this clip as well.
+[15:54] What about this?
+[15:55] If your dog pulls like a freight train.
+[15:57] No.
+[15:58] We haven't used it.
+[16:00] So we could just take it then.
+[16:02] Creating a perfect lever system.
+[16:05] That lets.
+[16:06] That lets them.
+[16:07] That lets them.
+[16:08] So I want to add a new clip.
+[16:11] Right where.
+[16:12] Start.
+[16:13] Right when.
+[16:14] Z.
+[16:15] Goes.
+[16:16] Right after the system.
+[16:18] So it goes like.
+[16:19] Creating a perfect lever system.
+[16:21] So here I need to have a new clip.
+[16:24] Okay.
+[16:25] Let's.
+[16:26] Scale it up.
+[16:27] This one change stops pulling forever.
+[16:30] Your dog's body is built for pulling.
+[16:32] And that back clip harness.
+[16:34] This is making it worse.
+[16:36] It connects right to their strongest muscles.
+[16:38] Creating a perfect lever system.
+[16:40] That lets them drag you down the.
+[16:41] That lets them drag you down the street.
+[16:46] Okay.
+[16:47] For this specific part.
+[16:51] We need to.
+[16:52] Find a dramatic drag clip.
+[16:54] Okay.
+[16:55] I guess there is no need to go.
+[16:57] And try to.
+[16:58] Write like.
+[16:59] Literally.
+[17:00] Dramatic.
+[17:01] Drag clip.
+[17:02] But more like.
+[17:03] Maybe dog drag.
+[17:04] Drag.
+[17:05] Something like this.
+[17:06] Oh.
+[17:07] Dog drags owner.
+[17:08] This is cool.
+[17:09] Yeah.
+[17:10] This is cool.
+[17:11] Yeah.
+[17:12] This is cool.
+[17:13] Maybe we got something even better.
+[17:14] For example.
+[17:15] This clip.
+[17:16] Just to go through it.
+[17:17] And say why it is not really good fit.
+[17:18] Even though we could.
+[17:19] Vividly see how.
+[17:20] The.
+[17:21] The.
+[17:22] The.
+[17:23] The.
+[17:24] The.
+[17:25] The.
+[17:26] The.
+[17:27] The.
+[17:28] The.
+[17:29] The.
+[17:30] The.
+[17:31] The.
+[17:32] The.
+[17:33] 
+[17:33] The.
+[17:34] Owner.
+[17:35] Is being dragged.
+[17:37] The dog is clearly.
+[17:39] Showing here.
+[17:41] And like.
+[17:42] Everything's kind of perfect.
+[17:44] But.
+[17:45] What percentage of people have this big dog?
+[17:48] Like.
+[17:49] It is too big.
+[17:50] He should too massive too strong.
+[17:53] And.
+[17:54] Also.
+[17:55] Dog Friendly Co the company that we are working with.
+[17:58] they're normally kind of presenting themselves in a premium style and people who are tend to
+[18:06] look premium do not really pet this type of dogs this is my like personal opinion so that's why
+[18:13] this is not really good footage to use even though that i have it in my uh clips bank i guess yeah i
+[18:20] have it but i never use it i just have it for the sake of like i don't know angle where we need to
+[18:28] show really big dog you know for example this one the same stuff you can't really use it first of all
+[18:35] the dog is too bulky massive and he has a prong collar so you can't really use it like this is
+[18:43] bulldog is and he's way too bulldoggish i would say this is good clip by the way i've seen this a lot
+[18:52] of time but even though it carries some sort of message but you can't really see what's happening
+[18:58] right now if the footage was more stabilized on the dog and just on the action of the owner being
+[19:06] tracked that would be way cooler like i would use it almost in every scenario in almost all projects
+[19:13] as you could tell just based on the thumbnail or i don't know what it's called just first frame
+[19:19] that describes the video i try to like not understand but try to like catch a moment
+[19:28] but try to understand the footage just right away for example here we could observe a little bit of
+[19:36] motion blur which says that the footage is kind of like uh in the motion right like it makes sense to
+[19:46] call this it this way plus it is sort of an over a pov shot which is really what we need we could
+[19:55] actually take it yeah and it is long enough before the text appears even if it's a fierce we could remove
+[20:02] it like later with some other tools
+[20:08] oh no we actually found it it's here so let's put it like here system that lets them drag you down the street
+[20:30] but here so we don't need the whole footage here so let's just adjust it
+[20:39] let's them drag you down the street but here's what happens system that lets them drag you down the street
+[20:44] but here yeah i feel like we should even keep it but here's what happens when you move that clip to the front
+[20:51] i just need to show the clip where our favorite creator livamos clips the harness from the front
+[21:00] yeah this is what i mean by that
+[21:04] d ring attachment help me gain control of nova
+[21:07] yeah this one
+[21:10] and the size of it is just perfect for us
+[21:14] perfect for us here's what happens when you move that clip to the front their own pulling force
+[21:19] so here i need to show now the mechanism but this they mean it is like
+[21:25] this turn around turn over i guess or turn over turn around mechanism which is this
+[21:32] for sudden burst of energy
+[21:36] yeah it is kind of short by the way and we are about to adjust it
+[21:45] their own pulling force works against that
+[21:49] you see it's too short i would even say
+[21:52] so we have three more footages footages
+[21:57] yeah let's take this one yeah the size of it is kind of good
+[22:02] i would even say perfect
+[22:04] yep
+[22:06] let's kill it normally
+[22:12] their own pulling force works against them
+[22:15] yep
+[22:16] every time they try to lunge forward
+[22:18] the front attachment redirects that energy back towards you automatically
+[22:25] good now
+[22:29] now let's take other examples because there should be a few more
+[22:35] yep here it is
+[22:39] and it absorbs all the shocks when she pulls
+[22:44] okay
+[22:46] every time they try to lunge forward
+[22:48] the
+[22:52] should be enough
+[22:54] now let's try to find from here as well
+[22:57] i don't really like
+[23:01] the clip from here
+[23:03] that should be good from
+[23:06] that should be good here
+[23:08] yeah
+[23:09] that's what i said
+[23:11] me towards the road it gently redirects her back to me
+[23:17] it's a lifesaver for big dogs who like to test your life
+[23:19] yep
+[23:22] the front attachment
+[23:24] redirects that energy back towards you automatically
+[23:29] by the way
+[23:31] for the sake of visual diversity
+[23:34] let's try to find some other creators as well
+[23:37] for example
+[23:39] this was the recent job
+[23:43] this was the recent job
+[23:45] this was like
+[23:47] a recent one
+[23:49] but
+[23:50] there is not any footage that we could use
+[23:53] okay
+[23:55] let's see
+[23:59] by the way this is my stock library
+[24:01] this is my stock bank
+[24:03] of creators footage
+[24:10] of creator footage
+[24:12] that i
+[24:15] gathered
+[24:17] from
+[24:19] the
+[24:21] bank that was provided by
+[24:23] by the
+[24:24] client itself
+[24:26] I guess yeah this could have some good clips we could use yeah here it is
+[24:35] front harness to redirect her pull that's what I'm talking about forward the
+[24:44] front attachment redirects that energy back towards you automatically so you're
+[24:49] stopping their pulling with that let's just keep it here
+[24:55] so you're stopping their pulling without pain
+[25:04] so yeah it's kind of it's best just right to this part maybe we could find some
+[25:12] more clips from other creators and there should be one more I guess as I remember
+[25:21] yeah this one I guess yeah right here
+[25:26] want to and helps redirect pulling
+[25:28] in the shop
+[25:33] the front attachment redirects that energy back towards you automatically
+[25:42] leads back towards you automatically so you're stopping their pulling without
+[25:46] pain no training okay let's get leave a most clips back maybe we could diversify it
+[25:56] by ourselves
+[25:58] like you down the street but here's what happens when you move that clip to the
+[26:02] front their own pulling force works against them every time they try to
+[26:07] lunge forward the front attachment yeah let's keep it this way no let's scale them up when you move that clip to the front their own pulling force works against them every time they try to
+[26:29] try to lunge forward the front attachment redirects that energy back towards you
+[26:33] automatically so you're stopping their pulling without pain
+[26:36] no training needed just so now for the no training needed this part I need to show it
+[26:47] dog again maybe this one not maybe I guess that's what I used initially
+[26:58] and just physics doing the work no training needed
+[27:03] and I guess just bungee leash would be good for presentation of what physics mean
+[27:09] here yeah this is a bungee leash I'm talking about
+[27:13] and the shock absorbing leash handles her
+[27:19] yeah this right here
+[27:22] just physics doing the work
+[27:26] so since it's kind uh short well it's not that short but not long enough in order to be
+[27:36] uh just till here I want to be like till here at least
+[27:43] and in order to keep the same clip throughout I need to maybe stretch it and the best way to do
+[27:50] that is by going to the speed and duration
+[27:53] and adjusting not by the speed but by duration so normally how I like to stretch this clip is by simply
+[28:00] pressing the x in order to select this clip from the start till the end
+[28:05] and then adjust it where I want to have it till where I want to have it
+[28:12] for example yeah I would be more than happy if this clip was prolonged till this part
+[28:19] so now since now I know how many seconds and frames the clip supposed to be even though it is built lower it's one second
+[28:30] it's one seconds and 14 frames but I need it to be one second and 18 frames so it's like four more frames I need to make it ideal for me
+[28:39] so now what I do is just right click speed duration and here I need to mention how many uh
+[28:48] I need to mention the duration of it since we already like established from here it should it should be one
+[28:55] one second and 18 frames that's exactly what I'm going to write here and voila it works
+[29:06] obviously it's now a bit slower as you could see like the speed now is not 100 but 91.67
+[29:14] but it should not be really like uh remarkable just physics doing the work
+[29:18] like until the number is not like 18 or 70 the the speed the velocity will not be that visible to the viewer
+[29:27] the difference was immediate for my dog the difference was immediate for my dog and over
+[29:33] I don't know how I missed this part but dog is not the way how I want the speech to be so let's regenerate it
+[29:42] I feel like I just skipped it for my dog and over frustrated owners
+[30:01] the difference was immediate for my dog and over 400 000 other frustrated owners
+[30:06] the difference was immediate for my dog and over 400 000 other frustrated owners
+[30:18] scan that too fast
+[30:21] the difference was immediate for my dog and over 400 000 other frustrated owners
+[30:26] maybe stability will help here with less similarity the difference was immediate for my dog and over 400 000 other frustrated owners
+[30:43] yep it's more stable now even though we are sacrificing our emotional I would say exaggeration
+[30:52] but it is more um but now it is way better to understand the the speech the difference was immediate for my dog
+[31:06] all right
+[31:13] the difference was immediate for my dog
+[31:22] just as usual
+[31:27] just as usual
+[31:27] the work the difference was immediate for my dog and over four
+[31:34] dog
+[31:36] here now I have the chance just to remove this part make it shorter
+[31:41] for my dog and over 400 000 other frustrated
+[31:44] the difference was immediate for my dog
+[31:47] by the way
+[31:48] by the way did we
+[31:48] 
+[31:50] yap but why I still cannot hear well
+[31:56] let's just decrease the music volume a little bit more
+[32:00] and over 400 000 other frustrated owners
+[32:04] yep
+[32:04] the difference was immediate for my dog
+[32:08] work the difference was immediate for my
+[32:10] all right now
+[32:11] for the part which goes like the difference was immediate for my dog
+[32:16] I guess the best way to visualize it is just some sort of
+[32:20] ideal outcome
+[32:22] of the same creator let's say her with the dog maybe just walking
+[32:27] in the street right on the on the street
+[32:32] so let's go back to our stock library
+[32:35] and search for the liver oh sorry for the liver moss
+[32:44] the same clip the same
+[32:47] drill
+[32:49] not maybe not the same not exactly the same
+[33:05] or to keep your dog safe near traffic
+[33:10] can be taken
+[33:17] physics doing the work the difference was immediate for my dog
+[33:21] and this was immediate for my dog
+[33:26] since I don't want to insert new clip
+[33:30] for specifically this section I guess I'm going to do the same as I did with this one
+[33:35] I'm going to just adjust the speed
+[33:37] so again we're pressing x
+[33:40] selecting the end of the clip
+[33:45] I mean the length of the clip how long it should be like two minutes and one frame
+[33:50] and mentioning or just like defining exactly that matrix or that units in the speed and duration
+[34:00] the difference was immediate from
+[34:02] so yeah it's a bit scaled up
+[34:05] for my dog and over
+[34:07] nope
+[34:10] there is a one frame that messing with us
+[34:14] just different with one frame won't be too noticeable in this part so
+[34:19] and over 400 000 other frustrated owners
+[34:22] so in cases where we kind of mention or like provide some credentials about ourselves
+[34:30] i like to go and just create a collage of like different creators just to give more like
+[34:39] evidence for people that people are using it and there is a there is like a real people using it
+[34:46] and over 400 000 other frustrated owners for example four clips of four type of creators maybe it was four
+[34:58] different breeds of the dog
+[35:02] and just inserting like one here second here third here fourth here and that's it
+[35:07] so from the stock library all i gotta do is just pull clips
+[35:16] without any cuts in between now all i need to do is select all four clips right clip and press nest
+[35:26] you can call it whatever you would like to i like to go with just collage i may spell it wrong but i don't really care
+[35:34] here
+[35:38] um
+[35:38] now i need to place it based on my
+[35:41] grid
+[35:41] so
+[35:42] this is
+[35:43] the red lines
+[35:44] this is red grid
+[35:46] red grid is exactly like
+[35:48] uh
+[35:48] the one that i like to use for
+[35:52] collage layout
+[35:54] because
+[35:55] it was done
+[35:56] perfectly
+[35:57] to
+[35:58] uh
+[35:58] show
+[35:59] the quartiles
+[36:01] or quantiles
+[36:02] whatever it's called like this part quantile quartiles so since this clip is a 100 scale
+[36:12] in order to fit it here which is like uh one of force of the frame all i need to go
+[36:22] and do is just divide it by two simply just to shrink if if it's like
+[36:29] if the width well let's not go to the mass just like go with 50 it would be the size that i wanted
+[36:39] and normally if we go with the half of the scale the position would be also in terms of the x the
+[36:47] half of the 530 which is 270 you see it's like perfectly aligned on the left side of the of the
+[36:56] grid and here as well just half of the 960 which would be 480 here you go it perfectly
+[37:08] captured the left upper side of the quantile quartile whatever it is so here if it's 50 i need the half of
+[37:18] it i guess 25 would be the same yep and here the position would be uh this time not 208 and 70 but
+[37:29] it would be like 540 plus plus uh 270 you see we could do math here as well and here it would be the same as
+[37:40] as as as with the first one as with the first one 480 good the second if it is at 50 percent of scale
+[37:50] then we will go with 25 here we will mention we will uh put 20 to 70 and here we will go with
+[38:01] plus plus 480 i guess you understand the math behind all the stuff it's not a math class that i need to
+[38:12] explain this just so you guys understand it it's not a math class for you but sometimes some basic
+[38:19] understanding of like x and y axis could be really beneficial for you but whatever
+[38:30] so 270 and here for 4 nope it would be also plus 480 that's it this is the collage i wanted by the way we
+[38:42] have one extra frame with the first quantile yeah now if you look here it looks perfect dog and over
+[38:55] 400 000 other frustrated owners stop back good stop battling your dog's natural strength and start
+[39:03] redirecting it shop the sale before it ends at dog for now i need to put here a stop battling your
+[39:12] dog's natural strength so for this whole section which is like pre-cta halt part i could just go with
+[39:22] one or two clips if i find something that could be used just as as a whole i mean just one clip that would
+[39:32] be cool and i guess i have one here yeah luna with luna it was right here yeah this is long enough to use
+[39:48] perfect stop battling your dog's natural strength and start redirecting it
+[39:52] shop the sale before it ends at dog do we have any yep we have this is our cte
+[40:06] and that exactly how i saved it in my stock library or stock footages folder here it is
+[40:22] so yeah it's normally not uh well i would say order it so in order to make it look cool i need to make
+[40:33] sure it is well ordered so this should be it for the clip selection part let's see what we got here
+[40:42] this one change stops pulling forever your dog's body is built for pulling and that back clip harness is
+[40:48] making it worse it connects right to their strongest muscles creating a perfect lever system that lets
+[40:53] them drag you down the street but here's what happens when you move that clip to the front
+[40:57] their own pulling force works against them every time they try to lunge forward the front attachment
+[41:03] redirects that energy back towards you automatically so you're stopping their pulling without pain
+[41:08] no training needed just physics doing the work the difference was immediate for my dog and over
+[41:13] 400 000 other frustrated owners stop battling your dog's natural strength and start redirecting it
+[41:19] shop the sale before it ends at dogfriendlyco.com good right it has the vibe it has the feeling
+[41:26] and the message is clear and understandable now since we are already kind of established with the clips here
+[41:35] which i really like the order now i need to polish them up and by polish i mean i need to remove
+[41:42] these text overlays so in order to remove them i normally do the following first of all i go with the x
+[41:53] keyboard i just select what i need to first of all export out of here for example these two clips
+[42:03] they are in total four seconds and 15 frames which is good and why i will explain shortly
+[42:13] let me first of all export them i normally just create an additional folder called it mid
+[42:24] now we go and search for the other clips that we need to work on this is our our second batch i would
+[42:31] say and we are doing the same you see like i'm leaving a couple more frames in the beginning as well as
+[42:38] in the end nope there is no but we will leave now so doing the same it is in mid exploiting
+[42:49] now let's find the third part the third clip
+[42:53] here yep again we're adding a few more frames in the beginning and in the end let's double check if
+[43:03] there are any other clips that we need to remove the text from nope that's good so overall we have
+[43:12] three clips so we have three clips here they are back toward you auto now in order to remove the
+[43:25] text overlay i normally like to go with the tool which is called vmake it's called vmake but then i like to go with like watermark
+[43:38] remove even though that we need to remove the text remove watermark works well as well here you go so all i need to do here is simply
+[43:51] select all these three clips add and drop it right in the interface so as you can see
+[43:59] it successfully removed all the text all we're going to do is just download five second preview video
+[44:09] and that would be enough for us just go to meet a folder that we created previously create the new
+[44:17] folder folder in it call it vmate or just that's the way how i like to go with and save all the all three
+[44:26] files right there go back to premiere pro and insert them on top of your uh texted clips i guess
+[44:35] i guess that's it for the clips now let's go back to the brief and see what kind of visual uh
+[44:54] support we need to add first one is a red arrow to it so which was like yeah this for this part
+[45:02] is a red arrow to the back clip so it's approximately in the center by it i mean the position the placement
+[45:18] of the color so now uh the best way to somehow track the arrow to this color in my opinion is simply going
+[45:28] to with after effects all we gotta do is just call it the way you would like to i normally call as the
+[45:38] name of the effect itself uh red arrow effect and here it is now the first thing that we need to do is
+[45:47] is uh drop a red arrow as a png okay here it is i just found it on internet just just searched for arrow
+[45:57] red arrow png and this is like the first output i found there so i need to somehow stick the pin
+[46:06] the pointer side of it to the color so first of all let's disable it now we need to first of all track
+[46:15] the motion that could be done with the tracker panel first of all i need to use a track motion uh i don't know
+[46:23] is it effect again or just an option to feature so with this one i need to just pinpoint
+[46:31] something that could be tracked i would say vividly or at least something that would be uh kind of
+[46:40] noticeable for the algorithm to follow so this dot or what is it yeah should be kind of easy to follow
+[46:49] let's see so all you gotta do is just press the analyze forward button which is just a play a play
+[46:58] and it will start tracking it may not be uh like as you can see perfect as you wish to
+[47:05] so you just need to take the track of it for example here it was good and the next frame it starts to
+[47:12] uh i would say how looking at some sort of ai models so just keeping the track of it how it works and
+[47:20] once it's all done oh good it's all done now in order to track the error to this i would say track path
+[47:33] you go to the track panel again press edit target and choose your um object that needs to be uh i would
+[47:43] say tracked i guess right yeah so in my case it's arrow png i press ok and then press apply for x and y values
+[47:54] here to go once i enable it in order to show you the effect here we go you see now the arrow is following
+[48:06] the path of the color all i gotta do here is just to polish it first thing is what i like to go with is drop shadow
+[48:18] just to give some polished look i like to go with values 75 for the opacity distance may vary but i just
+[48:29] want to create a little like a 3d look for that reason let's go with 20 and substance could be 30
+[48:39] even 50 i would say and here 15 yep let's keep with 20 yep this should give this should be good
+[48:52] now in order to place it as i need it for example it is just kind of stick to the color which looks
+[49:01] really awful i need to first of all go to the just press p on your keyboard and it will
+[49:09] open the position keyframes you press on position right here so it selects every keyframe that was
+[49:16] animated and you can change it all in once like this you see not only the path for the following
+[49:26] uh keyframe changes but the whole path is kind of changing so in order in order to adjust
+[49:32] the our object as we wash as we would like to for example i want it just to be uh pointed from up here
+[49:44] to the color and then slightly move to the downside of it while rotating and keeping the pinpoint of it
+[49:52] pointed at the color so i'm just pressing position it selects everything and i can now move the whole pass
+[49:59] so as i said i just wanted to be a bit from the top now let's go to the rotation rotate it this way
+[50:08] just keeping as it is looks normal to me as well maybe we could add just some fade in with the
+[50:15] with the transparency just go and animate the opacity it's also it looks a bit smoother i would say
+[50:24] so the next thing i would like to go with is with with spotlight which will create
+[50:33] this type of effect like a spotlight effect right quite simple
+[50:40] but in order to make it follow our rotation here i need to go and
+[50:50] and and parent the from settings and to settings to the feature what is called i don't know what even
+[51:01] you call it uh feature feature center like this
+[51:07] and like this so it follows the same path you see like if it was initial like this
+[51:13] once i parent from and the two to it it looks like this now it's following all the path route
+[51:27] now i need to just simply adjust the softness something like this and the intensity
+[51:34] also i could animate the intensity just to sync it with the appearance of the arrow
+[51:48] here we go
+[51:54] i have any feel like that i need to somehow increase the size of the arrow just a little bit
+[51:59] something like this yeah we could press this one it will make it way smoother than it is right now
+[52:14] so it should be good to go now i guess just save close your after effects and it will automatically
+[52:22] replace the footage in the premiere pro here you go just for extra precautionary i like to go and press this
+[52:32] part with x and then uh press fn plus enter it will render the specific back as you can see it it became
+[52:44] yellow now so it's like easier to render for premiere pro
+[52:48] your dog's body is built for pulling and that back clip harness is making it worse it connects right
+[52:55] to their strongest muscles creating a perfect lever system that lets them drag you down the street
+[53:00] but here's what happens when you move that clip to the front their own pulling force works against them
+[53:05] every time they try to lunge forward good now the next layer of the work that we need to do is captions
+[53:14] so for that i like to go with the text panel and simply just go to the captions press create caption
+[53:23] from transcript and here to be honest this is something that should be that should arrive from
+[53:30] project to project but normally whenever i am working with the project that does not require any sort of
+[53:37] i would say text animations or working on the text part the only thing that i need from the text is just
+[53:46] them to be uh to work as a subtitles i like to go with this one and put the following settings for me
+[53:55] the values of 35 in in the maximum length and characters is kind of optimal while the minimum duration
+[54:02] seconds should be the minimum amount and keeping all the things the same you can go with the single lines
+[54:09] or double i like to go with the double with in this case
+[54:12] so good right
+[54:20] now we need to design our captions
+[54:27] based on the brand guidelines
+[54:30] which is which we were provided previously before starting to work with the brand
+[54:36] so they normally use heading now font which is this one and they normally use like two type of it
+[54:47] normal which is this i mean regular and medium the medium is normally for uh some bigger text
+[54:55] like titles headings and etc but for captions the regular one are the like the best
+[55:02] for the size i like to go from 40
+[55:14] to 45 and it normally varies oh sorry just 45 40 or 45
+[55:25] oh why is it 50 just 40 let's leave it for no it's too small let's go to 45 then we're just placing it
+[55:36] right in this zone trying to catch the center of it
+[55:44] and i mean this zone like this rectangular rectangular zone of course something that i didn't mention
+[55:53] previously maybe you've already noticed it i have a certain grid there is like two type of grids the
+[55:59] first one that is centralized it that we used previously with collage which is the green one
+[56:06] which is red one and there is like a blue wish i would say uh i'm really good with colors but a blue wish
+[56:14] guidelines which is basically created from the ecom talent like just to show you guys
+[56:21] this as you can see it's basically it like i specifically created like an additional line
+[56:29] here to show uh that i need to work specifically in this area right so here it is so this is
+[56:40] our uh like no no place and this is where we need to work and for the text i like to put it just right
+[56:46] in this place which is this like the the the bottom side of the safe zone but we need to make sure that
+[56:56] it doesn't get to this small rectangular it can go like just for the small amount it can go on it just
+[57:04] for the small amount like something like this would not be really noticeable but if it goes almost to the
+[57:10] the right side of it that's going to be really dramatic for us so once we now place it properly it's time to
+[57:22] edit the whole text just based on the appearance so the first rule for me with the captions is to make
+[57:29] sure that they are uh easily readable for example you can leave the text like this right let's first of all
+[57:38] work on the shadows well since the reference ad was like as ujc as possible as simple as possible
+[57:51] we don't even need to use shadows here because shadows are more complicated in terms of the look
+[57:57] because here it looks way more premium premium rather than if it was like this it looks cheap here
+[58:06] i'll be honest it looks really cheap especially if i add a bit of more so yeah like five pixels of
+[58:14] stroke then we go to this i don't know what's called icon uh stroke styles line join and i like to go
+[58:23] either with brown or bell but sometimes bell looks better so what it does simply is the following if
+[58:29] previously it was looking something like this like sharp stroke in terms of the angles in terms of the
+[58:37] corners so what this does in terms of the join if it press like if you choose round join it makes it
+[58:44] rounder like and if it's go with bevel it makes something like this like there's not much difference
+[58:53] but sometimes i like to go with bevel so here the text might be a bit too small just based on my
+[59:01] observation so let's go with 50 yep this is better now as i said previously we need to make sure that
+[59:08] the text is easy to read and by easy i mean it shouldn't go in one line right as i said previously
+[59:17] it shouldn't be like something like this it's hard to read why because the viewer's eye like imagine the
+[59:25] cursor is where the viewer is looking so whenever they see this shot the first thing they want to do is
+[59:33] if they're watching it without headphones which is like 80 of 80 of the people who will be watching
+[59:39] this the first thing that they're going to do is they will skim the text and normally people do not
+[59:47] really want to put them in the struggle so going with their eyes from the left side of the screen to
+[59:54] the right one is kind of a struggle and a chore so my goal is to reduce this length reduce this length
+[60:04] for their eyes so it becomes more appealing for them to read for example this way now it's just in the
+[60:10] center like this one change stops pulling forever this type of i would say layout works better simple
+[60:18] because our brain works way faster it absorbs information way faster than we think it does and
+[60:25] whenever we see a text as a two lines while we like consciously try to read like first two words or
+[60:35] first three words our brain already skim it like the last symbol which is a dot so this is subconsciously
+[60:44] helps a viewer to read the text better and faster as well as absorb information quicker so this is how
+[60:54] it goes this one change stops pulling forever if i'm not mistaken we have some sort of copies yeah so we
+[61:03] could miss we could skip it for now but i hope you are now aware of the theory behind how the text should
+[61:10] look like here and this is how i approach text text editing so mainly we just skip the hook text because
+[61:18] we will edit manually here with with different style and it will not be captions anymore but it would be a
+[61:26] hook text
+[61:34] and shop the sale with cta we don't need it as well as with hook so the captions are going to be only with
+[61:43] the whole part then i like to just select all the captions go to the graphics entitled panel and press
+[61:52] upgrade captions to graphic now they are like graphic so let's work on the hook which gonna be is just
+[62:00] this for that reason we're gonna just press t
+[62:08] this change time is pulling forever now again we're choosing a heading now but this time we are choosing
+[62:16] the medium one as this is the title or the hook in our case
+[62:31] so in order to pop this text more i feel like it would better if we go with the background color
+[62:38] rather than adding some shadow or some other stuff so let's make it just white while filling the text itself with black
+[62:49] uh opacity is 10 i don't know what is that just expansion something and then roundness is i would say 21
+[62:59] i mainly do it based on my own instincts not based on some i don't know like observed settings that worked well or something like this
+[63:07] just what feels best to me at the moment
+[63:14] so now we could just place it somewhere in the middle because this is the most
+[63:22] the proper place in my opinion by the way we could even shift the pooling down yep
+[63:28] and just place it something like this and in order to keep it better as well let's do it this way
+[63:40] this one change stops pulling for forever yeah your dog's body is built here we go now cta
+[63:48] it should be something like this
+[63:56] for cta we do the same
+[64:07] the only thing is we might actually just leave it without the background nope let's keep it this way
+[64:25] uh let's make it smaller
+[64:27] here we go
+[64:30] 
+[64:30] 
+[64:33] the design of it is ready
+[64:36] well simply simply if we just take it as it is
+[64:40] our video ad is ready to publish so i feel like this should be it for the hook one
+[64:46] the remaining things is just uh taking this whole video duplicating it
+[64:51] two times and i reworking the hook part
+[64:58] so let's do that so in order to create hook two all i gotta do here is just right click on the h1
+[65:05] sequence duplicate it and rename it as i need it for my case it is h2 and now it is
+[65:12] fully new sequence which i can easily
+[65:15] edit which i can easily edit so base it on our uh brief the hook two should go with watch me out
+[65:26] by my dog so let's note let's write it here and same idea as we want but differently good
+[65:37] so we should here show mechanism yeah we should need to show some mechanism
+[65:45] we need to show mechanism plus the bungee leash or just mechanism itself
+[65:51] if it's long enough so we just delete it
+[65:56] and go to our stock library all right
+[66:01] i guess this could be enough for us this one change stops pulling for
+[66:05] so maybe we could take some longer versions of it something like this
+[66:18] now we should be good to go
+[66:25] this one change stops pulling forever
+[66:26] this one change stops pulling forever
+[66:30] it's not really good in terms of visuals maybe we could find even better yeah this is good this
+[66:36] should be good this one change stops pulling forever yeah this one change stops pulling
+[66:43] pulling for ever yeah your dog's body is built for pulling and that back clip harness
+[66:59] so yeah this is h2 now we need to do the same as we did with h2 just duplicate it
+[67:06] it rename it oh oh i guess i forgot to change the audio here not the audio but the hook hook
+[67:15] hook speech so it should be this one let's copy and apply the attributes
+[67:22] watch me outsmart my dog
+[67:26] yep
+[67:27] watch me outsmart my dog your dog's body is
+[67:30] yeah cool watch me outsmart my dog then we need to adjust it
+[67:41] watch me outsmart my dog your dog's
+[67:47] watch me outsmart my dog your dog's body is built for pulling and that back clip harness is making it
+[67:53] worse good now for h2 let's drag and drop the audio of the h2
+[68:00] three by the way since we have the dog since we have the dog with purple uh harness
+[68:10] it's kind of obvious that the gender of this dog is female right so as it's mentioned here you see
+[68:17] if dog is brown pink has a feminine name visible please swap to herself so that's exactly what we need to do here
+[68:25] maybe a little better watch my dog train herself watch my dog train herself
+[68:38] okay watch my dog train herself your dog
+[68:41] But the clip I guess it would be better to take this one.
+[68:49] It's really powerful clip here.
+[68:52] Yep.
+[68:53] A lifesaver for big dogs who like to take it.
+[68:57] This is the clip I wanted.
+[68:59] Let's adjust the length of it just to match with the script.
+[69:05] Watch my dog train herself.
+[69:11] I can make it smaller.
+[69:26] I feel like making it smaller will make it more easier to read first of all.
+[69:36] Watch my dog train herself.
+[69:39] I don't really like the voice over here.
+[69:44] Let's make it better.
+[69:49] Watch my dog train herself.
+[69:51] Let's add a little bit of stunt exaggeration and hence we need to decrease the stability.
+[69:58] Watch my dog train herself.
+[70:03] Watch my dog train herself.
+[70:07] Watch my dog train herself.
+[70:10] Watch my dog train herself.
+[70:11] Yeah, that's good.
+[70:13] Watch my dog train herself.
+[70:16] Your dog's body is built for pulling.
+[70:18] Watch my dog train her.
+[70:20] Yep.
+[70:21] Watch my dog train herself.
+[70:26] Your dog's body is built for pulling.
+[70:29] And that back clip harness is making it worse.
+[70:43] It connects right to their strongest muscles, creating a perfect lever system that lets them drag you down the street.
+[70:58] But here's what happens when you move that clip to the front.
+[71:00] Their own pulling force works against them.
+[71:03] Every time they try to lunge forward, the front attachment redirects that energy back towards you automatically.
+[71:08] So you're stopping their pull.
+[71:10] Alright.
+[71:11] In this section, I forgot to add one simple thing.
+[71:16] As you can see, the dog is pulling on the right side of the window.
+[71:23] Which makes the viewer kind of, I would say, put an additional effort to kind of follow the dog on the right side of the window.
+[71:34] So for me, the best way to, I would say, fix this is simply add a zoom in effect that will go straight to this side.
+[71:45] Of course, it wouldn't be so dramatic.
+[71:48] So we would have only dog visible on the screen like this.
+[71:52] Nope.
+[71:53] All I need is just to add some zoom in effect that I've already installed previously, like zoom in right.
+[72:02] And this effect you can find as well in the Malice Smooth Editing Pack that is available for free.
+[72:10] This is the guy who provides it all.
+[72:12] You just need to go to his YouTube and go to his, I would say, and find his links in bio.
+[72:18] And this is the one you need.
+[72:19] Free Smooth Editing Pack.
+[72:20] Once you click it, right, you will find the link to download it.
+[72:28] The most important part is for free, which is cool.
+[72:32] And that's it.
+[72:33] Once you install it, now you can access to all this effects.
+[72:38] So you're stopping there.
+[72:39] You see, we're kind of dragging the attention of the viewer to the right side of the window, which is cool.
+[72:45] Now in order to apply this to all other two variations of the hook, all I gotta do is just copy this clip, go to the others and apply, I mean, and paste attributes.
+[73:02] Okay.
+[73:03] As well as here, paste attributes.
+[73:06] Now it's good.
+[73:08] So now for the final round, we need to watch it again, just to try to understand it and find if, and find if there are any flaws, what kind of things that we need to improve or fix.
+[73:24] Watch my dog train herself.
+[73:26] Your dog's body is built for pulling and that back clip harness is making it worse.
+[73:31] It connects right to their strongest muscles, creating a perfect lever system that lets them drag you down the street.
+[73:36] But here's what happens when you move that clip to the front.
+[73:39] Their own pulling force works against them.
+[73:41] Every time they try to lunge forward, the front attachment redirects that energy back towards you automatically.
+[73:47] So you're stopping their pulling without pain.
+[73:50] No training needed, just physics doing the work.
+[73:52] The difference was immediate for my dog and over 400,000 other frustrated owners.
+[73:57] Stop battling your dog's natural strength and start redirecting it.
+[74:01] Shop the sale before it ends at dogfriendlyco.com.
+[74:06] Good, huh?
+[74:08] I really like it.
+[74:09] I really like it.
+[74:11] Now we're ready to publish it.
+[74:13] So I guess this should be it for the video ad breakdown.
+[74:18] Hopefully you were able to stick with me and kind of bear with me, especially with my explanation.
+[74:24] This is my first ever experience of like showing the video editing from the inside.
+[74:31] Like I've never done this.
+[74:33] This is my like true raw experience.
+[74:36] That's why I may have some problems with explanation.
+[74:39] Maybe in the pronunciation.
+[74:42] Hopefully you were able to understand it.
+[74:45] If no, please do not ever hesitate and reach me out in the, in the discord.
+[74:50] And this is me like, right?
+[74:53] My, uh, my nickname is kind of turned off simply because I am streaming, not streaming, but like recording the video.
+[75:02] So if you ever have any questions regarding the, the video that we did here, or you need something out of here, maybe project.
+[75:10] If Carlo allows me to do that, just feel free to reach me out.
+[75:15] And I guess that's it.
+[75:17] By the way, there is something that I wanted to tell you based on the, let's say my own self, self learnings from this video is to simply put a lot of effort in the music selection.
+[75:29] Because this ad that we already created with agency did well.
+[75:34] Like it has really good performance.
+[75:36] So the first reason why this video performed well for me is the simplicity of the video.
+[75:42] By of the video, I mean of the script itself.
+[75:45] It's easy to understand.
+[75:46] It's easy to understand.
+[75:47] And it is kind of like visible in almost every aspect.
+[75:52] The second thing is the music, something that kind of gets neglected.
+[75:57] And I don't know, always video editors try to like, uh, save their time on the music selection by going with the easy way.
+[76:07] But trust me, you need to put effort in finding the right track.
+[76:12] Of course, you need to, first of all, understand the path that you need to.
+[76:15] The path that you need to go through to search it.
+[76:18] Like, use AI for that reason.
+[76:20] So GPT just drop it.
+[76:22] Just drop him your script and ask him to analyze it or do it whatever.
+[76:27] Ask him for the emotional arc that your script is trying to, uh, that your script is trying to deliver.
+[76:34] And like, and then go one by one in your music library, whether it's artless, whether it's Epidemic Sound, whether it's whatever.
+[76:44] Like anything, even on the YouTube.
+[76:47] Just go and put an effort into searching for the right music.
+[76:51] What else do I need to say?
+[76:53] I guess that's it.
+[76:54] This is it for the first video at Breakdown of me.
+[76:57] So I guess you guys enjoyed it, hopefully, and maybe learn something from it.
+[77:04] If not, at least you may have seen how the video editing from the side of video editor really looks like.
+[77:12] Even though this was not the biggest project ever.
+[77:14] But this project did well performance wise.
+[77:17] And see you soon guys, because I'll be showing you the next video.
+[77:22] And in order to hook you in, I will actually show it.
+[77:25] So here's the video that I will be breaking down as a next video.
+[77:29] This is a bit more complicated, as you could see, just based on the duration of it, which is 2 minutes and 19 seconds.
+[77:37] This is VSL. The project's name is Reverse Aging VSL. So let's watch it.
+[77:43] This 48 year old millionaire spends $2 million a year to look 18 again.
+[77:48] But his most powerful protocol costs under $200.
+[77:52] Brian Johnson has made headlines spending millions on his quest to reverse aging.
+[77:56] Blood transfusions, experimental treatments, constant monitoring.
+[78:00] The internet can't stop talking about his extreme methods.
+[78:03] But buried in all that noise is something far simpler.
+[78:07] Yet it might be the most powerful anti-aging protocol he's discovered.
+[78:11] Complete darkness during sleep.
+[78:13] Here's what most people don't understand about aging.
+[78:16] Your body doesn't just repair itself randomly.
+[78:18] It follows a biological clock that's been perfecting cellular regeneration for millions of years.
+[78:24] But there's a catch.
+[78:25] This repair system only activates in complete darkness.
+[78:29] Not dim light, not dark enough.
+[78:31] Complete total darkness.
+[78:33] Even the smallest amount of light disrupts your circadian rhythm and shuts down critical repair processes.
+[78:40] That's why Johnson obsesses over this.
+[78:42] His bedroom is engineered for absolute blackout.
+[78:45] Because he knows what science has proven.
+[78:47] Darkness triggers the release of melatonin, growth hormone, and cellular repair mechanisms that literally reverse the aging process at the molecular level.
+[78:56] While you sleep in partial darkness, your body is running at 50% capacity.
+[79:00] Missing crucial repair cycles.
+[79:03] Aging faster than it needs to.
+[79:05] The difference between sleeping in dim light versus complete darkness isn't small.
+[79:09] Studies show it can add years to your life and drastically improve how you age.
+[79:14] But here's the problem most people face.
+[79:16] Regular curtains let in light.
+[79:18] Even blackout curtains still have weak points.
+[79:20] And DIY solutions just look terrible and barely work.
+[79:24] That's why we created guard blinds.
+[79:27] These aren't ordinary window coverings.
+[79:29] They're precision engineered blackout systems that create 100% darkness.
+[79:34] So complete, you can't see your hand in front of your face.
+[79:37] The patented track system seals every edge.
+[79:40] Blocking light that other solutions miss.
+[79:42] Installation takes five minutes with no drilling required.
+[79:45] Thousands of customers report deeper sleep, more energy, and yes, looking younger within weeks.
+[79:52] You don't need to spend millions like Brian Johnson.
+[79:55] But you can steal his most powerful secret.
+[79:57] Try guard blinds risk free for 30 days and transform your sleep and your health.
+[80:03] I hope you guys watched this video.
+[80:05] My damn ass forgot to record an outro.
+[80:08] But luckily you kinda enjoyed, learned anything from it.
+[80:12] If not, then I'm sorry guys.
+[80:15] And again, if you have any questions regarding this video, maybe projects wise, maybe scripts wise,
+[80:21] I mean maybe the clips wise, please do not ever hesitate.
+[80:25] Feel free to reach me out on discord.
+[80:27] Thank you, enjoy, peace.
+[80:29] Peace.
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 
+[80:30] 

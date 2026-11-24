@@ -1,0 +1,4 @@
+interface:
+  display_name: "FB Ad Copy"
+  short_description: "Write standard Meta ad copy"
+  default_prompt: "Use $fb-ad-copy to create 3 Facebook/Instagram direct-response ad copy variations for single image, carousel, or video, then validate and score the output."

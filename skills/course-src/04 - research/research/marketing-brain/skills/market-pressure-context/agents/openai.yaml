@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Pressure Context"
+  short_description: "Shared DTC creative methodology"
+  default_prompt: "Use $market-pressure-context before Marketing Brain research, angles, copy, validation, or scoring to turn market signals into belief-shifting creative tests."

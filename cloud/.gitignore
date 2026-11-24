@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.scratch/
+.state/
+.env
+*.sqlite*
+models/
+# runtime state written by ctl.py / dash.py / usage.py / claude_job.py (your own settings stay out of git too)
+controller/*
+!controller/app.py
+!controller/config.example.json

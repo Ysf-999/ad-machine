@@ -1,0 +1,143 @@
+{
+  "project": "Product ad - 2 hosts, wide plate, product insert",
+  "cast": "women",
+  "wpm": 165,
+  "chunkSeconds": 30,
+  "environment": "Warm podcast studio, acoustic panels behind them, two boom microphones on desk arms, soft key light from camera left.",
+  "hosts": [
+    {
+      "id": "A",
+      "label": "Woman 1",
+      "image": "@image1",
+      "audio": "File 1",
+      "side": "left",
+      "persona": "has a curious, skeptical, slightly amused personality"
+    },
+    {
+      "id": "B",
+      "label": "Woman 2",
+      "image": "@image2",
+      "audio": "File 2",
+      "side": "right",
+      "persona": "knows the subject better but speaks casually, like telling a friend something surprising rather than performing an advertisement"
+    }
+  ],
+  "refs": [
+    {
+      "slot": "@image3",
+      "kind": "wide",
+      "desc": "Woman 1 is seated on the left, Woman 2 on the right, exactly as in the close ups."
+    },
+    {
+      "slot": "@image4",
+      "kind": "product",
+      "desc": "Keep the label facing camera and fully legible whenever it is in frame."
+    }
+  ],
+  "chunks": [
+    {
+      "n": 1,
+      "beats": [
+        {
+          "slot": "@image3",
+          "host": "A",
+          "line": "Okay so you've been telling me about this for two weeks and I still don't get it."
+        },
+        {
+          "host": "B",
+          "line": "Because you keep asking me the wrong question.",
+          "reaction": "raises an eyebrow and half smiles"
+        },
+        {
+          "host": "A",
+          "line": "What's the right question then?"
+        },
+        {
+          "host": "B",
+          "line": "Not what's in it. How fast you actually feel it, and whether you'd still be taking it a month later."
+        },
+        {
+          "host": "A",
+          "line": "Fine. How fast do you actually feel it?"
+        },
+        {
+          "host": "B",
+          "line": "Four days. And I know exactly how that sounds, I'm not going to pretend I believed it either when she first told me about it."
+        },
+        {
+          "host": "A",
+          "silent": true,
+          "reaction": "sits back, half laughing, clearly not buying it yet"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "beats": [
+        {
+          "host": "A",
+          "line": "See, that face you're making right now is exactly why I don't trust any of this stuff, and you know that."
+        },
+        {
+          "host": "B",
+          "line": "I know. I had the same face for about a month.",
+          "reaction": "nods slowly, amused"
+        },
+        {
+          "host": "B",
+          "line": "But this is the one I kept in my bag, and I am not a person who keeps things in her bag.",
+          "prop": "lifts the bottle off the desk and turns it so the label faces camera"
+        },
+        {
+          "host": "A",
+          "line": "Okay hold on, let me actually see that thing properly."
+        },
+        {
+          "slot": "@image4",
+          "line": "Tight insert on the product sitting on the desk between the two microphones, label fully legible, shallow depth of field, same warm studio light."
+        },
+        {
+          "host": "A",
+          "line": "Huh. That's a lot smaller than I pictured in my head.",
+          "action": "leans in"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "beats": [
+        {
+          "host": "B",
+          "line": "That's kind of the point though. It's two in the morning, that's the whole routine."
+        },
+        {
+          "host": "A",
+          "line": "And that's it? No powder, no shake, no thirty minute thing?"
+        },
+        {
+          "host": "B",
+          "line": "No. And honestly if it was a thirty minute thing I would have quit in week one like I quit everything else."
+        },
+        {
+          "host": "A",
+          "line": "Okay that part I believe.",
+          "action": "laughs"
+        },
+        {
+          "host": "B",
+          "line": "Right? But that's why it stuck. The hard part was never the wanting, it was the remembering."
+        },
+        {
+          "slot": "@image3",
+          "host": "A",
+          "line": "So what actually changed first?"
+        },
+        {
+          "host": "B",
+          "silent": true,
+          "reaction": "gives a knowing look, mouth closed, like she is about to land the point"
+        }
+      ]
+    }
+  ]
+}

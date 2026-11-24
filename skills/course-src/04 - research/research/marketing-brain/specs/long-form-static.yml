@@ -1,0 +1,35 @@
+{
+  "name": "long-form-static",
+  "description": "Validates long-form static ad briefs for structure, copy depth, CTA, proof, and claim hygiene.",
+  "block_heading_regex": "^## (Static|Concept|Ad)\\s+\\d*\\b.*$",
+  "required_sections": [
+    "Concept Name",
+    "Target Archetype",
+    "Awareness Stage",
+    "Primary Hook",
+    "Body Copy",
+    "Visual Direction",
+    "Proof Element",
+    "CTA",
+    "Compliance Notes"
+  ],
+  "body_copy": {
+    "section": "Body Copy",
+    "min_words": 120,
+    "max_words": 420
+  },
+  "headline": {
+    "section": "Primary Hook",
+    "min_chars": 8,
+    "max_chars": 120
+  },
+  "banned_patterns": [
+    "guaranteed cure",
+    "guaranteed results",
+    "clinically proven to cure",
+    "works for everyone",
+    "no side effects",
+    "fake scarcity"
+  ],
+  "price_mismatch_severity": "warning"
+}

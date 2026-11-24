@@ -1,0 +1,130 @@
+[00:00] Now we're going to go ahead and talk about the beginning of the research and the script writing.
+[00:06] So for this example, I found a winning ad. And this is actually an ad that actually has been
+[00:10] running for a long time. It's been doing good for this company. It tells a story, right? This is a
+[00:14] board game and it helps like grandparents connect to their kids. And so it's actually, you know,
+[00:20] you can do this with like native ads. If they have native ads, that's converting. So what I did is I
+[00:26] went ahead and I downloaded this actual ad itself and I put it on a PDF. And then I went into chat
+[00:33] GPT and I uploaded, I uploaded the document here for the plot compendium. Probably I'm sleepy. So
+[00:41] don't, don't judge me for that. Right. Where it helps you write the drama ad scripts. So I uploaded
+[00:46] that and then I uploaded my PDF over here. Like I said, I just added the screenshots of the PDF.
+[00:51] PDF. And so then I said, create a script for a drama ad for the Uzzel product. And again,
+[00:57] so inside of my chat GPT, I have a folder that has like the Uzzel research and, and avatars and
+[01:05] things like that. That's why I said, it's super important to have, you know, your research done.
+[01:10] If it's not saved on your computer, you can upload your, your avatar information here as well.
+[01:15] And I said, you know, and then I gave it a little bit of direction. It's about a grandparent.
+[01:19] I'm going to give you five screenshots of a PDF of a winning ad. It's an image ad and I want to
+[01:24] turn it into a drama story. It should, and then like, what you want to do is tell it how long you
+[01:29] want the video to be. I did not want this video to be super long. So I said it should be no longer
+[01:34] than two minutes. And actually I think I said, I changed it. I don't want it to be longer than
+[01:38] one minute, but I want it to still pack an emotional punch. So what it's going to do is this going to,
+[01:43] um, it, you see here that it plugged in my market research and then it followed the,
+[01:47] the drama ad script file. And it came up with this script right here. So it gives you a script.
+[01:54] It gives you like a visual opening. So what you want to do is you want to really read through this
+[01:59] and see that it makes sense to you. So the way that the script is written is they use kind of
+[02:05] broken sentences or super short sentences. So you really want to like read through it,
+[02:11] look at the visual and see if it's something that you like. And so you might need to do a little bit
+[02:17] of back and forth with it. And in this instance, I asked, Hey, should there be a narrator? Cause I
+[02:22] wanted a narrator in it. And so it added a narrator. So you can be super creative. You could also just
+[02:28] use what it gives you. Right. But I do definitely recommend don't necessarily always go with the first
+[02:34] output. You want to push the AI to do better or, you know, whatever ideas you had. Okay. And so I,
+[02:41] I then said, Hey, let's rewrite it, dig deep, an emotional punch in the gut that the viewer should
+[02:47] feel her pain. Like I want the viewer to feel the grandma's pain. Right. So this is, this is stuff
+[02:52] that I usually say to, to the AI to like push it. I never accept the first thing that it puts out.
+[02:58] And so then it says, yeah, let's make it hurt more. Right. And so you want to go through this
+[03:04] process. I'm not going to show you like everything that I did here. I also, for drama ads, I love
+[03:10] having a flashback. So I will literally say, Hey, we should have a flashback and then I'll tell it what
+[03:15] I want the flashback to be. And so it'll rewrite that in. So these are just, you don't have to follow
+[03:20] this, but I like to do that. So I just wanted to walk you through my process. Okay. So the next thing
+[03:25] that you can do is this is when you're going to actually tap into that skill that you have.
+[03:29] So you can tap into that skill here. I just uploaded the skill. If I was lazy, I didn't feel
+[03:35] like actually adding it and creating it as a skill, but definitely do that. But I took this and I said,
+[03:40] now let's go ahead and actually start generating the drama. So it locked in the script. And what you
+[03:46] guys have to do is you have to actually read. There is no shortcut on this. So you want to make sure
+[03:51] that you tag the skill and you pretty much tell it like, okay, let's go ahead and start generating
+[03:56] the drama. And so it's going to review the script. And then what it's going to do is it's going to
+[04:01] give you some creative direction. This is the part that cannot be rushed. A lot of people will say,
+[04:07] Oh, I automated creating videos, but you really got to take the time upfront on the scripting and then
+[04:13] the creative direction. This is the visualization that I was mentioning before. So it gives you the
+[04:18] product, it gives you a review of everything. And so what you want to do is you want to read through
+[04:24] the visuals, what's happening. You know, it's talking about the different environments.
+[04:29] I'm not going to actually go through it on this video. And then it always, it's, so it was literally
+[04:34] telling you what it's going to, you know, the plan of what it's going to do. And then it says,
+[04:38] you know, use a pilot before, before batch creating. So for this ad, it's going to pick the strongest,
+[04:43] one of the strongest parts of the video, the drama, and it's going to create the pilot video
+[04:49] around that. And so the next part of the process is it tells you, Hey, the script has been approved.
+[04:57] So the next thing we need to do is pick the cast or the characters. Okay. And so now it's actually
+[05:02] naming off the characters, you know, grandma, grandson, granddaughter, the mom, and then the
+[05:08] younger kids as a flashback. And so then it says that when we create the cast, you know,
+[05:15] these are the assets we're going to create, right? So the grandma, the front face, the profile
+[05:19] and the outfit, grandson, front face profile outfit. Okay. So again, I'm not going to read
+[05:24] through all this, but definitely it's, it's going to tell you, these are the assets that we need to
+[05:29] generate. These are the environments we need to generate. So a couch, a coffee table, the kitchen,
+[05:35] the living room. And, and actually when I went through here, I wanted a, I wanted them to have
+[05:40] part of the conversation in the girl's bedroom. So I added that in as well. Then it tells you, okay,
+[05:46] these are the number of voices that we're going to need. And so this is what then we'll generate.
+[05:51] So it actually literally gives you a plan. And whenever you're lost or don't know what to do,
+[05:56] like you literally just say, okay, so what's the next step? And so in this instance, the next step
+[06:01] was to build the production pack, which means confirming the cast, right? So it broke down
+[06:06] in more detail what the cast was, and it gives you the list again.
+[06:15] And so again, just have conversations with it. That's the biggest thing. Like no workflow is the
+[06:20] same. You guys's output might not be the same as what I'm doing that it's given me here. But as long
+[06:26] as you know, the flow, just keep going with it. And if you ever get lost with the skill, just ask it.
+[06:30] So then it went on to create the cast. And I'll show you here. This was the cast that it created,
+[06:38] it generated these, usually it generates like images individually. But for some reason, I asked it to
+[06:44] generate all four images at once, and it generated them all in one image. But that's okay. I said, Hey,
+[06:51] let's go ahead and create the individual character sheets. So then you'll get these individual character
+[06:56] sheets that the AI is going to use as references. I will let you know if you're generating children
+[07:02] through key, it might be a little bit tricky. I generated the images of the children in chat GPT
+[07:09] directly in the chat. And it was okay with generating them. So you just pick the ones that you like the
+[07:16] best. And then I said, Okay, I selected them. And I said, Let's lock these in. What's the next step?
+[07:22] And so that's literally how I get through this is if you're not sure, just say, Hey, what's the next
+[07:27] step? And so then it'll tell you the next step is the environment pack. So then it created the
+[07:32] environment. And so it created environment. But then I also wanted it to create a master reference
+[07:38] sheet in case so that it could get like the different angles. So I'll click on that image here,
+[07:43] you can see like, it has the details, the color palette and all these kind of things,
+[07:48] because it's going to use that to give it to see dance as references to get the better output for
+[07:53] you. And so then I said, What's the next step? So guys, you can see a pattern for me, right?
+[07:59] If you've never used a skill before to say, What's the next step? What's the next step? Okay,
+[08:03] this is locked in. What's the next step? The next step is it needed some hero images of the product.
+[08:08] And I because I totally forgot that I needed those.
+[08:11] It told me here something was not allowed for the Azul drama, there are things and this was just
+[08:18] compliance. So it'll tell you like if there's some compliance things that's not allowed,
+[08:22] it'll tell you and you can push it. And so I needed it to create a hero product image.
+[08:28] So I uploaded these like individual images of the game itself. And it came up with like a game
+[08:35] reference sheet here, that would be like of how it would look like. And I believe this one wasn't
+[08:41] accurate here that the cube wasn't accurate. So you can go back and forth if you need to on that.
+[08:47] And then I uploaded a video of what the actual gameplay looks like, like the hand movements,
+[08:51] you don't have to do this. I'm just walking you through how I did it.
+[08:58] And so then I told them like, Hey, this wasn't right. So now the cube has to there, right? So
+[09:03] if you need to edit these, just add it back to the chat. And so like this one, I said, Hey,
+[09:10] cause right here, it's got three, but these cubes only have two cubes that are connected.
+[09:14] And then I want it to have a over the shoulder shot. So this was an example of one of their B
+[09:20] rolls. And so you can see now how it's sort of updated the product reference sheet there.
+[09:28] And I said, Hey, that's perfect. What's next? Right. And so now it's going ahead and building out,
+[09:34] what are these videos going to actually look like? It's planning it out.
+[09:39] So I said, let's go ahead and do that. Do we need to lock in any voices or anything?
+[09:43] So it's trying to plan the next process
+[09:45] where it's going to lock in the voice. Sometimes you might have to remind it like, Hey,
+[09:52] do you have access to my 11 labs? Like if it doesn't give you access to it. And so it'll double
+[09:57] check your API key. And I did have a little bit of issues because I didn't have my, my API key
+[10:03] connected. So I went ahead and selected, I logged into 11 labs. I downloaded it and then uploaded it.
+[10:09] And I said, Hey, here's the narrator's voice. And actually in this instance, I was lazy. I did not
+[10:15] pick a voice out for every person. I only picked out the narrator's voice and C dance did actually
+[10:21] okay with the other voices. So, but in most cases, it's going to have you pick out the actual 11 labs.
+[10:28] So what it'll do is it'll connect to your 11 labs API and it will give you like two or three options
+[10:33] of voices that you can select for each of the characters. So this is prompting the pilot.
+[10:42] And again, you can see I had, I had, I had issues with the API key. So I'm just going to scroll
+[10:55] through here. So it says the next step is to create a pilot video. Let's see if I can find it there.
+[11:08] So you can see here that it's saying, Hey, it's, it was actually creating out the prompts. So if you
+[11:17] will need to do this manually, you can copy and paste, it'll tell you what images to upload.
+[11:22] And I went ahead and just gave it my API keys to start generating.
+[11:33] So I'm showing you fully transparent that I did have issues because you're, you might run into
+[11:37] issues. I got frustrated and I said to, Hey, just use CDNs 2.5. Well, you know, what are you doing?
+[11:44] The SOP documentation, you know, doesn't tell you how to handle API keys. So again, I'm showing you
+[11:50] this because I want to be transparent because you're going to run into issues. And so sometimes
+[11:54] you just have to talk to the AI, Hey, do you have the API key documentation? Why aren't you able to
+[11:59] generate it? And what's actually funny about this is that, um, the reason why I had a hard time
+[12:08] generating this was actually because I created it in the normal chat and I should have created it in
+[12:15] codec. So again, I'm just showing you where I messed up to be truly authentic and transparent in the video.
+[12:22] 
+[12:22] And I'm just showing you how to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it to be able to make it a lot of want.

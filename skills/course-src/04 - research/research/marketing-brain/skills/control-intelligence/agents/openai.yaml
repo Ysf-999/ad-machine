@@ -1,0 +1,4 @@
+interface:
+  display_name: "Control Intelligence"
+  short_description: "Deconstruct winning assets"
+  default_prompt: "Use $control-intelligence to deconstruct winning ads, scripts, landing pages, and competitor controls into reusable DTC creative patterns, belief shifts, proof stacks, and variant ideas."

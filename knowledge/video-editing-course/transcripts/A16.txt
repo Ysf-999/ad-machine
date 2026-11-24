@@ -1,0 +1,132 @@
+# A16 Video Ads Mastery / 16 ai content upscaling.mp4
+
+[00:00] Did you ever have to work with crappy footage, you know, low quality, noisy, 360p, just unusable?
+[00:12] Just hated every second of it.
+[00:14] If you have and you hated it, there is a solution and it's called content upscaling.
+[00:23] You don't have to deal with bad quality footage anymore because you can simply upscale it.
+[00:28] You can turn it from 360p to even like 4k if you want it.
+[00:34] And this works for both images and videos.
+[00:38] And it helps us basically if you want to use some footage from the internet, but it's low quality, it helps us upscale it a bit so it's usable.
+[00:48] Or if we have some images of the products, but they're shit, it helps us enhance them a bit or upscale them.
+[00:55] And I'm sure there's a lot of tools out there that basically help with this.
+[01:02] A lot of AI softwares, a lot of AI tools that do the same thing.
+[01:09] I don't know all of them.
+[01:10] I'm going to show you the ones that I use, the ones that my team uses.
+[01:14] And they're working for us pretty well right now.
+[01:18] If something new, something better comes out in the future, I'll make sure to update this video.
+[01:24] But I'll show you what we use now to kind of turn crappy footage into usable footage.
+[01:30] So we use something called Topaz.
+[01:32] And they have a few other softwares as well.
+[01:36] But these are the two main ones that we use.
+[01:38] So for images, Topaz Gigapixel AI.
+[01:41] I think they also have Topaz Photo AI.
+[01:44] That kind of lets you do a bunch of different things.
+[01:47] But I just have Topaz Gigapixel.
+[01:50] And it's proven useful many, many times.
+[01:54] And Topaz Video AI is basically the same thing but for video.
+[01:57] So now I'll show you how I use both.
+[02:01] Sorry.
+[02:01] Sorry.
+[02:02] So I have this image right here.
+[02:06] And I'm going to open it with Topaz Gigapixel.
+[02:13] It's going to take a second.
+[02:15] But it should be open.
+[02:17] Cool.
+[02:17] So this is a random image I found on Pinterest.
+[02:20] And as you can see, when you zoom in, it's all blurry.
+[02:23] It's disgusting.
+[02:25] And Topaz already did its thing.
+[02:27] As you can see, when you basically hover left to right, you can see how much noise it removed.
+[02:37] And it basically upscaled it.
+[02:39] So it turned it from whatever it was into, I don't know what the output resolution is on this.
+[02:49] But as you can see, it made the image better and it made the image more crisp.
+[02:55] It removed the noise.
+[02:56] And it just made it usable, basically.
+[02:59] So you can actually zoom in it.
+[03:02] And this is how it looks like from here.
+[03:04] It just looks more crisp.
+[03:07] And this is really as simple as it gets.
+[03:11] You upload an image here.
+[03:14] You don't have to upload it.
+[03:15] You just have to import it because this is a software you can download on your Mac or PC.
+[03:21] You just hit which model you want to use.
+[03:24] So we have standard lines, art, low resolution.
+[03:27] So let's see how it actually does on low resolution.
+[03:31] If it does any better.
+[03:33] Okay.
+[03:37] It's decent.
+[03:40] The only issue I see here is the Apple logo.
+[03:43] But the rest looks pretty clean.
+[03:46] I'm not going to lie.
+[03:47] If you hit this, this is basically the auto model.
+[03:52] Basically, the AI decides which model works the best.
+[03:55] But sometimes you have to choose manually to get the best results.
+[03:59] This works for faces as well.
+[04:01] You have here face recovery.
+[04:03] And yeah, overall, a really, really nice tool that helped us a ton of times to upscale and turn bad quality images into good quality images.
+[04:16] Now I'm going to show you how I do basically the same thing for videos.
+[04:20] So I'm going to open Topaz Video AI.
+[04:27] I'm going to hit browse.
+[04:29] And I have two examples here.
+[04:31] So I have first one, which is this.
+[04:34] It's really high-paced, dynamic video.
+[04:39] Like a lot of stuff is happening.
+[04:42] And I think it's in.
+[04:43] Yeah.
+[04:44] So you can see input, as you can see here on the right, is 360 times 740.
+[04:51] Like that's disgusting.
+[04:52] You can't use that on social media nowadays.
+[04:54] Right.
+[04:55] And here you can choose the output resolution.
+[04:58] You can choose two times upscale or four times upscale.
+[05:00] Let's do four times upscale.
+[05:02] That's going to give us 1440 times 2560.
+[05:07] And here you can do a lot of different stuff.
+[05:10] You can do stabilization.
+[05:12] So if the footage is shaky a lot, you can stabilize it.
+[05:15] You can do motion to blur.
+[05:17] You can do frame interpolation, which is just slowing it down, basically.
+[05:21] So here you can choose how much you want to slow down the video.
+[05:25] So if you want maybe to turn a regular shot into a slow motion shot, you can do that with this tool as well, which is just another cool feature.
+[05:34] But we're not going to do that now.
+[05:36] We're just going to enhance or upscale the video.
+[05:39] So here you choose like the AI model.
+[05:43] I'll just use this basic one for this one.
+[05:48] Parameters, auto, everything's good.
+[05:50] These are the settings I use for this.
+[05:54] So you have that as well.
+[05:57] And then I hit export.
+[05:59] And then I believe it should be done in like a couple of seconds since the video is just like three to four seconds.
+[06:05] But let's see how much it actually takes.
+[06:09] Yeah.
+[06:09] Eighteen seconds.
+[06:10] okay now that it's done i'll show you a side to side comparison so it's this one
+[06:17] this is the original and then upscaled one is this and as you can see the difference
+[06:25] just by just by looking at these two is insane um like this is obviously hard quality crisp
+[06:33] and this is just like if you you know size this you can see direct you know um side to side
+[06:42] comparison but i'll play this clip now three i just i think it's like cool and then i'll play this
+[06:47] three i just i think it now obviously the only downside is that it didn't really recognize
+[06:54] this guy's face here but it didn't really had a lot to model on to be honest so i can't really be mad
+[07:03] but like all the other details are just so so so much smoother like even this text in the background
+[07:11] you can see it's much more crisp like this punching bag you can see how how nice it looks like how nice
+[07:17] it looks basically so that's that and then i have another example that i want to do so i have content
+[07:25] upscale example two which is which includes faces and like talking head videos and so we're going to
+[07:32] hit enhancement we want output resolution let's do four times upscale and you have these different ai
+[07:39] models and now i'm not an expert on this um they they probably have more information on this on
+[07:46] on top as a website but i know they have this uh model called iris which is for face and like
+[07:55] recovering face and like upscaling faces and input condition i would say is low quality
+[08:01] um parameters auto cool and then just hit export as cool export and i actually see there's upgrade
+[08:10] available and i i haven't upgraded this in like probably two years so there's definitely um probably
+[08:17] a lot new features um that are even better but hey if it works it works so i'll just keep on using
+[08:24] this uh maybe i'll upgrade to see what's new but it's been working very well so far for me both for
+[08:32] um slowing down footage and and enhancing footage um looks like this is going to take a bit longer
+[08:37] about 30 seconds so i'll pause now okay looks it's done um let's do another side by side comparison
+[08:46] so this is the original i'll resize it so it fits the whole screen and then this is the upscale
+[08:55] and you can see how how crisp and how smooth this looks like even though like you can tell there's
+[09:04] some effects going on here but it's still like it's still usable right lifting rolling sparring
+[09:11] and this just looks very bad and this days a week lifting rolling sparring and yeah
+[09:17] just looks a lot a lot better than than this one so yeah um to not make make this video
+[09:24] unnecessarily short uh unnecessarily long as the ai voiceover one that's pretty much it that's
+[09:31] that's that's how to upscale content from unusable to 4k and as you saw like 10 seconds that's what we
+[09:41] use so yeah that's pretty much it thank you
+[09:44] you

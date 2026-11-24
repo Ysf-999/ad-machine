@@ -1,0 +1,734 @@
+# A17 Video Ads Mastery / 17 ai voiceovers.mp4
+
+[00:00] All right, let's get into AI voiceovers.
+[00:03] So by the end of this video, you will be able to generate voiceovers with AI.
+[00:10] And they'll be so good that people don't even recognize their AI, basically.
+[00:17] That's the whole goal of this video.
+[00:19] And a lot of people, when they hear AI voiceovers, they think of like, you know, that TikTok sound.
+[00:26] Or like, I don't know, just super AI stuff.
+[00:29] But we're kind of doing something different.
+[00:32] We're basically generating these so well that like sometimes we send this to clients and they're like, oh, where did you get this content?
+[00:43] And we're like, it's AI, right?
+[00:46] So I'll now play this video.
+[00:48] We actually made this ad last week for this client.
+[00:51] And it's on pace to become a top spending ad in account, which means it has very good potential to become a winning ad for this client.
+[01:00] And all we used to make it was AI voiceover and product B-roll.
+[01:06] That's it.
+[01:06] And the beauty of generating voiceovers with AI is that you don't have to wait for creators to record content.
+[01:14] You don't have to wait for someone to record the script.
+[01:17] You don't have to worry if they mispronounce a word or stuff like that.
+[01:21] You just do it yourself with AI.
+[01:23] And basically, it's fast, it's easy, and it's effective if you know how to do it right.
+[01:29] So I'll play the video right now so you can see for yourself and kind of decide if you would ever be able to tell that this voiceover is actually AI and not like a real person talking.
+[01:44] So I'll just play the video now.
+[01:45] If you have a humidifier at home, let me show you something that actually blew my mind.
+[01:51] You know when your humidifier starts getting all gross and you can't really clean it properly?
+[01:56] Well, someone finally made one out of stainless steel, like actual stainless steel.
+[02:01] At first, I was like, okay, but why though?
+[02:03] Then I realized you can literally sterilize the whole thing, like fully clean it.
+[02:07] See how it just comes apart?
+[02:09] No weird corners or spots you can't reach.
+[02:11] The craziest part is this was invented by a doctor who got tired of throwing away moldy humidifiers.
+[02:16] And look, this is after using it for a month.
+[02:19] Still completely clean.
+[02:21] No more filters to buy either.
+[02:22] And this is perfect for my baby girl's nursery.
+[02:24] I honestly wish someone told me about this sooner.
+[02:28] Yeah.
+[02:28] So as I said, this is on pace to become a winning ad.
+[02:33] And it's probably a good ad to break down and kind of analyze how it's edited, how it looks like.
+[02:40] And it's like a good example of, you know, organic UGC ad.
+[02:44] And it's working well for this client.
+[02:46] So I won't get on a tangent here about editing.
+[02:52] You came here to learn how to do AI voiceovers.
+[02:56] And that's exactly what I'll show you.
+[02:59] I actually have two examples pulled up here.
+[03:03] They're here.
+[03:04] So we'll be doing AI voiceovers for two scripts.
+[03:07] One will be script for this client that I showed you now that sells humidifiers.
+[03:13] And then other one will be for a different product, Honeypacks.
+[03:17] It's basically a male enhancement product.
+[03:20] So it helps men, you know, perform better in bed, last longer, that kind of stuff.
+[03:26] And we'll be generating scripts for both of them.
+[03:30] And to generate scripts, we use something called Eleven Labs.
+[03:34] So that's software.
+[03:36] It's not free.
+[03:37] It's paid.
+[03:37] And there is a free version, but it's not that good.
+[03:43] And basically, you have a bunch of different features, a bunch of different use cases for Eleven Labs.
+[03:50] So we have voices.
+[03:52] You have library.
+[03:54] And then in library, you can search for different types of voices, different.
+[03:59] So like you can filter by, yeah.
+[04:02] So first you can filter by language.
+[04:04] So let's say we want English.
+[04:07] We want English, right?
+[04:08] And then you can even filter by accent.
+[04:11] So I don't know.
+[04:12] We want American.
+[04:14] And then here you have even more filters.
+[04:16] So we have, I don't know.
+[04:18] It is a profound truth that the deep things in science are not found.
+[04:22] I messed that up.
+[04:24] You have gender, male, female.
+[04:27] I don't know what the fuck neutral is, but you have neutral.
+[04:30] And then you have age as well.
+[04:32] So young, middle-aged, older, depending on what you need.
+[04:35] So let's say we want young, English, American.
+[04:45] Middle-aged.
+[04:50] Cool.
+[04:50] And then you basically get a lot of voices.
+[04:53] And then if you want to filter by gender.
+[04:56] So let's say we want female.
+[04:58] Cool.
+[04:59] And then if you hit all, you'll basically get a lot of different voices that you can use.
+[05:05] And then you just...
+[05:06] Hi, I'm Annie Kay.
+[05:07] I'm really looking forward to narrating...
+[05:09] You can, you know, hit here to preview them.
+[05:12] And if you want to use them, you just hit add.
+[05:15] And they'll be added to your library.
+[05:17] My library is now full.
+[05:19] But you just hit add.
+[05:20] And then you just use it when you're, you know, when you're making scripts.
+[05:26] Which I'll show in a bit.
+[05:27] But yeah, you have like a bunch of different kind of, not niches, but like types of voiceovers.
+[05:37] You have social media, entertainment, and TV, advertisement.
+[05:41] A bunch of different stuff that you can kind of filter and go through.
+[05:45] And yeah, you can pretty much find very good voices that sound, you know, just like real humans.
+[05:52] That sound authentic.
+[05:53] That don't sound like AI at all.
+[05:55] And you can basically generate very good and very authentic sounding voiceovers here in Illelion Labs.
+[06:05] You also have stuff like text to speech.
+[06:09] This is where you basically choose a voice.
+[06:13] So when you save some voices, you choose a voice, right?
+[06:16] So I don't know, John Paul.
+[06:18] You type in what you want to generate.
+[06:20] So you paste in your script and you hit generate.
+[06:23] So that's text to speech.
+[06:24] You have voice changer.
+[06:26] So if you have, like if you want to basically read out the script yourself, like record a script on your phone, like on your microphone, whatever you're using.
+[06:39] And then upload that audio file.
+[06:43] And then choose the voice.
+[06:44] And basically, like the pronunciation, the tone of voice and everything will stay the same.
+[06:50] But it won't be your voice anymore.
+[06:52] It'll be the voice that it's used here.
+[06:54] So that's basically a cool feature you can use when you have trouble generating some scripts, you know, from text to speech or stuff like that.
+[07:05] You can, you know, record the voiceover yourself, upload it here, and then just change the voice.
+[07:10] Just switch the voice, basically.
+[07:11] That's what voice changer is.
+[07:13] You also have sound effects.
+[07:14] You can generate sound effects with text, which is quite cool.
+[07:19] So let's see how this generates ticking.
+[07:24] I guess someone from the team used this because I don't remember generating anything about ticking.
+[07:31] But let's, it's pretty good.
+[07:36] Okay, that one's not that good.
+[07:43] Yeah, I mean, that's, that's ticking.
+[07:46] I'm guessing you can, you can get a bit more specific with it.
+[07:51] But yeah, pretty cool feature.
+[07:54] You can generate, like if you need a specific sound effect and you can find it somewhere,
+[07:58] you can just generate it here.
+[08:01] So that's, that's pretty cool.
+[08:03] And then what we use to actually generate voiceovers is something called Studio.
+[08:08] So if you go to Studio and you hit start from scratch, you choose which model you want to use.
+[08:17] We recommend 11, 11 multilingual V2.
+[08:22] That one's, that one's the best.
+[08:24] That one's most like, most human-like sounding, if that makes sense.
+[08:30] So that's what we use.
+[08:31] Quality.
+[08:32] I think you have to go to ProPlan, like to have like, you know, ultra sound quality.
+[08:38] But to be honest, Standard is what we use.
+[08:40] And Standard is perfectly fine for what you need.
+[08:44] So just go here.
+[08:47] Boom, perfect.
+[08:48] Now we have Untitled Project.
+[08:49] And I just usually like to rename the project for the concept that we're working on.
+[08:55] So just do this.
+[08:57] And then for example, Chapters, you can, you can name chapters by parts of your script.
+[09:03] So let's say we're working on CarePod, Chronic Conditions Angle, and we want to generate this text for Hook 1, right?
+[09:10] So we go here, this chapter, I'll just rename it into Hook 1.
+[09:18] I go back here.
+[09:20] I just copy all of this.
+[09:23] Boom.
+[09:23] Boom.
+[09:24] Now I have this in here.
+[09:26] And you basically need to choose the voice.
+[09:31] And for this one, I want to use CarePod Mama.
+[09:35] That's what it's called.
+[09:38] I like to remove this one.
+[09:41] I don't know how do I remove it.
+[09:53] Okay, never mind.
+[09:54] I don't know how to remove it.
+[09:55] But we want to use CarePod Mama.
+[09:58] And basically we replicated this voice from one of our creators.
+[10:03] And I just realized I forgot to mention that.
+[10:05] So you can do that as well.
+[10:07] So you can basically upload any voice.
+[10:11] You can, I don't know, you can record yourself talking to a microphone for a minute.
+[10:16] Upload that in there and you'll be able to replicate your own voice.
+[10:20] You'll be able to generate anything you want to say with just the text, right?
+[10:26] So that's called Instant Voice Clone.
+[10:30] You use that when you want to do that.
+[10:32] And we'll cover that in the second example.
+[10:35] So for now, we'll just use the, we'll just use, let's say we found this voice in, you know,
+[10:43] library that I just showed you.
+[10:45] So we found a voice that we like.
+[10:46] We saved it.
+[10:47] And then when you save it, you'll be able to find it here, basically.
+[10:50] So that's, that's what I was referring to before when I said you just, you just hit add.
+[10:55] And then it will be added to your library.
+[10:57] You found it here and you use it.
+[11:00] And then before you actually start generating, you hit these, these here.
+[11:06] And these are basically some, some kind of metrics and some stuff that you can customize
+[11:13] and modify a bit before you start generating voiceovers.
+[11:17] So you have stability.
+[11:20] It basically explains what, what each is.
+[11:24] This is usually the setup that I like to use.
+[11:27] So I think by default, there'll be something like this.
+[11:30] And this will be here.
+[11:32] And usually I like to have stability, like around 35 similarity, around 40.
+[11:39] And then style exaggeration, I like to have around, at around 15.
+[11:42] It depends on like every voice that you use.
+[11:46] Every voice is different.
+[11:47] And every voice needs a bit more tweaking.
+[11:49] So maybe for some voices, it'll be, you know, more beneficial to leave it at more stable and stuff like that.
+[11:57] Same for similarity and same for style exaggeration.
+[12:00] It really depends on the voice you're working, working with.
+[12:04] So you just need to kind of play around with it and kind of generate a few times.
+[12:09] So you kind of see how it, how it sounds like, and then just, just go from there basically.
+[12:16] But yeah.
+[12:17] So how this thing works is, so we have a project, right?
+[12:21] And we're working on hook one.
+[12:23] This is the chapter instead of the project.
+[12:26] You highlight all three, all three lines.
+[12:29] So these are different lines.
+[12:30] You highlight all three and then you just hit generate.
+[12:34] And then we wait a bit.
+[12:36] My son's severe asthma diagnosis taught me one thing.
+[12:39] When it comes to the air your child breathes, you shouldn't compromise.
+[12:45] Desperate to ease his symptoms, I followed our pediatrician's advice and bought a humidifier,
+[12:51] hoping it would make a difference.
+[12:53] Okay.
+[12:54] Cool.
+[12:55] And now you, you see basically how this works.
+[13:00] Super easy, super simple.
+[13:02] And what do you, what I actually want to do here is move this into the same line.
+[13:09] So it doesn't have that awkward pause in between.
+[13:12] And this is the thing that is the most important when, when generating voiceovers and when, you
+[13:18] know, making sure they actually sound authentic.
+[13:20] You have to play around with how the text here is formatted.
+[13:24] So you can just like, you can just expect to, you know, copy the whole script, paste it in here, hit generate.
+[13:31] That's done.
+[13:32] You'll have a perfect sounding voiceover.
+[13:34] No, you have to, you have to generate stuff.
+[13:37] You have to listen to it a couple of times.
+[13:38] You have to kind of play with formatting a bit.
+[13:41] So, um, for example, that's why I moved this into the same line.
+[13:46] And now if I hit generate again, it's going to regenerate this part here.
+[13:50] And this one will stay the same as before.
+[13:53] My son's severe asthma diagnosis taught me one thing.
+[13:56] When it comes to the air, your child breathes.
+[13:59] You shouldn't compromise.
+[14:01] Cool.
+[14:03] And that's perfect.
+[14:04] And now if I, if I want to see how, how the whole thing sounds together, I just hit play.
+[14:09] My son's severe asthma diagnosis taught me one thing.
+[14:13] When it comes to the air, your child breathes.
+[14:15] You shouldn't compromise.
+[14:18] Desperate to ease his symptoms.
+[14:19] I followed our pediatrician's advice and bought a humidifier, hoping it would make a difference.
+[14:25] Okay.
+[14:27] Okay.
+[14:27] I want to regenerate this one because it sounds just a, just a bit off.
+[14:31] So I want to regenerate it.
+[14:33] Desperate to ease his symptoms.
+[14:35] I followed our pediatrician's advice and bought a humidifier, hoping it would make a difference.
+[14:40] Okay.
+[14:41] This is perfect.
+[14:42] And then once you're done, once your hook sounds, sounds good, you just hit convert and then convert chapter.
+[14:49] We want to convert hook one, hit convert.
+[14:53] It's going to generate it, kind of piece it together.
+[14:56] You hit download.
+[14:57] And boom, that's it.
+[15:00] You have it downloaded.
+[15:01] And then you just do whatever you do, whatever you need with it.
+[15:04] Right.
+[15:08] Let's do this one.
+[15:09] So now I'll make a new chapter.
+[15:17] I'll make a chapter for hook two.
+[15:21] Cool.
+[15:24] Let's see.
+[15:25] I don't know.
+[15:26] I don't know.
+[15:27] I don't know why it ought to use this one, but I don't know why that's even here, but it doesn't matter.
+[15:34] So I'll just tag everything and hit generate.
+[15:40] Okay.
+[15:40] Okay.
+[15:41] My recent COPD diagnosis taught me one thing.
+[15:43] When it comes to the air you breathe, you can't afford to compromise.
+[15:47] I tried humidifier after humidifier.
+[15:48] I tried humidifier after humidifier hoping for relief.
+[15:51] So we go.
+[15:52] Okay.
+[15:53] Okay.
+[15:54] Okay.
+[15:55] So first thing I want to do here is if you've listened carefully, this obviously, again, needs to go here.
+[16:05] My recent COPD diagnosis taught me one thing.
+[16:08] When it comes to the air you breathe, you can't afford to compromise.
+[16:10] So this is what I like to do sometimes.
+[16:13] I like to read lines myself.
+[16:16] And for example, I realized I should probably highlight this word.
+[16:21] So my recent COPD diagnosis, and then obviously we don't need this.
+[16:27] You don't need a comma here.
+[16:29] And that's the stuff you catch when you really pay attention, right?
+[16:33] Like there's no need for a short pause to be here.
+[16:37] So I'll just remove that.
+[16:37] So my recent COPD diagnosis taught me one thing.
+[16:41] And now when I read that, I also realized I want to highlight one.
+[16:46] And how do I do that?
+[16:47] I just do this.
+[16:48] Taught me one thing.
+[16:49] When it comes to the air you breathe, you can't afford to compromise.
+[16:53] You can't.
+[16:54] Now let's try to regenerate this with kind of new formatting.
+[17:03] My recent COPD diagnosis taught me one thing.
+[17:06] When it comes to the air you breathe, you can't afford to compromise.
+[17:08] Okay, this is not that good.
+[17:12] Let's try it this way and regenerate again.
+[17:15] And like the reason why I don't like this take is because she just went through the sentence
+[17:20] without any emphasizing on the words, without any positive, and it sounded very robotic.
+[17:25] So I just want to make sure she actually has some emotion to it.
+[17:30] So I'll just regenerate again.
+[17:35] My recent COPD diagnosis taught me one thing.
+[17:39] When it comes to the air you breathe, you can't afford to compromise.
+[17:42] Okay, this is already a lot better.
+[17:45] But I feel like she can exaggerate some stuff a bit more.
+[17:50] So I'll just try to kind of have style exaggeration at 25% and see if we get some better results.
+[18:01] If she actually emphasizes these words a bit more.
+[18:13] My recent COPD diagnosis taught me one thing.
+[18:17] When it comes to the air you breathe, you can't afford to compromise.
+[18:22] Perfect.
+[18:22] This is exactly what I was looking for.
+[18:24] So now you see when I increased style exaggeration a bit more, she specifically highlighted one and can't.
+[18:32] And I'll play it again so you can hear it again.
+[18:36] My recent COPD diagnosis taught me one thing.
+[18:40] When it comes to the air you breathe, you can't afford to compromise.
+[18:44] Perfect.
+[18:45] This is exactly what I need.
+[18:47] And then let's generate this one.
+[18:48] I tried humidifier after humidifier hoping for relief.
+[18:55] Cool.
+[18:56] That's perfect.
+[18:58] Just hit convert chapter, hook to convert.
+[19:02] And then you'll be able to download it.
+[19:08] Cool.
+[19:09] Let's download it.
+[19:11] And I'll play it so we can hear how it sounds like when it's, you know, pieced together.
+[19:16] My recent COPD diagnosis taught me one thing.
+[19:20] When it comes to the air you breathe, you can't afford to compromise.
+[19:24] I tried humidifier after humidifier hoping for relief.
+[19:28] Cool.
+[19:30] Then we want to generate hook three.
+[19:33] We'll do the same thing.
+[19:42] So we make a hook three.
+[19:45] Cool.
+[19:46] Cool.
+[19:57] So now I don't want to do the same things again.
+[20:02] But basically I already see I need to do this.
+[20:07] So living with chronic brinkitis taught me one thing.
+[20:10] Again, I want to highlight this again.
+[20:12] So one in all caps.
+[20:14] The air in your home can either heal you or harm you.
+[20:18] For years I tried, I tried humidifier after humidifier.
+[20:21] Okay.
+[20:22] Let's actually see how this sounds like.
+[20:25] Living with chronic bronchitis taught me one thing.
+[20:34] The air in your home can either heal you or harm you.
+[20:38] For years I tried humidifier after humidifier, desperately trying to find relief.
+[20:43] Cool.
+[20:43] This is perfect.
+[20:44] So again, you just go to convert and download it.
+[20:48] Right.
+[20:49] And now let's actually generate the entire voiceover that we have here.
+[20:56] So let's just do hold.
+[21:03] Cool.
+[21:05] Oops.
+[21:05] That didn't copy over it seems like.
+[21:08] So we have copy.
+[21:12] Boom.
+[21:13] And then we also have some CTA.
+[21:16] We can do that together.
+[21:19] Copy.
+[21:20] Cool.
+[21:23] We need to.
+[21:24] I don't know why it keeps choosing this other voice.
+[21:27] But I want to use this one.
+[21:28] CarePod Mama.
+[21:30] But those cheap humidifier.
+[21:32] But those cheap ones.
+[21:33] Everyone's right for Amazon.
+[21:34] Okay.
+[21:36] Let's just actually generate the whole thing.
+[21:39] We'll listen to it.
+[21:40] And then we'll see if it's good to go.
+[21:42] Or if we actually need to.
+[21:44] You know.
+[21:44] Change some stuff.
+[21:45] So I'll just generate.
+[21:47] And wait a bit.
+[21:48] Okay.
+[21:49] It's generated.
+[21:50] I'll just play it now.
+[21:51] So you can.
+[21:52] But those cheap ones.
+[21:52] Everyone tries from Amazon.
+[21:54] They just became breeding grounds for mold and bacteria.
+[21:57] I was constantly replacing filters.
+[21:59] Scrubbing parts.
+[22:01] And still the air felt musty.
+[22:02] And the symptoms lingered.
+[22:04] That's when I found CarePod.
+[22:06] A humidifier designed by a doctor for his own family.
+[22:10] Unlike standard humidifiers that can trap harmful bacteria.
+[22:14] CarePod is 99% sterilizable.
+[22:16] You can actually boil to ensure it's completely clean.
+[22:20] No endless filter replacements.
+[22:22] No hidden mold.
+[22:23] Exactly what I've been searching for.
+[22:26] Short pause in VO.
+[22:27] Breathing clean.
+[22:28] Hydrated air isn't a luxury.
+[22:31] It's essential.
+[22:32] Clearly I'm not the only one who thinks so.
+[22:35] Thousands of people have upgraded to the world's cleanest humidifier.
+[22:39] Get yours today and start breathing easier.
+[22:41] Okay.
+[22:42] So obviously first thing I want to do.
+[22:44] So I think like this first part was okay.
+[22:48] Even this.
+[22:49] But obviously we need to again connect some parts.
+[22:53] Because they just sound disjointed and disconnected.
+[22:56] And you can see now how if you just like if you just you know if you got this brief from your team whatever.
+[23:04] And just paste.
+[23:05] You just copy and pasted this inside.
+[23:07] And you hit generate.
+[23:08] And you use that.
+[23:10] It would be a fucking disaster.
+[23:11] So that's why I need to you know take a bit more time.
+[23:14] Go through this.
+[23:15] Regenerate a couple of times until you really get it get it sounding perfect.
+[23:19] That's that's really the key when you when you generate generate voice source.
+[23:24] So I'll just kind of fix this a bit.
+[23:27] And then I'll I'll pause and then I'll show you what I what I did.
+[23:32] Okay I just realized I should probably comment as I do these changes so you can so you can keep track of what I did and why I did it.
+[23:42] So as I said this part was was pretty good.
+[23:46] And then and then I have this part that's when I found care pod a humidifier designed by a doctor for his own family.
+[23:52] So here I would like to add I will add an exclamation mark at the end just because I want this sentence to have a bit more energy.
+[24:01] And you do that by just adding an exclamation mark at the end.
+[24:05] And then you have this unlike standard humidifiers that can trap harmful bacteria care pod is 99% sterilizable.
+[24:11] I also want that to be a bit more emphasized.
+[24:14] So add exclamation mark instead of dot at the end.
+[24:17] And then I want to add this in the same section.
+[24:20] So I just move it up there.
+[24:22] You can actually boil it here.
+[24:25] We miss it.
+[24:25] You can actually boil it to ensure it's completely clean.
+[24:28] This is good.
+[24:29] And then we have no endless filter replacements, no hidden mold, exactly what I've been searching for.
+[24:35] And now you probably, if you're using 11labs for the first time, this looks perfectly fine to you.
+[24:42] But I just know this will sound, actually we can generate this, like just this line.
+[24:49] So I can show you the difference.
+[24:50] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[24:58] So when you have dots in between and, you know, she's kind of counting something, she's listing some things, you know, no endless filter replacements, no hidden mold, exactly what I've been searching for.
+[25:10] And if you have dots in between, it'll again be disconnected.
+[25:13] So what I want to do here actually is I want to add a comma.
+[25:17] I want to add a comma here.
+[25:19] So no endless filter replacements, no hidden mold.
+[25:21] And then I'll add a dash here, exactly what I've been searching for.
+[25:26] And I'll add an exclamation mark.
+[25:28] And I'll even highlight this, exactly what I've been searching for.
+[25:32] And now I'll hit regenerate.
+[25:34] And we should get a lot better results.
+[25:36] And it won't be emotionless.
+[25:39] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[25:43] Okay, I still don't like this part.
+[25:45] So I'll just hit regenerate again.
+[25:53] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[26:00] Okay, this just feels weird.
+[26:02] So I'll regenerate again and hope third time is our lucky one.
+[26:09] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[26:16] Okay, now she just emphasizes this too much, which I don't like.
+[26:22] So let's just see how this feels like, exactly what I've been searching for.
+[26:25] Let's regenerate.
+[26:26] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[26:36] I don't like it.
+[26:37] But that's the point.
+[26:39] That's really what you got to do when you're generating voiceovers.
+[26:43] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[26:48] Yeah, this is a bit better, but I think we can leave it as is.
+[26:54] But the point is, you really want to make sure it doesn't sound emotionless.
+[26:59] Because if it doesn't have any emotion in it, it just sounds like AI, basically.
+[27:04] That's the whole thing.
+[27:05] So here, for some reason, our copywriter put in short pause in voiceover.
+[27:09] We can just remove that.
+[27:12] Or what you can do if you...
+[27:15] So for example, if you want to have a short pause, you can add...
+[27:19] You just hit here, insert break.
+[27:21] And then you can change...
+[27:22] I don't know, you can have five seconds or three.
+[27:24] Oh, I think three is actually the most.
+[27:27] Yeah.
+[27:27] So we can have one, two, or three seconds.
+[27:30] And then you'll have a pause here.
+[27:33] You can do it like...
+[27:34] You can do it here, right?
+[27:35] So anywhere you want to add pause in your script for whatever reason, you can do that by using this.
+[27:43] And then again, for this part, pretty clean, hydrated air isn't a luxury.
+[27:49] Doesn't make sense for this to be in another section.
+[27:53] So I'll move it here.
+[27:54] I'll remove the dot.
+[27:56] And I'll just add the comma.
+[27:58] It's essential, right?
+[28:01] And then, clearly, I'm not the only one who thinks so.
+[28:04] So I'll just move this up here.
+[28:07] And instead of three dots, I'll add a dash.
+[28:10] Thousands of people have upgraded to World's Clean Simitifier.
+[28:13] Get yours today.
+[28:15] And start reading easier.
+[28:17] I'll add an exclamation mark.
+[28:19] And now I'll just hit generate for the whole script.
+[28:22] And I'll pause and I'll show you the final result.
+[28:27] Okay, so one other thing I did.
+[28:29] And this is definitely something you should be doing as well.
+[28:32] So at the end, so I listened to the whole script.
+[28:36] And it was good.
+[28:36] And then, like, right around here, it started really sounding like she's just listing things.
+[28:44] And again, it didn't have any emotion to it.
+[28:46] And it just didn't flow naturally.
+[28:48] So what I did, so she's like, no endless filter replacements.
+[28:51] No hidden mold.
+[28:52] Exactly what I've been searching for.
+[28:53] Breathing clean, hydrated air.
+[28:55] Breathing clean, hydrated air isn't a luxury.
+[28:58] It's essential.
+[28:59] Clearly, I'm not the only one who thinks so.
+[29:01] So it just sounded unnatural.
+[29:04] And so just what I did is breathing clean, hydrated air isn't a luxury.
+[29:09] It's essential.
+[29:10] And clearly, I'm not the only one who thinks so.
+[29:13] Right?
+[29:13] I just added and.
+[29:15] And you can definitely do that sometimes, like, at the beginning of sentences or at the end or whatever.
+[29:22] Add these kind of words that sound natural and that people usually say.
+[29:27] Like, this script doesn't have to be perfect.
+[29:30] Like, if it has, you know, some mistakes or if it has some spelling issues or something like that, that's even better because it makes it more authentic.
+[29:40] Like, our goal is not perfect here.
+[29:42] Our goal is organic, authentic, real, basically.
+[29:45] And people make mistakes when they speak all the time.
+[29:47] Right?
+[29:49] And basically, so I just added and here.
+[29:52] And here I added so.
+[29:55] Because people just do that.
+[29:57] And that's natural.
+[29:58] So, like, it's just, I won't regenerate again.
+[30:06] But basically, adding and so, maybe because, stuff like that, at the beginning or end of your sentences, definitely helps to keep the script flowing more naturally, basically.
+[30:19] So, I'll just, I think I need to regenerate again because I just, these changes and then it should be ready to go.
+[30:30] But those cheap ones everyone tries from Amazon.
+[30:32] They just became breeding grounds for mold and bacteria.
+[30:35] I was constantly replacing filters, scrubbing parts, and still the air felt musty and the symptoms lingered.
+[30:42] That's when I found CarePod, a humidifier designed by a doctor for his own family.
+[30:47] Unlike standard humidifiers that can trap harmful bacteria, CarePod is 99% sterilizable.
+[30:54] You can actually boil it to ensure it's completely clean.
+[30:58] No endless filter replacements, no hidden mold, exactly what I've been searching for.
+[31:03] Breathing clean, hydrated air isn't a luxury.
+[31:06] It's essential.
+[31:07] And clearly, I'm not the only one who thinks so.
+[31:09] Thousands of people have upgraded to the world's cleanest humidifier.
+[31:14] So, get yours today and start breathing easier.
+[31:16] Okay, cool.
+[31:18] And I think this sounds perfect.
+[31:21] And now you see, basically, the, I should have generated, I'll actually do this.
+[31:28] So, I'll convert chapter, hold.
+[31:32] Yeah, so what I wanted to do is actually generate a voiceover with just this and then generate a voiceover with, you know,
+[31:40] when you, when I enhanced the script and when I, you know, did all these changes.
+[31:45] But I realized we're actually 30 minutes in this video.
+[31:49] And I planned for this to be like 20 minute loom max.
+[31:54] So, I should get brought to speed here.
+[31:56] But I think this is very important because a lot of people come to me and they're like,
+[32:02] dude, I can't generate, you know, good AI voiceovers.
+[32:06] They always sound like AI.
+[32:07] And, of course, you can't because you, like, you don't take the time.
+[32:13] Like, just take five minutes to actually pay attention and actually try to think how this should be pronounced
+[32:19] and how this should sound like.
+[32:21] And you'll have no issues.
+[32:24] Like, usually it's a skill issue.
+[32:26] That's what I tell everyone.
+[32:28] Like, you're just not paying enough attention.
+[32:30] It's not that hard.
+[32:31] But you can't expect to, you know, just generate a script with Claude or with ChatGPT.
+[32:38] Just, and just, like, copy paste it into 11 labs, hit generate, and the work is done.
+[32:43] Like, it's not like that.
+[32:44] As you saw just earlier, you definitely need to, you know, take a lot of things into consideration
+[32:50] when generating voiceovers.
+[32:51] So these are kind of all the tips that I had for, you know, kind of enhancing the script
+[32:58] when you transfer it over to 11 labs.
+[33:00] And now I'll actually show you another example.
+[33:04] So this is for another client, as I said.
+[33:07] And basically, here we have this ad that's working well.
+[33:12] So hook and hold rate for this ad is just, this is like a snippet from a brief that we sent to creators
+[33:19] and, to editors.
+[33:21] And, like, this is what editors get, essentially.
+[33:24] But they also get, like, a lot of information around it.
+[33:28] And for simplicity reasons, I just wanted to keep this super clean and, like, just have the script part here.
+[33:35] But for this brief, I also copied over the ideation ad concept.
+[33:42] And basically, you can see hook and hold rate for this ad is just insane.
+[33:47] There's ad linked.
+[33:49] And then it talks about what's going on in the ad.
+[33:51] But basically, what we wanted to do is try to replicate the success of the original ad.
+[33:59] And the way we can do that is we can have her voiceover, basically.
+[34:05] We can clone her voiceover.
+[34:07] And the way we do that is, I'll just show you now.
+[34:10] So this is the ad.
+[34:11] So I just download the video.
+[34:16] Go here, download the video.
+[34:18] Boom.
+[34:21] Go back here.
+[34:23] I go to 11 labs.
+[34:25] I go to voices.
+[34:26] I already have this voice generated.
+[34:28] It's this one that's been nagging me the whole video.
+[34:32] So I'll just delete it and try to show you how to do it yourself.
+[34:37] So basically, you go to your library.
+[34:42] You go to voices, my voices, add a new voice.
+[34:45] And then you go to instant voice clone.
+[34:48] Boom.
+[34:49] Honeypacks female test.
+[34:53] And here you upload either a video or an mp3 file or .wav or whatever.
+[35:01] So like video or audio file, it has to be less than 10 megabytes.
+[35:05] So you do that.
+[35:07] And then you can take this.
+[35:10] Or you don't have to.
+[35:11] So if your audio is not like the greatest quality, if your audio is not the best, you can hit this.
+[35:20] I think I don't have to because I think her...
+[35:22] You're feeling a little nasty tonight.
+[35:23] You feel like you want to go a little further.
+[35:26] Her voiceover doesn't have any background noise or anything like that.
+[35:29] So I don't need to hit this.
+[35:31] And then you can explain.
+[35:34] So this is, I'd say, young African-American female voice.
+[35:42] Like you can add some description.
+[35:45] You don't have to do it, but it probably helps.
+[35:47] So I do it.
+[35:48] Hit add voice.
+[35:49] And it will basically replicate the voice.
+[35:56] Cool.
+[35:56] So now we go to studio again.
+[35:59] Start from scratch.
+[36:02] Create.
+[36:02] Perfect.
+[36:03] For this one, we just need...
+[36:13] So first we need the name.
+[36:15] Honeypacks.
+[36:16] Cool.
+[36:17] We need hook1.
+[36:22] We go here.
+[36:24] Boom.
+[36:25] I think I need to choose the voice first.
+[36:32] I don't know what's going on.
+[36:33] Okay, there it is.
+[36:34] It's kind of bugging in a bit.
+[36:36] And so for this, we want to use...
+[36:40] So we named it Honeypacks.
+[36:48] There's no Honeypacks.
+[36:49] Okay, 11 Labs was bugging in there for a bit.
+[36:52] I don't know why.
+[36:53] It wouldn't find Honeypacks.
+[36:55] So I had to refresh a couple of times.
+[36:58] So again, I'll just clean this up.
+[37:00] I have a confession.
+[37:01] I was born.
+[37:03] I'll just do this.
+[37:05] I was born of the same old with my man.
+[37:08] So I slipped some of this into my man's drink last night.
+[37:14] Let's just say...
+[37:17] I'll never underestimate him again.
+[37:22] So I might be a bit weird, but that's what I like to do.
+[37:26] And that's what the team does as well.
+[37:30] Like when we generate voiceovers, we are kind of used to kind of reading them.
+[37:37] Because it helps you kind of, you know, not visualize, but like...
+[37:41] I don't know the word, but it helps you understand how it should sound like, basically.
+[37:48] So I'll just generate now without changing any of these here.
+[37:52] So you can hear how it sounds like if you don't play around with any metrics here or parameters, whatever.
+[38:00] I have a confession.
+[38:01] I was born of the same old with my man.
+[38:03] 
+[38:11] Okay, this is not bad.
+[38:13] I'll play it.
+[38:15] I have a confession.
+[38:16] I was born of the same old with my man.
+[38:18] So I slipped some of this into my man's drink last night.
+[38:22] And let's just say I'll never underestimate him again.
+[38:25] Okay, so some things I want to do.
+[38:28] I want to kind of change this a bit.
+[38:31] Not too drastically.
+[38:32] But like have it maybe like this.
+[38:36] And then have this like...
+[38:39] Yeah, let's do 15.
+[38:41] And here, I think...
+[38:43] So she mentions my man here.
+[38:45] And then she mentions my man's drink.
+[38:47] So I think it would be enough.
+[38:49] So I have a confession.
+[38:50] I was born of the same old with my man.
+[38:52] So I slipped some of this into his drink last night.
+[38:55] His drink last night.
+[38:56] Let's just say I'll never underestimate him again.
+[38:58] So let's hit generate now.
+[39:00] Okay, and this already sounds a lot better.
+[39:05] I have a confession.
+[39:06] I was born of the same old with my man.
+[39:08] So I slipped some of this into his drink last night.
+[39:11] And let's just say I'll never underestimate him again.
+[39:15] Cool.
+[39:15] So that's pretty much it.
+[39:18] And it sounds a lot better than it did originally.
+[39:22] And now we just do the exact same thing that we did for the first script.
+[39:27] For this script, basically.
+[39:29] That's how we do it.
+[39:30] And I have one other tip at the end.
+[39:34] So if you want to clone someone's voice, but there's like music over it and you can't extract a voice,
+[39:42] there's this website called vocalremover.org.
+[39:45] And you can basically upload a video or audio file here and remove music from any video and just get left with a voiceover.
+[39:57] It works really great.
+[39:58] It saves our asses a couple of times.
+[40:01] So I definitely recommend using it.
+[40:03] So I recommend using it.
+[40:04] If you want to clone some voices, but music is in the way, you can remove the music here.
+[40:10] Like it's very simple interface.
+[40:13] Let me actually show it now.
+[40:15] So what I did is I uploaded this video.
+[40:18] If you have a humidifier at home, let me mind.
+[40:21] You know, when you're humidifier starts getting all gross and you can't.
+[40:24] And then if we go here.
+[40:29] So you can either get only music or if we turn down the music and turn up the vocal.
+[40:35] Starts getting all gross and you can't really clean it properly.
+[40:38] Well, someone finally made one out of stainless steel, like actual stainless steel.
+[40:42] So it's not like 100% perfect, but it really does the job.
+[40:47] And it's good.
+[40:49] It's free.
+[40:50] So just wanted to share that useful tool.
+[40:54] So that's pretty much it.
+[40:56] That's how you generate AI voiceovers.
+[40:59] And I do apologize for making this video 40 fucking minutes.
+[41:03] That was not my intention.
+[41:05] But I did want to cover this in as much detail as possible.
+[41:09] Because we made a dozen of ads, winning ads that made a lot of money for our clients with just AI voiceover and product B-roll.
+[41:21] Like no creators, no custom scripts, no custom footage, nothing.
+[41:26] Just like taking any content that the brand already has, you know, generating some script with AI, adding B-roll on top of it.
+[41:36] Like without, you know, any custom footage, we just took what they already had, generated voiceover, boom, a winning ad.
+[41:43] And the key factor in all of that is that AI voiceover has to sound authentic and it has to sound real.
+[41:50] And if you actually do all of these things that I just covered in this video, you will definitely be ahead of everyone else that just copies and pastes scripts into 11labs and hopes for the best.
+[42:05] So, yeah, that's pretty much it.
+[42:07] Yeah, voiceovers.
+[42:08] Thank you.
+[42:09] Thank you so much.

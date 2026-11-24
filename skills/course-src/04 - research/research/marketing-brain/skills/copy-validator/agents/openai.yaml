@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Validator"
+  short_description: "Hard-check ad copy against specs"
+  default_prompt: "Use $copy-validator to validate Marketing Brain copy outputs against deterministic specs for length, structure, CTAs, product claims, image prompt rules, prices, and --extreme labels."

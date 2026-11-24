@@ -1,0 +1,7 @@
+# The library's shared Python, made once for every skill (see SKILL.md "Setup once"):
+#   python3.12 -m venv ~/.venvs/agentchad && ~/.venvs/agentchad/bin/pip install -r requirements.txt
+numpy
+scipy
+soundfile
+pillow
+faster-whisper

@@ -1,0 +1,257 @@
+[00:00] Hello guys, today I'm going to explain briefly how I'm using the research and copywriting project
+[00:06] I did with Cloud, Codex and Gemini on anti-gravity.
+[00:12] We will use three tools.
+[00:14] The reason for that is I found that Codex is really good at researching.
+[00:21] Cloud and Gemini are really good at making copy.
+[00:24] I don't know, for some reason Codex, I don't know what happened.
+[00:26] It changed and the copy sounds like shit.
+[00:28] But what I'm doing with Gemini and Cloud, it needs very little improvements.
+[00:36] So what I'm doing is, I created a project, which I will show you how to download or put a link.
+[00:45] And you will download it as a zip file and you will unzip that file on your PC.
+[00:50] And when you install the Codex app, you will connect with your ChatGPT account.
+[00:55] And you need to go here on the Projects app.
+[00:59] Go here, add new project and use an existing folder.
+[01:02] You will use that folder, which name is Research.
+[01:06] And that way, ChatGPT will have access to your folder.
+[01:10] I'm giving it full access, so it has even access to my desktop, to my downloads.
+[01:15] But I didn't have any issues till now.
+[01:19] And let me explain you how the folder looks like.
+[01:24] Here is an extension I installed on ChatGPT.
+[01:29] It's not necessary for you to install.
+[01:31] It helped me to create some tests and some skills for the AI agents.
+[01:34] Also, this one is connected to this.
+[01:37] So these two you really don't need to see.
+[01:42] What's the most important part is the marketing brain and these three.
+[01:47] This agent.md works with Codex.
+[01:51] This cloud.md works more with cloud.
+[01:53] So on the marketing brain, we have some folders, which are very important to our agent.
+[01:59] The main folder is the products folder, where you will list all of your products.
+[02:07] If you're running Affiliate, or if you have e-com, or if you have different stores, let's say,
+[02:11] you will list all your products here.
+[02:13] We'll do this all with AI, but you can basically create a simple folder, put all your winning ads,
+[02:20] copy, put all your landing pages, and basically do the research after.
+[02:24] But if you don't have anything, you can do the research directly with Codex, and it will create the folder for you.
+[02:33] The second folder is the references, which I put some of the best books on direct response,
+[02:39] copywriting, analysis, and everything else that's needed for DTC marketing space.
+[02:46] So what actually you can do is you can add more things or more frameworks, more templates to this project
+[02:55] and make it to work better for your brand.
+[02:58] Because this is kind of more for me as an affiliate, because I have a lot of products that I run.
+[03:07] I have, let's say, I want to run native ads, I want to run scripts, and I basically took some books,
+[03:15] and that match my offers, let's say.
+[03:20] But you can do, for example, you can add whatever things you want to the references.
+[03:24] If you have, for example, let's say you have a winning ad script, you have winning ad template,
+[03:29] you have winning hooks, you have winning landing page copy, that's, you can add whatever you have advantage on, for example.
+[03:38] So this is it.
+[03:40] And the control library is a file with some winning ads and some proven ads to work.
+[03:50] So what you can do is tell Codex to update the control library with your own winning ads.
+[03:59] For example, you say you upload 10 to 15, 20 files and say, okay, read all of these files
+[04:04] and make sure you update the control library with my own winning ads.
+[04:07] So basically, you change the patterns, you change the videos and the scripts that this file is based on.
+[04:17] That's for references.
+[04:18] Now we will go into the scripts.
+[04:20] This one is more for testing.
+[04:23] It will show your result.
+[04:24] This, if the copy follows the rules or no, this is where the testing happens.
+[04:30] It's validating, basically.
+[04:31] And the most important part is the skills.
+[04:34] We have a lot of skills here, which are enough, but also there's missing landing page copy,
+[04:42] there's missing product page copy.
+[04:43] And basically, you can add that by giving your own landing pages, as I said, and telling him, learn how they are made and make me a skill that will follow these rules, blah, blah, blah.
+[04:54] And you will just create a skill.
+[04:56] So we have here an angle factory.
+[04:58] We will generate angles for you.
+[05:00] Archetype is when you cluster.
+[05:03] For example, let's say, for example, if you want to target an avatar.
+[05:09] You first start to investigate or to research.
+[05:16] What are they saying online?
+[05:18] What's their awareness stage?
+[05:20] And everything like that.
+[05:22] But the archetype is, I don't know how familiar you are with AI, but clustering is used more on AI when they group something similar.
+[05:31] For example, the awareness stage, the belief stage, the market segment, objection, desire, all of that becomes one group for you to generate angles from that.
+[05:43] So that's basically what's clustering and what's an archetype.
+[05:47] So think of it as a group of awareness stages, belief states, market segments, objection, desires, and avatar maps.
+[05:54] So basically, you will generate angles from that archetype.
+[05:59] So this one does that.
+[06:02] That's what I told.
+[06:04] We have control intelligence, which we'll use to deconstruct our winning ads.
+[06:11] We have copy validator, which validates the copy.
+[06:14] We have the scoring part for creatives.
+[06:17] This one does more in-depth research about your product.
+[06:21] We have this one that will generate you Facebook ad copy.
+[06:24] This one is doing an internet research about your avatar.
+[06:30] This one is for doing long-form statics that I shared on the static ads channel on Discord.
+[06:39] It's basically like a native ad image with a long-form copy.
+[06:43] That's more for unaware stage.
+[06:50] Market pressure, native image prompt.
+[06:53] We have the skill here, which will generate your native images prompt for JetGPT images.
+[06:58] So you basically copy the prompt, go to JetGPT and paste it.
+[07:02] The offer diagnosis.
+[07:04] Here you check the offer.
+[07:06] Scaling spiral.
+[07:06] You will use this one to create more variations of a winning ad.
+[07:12] So you basically work around a winning angle and you generate more winning ads, let's say, by this one.
+[07:19] And here we have also the UGC video script, which will help us create UGC scripts.
+[07:26] This one is, it will give you two ways of generating.
+[07:33] You can do creator brief.
+[07:36] If you're working with creators, you can just create a brief for them, what to talk.
+[07:40] But you also have a full script and AI talking head script, which will generate the full words that will be spoken either by a human or by AI.
+[07:50] And yeah, these are the folders.
+[07:55] You can read, not all of them, but you can read the purpose and the description and you will understand what are they are.
+[08:01] Now, the first step that we will do is create a new product folder.
+[08:07] You can either do it manually or you can do it.
+[08:10] If you want to do it manually, you can go here on templates, product package, just copy this and put it here and update your info.
+[08:20] But I actually like to do it with codex because it's good at researching.
+[08:27] It reads all your website.
+[08:30] It checks prices.
+[08:31] It checks discount and everything like that.
+[08:34] So I will give you this starting prompt, which you will use inside the research folder.
+[08:40] And I say, help me create a new product packet for product.
+[08:44] And we put here, you can see the products folder.
+[08:47] And we say, I want to do deep research into what my avatar, blah, blah, blah.
+[08:52] Right now I'm getting strong ROAS from this type of ads or that type of ads, blah, blah, blah.
+[08:59] And we also say, follow all project rules and make sure everything's done correctly.
+[09:03] Analyze in detail.
+[09:04] Help me find what we need.
+[09:06] And here's my website.
+[09:07] You can put your website.
+[09:08] And if you're running to landing pages, you can say, here are my landing pages where I will send traffic to using the ad landing page, product page strategy.
+[09:15] And you put the link here.
+[09:16] So let's say, here's my website for the product.
+[09:20] I need to say, go.
+[09:21] Now it will analyze online.
+[09:28] It will check Reddit.
+[09:29] It will check forums.
+[09:30] It will check a website that have done petitions online or in person to find about your product, let's say.
+[09:40] Now, if you want to use cloud or anti-gravity, you can either try to use even codecs for copywriting, but I didn't like the copy.
+[09:48] Now I'm using anti-gravity for more extreme.
+[09:53] Also using cloud if the offer doesn't have any weight loss or something.
+[09:57] These issues that cloud refuses to help us with.
+[10:04] So, for example, we have, let's say, we want to create some native ads together with Facebook ad copy.
+[10:12] And we say, help me create some native ads top of the funnel together with Facebook ad copy for product.
+[10:18] And you list your product name here.
+[10:21] We say, follow all the rules on the project and the correct workflow skill needed correctly.
+[10:25] And basically, cloud will follow all the workflows needed.
+[10:30] And we'll use the correct archetype for it or the angles.
+[10:33] And basically, like, generate you.
+[10:36] You can say, however, generate me create five, let's say.
+[10:40] And it will create five.
+[10:41] As we see here, ChatGPT is using the skills.
+[10:47] It uses the templates.
+[10:48] So, it analyzes for product.
+[10:52] Here on cloud, as I told you guys, let's say I have a product.
+[10:56] Oral vaginal probiotic.
+[11:05] We also, I also put flags.
+[11:08] Let me check a second.
+[11:11] We have the extreme flag, which will fully, not fully disregard, but disregard the claims.
+[11:22] So, for example, a claim is you cannot claim that you cure cancer, let's say.
+[11:26] But if we use extreme, it will be semi-aggressive.
+[11:33] For example, it will be semi-aggressive.
+[11:36] It will not be, the copy will not be that safe.
+[11:39] But we also have a new flag, which is...
+[11:45] We have the flag unrestricted, which will...
+[12:00] Which will...
+[12:04] It will not care about claims.
+[12:07] It will do the most aggressive copy.
+[12:08] But I use this one only with Gemini because it doesn't care.
+[12:12] But cloud sometimes, even when using this flag, it's avoiding it.
+[12:15] And so, we can do here.
+[12:16] We can put honor this flag 100%.
+[12:21] As we can see, Codex is searching for Reddit.
+[12:27] You can see.
+[12:28] It's searching sites.
+[12:30] Trustpilot.
+[12:31] FTC.
+[12:32] Target.
+[12:33] It's checking.
+[12:35] Here you have Reddit.
+[12:39] I mean, pages.
+[12:40] You can put even more pages to check.
+[12:42] You can put forums.
+[12:43] You can put ads that you've copied from ads library.
+[12:49] But if you want to connect with ad library, you can do it with a meta ads library or get hooked.
+[12:54] Okay.
+[12:55] As this research, we see what's cloud doing.
+[12:57] So, clouds goes, reads, the required context.
+[13:03] This one basically makes sure when doing things, we load all of the necessary skills that we need to create.
+[13:12] Copy.
+[13:20] So, in order to create scripts or UGC scripts,
+[13:24] I like to use Gemini and Cloud more than Codex, as I told you before.
+[13:30] And I like to put like this one, but you can improve it.
+[13:34] You can add more context to it.
+[13:36] So, as long as it has a good context here, you will have pretty good copy.
+[13:41] I say now I need you to create me one script for the best angle of EuroVaginal Propotic.
+[13:47] Make sure it's a crazy story time script with a lot of plot twists and the product is introduced way later on.
+[13:51] So, it's kind of like the yapping ad on TikTok that you see.
+[13:55] And we go use this skill.
+[13:57] We go here.
+[13:58] We select the skill.
+[13:59] For this product, we say EuroVaginal.
+[14:05] And we select the folder here.
+[14:08] And we just put continue.
+[14:10] We just select Gemini 3.1.
+[14:12] So, now we have the...
+[14:19] We have the native zads that Cloud brought to us.
+[14:28] Yeah, so we have the angle is silent, shame, and clean with something off.
+[14:35] Tear is top of the funnel cold.
+[14:36] Emotional trigger is shame plus self-concept attack plus confusion.
+[14:40] So, here's...
+[14:43] You have the prompt here.
+[14:45] Just ignore this part.
+[14:46] Recommended size.
+[14:47] Just do one-to-one.
+[14:49] And you basically copy this prompt.
+[14:51] Go to ChatGPT.
+[14:52] Create image and select one-to-one ratio.
+[14:54] And it will give you the image.
+[14:55] And then you will have the Facebook ad copy.
+[15:01] Like if it's a C-sharp twice a day.
+[15:03] Still feel something off.
+[15:04] Nobody explains why.
+[15:05] Washing harder doesn't fix Browstone.
+[15:06] So, washing harder doesn't fix it.
+[15:10] Difference of doesn't fix it.
+[15:12] Center problem makes it wrong.
+[15:13] Because it's not a hygiene problem.
+[15:14] Bacterial balance problem.
+[15:15] Blah, blah, blah.
+[15:16] Light talks about the product.
+[15:18] These are the things.
+[15:23] Customers save.
+[15:24] First best selling.
+[15:25] And you can just delete this.
+[15:28] Because Cloud puts it even though I put extreme here.
+[15:31] So, that's basically how everything works.
+[15:36] If you can see, Codex is still running.
+[15:43] And Gemini is still running.
+[15:45] It's using all of these strats.
+[15:48] So, basically this is how it works.
+[15:50] So, you first create the product.
+[15:51] And then you use whatever skill for whatever reason you want.
+[15:55] Either you use it for native ads.
+[15:57] Either you use it for Facebook ads.
+[15:59] Either you use it for native image ads.
+[16:01] Either you use it for scripts.
+[16:04] Yeah.
+[16:05] So, just install Codex, Cloud and Antigravity.
+[16:09] And basically open the folder on all of them.
+[16:12] And there you have it.
+[16:13] But remember, if you need anything, you can ask on Discord.
+[16:17] And yeah, I tried to explain it the best.
+[16:22] And yeah, that's it.
+[16:24] Remember, this is not the final product.
+[16:26] You can always improve it.
+[16:28] Just ask Codex or Cloud Code to improve it.
+[16:31] And it will do it.
+[16:33] So, yeah.
+[16:33] Basically, this is how it works.
+[16:34] As you can see, if we generated this ourselves, we should upload context about the brand.
+[16:41] We should upload context about the ads.
+[16:43] We should upload what frame looks to follow.
+[16:46] But when we have its structure, it follows all of the files, all of the skills.
+[16:52] And it's writing it.
+[16:54] And it's really good to have.
+[16:56] And good to kind of test these kind of things.
+[16:59] Yeah, that's it.
+[17:01] If you need anything else or my explaining was not clear, please let me know.
+[17:08] See you guys.
+[17:09] Bye.

@@ -1,0 +1,6 @@
+#!/bin/bash
+# HyperFrames CLI pinned to 0.9.6 (tools/hyperframes), telemetry off. Usage: tools/hf <command> ...
+# Install once: (cd tools/hyperframes && npm install)
+export DO_NOT_TRACK=1 HYPERFRAMES_NO_TELEMETRY=1 HYPERFRAMES_SKIP_SKILLS=1
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$HERE/hyperframes/node_modules/.bin/hyperframes" "$@"

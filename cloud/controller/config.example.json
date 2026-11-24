@@ -1,0 +1,14 @@
+{
+  "app_prefix": "admachine",
+  "modal_cap_usd": "10.00",
+  "modal_stop_usd": "10.00",
+  "max_ads_per_submit": 24,
+  "kie_cap_per_ad": 1500,
+  "mac_min_free_gb": 3,
+  "slack_user_id": "",
+  "watch_every_s": 300,
+  "kie_pack_usd": 500,
+  "kie_pack_credits": 105000,
+  "claude_auto": false,
+  "claude_job_paid": false
+}

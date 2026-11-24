@@ -1,0 +1,70 @@
+{
+  "project": "Two-host reference (reproduces the proven chunk 6)",
+  "wpm": 165,
+  "chunkSeconds": 30,
+  "hosts": [
+    {
+      "id": "A",
+      "label": "Woman 1",
+      "image": "@image1",
+      "audio": "File 1",
+      "side": "left",
+      "persona": "has a curious, skeptical, slightly amused personality"
+    },
+    {
+      "id": "B",
+      "label": "Woman 2",
+      "image": "@image2",
+      "audio": "File 2",
+      "side": "right",
+      "persona": "knows the subject better but speaks casually, like telling a friend something surprising rather than performing an advertisement"
+    }
+  ],
+  "refs": [],
+  "chunks": [
+    {
+      "n": 6,
+      "beats": [
+        {
+          "host": "A",
+          "line": "That quickly, thats crazyy?"
+        },
+        {
+          "host": "B",
+          "line": "For me, that was when I started paying attention though."
+        },
+        {
+          "host": "B",
+          "line": "I'm not saying everybody is going to wake up looking like a different person for 1 night, but in couple of weeks for sure yes."
+        },
+        {
+          "host": "B",
+          "line": "But I finally understood why these women were taking, and why it actually really, really helps."
+        },
+        {
+          "host": "A",
+          "line": "Because you can actually see it in weeks?"
+        },
+        {
+          "host": "B",
+          "line": "Exactly..."
+        },
+        {
+          "host": "B",
+          "line": "And the hard part is when you've spent years feeling like your belly is the one place that refuses to change, then when you finally see your waist start moving in the right direction, it gets you even more motivated."
+        },
+        {
+          "host": "A",
+          "line": "See, that's crazy to me because whenever somebody says 'natural ingredients,' I immediately assume it's going to do nothing.",
+          "action": "laughs it off"
+        },
+        {
+          "host": "B",
+          "silent": true,
+          "reaction": "gives a knowing reaction with her mouth closed"
+        }
+      ]
+    }
+  ],
+  "cast": "women"
+}

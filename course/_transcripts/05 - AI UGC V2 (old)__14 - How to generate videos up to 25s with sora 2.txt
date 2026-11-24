@@ -1,0 +1,54 @@
+[00:00] Hello, I'm going to explain briefly how the system works, how the course basically works.
+[00:09] I know that I didn't do a video, but this will be an example on how we do it.
+[00:16] I created this Gemini gem with the latest update of Sora 2 that supports 25 seconds
+[00:23] videos.
+[00:24] I will explain how I import the videos and how I do all the things.
+[00:31] What I do is just I select the video and just click next here.
+[00:38] And Gemini does all the work if we did give them the instructions and the knowledge base
+[00:43] that it needs.
+[00:45] So it analyzes the video and gives us the full task.
+[00:49] Sometimes, like as I said in the course, Gemini forgets instructions.
+[00:56] It doesn't forget, but forgets to follow, as I can say.
+[01:01] So here we get like a detailed breakdown, the full script and everything else.
+[01:06] And what I like to do is just copy all of the response of the Gemini and give it to Cloud.
+[01:15] And Cloud generates me a better response.
+[01:18] I just do it like this.
+[01:20] I press continue and Cloud generates me only the new prompt.
+[01:27] So I give the Gemini response to our new project that we did with Cloud.
+[01:33] As you can see, like it gives me all like the the the prompt so I can upload it and generate
+[01:40] like a video.
+[01:41] I'm waiting for Cloud to generate it.
+[01:46] I'm waiting for Cloud to generate it.
+[01:55] Now we got scene one.
+[01:57] So this is the latest update, but you can do the same with with the earlier update for the
+[02:04] 15 second video.
+[02:06] So as we can see, like we got scene one, scene two, scene three.
+[02:21] And what I like to do is like copy for the newest update.
+[02:26] I copy until here.
+[02:28] Copy and paste it on the scene one.
+[02:33] And like I choose sometimes Gemini says it's 10 seconds.
+[02:40] So I'm going to do the video and see like if the script is OK and everything else.
+[02:44] But for the sake of the tutorial, I will do like here then.
+[02:48] And on the scene two, I will just copy the this action that Cloud generated.
+[02:55] Copy, go upload it here.
+[02:58] Change the seconds to 10 seconds.
+[03:01] And on the scene three, like we copy and generate like.
+[03:07] Same three.
+[03:10] I don't need scene four.
+[03:12] So here I choose 25 seconds.
+[03:16] I upload the the product image.
+[03:19] I found that PNG files don't work as good as files with a white background.
+[03:25] So make sure to try it with both.
+[03:27] But on all my videos, the files with white background are performing better than PNG files.
+[03:33] So transparent file.
+[03:35] And I choose here portrait and I hit run, for example.
+[03:39] Right now, key AI is having some overload, I think.
+[03:42] So maybe your video won't generate, but you won't lose credits.
+[03:48] And I don't know how they do it, but they have like 60% cheaper, cheaper prices than the official OpenAI platform.
+[03:57] So I don't know what's wrong.
+[03:59] So basically short, you copy this prompt and upload it here.
+[04:04] But the entire strategy works the same like if you use it for the earlier guide.
+[04:10] It was like for Sora 2 Pro or Sora 2 Pro Image 2 video.
+[04:15] That's it, guys.
+[04:17] Have fun and make money with AI UGC.
+[04:20] Bye.
